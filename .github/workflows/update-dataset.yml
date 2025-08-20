@@ -1,0 +1,25 @@
+name: Update AI Dataset
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # runs daily at 3am UTC
+  workflow_dispatch:       # lets you run it manually
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update dataset placeholder
+        run: |
+          echo '[{"status": "test run working"}]' > ai-dataset.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add ai-dataset.json
+          git commit -m "Auto-update dataset"
+          git push
