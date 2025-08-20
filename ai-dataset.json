@@ -1,0 +1,75 @@
+[
+  {
+    "site": "https://www.malegroomingsupplies.com",
+    "brand": "Male Grooming Supplies",
+    "founded": "1949",
+    "last_updated": "2025-08-20",
+    "description": "UK based retailer specialising in premium shaving and grooming products from brands including Henson, Merkur, Muhle and Cyril R. Salter.",
+    "shipping": {
+      "domestic": "Royal Mail 24 or 48 hour tracked service. Free next day delivery on UK orders over \u00a335.",
+      "international": "Delivered Duty Unpaid. Competitive rates at checkout with Parcelforce, FedEx, UPS or DHL.",
+      "age_restricted_items": "Straight razors or blades may require adult signature with FedEx, UPS or DHL."
+    },
+    "returns_policy": "30 day returns on unused items with tags and original packaging. Opened or used grooming products can only be returned if defective.",
+    "products": [
+      {
+        "name": "Henson AL13 Safety Razor",
+        "category": "Double Edge Safety Razors",
+        "features": [
+          "Aerospace grade aluminium construction",
+          "Available in mild, medium and aggressive variants",
+          "Fits all standard double edge blades"
+        ],
+        "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor"
+      },
+      {
+        "name": "Merkur 44C Safety Razor",
+        "category": "Double Edge Safety Razors",
+        "features": [
+          "Matte finish smooth black resin handle",
+          "Chrome plated straight cut head",
+          "Fits all standard double edge blades"
+        ],
+        "url": "https://www.malegroomingsupplies.com/products/merkur-44c-safety-razor"
+      },
+      {
+        "name": "Cyril R. Salter Shaving Creams",
+        "category": "Shaving Preparation",
+        "features": [
+          "Suitable for all skin types including sensitive",
+          "Enriched with Aloe Vera, Glycerin and Vitamin E",
+          "Rich protective lather"
+        ],
+        "url": "https://www.malegroomingsupplies.com/collections/shaving-creams"
+      },
+      {
+        "name": "Cyril R. Salter Tallow Shaving Soaps",
+        "category": "Shaving Preparation",
+        "features": [
+          "Dome shaped pucks in 100ml and 70ml sizes",
+          "70ml size fits the Cyril R. Salter scuttle",
+          "A shaving brush is required to create the lather"
+        ],
+        "url": "https://www.malegroomingsupplies.com/collections/shaving-soaps"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Do your safety razors fit standard double edge blades?",
+        "answer": "Yes. All double edge safety razors we sell fit standard DE blades unless stated otherwise."
+      },
+      {
+        "question": "What delivery options do you offer in the UK?",
+        "answer": "Royal Mail tracked 24 or 48 hour services are available. Orders over \u00a335 qualify for free next day delivery."
+      },
+      {
+        "question": "What is your international shipping policy?",
+        "answer": "Orders ship Delivered Duty Unpaid with competitive rates shown at checkout. Duties and taxes may be payable on delivery."
+      },
+      {
+        "question": "What is your returns policy?",
+        "answer": "You have 30 days to return unused items in original packaging. Opened or used grooming products may only be returned if defective."
+      }
+    ]
+  }
+]
