@@ -22,15 +22,15 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Generate ai-dataset.json from Shopify
+            - name: Generate ai-dataset.json from Shopify
         env:
           SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
-          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}
+          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}  # maps secret → env var used below
           STORE_FRONT_URL: https://www.malegroomingsupplies.com
           API_VERSION: 2024-07
         run: |
           python - <<'PY'
-          import os, json, time, requests
+          import os, json, time, re, html, requests
           from datetime import datetime, timezone
 
           store = os.environ["SHOPIFY_STORE_DOMAIN"]
@@ -40,13 +40,25 @@ jobs:
 
           gql = f"https://{store}/admin/api/{api_ver}/graphql.json"
           headers = {"X-Shopify-Access-Token": token, "Content-Type": "application/json"}
+
+          # grab shop currency + products (title, vendor, description, image, collections, price)
           query = """
           query Products($cursor: String) {
+            shop { currencyCode }
             products(first: 100, after: $cursor, sortKey: TITLE) {
               edges {
                 cursor
                 node {
-                  title handle productType tags onlineStoreUrl status
+                  title
+                  vendor
+                  handle
+                  productType
+                  onlineStoreUrl
+                  status
+                  descriptionHtml
+                  featuredImage { url altText }
+                  collections(first: 5) { edges { node { title } } }
+                  variants(first: 1) { edges { node { price } } }
                 }
               }
               pageInfo { hasNextPage }
@@ -54,22 +66,59 @@ jobs:
           }
           """
 
-          products, cursor = [], None
+          def html_to_text(s: str) -> str:
+            if not s: return ""
+            s = re.sub(r"<(script|style)[\\s\\S]*?</\\1>", "", s, flags=re.I)
+            s = re.sub(r"<br\\s*/?>", "\\n", s, flags=re.I)
+            s = re.sub(r"</p\\s*>", "\\n", s, flags=re.I)
+            s = re.sub(r"<[^>]+>", "", s)
+            s = html.unescape(s)
+            s = re.sub(r"[ \\t\\x0b\\x0c\\r]+", " ", s)
+            s = re.sub(r"\\n\\s*\\n\\s*", "\\n", s).strip()
+            return s
+
+          # map ISO currency to symbol (add more if needed)
+          SYMBOLS = {"GBP": "£", "USD": "$", "EUR": "€"}
+
+          products, cursor, currency = [], None, "GBP"
           while True:
             resp = requests.post(gql, headers=headers, json={"query": query, "variables": {"cursor": cursor}}, timeout=60)
             resp.raise_for_status()
-            data = resp.json()["data"]["products"]
+            root = resp.json()["data"]
+            currency = root.get("shop",{}).get("currencyCode") or currency
+            data = root["products"]
+
             for edge in data["edges"]:
               n = edge["node"]
-              if n["status"] == "ACTIVE":
-                url = n.get("onlineStoreUrl") or f"{public}/products/{n['handle']}"
-                products.append({
-                  "name": n["title"],
-                  "category": n.get("productType") or "Products",
-                  "features": (n.get("tags") or [])[:10],
-                  "url": url
-                })
               cursor = edge["cursor"]
+              if n["status"] != "ACTIVE":
+                continue
+
+              # choose category: first collection title if present, else productType, else fallback
+              colls = n.get("collections",{}).get("edges",[])
+              category = (colls[0]["node"]["title"] if colls else (n.get("productType") or "Products"))
+
+              # price can be Money or string; normalise to "£12.34"
+              price_node = (n.get("variants",{}).get("edges") or [{}])[0].get("node",{})
+              raw_price = price_node.get("price")
+              if isinstance(raw_price, dict):
+                amount = raw_price.get("amount")
+              else:
+                amount = raw_price
+              symbol = SYMBOLS.get(currency, currency + " ")
+              price_str = f"{symbol}{amount}" if amount else None
+
+              url = n.get("onlineStoreUrl") or f"{public}/products/{n['handle']}"
+              products.append({
+                "name": n["title"],
+                "category": category,
+                "description": html_to_text(n.get("descriptionHtml") or ""),
+                "url": url,
+                "price": price_str,
+                "vendor": n.get("vendor") or None,
+                "image": (n.get("featuredImage") or {}).get("url")
+              })
+
             if not data["pageInfo"]["hasNextPage"]:
               break
             time.sleep(0.2)
@@ -83,9 +132,10 @@ jobs:
           }]
 
           with open("ai-dataset.json","w", encoding="utf-8") as f:
-            json.dump(payload, f, indent=2)
-          print(f"Wrote ai-dataset.json with {len(products)} products")
+            json.dump(payload, f, indent=2, ensure_ascii=False)
+          print(f"Wrote ai-dataset.json with {len(products)} products in {currency}")
           PY
+
 
       - name: Commit and push changes
         run: |
