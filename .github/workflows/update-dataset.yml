@@ -19,45 +19,41 @@ jobs:
         with:
           python-version: "3.11"
 
-- name: Install deps
-  run: pip install requests beautifulsoup4
+      - name: Install deps
+        run: pip install requests beautifulsoup4
 
       - name: Generate ai-dataset.json from Shopify
         env:
           SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
-          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}   # uses your existing secret
+          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}
           STORE_FRONT_URL: https://www.malegroomingsupplies.com
           API_VERSION: 2024-07
         run: |
           python - <<'PY'
           import os, json, time, re, html, requests
           from datetime import datetime, timezone
+          from bs4 import BeautifulSoup
 
-          # --- config from env ---
+          # --- env/config ---
           store  = os.environ["SHOPIFY_STORE_DOMAIN"]         # e.g. eb5945-66.myshopify.com
           token  = os.environ["SHOPIFY_ADMIN_TOKEN"]
           api_v  = os.getenv("API_VERSION","2024-07")
           public = os.getenv("STORE_FRONT_URL","https://www.malegroomingsupplies.com")
 
-          # --- endpoints / headers ---
           gql = f"https://{store}/admin/api/{api_v}/graphql.json"
           headers = {"X-Shopify-Access-Token": token, "Content-Type": "application/json"}
 
-          # --- helper: HTML -> plain text ---
+          # HTML -> clean text (prevents “missing letters”)
           def html_to_text(s: str) -> str:
-            if not s: return ""
-            s = re.sub(r"<(script|style)[\\s\\S]*?</\\1>", "", s, flags=re.I)
-            s = re.sub(r"<br\\s*/?>", "\\n", s, flags=re.I)
-            s = re.sub(r"</p\\s*>", "\\n", s, flags=re.I)
-            s = re.sub(r"<[^>]+>", "", s)          # drop all tags
-            s = html.unescape(s)
-            s = re.sub(r"[ \\t\\x0b\\x0c\\r]+", " ", s)
-            s = re.sub(r"\\n\\s*\\n\\s*", "\\n", s).strip()
-            return s
+            if not s:
+              return ""
+            txt = BeautifulSoup(s, "html.parser").get_text(separator=" ")
+            txt = txt.replace("\u00ad", "")        # remove soft hyphen that can hide letters
+            txt = re.sub(r"\s+", " ", txt).strip()
+            return txt
 
-          SYMBOL = {"GBP":"£","USD":"$","EUR":"€"}  # simple currency symbol map
+          SYMBOL = {"GBP":"£","USD":"$","EUR":"€"}
 
-          # --- GraphQL: include currency, description, featured image, collections, first variant price ---
           QUERY = """
           query Products($cursor: String) {
             shop { currencyCode }
@@ -96,19 +92,18 @@ jobs:
               if n["status"] != "ACTIVE":
                 continue
 
-              # category: first collection title, else productType, else fallback
+              # Category: first collection title -> productType -> fallback
               colls = n.get("collections",{}).get("edges",[])
               category = (colls[0]["node"]["title"] if colls else (n.get("productType") or "Products"))
 
-              # price: normalise to "£12.34"
+              # Price -> "£12.34" (or None)
               price_node = (n.get("variants",{}).get("edges") or [{}])[0].get("node",{})
               raw_price  = price_node.get("price")
               amount     = raw_price.get("amount") if isinstance(raw_price, dict) else raw_price
-              symbol     = SYMBOL.get(currency, currency+" ")
+              symbol     = SYMBOL.get(currency, currency + " ")
               price_str  = f"{symbol}{amount}" if amount else None
 
               url = n.get("onlineStoreUrl") or f"{public}/products/{n['handle']}"
-
               products.append({
                 "name": n["title"],
                 "category": category,
