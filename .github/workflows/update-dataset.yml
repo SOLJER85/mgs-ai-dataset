@@ -1,22 +1,15 @@
 name: Update AI Dataset
 
 on:
-  workflow_dispatch:         # manual run button
+  workflow_dispatch:        # manual "Run workflow" button
   schedule:
-    - cron: "0 3 * * *"      # daily at 03:00 UTC
+    - cron: "0 3 * * *"     # daily at 03:00 UTC
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # allow commits back to the repo
-
-    env:                      # make secrets available to the script
-      SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
-      SHOPIFY_ADMIN_API_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}
-      STORE_FRONT_URL: https://www.malegroomingsupplies.com
-      API_VERSION: 2024-07
-
+      contents: write        # allow committing back to the repo
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -26,18 +19,128 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+      - name: Install deps
+        run: pip install requests
 
-      - name: Run update script
-        run: python update_dataset.py
+      - name: Generate ai-dataset.json from Shopify
+        env:
+          SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
+          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}   # uses your existing secret
+          STORE_FRONT_URL: https://www.malegroomingsupplies.com
+          API_VERSION: 2024-07
+        run: |
+          python - <<'PY'
+          import os, json, time, re, html, requests
+          from datetime import datetime, timezone
+
+          # --- config from env ---
+          store  = os.environ["SHOPIFY_STORE_DOMAIN"]         # e.g. eb5945-66.myshopify.com
+          token  = os.environ["SHOPIFY_ADMIN_TOKEN"]
+          api_v  = os.getenv("API_VERSION","2024-07")
+          public = os.getenv("STORE_FRONT_URL","https://www.malegroomingsupplies.com")
+
+          # --- endpoints / headers ---
+          gql = f"https://{store}/admin/api/{api_v}/graphql.json"
+          headers = {"X-Shopify-Access-Token": token, "Content-Type": "application/json"}
+
+          # --- helper: HTML -> plain text ---
+          def html_to_text(s: str) -> str:
+            if not s: return ""
+            s = re.sub(r"<(script|style)[\\s\\S]*?</\\1>", "", s, flags=re.I)
+            s = re.sub(r"<br\\s*/?>", "\\n", s, flags=re.I)
+            s = re.sub(r"</p\\s*>", "\\n", s, flags=re.I)
+            s = re.sub(r"<[^>]+>", "", s)          # drop all tags
+            s = html.unescape(s)
+            s = re.sub(r"[ \\t\\x0b\\x0c\\r]+", " ", s)
+            s = re.sub(r"\\n\\s*\\n\\s*", "\\n", s).strip()
+            return s
+
+          SYMBOL = {"GBP":"£","USD":"$","EUR":"€"}  # simple currency symbol map
+
+          # --- GraphQL: include currency, description, featured image, collections, first variant price ---
+          QUERY = """
+          query Products($cursor: String) {
+            shop { currencyCode }
+            products(first: 100, after: $cursor, sortKey: TITLE) {
+              edges {
+                cursor
+                node {
+                  title
+                  vendor
+                  handle
+                  productType
+                  onlineStoreUrl
+                  status
+                  descriptionHtml
+                  featuredImage { url altText }
+                  collections(first: 5) { edges { node { title } } }
+                  variants(first: 1) { edges { node { price } } }
+                }
+              }
+              pageInfo { hasNextPage }
+            }
+          }
+          """
+
+          products, cursor, currency = [], None, "GBP"
+          while True:
+            r = requests.post(gql, headers=headers, json={"query": QUERY, "variables": {"cursor": cursor}}, timeout=60)
+            r.raise_for_status()
+            root = r.json()["data"]
+            currency = root.get("shop",{}).get("currencyCode") or currency
+            data = root["products"]
+
+            for edge in data["edges"]:
+              n = edge["node"]
+              cursor = edge["cursor"]
+              if n["status"] != "ACTIVE":
+                continue
+
+              # category: first collection title, else productType, else fallback
+              colls = n.get("collections",{}).get("edges",[])
+              category = (colls[0]["node"]["title"] if colls else (n.get("productType") or "Products"))
+
+              # price: normalise to "£12.34"
+              price_node = (n.get("variants",{}).get("edges") or [{}])[0].get("node",{})
+              raw_price  = price_node.get("price")
+              amount     = raw_price.get("amount") if isinstance(raw_price, dict) else raw_price
+              symbol     = SYMBOL.get(currency, currency+" ")
+              price_str  = f"{symbol}{amount}" if amount else None
+
+              url = n.get("onlineStoreUrl") or f"{public}/products/{n['handle']}"
+
+              products.append({
+                "name": n["title"],
+                "category": category,
+                "description": html_to_text(n.get("descriptionHtml") or ""),
+                "url": url,
+                "price": price_str,
+                "vendor": n.get("vendor") or None,
+                "image": (n.get("featuredImage") or {}).get("url")
+              })
+
+            if not data["pageInfo"]["hasNextPage"]:
+              break
+            time.sleep(0.2)
+
+          payload = [{
+            "site": public,
+            "brand": "Male Grooming Supplies",
+            "last_updated": datetime.now(timezone.utc).date().isoformat(),
+            "description": "UK based retailer specialising in premium shaving and grooming products.",
+            "products": products
+          }]
+
+          with open("ai-dataset.json","w", encoding="utf-8") as f:
+            json.dump(payload, f, indent=2, ensure_ascii=False)
+
+          print(f"Wrote ai-dataset.json with {len(products)} products ({currency})")
+          PY
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
           git add ai-dataset.json
-          git commit -m "Update ai-dataset.json [skip ci]" || echo "No changes to commit"
+          git commit -m "Auto-update dataset" || echo "No changes"
           git push
