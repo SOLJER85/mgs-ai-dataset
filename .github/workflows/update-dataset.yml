@@ -3,23 +3,23 @@ name: Update AI Dataset
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *"   # runs every day at 2am UTC
+    - cron: "0 2 * * *"   # runs every day at 02:00 UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 lxml
+          pip install requests beautifulsoup4
 
       - name: Generate ai-dataset.json from Shopify
         env:
@@ -42,18 +42,19 @@ jobs:
           gql = f"https://{store}/admin/api/{api_v}/graphql.json"
           headers = {"X-Shopify-Access-Token": token, "Content-Type": "application/json"}
 
-          # HTML -> clean text
+          # HTML -> clean text (prevents “missing letters”)
           def html_to_text(s: str) -> str:
             if not s:
               return ""
             txt = BeautifulSoup(s, "html.parser").get_text(separator=" ")
-            txt = txt.replace("\u00ad", "")
+            txt = txt.replace("\u00ad", "")   # remove soft hyphen
             txt = re.sub(r"\s+", " ", txt).strip()
             return txt
 
           SYMBOL = {"GBP":"£","USD":"$","EUR":"€"}
 
-          # NOTE: publishedOnCurrentPublication ensures only published products (Online Store)
+          # NOTE: we avoid 'publishedOnCurrentPublication' for maximum compatibility.
+          # Instead we keep only products with a non-null onlineStoreUrl (i.e., published to Online Store).
           QUERY = """
           query Products($cursor: String) {
             shop { currencyCode }
@@ -67,7 +68,6 @@ jobs:
                   productType
                   onlineStoreUrl
                   status
-                  publishedOnCurrentPublication
                   descriptionHtml
                   featuredImage { url altText }
                   collections(first: 5) { edges { node { title } } }
@@ -91,8 +91,8 @@ jobs:
               n = edge["node"]
               cursor = edge["cursor"]
 
-              # ✅ Only include if Active AND Published to Online Store
-              if not (n["status"] == "ACTIVE" and n.get("publishedOnCurrentPublication")):
+              # ✅ Only include if Active AND published to Online Store (onlineStoreUrl present)
+              if not (n.get("status") == "ACTIVE" and n.get("onlineStoreUrl")):
                 continue
 
               # Category: first collection title -> productType -> fallback
@@ -106,7 +106,7 @@ jobs:
               symbol     = SYMBOL.get(currency, currency + " ")
               price_str  = f"{symbol}{amount}" if amount else None
 
-              url = n.get("onlineStoreUrl") or f"{public}/products/{n['handle']}"
+              url = n["onlineStoreUrl"]  # by filter above, this is non-null
               products.append({
                 "name": n["title"],
                 "category": category,
