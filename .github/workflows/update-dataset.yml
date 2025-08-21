@@ -2,14 +2,14 @@ name: Update AI Dataset
 
 on:
   schedule:
-    - cron: '0 3 * * *'     # daily at 03:00 UTC
-  workflow_dispatch:         # manual run button
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch:       # enables the "Run workflow" button
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # allow commits
+      contents: write      # allow the job to commit back to the repo
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -17,15 +17,15 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install deps
         run: pip install requests
 
-            - name: Generate ai-dataset.json from Shopify
+      - name: Generate ai-dataset.json from Shopify
         env:
           SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
-          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}  # maps secret → env var used below
+          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}
           STORE_FRONT_URL: https://www.malegroomingsupplies.com
           API_VERSION: 2024-07
         run: |
@@ -41,7 +41,6 @@ jobs:
           gql = f"https://{store}/admin/api/{api_ver}/graphql.json"
           headers = {"X-Shopify-Access-Token": token, "Content-Type": "application/json"}
 
-          # grab shop currency + products (title, vendor, description, image, collections, price)
           query = """
           query Products($cursor: String) {
             shop { currencyCode }
@@ -77,7 +76,6 @@ jobs:
             s = re.sub(r"\\n\\s*\\n\\s*", "\\n", s).strip()
             return s
 
-          # map ISO currency to symbol (add more if needed)
           SYMBOLS = {"GBP": "£", "USD": "$", "EUR": "€"}
 
           products, cursor, currency = [], None, "GBP"
@@ -94,17 +92,14 @@ jobs:
               if n["status"] != "ACTIVE":
                 continue
 
-              # choose category: first collection title if present, else productType, else fallback
+              # category = first collection title if present, else productType, else fallback
               colls = n.get("collections",{}).get("edges",[])
               category = (colls[0]["node"]["title"] if colls else (n.get("productType") or "Products"))
 
-              # price can be Money or string; normalise to "£12.34"
+              # price normalised to "£12.34"
               price_node = (n.get("variants",{}).get("edges") or [{}])[0].get("node",{})
               raw_price = price_node.get("price")
-              if isinstance(raw_price, dict):
-                amount = raw_price.get("amount")
-              else:
-                amount = raw_price
+              amount = raw_price.get("amount") if isinstance(raw_price, dict) else raw_price
               symbol = SYMBOLS.get(currency, currency + " ")
               price_str = f"{symbol}{amount}" if amount else None
 
@@ -135,7 +130,6 @@ jobs:
             json.dump(payload, f, indent=2, ensure_ascii=False)
           print(f"Wrote ai-dataset.json with {len(products)} products in {currency}")
           PY
-
 
       - name: Commit and push changes
         run: |
