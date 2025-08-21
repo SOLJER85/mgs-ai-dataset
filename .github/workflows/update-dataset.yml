@@ -1,26 +1,25 @@
 name: Update AI Dataset
 
 on:
-  workflow_dispatch:        # manual "Run workflow" button
+  workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"     # daily at 03:00 UTC
+    - cron: "0 2 * * *"   # runs every day at 2am UTC
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write        # allow committing back to the repo
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.10'
 
-      - name: Install deps
-        run: pip install requests beautifulsoup4
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml
 
       - name: Generate ai-dataset.json from Shopify
         env:
@@ -30,7 +29,7 @@ jobs:
           API_VERSION: 2024-07
         run: |
           python - <<'PY'
-          import os, json, time, re, html, requests
+          import os, json, time, re, requests
           from datetime import datetime, timezone
           from bs4 import BeautifulSoup
 
@@ -43,17 +42,18 @@ jobs:
           gql = f"https://{store}/admin/api/{api_v}/graphql.json"
           headers = {"X-Shopify-Access-Token": token, "Content-Type": "application/json"}
 
-          # HTML -> clean text (prevents “missing letters”)
+          # HTML -> clean text
           def html_to_text(s: str) -> str:
             if not s:
               return ""
             txt = BeautifulSoup(s, "html.parser").get_text(separator=" ")
-            txt = txt.replace("\u00ad", "")        # remove soft hyphen that can hide letters
+            txt = txt.replace("\u00ad", "")
             txt = re.sub(r"\s+", " ", txt).strip()
             return txt
 
           SYMBOL = {"GBP":"£","USD":"$","EUR":"€"}
 
+          # NOTE: publishedOnCurrentPublication ensures only published products (Online Store)
           QUERY = """
           query Products($cursor: String) {
             shop { currencyCode }
@@ -67,6 +67,7 @@ jobs:
                   productType
                   onlineStoreUrl
                   status
+                  publishedOnCurrentPublication
                   descriptionHtml
                   featuredImage { url altText }
                   collections(first: 5) { edges { node { title } } }
@@ -89,7 +90,9 @@ jobs:
             for edge in data["edges"]:
               n = edge["node"]
               cursor = edge["cursor"]
-              if n["status"] != "ACTIVE":
+
+              # ✅ Only include if Active AND Published to Online Store
+              if not (n["status"] == "ACTIVE" and n.get("publishedOnCurrentPublication")):
                 continue
 
               # Category: first collection title -> productType -> fallback
@@ -129,7 +132,7 @@ jobs:
           with open("ai-dataset.json","w", encoding="utf-8") as f:
             json.dump(payload, f, indent=2, ensure_ascii=False)
 
-          print(f"Wrote ai-dataset.json with {len(products)} products ({currency})")
+          print(f"Wrote ai-dataset.json with {len(products)} published Online Store products ({currency})")
           PY
 
       - name: Commit and push changes
