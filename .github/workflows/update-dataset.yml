@@ -19,8 +19,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: pip install requests
+- name: Install deps
+  run: pip install requests beautifulsoup4
 
       - name: Generate ai-dataset.json from Shopify
         env:
