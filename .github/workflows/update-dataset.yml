@@ -1,15 +1,15 @@
 name: Update AI Dataset
 
 on:
+  workflow_dispatch:        # enables the "Run workflow" button
   schedule:
-    - cron: "0 3 * * *"   # daily at 03:00 UTC
-  workflow_dispatch:       # enables the "Run workflow" button
+    - cron: "0 3 * * *"     # daily at 03:00 UTC
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write      # allow the job to commit back to the repo
+      contents: write        # allow the job to commit back to the repo
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -19,100 +19,18 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pyyaml pandas
 
-      - name: Generate ai-dataset.json from Shopify
-  env:
-    SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
-    SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}
-    STORE_FRONT_URL: https://www.malegroomingsupplies.com
-    API_VERSION: 2024-07
-  run: |
-    python - <<'PY'
-    import os, json, time, requests, re
-    from datetime import datetime, timezone
+      - name: Run update script
+        run: python update_dataset.py
 
-    def strip_html(html):
-        return re.sub("<[^<]+?>", "", html or "").strip()
-
-    store = os.environ["SHOPIFY_STORE_DOMAIN"]
-    token = os.environ["SHOPIFY_ADMIN_TOKEN"]
-    api_ver = os.getenv("API_VERSION","2024-07")
-    public = os.getenv("STORE_FRONT_URL","https://www.malegroomingsupplies.com")
-
-    gql = f"https://{store}/admin/api/{api_ver}/graphql.json"
-    headers = {"X-Shopify-Access-Token": token, "Content-Type": "application/json"}
-    query = """
-    query Products($cursor: String) {
-      products(first: 100, after: $cursor, sortKey: TITLE) {
-        edges {
-          cursor
-          node {
-            title
-            handle
-            productType
-            tags
-            onlineStoreUrl
-            status
-            descriptionHtml
-            variants(first: 1) {
-              edges {
-                node {
-                  price
-                }
-              }
-            }
-          }
-        }
-        pageInfo { hasNextPage }
-      }
-    }
-    """
-
-    products, cursor = [], None
-    while True:
-        resp = requests.post(gql, headers=headers, json={"query": query, "variables": {"cursor": cursor}}, timeout=60)
-        resp.raise_for_status()
-        data = resp.json()["data"]["products"]
-        for edge in data["edges"]:
-            n = edge["node"]
-            if n["status"] == "ACTIVE":
-                url = n.get("onlineStoreUrl") or f"{public}/products/{n['handle']}"
-                description = strip_html(n.get("descriptionHtml"))
-                price = None
-                if n["variants"]["edges"]:
-                    price = n["variants"]["edges"][0]["node"]["price"]
-
-                products.append({
-                    "name": n["title"],
-                    "category": n.get("productType") or "Products",
-                    "description": description,
-                    "price": price,
-                    "url": url
-                })
-            cursor = edge["cursor"]
-        if not data["pageInfo"]["hasNextPage"]:
-            break
-        time.sleep(0.2)
-
-    payload = [{
-        "site": public,
-        "brand": "Male Grooming Supplies",
-        "last_updated": datetime.now(timezone.utc).date().isoformat(),
-        "description": "UK based retailer specialising in premium shaving and grooming products.",
-        "products": products
-    }]
-
-    with open("ai-dataset.json","w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2, ensure_ascii=False)
-    print(f"Wrote ai-dataset.json with {len(products)} products")
-    PY
-
-- name: Commit and push changes
-  run: |
-    git config --global user.name "github-actions"
-    git config --global user.email "actions@github.com"
-    git add ai-dataset.json
-    git commit -m "Auto-update dataset" || echo "No changes"
-    git push
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add dataset.csv
+          git commit -m "Update dataset [skip ci]" || echo "No changes to commit"
+          git push
