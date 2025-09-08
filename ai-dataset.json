@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2025-09-07",
+    "last_updated": "2025-09-08",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -2611,7 +2611,7 @@
         "category": "Shaving Creams",
         "description": "The Erasmic Shaving Cream (75ml) is a classic, high-quality shaving cream enriched with Chamomile and Glycerin , designed to provide a smoother, closer, and more comfortable shave . With a heritage dating back to 1886 , Erasmic continues to be a trusted name in traditional wet shaving. Chamomile works to soothe and calm the skin, reducing irritation and redness, while Glycerin deeply moisturizes , promoting the skin’s natural renewal process. The result is a luxuriously smooth lather that softens facial hair and enhances razor glide, making each shave effortless and irritation-free. Key Features: Chamomile Extract – Soothes and calms the skin, reducing irritation. Glycerin Enriched – Deeply hydrates and supports skin renewal. Rich, Creamy Lather – Softens hair for a smoother, closer shave. Classic Formula Since 1886 – A trusted name in wet shaving for over a century. Compact 75ml Tube – Ideal for travel and daily grooming. Specifications: Product Type: Shaving Cream Size: 75ml Key Ingredients: Chamomile, Glycerin Skin Type: Suitable for all skin types Usage: Designed for use with or without a shaving brush Experience a closer, smoother shave with Erasmic Shaving Cream – a timeless shaving essential trusted since 1886 .",
         "url": "https://www.malegroomingsupplies.com/products/erasmic-shaving-cream-75ml",
-        "price": "£2.95",
+        "price": "£3.95",
         "vendor": "Erasmic",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/s-l1600_clipped_rev_1_a1cb23f3-2f61-4171-904a-f57afe35e8c0.jpg?v=1750677790"
       },
@@ -2794,6 +2794,51 @@
         "price": "£265.00",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Wood-Handle-Stainless-Double-Edge-Razor-with-Stand_clipped_rev_1.jpg?v=1737234541"
+      },
+      {
+        "name": "Féret Parfumeur 'Bloc Hyalin' Alum Bloc 100g",
+        "category": "Post-Shave",
+        "description": "The Féret Parfumeur Bloc Hyalin is a 100% natural potassium alum stone , renowned for its astringent, antiseptic , and antiperspirant properties. Sourced from Grade A+ Kalunite , this high-purity crystal is ideal for use as a natural deodorant , post-shave treatment , or to prevent chafing and friction during sport. Unlike synthetic alternatives made with ammonium alum, the true Bloc Hyalin is slightly translucent and marbled , visibly distinguishing its authentic quality . Féret Parfumeur has been producing the original registered Bloc Hyalin since 1878 , with a legacy protected by French law since 1899. Apply to damp skin to leave an invisible, protective layer of microcrystals that help prevent bacteria and neutralise odour without blocking pores. Perfect for use after shaving to soothe razor burn , or before physical activity to keep feet and underarms dry . Key Features: 100% Natural Potassium Alum – Sourced from Grade A+ Kalunite Fragrance-Free & Hypoallergenic – Gentle and suitable for all skin types Multifunctional Use – Acts as a natural deodorant, post-shave astringent, and anti-chafing aid Authentic Bloc Hyalin – Recognisable by its translucent, marbled appearance Long-Lasting & Economical – Up to 24 hours of odour protection Specifications: Size: 100g solid stone Material: 100% Potassium Alum Packaging: Eco-friendly recyclable box (tin case sold separately) Made In: France How To Use: Wet the stone under warm water and apply directly to clean skin. For deodorising, apply to underarms or feet. For post-shave care, gently rub over shaved skin to soothe irritation and reduce redness.",
+        "url": "https://www.malegroomingsupplies.com/products/feret-parfumeur-bloc-hyalin-alum-bloc-100g",
+        "price": "£14.95",
+        "vendor": "Féret Parfumeur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/feret-parfumeur-bloc-hyalin-2022_clipped_rev_1.jpg?v=1757273462"
+      },
+      {
+        "name": "Féret Parfumeur 'Bloc Hyalin' Alum Bloc Tin",
+        "category": "Shaving Accessories & Cases",
+        "description": "éret Parfumeur's Bloc Hyalin Tin is the perfect companion for your alum stone , offering a robust and hygienic way to store it at home or while travelling. Designed specifically to fit the iconic Bloc Hyalin , this lightweight metal tin helps preserve the integrity of the stone between uses, protecting it from moisture, impacts, and unnecessary wear. With a classic French design and a durable metal construction , it’s both practical and elegant — a reliable grooming essential for wet shavers who take their skincare tools seriously. Key Features: Travel-Friendly Tin – Keeps your Bloc Hyalin alum stone clean and dry Sturdy & Lightweight – Ideal for storing in your washbag or drawer Classic French Styling – Matches Féret Parfumeur’s timeless grooming aesthetic Custom Fit – Designed to hold one standard-sized Bloc Hyalin stone Specifications: Dimensions: 8cm (L) x 5cm (W) x 3cm (H) Material: Metal Packaging: Supplied empty (stone sold separately) Made In: France",
+        "url": "https://www.malegroomingsupplies.com/products/feret-parfumeur-bloc-hyalin-alum-bloc-tin",
+        "price": "£2.50",
+        "vendor": "Féret Parfumeur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/feret-bloc-hyalin-metal-storage-tin-12348550905965_1536x_clipped_rev_1.jpg?v=1757267359"
+      },
+      {
+        "name": "Féret Parfumeur Botanical Body Lotion 100ml",
+        "category": "New Additions",
+        "description": "Féret Parfumeur Botanical Body Lotion is a luxurious dry oil blend designed to nourish, soften, and delicately scent the skin, hair, and beard . Formulated with 100% natural ingredients , this multi-functional treatment features a vibrant aromatic blend of thyme, rosemary, lavender, and citrus oils that evoke the warmth and freshness of the Mediterranean garrigue. Ideal for daily use after shower, sauna, hammam, or sport , the lightweight texture absorbs quickly without leaving residue, providing immediate comfort and long-lasting hydration. Infused with honey extract and a base of organic sesame, wheat germ, and safflower oils , this lotion helps restore suppleness while invigorating the senses. Suitable for both men and women. Key Features: 100% Natural Origin – No synthetic additives or artificial fragrances Multi-Purpose Formula – Use on body, hair, or beard Rich In Botanical Oils – Thyme, rosemary, lavender, citrus & honey Ideal For Post-Sport Or Morning Use – Awakens skin and senses Fresh, Herbal Scent – Inspired by the wild French garrigue Unisex – Suitable for all skin types Specifications: Size: 100ml Texture: Dry oil, non-greasy finish Packaging: Recyclable aluminium bottle Made In: France Directions For Use: Apply to clean, slightly damp skin. Massage gently until absorbed. May also be applied to hair or beard. Avoid contact with eyes. For external use only. Keep out of reach of children. Ingredients (INCI): Caprylic/Capric Triglyceride, Sesamum Indicum (Sesame) Seed Oil*, Triticum Vulgare (Wheat) Germ Oil, Carthamus Tinctorius (Safflower) Seed Oil*, Citrus Aurantium Dulcis (Orange) Peel Oil*, Lavandula Angustifolia (Lavender) Oil, Lavandula Hybrida (Lavandin) Oil*, Citrus Limon (Lemon) Peel Oil*, Thymus Vulgaris (Thyme) Flower/Leaf Oil, Rosmarinus Officinalis (Rosemary) Flower Oil*, Mel (Honey) Extract*, Limonene, Linalool, Citral, Geraniol, Eugenol *Ingredients from organic farming",
+        "url": "https://www.malegroomingsupplies.com/products/feret-parfumeur-botanical-body-lotion-100ml",
+        "price": "£30.00",
+        "vendor": "Féret Parfumeur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200225_170543_resized_clipped_rev_1.jpg?v=1757267361"
+      },
+      {
+        "name": "Féret Parfumeur Hyalomiel Natural Balm",
+        "category": "New Additions",
+        "description": "Féret Parfumeur Hyalomiel Natural Balm is a rich, nourishing multi-purpose balm designed to hydrate, protect, and restore the skin’s natural softness. Crafted with 100% ingredients of natural origin , this French-made formula brings together shea butter , sesame oil , dandelion extract , and honey to provide intense hydration for the lips, hands, feet, nails, and dry patches . Its smooth texture melts on contact, absorbing easily without leaving a greasy residue. Delicately perfumed with a vintage powdered rose scent , this balm delivers timeless elegance - ideal for those who appreciate refined, botanical skincare with heritage appeal. Presented in an iconic metal tin , made in France since 1890, it blends practicality with a touch of old-world charm. Though originally created for everyday use, it also makes an excellent thoughtful addition to a partner’s or loved one's skincare collection . Key Features: 100% Natural Ingredients – Certified naturally sourced and organic Hydrating and Nourishing – Ideal for dry or sensitive skin Infused With Honey, Shea Butter & Plant Oils – For deep moisturisation Delicately Scented With Powdered Rose Metal Tin Packaging – Reusable, durable, and retro-styled Multi-Use Balm – Suitable for lips, hands, nails, feet and elbows A heritage product with unisex appeal – A practical skincare staple or a refined gift Specifications: Size: 50ml / 15ml Packaging: Recyclable metal tin Scent: Soft, powdery rose Made In: France Directions For Use: Apply a small amount to clean, dry skin and gently massage until absorbed. Reapply as needed. Avoid exposure to heat and light. For external use only. Ingredients (INCI): Butyrospermum Parkii (Shea) Butter, Sesamum Indicum (Sesame) Seed Oil, Parfum (Fragrance), Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Hippophae Rhamnoides (Seabuckthorn) Oil, Olus (Vegetable) Oil, Taraxacum Officinale Extract, Mel (Honey) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Geraniol, Citronellol, Linalool, Citral, Limonene, Farnesol, Eugenol, Benzyl Benzoate",
+        "url": "https://www.malegroomingsupplies.com/products/feret-parfumeur-hyalomiel-natural-balm",
+        "price": "£15.00",
+        "vendor": "Féret Parfumeur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feret-Packshoot-77_clipped_rev_1.jpg?v=1757272573"
+      },
+      {
+        "name": "Féret Parfumeur Nourishing Hand Cream with Honey 100ml",
+        "category": "New Additions",
+        "description": "Enriched with honey from the Féret Parfumeur garden and shea butter , this 98% natural hand cream offers soothing hydration with a light, non-greasy texture. Crafted in France, it absorbs quickly to nourish dry or tired hands while leaving behind a subtle, fresh scent. Its melting formula glides easily over the skin, making it perfect for daily use. Whether you're facing harsh weather or constant hand washing, this elegant cream helps restore softness without residue. Key Features: 98% Natural Ingredients – Gentle and effective formula Honey & Shea Butter – To moisturise, protect, and soften skin Lightweight & Fast-Absorbing – No sticky or greasy residue French-Made – Reflects the tradition of quality skincare Unisex Formulation – Suitable for all skin types Specifications: Size: 100ml Texture: Lightweight cream Packaging: Aluminium-style tube with screw cap Made In: France How To Use: Massage a small amount into hands as needed throughout the day, especially after washing or exposure to cold weather.",
+        "url": "https://www.malegroomingsupplies.com/products/feret-parfumeur-hand-cream-honey-100ml",
+        "price": "£14.95",
+        "vendor": "Féret Parfumeur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/81GzEG10vkL._SL1500__clipped_rev_1.jpg?v=1757273982"
       },
       {
         "name": "Floris Cefiro Conditioning Shampoo 250ml",
