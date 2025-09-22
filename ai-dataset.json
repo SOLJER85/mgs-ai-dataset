@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2025-09-21",
+    "last_updated": "2025-09-22",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -2629,9 +2629,9 @@
         "category": "DOVO Solingen",
         "description": "Safeguard your straight razor in style with the DOVO Leather Straight Razor Case, crafted from premium genuine leather imported from Solingen, Germany. Designed to provide a classy yet practical solution, this case ensures your razor stays protected whether at home or on the go. Compatible with most 5/8\" and 6/8\" straight razors, as well as select Mach III-style safety razors, it’s a versatile accessory for every wet shaving enthusiast. Available in three elegant colours – black, burgundy, and brown – this case combines durability and sophistication, thanks to its top-grain leather construction, made to last a lifetime. The sleek design not only shields your razor but also prevents damage to your luggage or other contents while traveling. Key Features: Genuine leather construction for durability. Available in black, burgundy, and brown. Protects razors and luggage contents from damage. Compatible with most 5/8\" and 6/8\" straight razors and Mach III-style safety razors. Not suitable for DOVO 76 La Forme, 114 Carnelian, 98 Buffalo Horn, or 105 Micarta models. Dimensions: 27 cm x 4.4 cm x 0.4 cm",
         "url": "https://www.malegroomingsupplies.com/products/dovo-leather-straight-razor-cases",
-        "price": "£21.95",
+        "price": "£24.95",
         "vendor": "Dovo",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-leather-straight-razor-case-various-colours-521985.jpg?v=1723066527"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-leather-straight-razor-case-various-colours-521985.jpg?v=1758476420"
       },
       {
         "name": "Dovo Navy Blue Leather 3-Piece Manicure Set",
@@ -2767,6 +2767,15 @@
         "price": "£34.95",
         "vendor": "Dovo",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-shaving-soap-in-ceramic-bowl-deep-leather-115g-51102203-male-grooming-supplies-610889.jpg?v=1744055642"
+      },
+      {
+        "name": "Dovo Skull & Bones Shaving Soap 150g",
+        "category": "DOVO Solingen",
+        "description": "The Dovo Skull & Bones Shaving Soap 150g is a handmade German soap created for a nourishing, traditional wet shave . Developed in partnership with Germany’s oldest soap manufacturer , which has been crafting quality soaps since 1840, this formula sets a new standard in shaving care. Made with carefully selected natural ingredients , it produces a stable, moisturising lather that cushions the blade and allows it to glide smoothly over the skin. The result is a comfortable, irritation-free shave that leaves the skin refreshed and cared for. Its fragrance is finely balanced, adding a subtle touch of refinement to the shaving experience. Key Features Handmade shaving soap produced in Germany Developed with Germany’s oldest soap manufacturer (since 1840) Creates a stable, moisturising lather for a smooth shave Provides excellent razor glide and protects against irritation Balanced fragrance for a refined shaving ritual Specifications Size: 150g Formula: Handmade with natural ingredients Fragrance: Balanced, subtle scent Packaging: Skull & Bones presentation box Ingredients Sodium Stearate, Potassium Stearate, Aqua, Sodium Laurate, Potassium Laurate, Glycerin, Parfum, Cocamidopropyl Betaine, Sodium Palm Kernelate, Palm Kernel Acid, Potassium Palm Kernelate, Tetrasodium Iminodisuccinate, Tetrasodium Etidronate, Sodium Chloride, Sodium Benzoate, Tetrasodium Glutamate Diacetate, Hexamethylindanopyran, Tetramethyl acetyloctahydronaphthalenes",
+        "url": "https://www.malegroomingsupplies.com/products/dovo-skull-and-bones-shaving-soap-150g",
+        "price": "£19.85",
+        "vendor": "Dovo",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/150g_seife_dovo_-_aufsicht_mit_verpackung_1_1_clipped_rev_1.jpg?v=1758477641"
       },
       {
         "name": "Dovo Special Straight Razor 5/8\"",
