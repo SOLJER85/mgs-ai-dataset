@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2025-09-28",
+    "last_updated": "2025-09-29",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -3379,6 +3379,15 @@
         "price": "£115.00",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-timor-deluxe-razor-58-carbon-steel-with-zebrano-wood-handle-670408.jpg?v=1723969738"
+      },
+      {
+        "name": "G&F Timor® Double Edge Razor Blades",
+        "category": "Giesen & Forsthoff",
+        "description": "The G&F Timor® Razor Blades are premium stainless steel blades made in Germany, engineered for an exceptionally sharp yet skin-friendly shave . Precision-crafted for consistent performance, they deliver a smooth, close result while minimising irritation. Each blade is individually wrapped in wax paper for hygiene and protection. Supplied in a dispenser of 10 blades or a 200-blade carton , they offer excellent value for both regular wet shavers and professionals. Compatible with all double edge safety razors , these blades are an essential choice for achieving a barbershop-quality shave at home. Key Features Premium stainless steel blades made in Germany Designed for a sharp yet gentle shave with minimal irritation Individually wrapped in wax paper for hygiene and safety Available in a 10-blade dispenser or a 200-blade carton Compatible with all double edge safety razors Specifications Material: Stainless steel Quantity: 10 blades per dispenser or 200 blades per carton Packaging: Individually wrapped blades in wax paper Compatibility: All double edge safety razors",
+        "url": "https://www.malegroomingsupplies.com/products/g-and-f-timor-razor-blades",
+        "price": "£4.50",
+        "vendor": "Giesen & Forsthoff",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-klingenbox-02_1920x1920_clipped_rev_1.jpg?v=1759056133"
       },
       {
         "name": "G&F Timor® Safety Razor 1920 with Long Stainless Steel Handle 100mm",
