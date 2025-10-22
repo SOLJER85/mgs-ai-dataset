@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2025-10-21",
+    "last_updated": "2025-10-22",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -3037,6 +3037,15 @@
         "price": "£30.00",
         "vendor": "Féret Parfumeur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200225_170543_resized_clipped_rev_1.jpg?v=1757267361"
+      },
+      {
+        "name": "Féret Parfumeur Hyalomiel Natural Balm",
+        "category": "New Additions",
+        "description": "Féret Parfumeur Hyalomiel Natural Balm is a rich, nourishing multi-purpose balm designed to hydrate, protect, and restore the skin’s natural softness. Crafted with 100% ingredients of natural origin , this French-made formula brings together shea butter , sesame oil , dandelion extract , and honey to provide intense hydration for the lips, hands, feet, nails, and dry patches . Its smooth texture melts on contact, absorbing easily without leaving a greasy residue. Delicately perfumed with a vintage powdered rose scent , this balm delivers timeless elegance - ideal for those who appreciate refined, botanical skincare with heritage appeal. Presented in an iconic metal tin , made in France since 1890, it blends practicality with a touch of old-world charm. Though originally created for everyday use, it also makes an excellent thoughtful addition to a partner’s or loved one's skincare collection . Key Features: 100% Natural Ingredients – Certified naturally sourced and organic Hydrating and Nourishing – Ideal for dry or sensitive skin Infused With Honey, Shea Butter & Plant Oils – For deep moisturisation Delicately Scented With Powdered Rose Metal Tin Packaging – Reusable, durable, and retro-styled Multi-Use Balm – Suitable for lips, hands, nails, feet and elbows A heritage product with unisex appeal – A practical skincare staple or a refined gift Specifications: Size: 50ml / 15ml Packaging: Recyclable metal tin Scent: Soft, powdery rose Made In: France Directions For Use: Apply a small amount to clean, dry skin and gently massage until absorbed. Reapply as needed. Avoid exposure to heat and light. For external use only. Ingredients (INCI): Butyrospermum Parkii (Shea) Butter, Sesamum Indicum (Sesame) Seed Oil, Parfum (Fragrance), Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Hippophae Rhamnoides (Seabuckthorn) Oil, Olus (Vegetable) Oil, Taraxacum Officinale Extract, Mel (Honey) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Geraniol, Citronellol, Linalool, Citral, Limonene, Farnesol, Eugenol, Benzyl Benzoate",
+        "url": "https://www.malegroomingsupplies.com/products/feret-parfumeur-hyalomiel-natural-balm",
+        "price": "£15.00",
+        "vendor": "Féret Parfumeur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feret-Packshoot-77_clipped_rev_1.jpg?v=1757272573"
       },
       {
         "name": "Féret Parfumeur Nourishing Hand Cream with Honey 100ml",
