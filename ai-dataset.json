@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2025-10-25",
+    "last_updated": "2025-10-26",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -825,15 +825,6 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200103_105914_resized_clipped_rev_1.jpg?v=1758362833"
       },
       {
-        "name": "Cella Beard Hygienic Beard Gel & Protective Balm Set",
-        "category": "New Additions",
-        "description": "The Cella Beard Hygienic Beard Gel & Protective Balm Set is everything you need to clean, protect, and style your beard . Combining a 150ml Beard Hygienic Gel with a 100ml Beard Protective Balm , this set is designed for daily use, keeping your beard refreshed, manageable, and perfectly styled. The Beard Hygienic Gel provides anti-bacterial and purifying care enriched with Provitamin B5 . It deodorises, softens, and refreshes the beard without the need to rinse, making it a practical grooming essential to carry throughout the day. The Beard Protective Balm offers a gentle hold for styling , while delivering intense moisturisation to reduce irritation and bothersome regrowth. Infused with moringa extract , it forms a protective barrier against pollution and features a refined spicy and aromatic fragrance that leaves the beard subtly scented. Key Features Complete 2-piece set for beard hygiene and protection Beard gel with Provitamin B5 purifies, deodorises, and refreshes No-rinse formula for convenient daily use Protective balm offers light styling hold with deep hydration Moringa extract shields against environmental pollution Spicy and aromatic fragrance for a refined finish Specifications Beard Hygienic Gel: 150ml Beard Protective Balm: 100ml Skin Type: Suitable for all beard and skin types Packaging: Boxed gift set presentation",
-        "url": "https://www.malegroomingsupplies.com/products/cella-beard-hygenic-bearg-gel-protective-balm-set",
-        "price": "£24.95",
-        "vendor": "Cella",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57096-cella-beardcare-twinSet_A.jpg?v=1758373257"
-      },
-      {
         "name": "Cella Beard Oil 50ml",
         "category": "New Additions",
         "description": "The Cella Beard Oil 50ml is a daily treatment designed to keep beards and moustaches healthy, strong, and well-groomed . Crafted with natural oils and enriched with vitamin E , this lightweight oil provides essential nourishment for all beard types, from the softest to the most coarse. Its non-oily, fast-absorbing formula conditions both the beard and the skin beneath, preventing dryness and irritation. The result is a soft, shiny, and delicately scented beard with a subtle fragrance that complements daily grooming without overpowering. Key Features Natural oils with vitamin E strengthen and condition the beard Non-oily formula absorbs quickly without residue Leaves the beard soft, shiny, and delicately scented Suitable for all beard types , from fine to coarse Conditions both the beard and skin underneath Specifications Size: 50ml Formula: Natural oils enriched with vitamin E Skin Type: Suitable for all beard and skin types Packaging: Glass bottle presentation",
@@ -868,6 +859,15 @@
         "price": "£7.80",
         "vendor": "Cella",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/shampoo-e-balsamo-per-barbe-prodotto.jpg?v=1758373952"
+      },
+      {
+        "name": "Cella Hygienic Beard Gel & Protective Balm Set",
+        "category": "New Additions",
+        "description": "The Cella Beard Hygienic Beard Gel & Protective Balm Set is everything you need to clean, protect, and style your beard . Combining a 150ml Beard Hygienic Gel with a 100ml Beard Protective Balm , this set is designed for daily use, keeping your beard refreshed, manageable, and perfectly styled. The Beard Hygienic Gel provides anti-bacterial and purifying care enriched with Provitamin B5 . It deodorises, softens, and refreshes the beard without the need to rinse, making it a practical grooming essential to carry throughout the day. The Beard Protective Balm offers a gentle hold for styling , while delivering intense moisturisation to reduce irritation and bothersome regrowth. Infused with moringa extract , it forms a protective barrier against pollution and features a refined spicy and aromatic fragrance that leaves the beard subtly scented. Key Features Complete 2-piece set for beard hygiene and protection Beard gel with Provitamin B5 purifies, deodorises, and refreshes No-rinse formula for convenient daily use Protective balm offers light styling hold with deep hydration Moringa extract shields against environmental pollution Spicy and aromatic fragrance for a refined finish Specifications Beard Hygienic Gel: 150ml Beard Protective Balm: 100ml Skin Type: Suitable for all beard and skin types Packaging: Boxed gift set presentation",
+        "url": "https://www.malegroomingsupplies.com/products/cella-beard-hygenic-bearg-gel-protective-balm-set",
+        "price": "£24.95",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57096-cella-beardcare-twinSet_A.jpg?v=1758373257"
       },
       {
         "name": "Cella Luxury Beard Grooming Gift Set",
