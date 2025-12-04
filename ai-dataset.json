@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2025-12-03",
+    "last_updated": "2025-12-04",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -4225,15 +4225,6 @@
         "price": "£34.95",
         "vendor": "Mitchell's Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SHAVING_SOAP_bowl_lr.jpg?v=1733004378"
-      },
-      {
-        "name": "Mitchell's Wool Fat Shaving Soap Refill 125g",
-        "category": "Shaving Soap",
-        "description": "Mitchell’s Wool Fat Shaving Soap Refill features a tallow-free formula, continuing its tradition of using natural lanolin, derived from sheep's wool, to deliver superior hydration. Renowned for its ability to create a rich, creamy lather, this shaving soap ensures a smooth and irritation-free shave every time. The gentle formula is ideal for sensitive skin, helping to reduce dryness and razor burn while maintaining the heritage of this timeless grooming essential. Key Features: Tallow-Free Formula : Modernized for environmentally conscious shaving. Natural Lanolin : Provides deep hydration and leaves skin soft and supple. Rich, Creamy Lather : Cushions the skin for excellent razor glide and comfort. Gentle and Soothing : Perfect for sensitive skin, reducing irritation and dryness. Refreshing Scent : Offers a clean, light fragrance for a fresh shaving experience. Specifications: Size : 125g refill puck. Packaging : Eco-friendly paper wrapping (design may vary). Rediscover the art of shaving with Mitchell’s Wool Fat Shaving Soap Refill – the perfect balance of heritage and innovation for a luxurious shaving routine.",
-        "url": "https://www.malegroomingsupplies.com/products/mitchells-original-wool-fat-shaving-soap-refill-125g",
-        "price": "£14.95",
-        "vendor": "Mitchell's Original",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Shaving-soap-refill_SSR-1_clipped_rev_1.jpg?v=1733004378"
       },
       {
         "name": "Morgan's Beard Brush",
