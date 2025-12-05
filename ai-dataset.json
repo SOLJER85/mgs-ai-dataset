@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2025-12-04",
+    "last_updated": "2025-12-05",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -7294,6 +7294,15 @@
         "price": "£52.30",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Best-Front.png?v=1763205333"
+      },
+      {
+        "name": "Simpsons 'The Special' Sovereign Synthetic Shaving Brush",
+        "category": "Shaving Brushes",
+        "description": "The Simpsons Special Sovereign Synthetic Shaving Brush is one of the most affordable and practical models in the Simpsons range, offering dependable performance at an excellent price point. Hand-turned in a traditional faux ivory handle , it is filled with Simpsons’ Sovereign Grade synthetic fibre , chosen for its soft tips, quick drying ability and efficient lathering performance. Often known as the gateway brush within the Simpsons collection, the Special continues to be a popular choice for those entering traditional wet shaving, as well as experienced shavers seeking a reliable daily brush. Its compact size and balanced knot make it well suited to face lathering with both soaps and creams. Key Features: Filled with Sovereign Grade synthetic fibre Compact and practical faux ivory handle Produces smooth, creamy lather with soaps or creams Soft synthetic tips with supportive backbone Quick drying and ideal for daily use Excellent value for new and experienced shavers Specifications: Overall brush height: 92mm Handle height: 50mm Loft: 42mm Knot diameter: 18mm Weight: 50g",
+        "url": "https://www.malegroomingsupplies.com/products/simpsons-special-sovereign-synthetic",
+        "price": "£34.95",
+        "vendor": "Simpsons",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SimpsonSovereignSpecial.png?v=1764858826"
       },
       {
         "name": "Simpsons 'The Tulip' Shaving Brush",
