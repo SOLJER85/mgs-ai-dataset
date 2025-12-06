@@ -2,9 +2,27 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2025-12-05",
+    "last_updated": "2025-12-06",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
+      {
+        "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
+        "category": "Shaving Brushes",
+        "description": "The Simpsons Barbican Boar Bristle Shaving Brush introduces a long-requested addition to the Simpsons range. Hand-turned in a traditional faux ivory handle , the Barbican provides the natural backbone and firm feel that boar bristle enthusiasts appreciate, softening progressively with use. Designed to offer excellent value, strong lathering capability and classic styling, this brush performs beautifully with hard soaps and produces a dense, controlled lather. Its well-proportioned handle provides a comfortable grip, making it suitable for both experienced wet shavers and those new to boar bristle brushes. Key Features: Filled with boar bristle for firm backbone and strong loading power Classic faux ivory handle Ideal for hard soaps and daily use Natural bristle that softens over time Balanced, comfortable proportions A practical and affordable addition to the Simpsons range Specifications: Overall brush height: 105mm Knot height: 53mm Handle height: 52mm Knot diameter: 22mm",
+        "url": "https://www.malegroomingsupplies.com/products/simpsons-barbican-boar-bristle",
+        "price": "£11.15",
+        "vendor": "Simpsons",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Barbican.png?v=1764959729"
+      },
+      {
+        "name": "Alexander Simpson 'Farringdon' Boar Bristle Shaving Brush",
+        "category": "Shaving Brushes",
+        "description": "The Alexander Simpson Farringdon Boar Bristle Shaving Brush marks the long-awaited addition of a boar bristle option to the Simpson range. Turned in a traditional faux ivory handle , the Farringdon offers the natural firmness, loading power and progressive softening that boar hair is known for. Designed to balance performance with value, this brush handles hard soaps effortlessly and produces a dense, controlled lather. Its comfortable proportions and classic styling make it an excellent choice for both newcomers to boar bristle and experienced wet shavers. Key Features: Filled with boar bristle for firm backbone and strong soap loading Classic faux ivory handle Effective with hard shaving soaps Natural bristle softens with continued use Balanced and comfortable in hand Practical, affordable and durable Specifications: Overall brush height: 103mm Knot height: 52mm Handle height: 51mm Knot diameter: 19mm",
+        "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-farringdon-boar-bristle",
+        "price": "£12.50",
+        "vendor": "Simpsons",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/FarringdonBoar.png?v=1764960554"
+      },
       {
         "name": "Alexander Simpson Est. 1919 Bay Rum Post Shave Balm 100ml",
         "category": "Post-Shave",
@@ -4677,6 +4695,15 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-r106-safety-razor-male-grooming-supplies-165530.jpg?v=1722956472"
       },
       {
+        "name": "Muhle Double Edge Blades Pack of 10",
+        "category": "MUHLE Shaving",
+        "description": "Designed for precision and comfort, MÜHLE Double Edge Blades provide a smooth and irritation-free shave every time. Crafted from high-quality stainless steel, these blades ensure durability and performance, fitting all standard double-edge safety razors for a superior grooming experience. Each individual pack contains 10 blades , enclosed in secure plastic packaging to keep them organized and in pristine condition. Perfect for shaving enthusiasts seeking exceptional quality in a convenient size. Key Features: Stainless Steel Blades: Deliver sharp, smooth shaves with reduced irritation. Universal Compatibility: Suitable for all double-edge safety razors. Convenient Packaging: Each pack of 10 blades is securely enclosed in plastic for safe storage. Premium Quality: Ensures durability and gentleness for all skin types. Specifications: Material: Stainless steel Blade Weight: 2.6 g Blade Dimensions: 21 mm x 43 mm x 0.25 mm Colour: Silver Ideal for everyday grooming or travel, MÜHLE Double Edge Blades offer exceptional quality and performance in a manageable 10-blade pack. Perfect for wet shaving enthusiasts who value precision and convenience.",
+        "url": "https://www.malegroomingsupplies.com/products/muhle-double-edge-razor-blades-pack-of-10",
+        "price": "£4.45",
+        "vendor": "Muhle",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-double-edge-blades-pack-of-200-male-grooming-supplies-658079.jpg?v=1722956205"
+      },
+      {
         "name": "Muhle Kosmo Fine Badger Olive Wood Shaving Brush",
         "category": "MUHLE Shaving",
         "description": "Elevate your shaving ritual with the MÜHLE KOSMO Fine Badger Olive Wood Shaving Brush. Designed for those with a cosmopolitan flair, this brush combines contemporary aesthetics with time-honored craftsmanship. Its striking chrome neck pairs beautifully with the natural, warm tones of olive wood, creating a modern yet classic shaving accessory. The Brush Head – Fine Badger The Fine Badger hair offers a luxurious shaving experience, with softness akin to silvertip badger but with slightly firmer bristles. This makes it ideal for those seeking a gentle shave with a subtle massage effect. The light grey hues and characteristic dark stripe of the high-quality badger hair are expertly shaped for a round, full brush head. The Material – Olive Wood Renowned for its durability and stunning grain, olive wood has been treasured since ancient times. Carefully dried and polished, the wood reveals its honey-colored patterns, adding a natural elegance to your grooming routine. The surface is sealed with oil to protect and enhance the wood’s finish. Key Features: Fine Badger Hair: Soft with a light massage effect, ideal for luxurious lathering. Olive Wood Handle: Warm-toned, honey-colored grain polished to a silky finish. Replaceable Brush Head: Sustainable and long-lasting design. Chrome-Plated Accents: Brilliant finish for a modern touch. Ergonomic Design: Comfortable grip for ease of use. Specifications: Width: 35 mm Length: 110 mm Ring Size: M (21 mm) Material: Olive Wood Brush Head: Fine Badger Vegan: No Design Series: KOSMO Category: Shaving Brush Color: Light Brown Experience the perfect blend of tradition and innovation with the MÜHLE KOSMO Fine Badger Olive Wood Shaving Brush—a must-have for discerning gentlemen.",
@@ -5764,6 +5791,15 @@
         "price": "£11.95",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-mango-wood-shaving-soap-bowl-male-grooming-supplies-528106.jpg?v=1722956727"
+      },
+      {
+        "name": "Parker Deluxe ADJUSTABLE Chrome Safety Razor & Shave Brush Stand",
+        "category": "Parker Shaving",
+        "description": "The Parker Deluxe Adjustable Chrome Safety Razor and Shave Brush Stand is a heavyweight, chrome-plated stand designed to store most safety razors and a wide variety of shaving brushes. Its patent-pending adjustable prongs allow the brush holder to widen or narrow, providing a secure fit for different handle shapes and knot sizes. A downward-facing drying position helps maintain brush longevity, and the stand’s solid build and balanced design keep your tools stored safely between shaves. The high-lustre chrome finish and weighted base make it both a functional and attractive addition to any bathroom countertop. Key Features: Designed for most standard safety razors with round handles Adjustable prongs accommodate a wide range of shaving brush sizes Weighted base for stability Rubber feet to prevent slipping or surface scratches High-lustre chrome finish for a clean, modern appearance Helps extend brush life by allowing bristles to dry facing down Ideal for organised and hygienic razor and brush storage Razor and brush sold separately Specifications: Material: Chrome-plated metal Stand type: Safety razor and shaving brush stand Compatibility: Most safety razors with round handles and brushes of varied handle widths Base: Weighted with protective rubbe",
+        "url": "https://www.malegroomingsupplies.com/products/parker-deluxe-adjustable-chrome-razor-brush-stand",
+        "price": "£22.95",
+        "vendor": "Parker",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ParkStdAdjmain-1.jpg?v=1764938582"
       },
       {
         "name": "Parker Director BK Non-Folding Barber Razor – Japanese Style Shavette",
@@ -7152,6 +7188,15 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CL1Best.png?v=1763205418"
       },
       {
+        "name": "Simpsons 'The Colonel X2L' Sovereign Synthetic Shaving Brush",
+        "category": "Shaving Brushes",
+        "description": "The Simpsons Colonel X2L Sovereign Synthetic Shaving Brush is a classic and widely admired design, presented in a traditional faux ivory handle and filled with Sovereign Grade synthetic fibre . Known for its balanced shape and reliable performance, the Colonel X2L is often recommended as the perfect entry point into the Simpsons range. It produces a smooth, consistent lather with both soaps and creams, offering soft tips, supportive backbone and excellent control during face lathering. Each brush is finished with the signature Simpsons label stating Hand Made in Great Britain . Key Features: Filled with Sovereign Grade synthetic fibre Classic faux ivory Colonel X2L handle Dense knot for rich, controlled lather Soft synthetic tips with dependable backbone Versatile performer with soaps and creams Features the Hand Made in Great Britain label Quick drying and suitable for daily use Specifications: Overall brush height: 98mm Handle height: 53mm Knot loft: 45mm Knot diameter: 21mm Weight: 63g",
+        "url": "https://www.malegroomingsupplies.com/products/simpsons-colonel-x2l-sovereign-synthetic",
+        "price": "£45.95",
+        "vendor": "Simpsons",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LSovereign-Front.jpg?v=1764959374"
+      },
+      {
         "name": "Simpsons 'The Colonel' Shaving Brush",
         "category": "Shaving Brushes",
         "description": "The Simpsons Colonel X2L Shaving Brush is a well-balanced and versatile wet shaving brush , regarded by many as the ideal introduction to Simpsons’ brushmaking craftsmanship. Hand-turned in a faux ivory handle and filled with Best Badger hair , the Colonel provides a smooth and reliable lathering experience whether used with shaving soaps or creams. Its medium size and comfortable handle shape make it a practical daily choice, offering excellent control without feeling bulky or heavy in the hand. The Colonel X2L is often praised for delivering outstanding performance at a very approachable level within the Simpsons range. The brush is finished with the traditional Simpsons front label stating Hand Made in Great Britain , reflecting over a century of British brushmaking heritage. Key Features: Filled with Best Badger hair for balanced softness and backbone Hand-turned faux ivory handle in a comfortable, medium-sized shape Suitable for both face and bowl lathering A popular and highly regarded entry point into the Simpsons range Handcrafted in Britain , finished with the Hand Made in Great Britain label Specifications: Overall brush height: 98mm Handle height: 53mm Knot loft: 45mm Knot diameter: 21mm Weight: 63g",
@@ -7285,6 +7330,15 @@
         "price": "£184.55",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL14Super-Front.png?v=1763205352"
+      },
+      {
+        "name": "Simpsons 'The Rover' Sovereign Synthetic Shaving Brush",
+        "category": "Shaving Brushes",
+        "description": "The Simpsons Rover Sovereign Synthetic Shaving Brush is a classic model reintroduced due to strong customer demand. Hand-turned in a traditional faux ivory handle , the Rover is admired for its compact design and its ability to create a dense, creamy lather with ease. Filled with Sovereign Grade synthetic fibre , the brush offers soft tips, dependable backbone and smooth performance with both soaps and creams. Its balanced proportions and comfortable grip make it particularly well suited to precise face lathering and daily use. Key Features: Filled with Sovereign Grade synthetic fibre Classic faux ivory Rover handle Dense knot for rich, consistent lather Soft synthetic tips with supportive backbone Compact and comfortable shape for face lathering Quick drying and suitable for everyday use Specifications: Overall brush height: 90mm Knot loft: 45mm Handle height: 45mm Knot diameter: 22mm",
+        "url": "https://www.malegroomingsupplies.com/products/simpsons-rover-sovereign-synthetic",
+        "price": "£47.00",
+        "vendor": "Simpsons",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_33.png?v=1764958275"
       },
       {
         "name": "Simpsons 'The Special' Shaving Brush",
@@ -8320,15 +8374,6 @@
         "price": "£15.00",
         "vendor": "Wibergs",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/300ML_clipped_rev_1.jpg?v=1737317745"
-      },
-      {
-        "name": "Wilkinson Sword Barber's Style Post Shave Balm 118ml",
-        "category": "Wilkinson Sword",
-        "description": "Bring the barbershop experience to your home with the Wilkinson Sword Barber’s Style Post-Shave Balm . Specially crafted with shea butter and menthol, this balm cools, soothes, and moisturizes your skin after shaving, leaving it soft and refreshed without a greasy residue. Infused with a fresh \"Mint Forest\" fragrance inspired by barbershop elegance, this post-shave balm pampers your skin while delivering a rejuvenating scent. Suitable for daily use, it provides up to 55 invigorating applications. Key Features: Cooling Effect: Menthol delivers a refreshing post-shave sensation. Moisturizing Formula: Enriched with shea butter and glycerin for smooth, hydrated skin. Fresh Fragrance: Mint Forest scent inspired by the barbershop experience. Non-Greasy Finish: Lightweight formula absorbs quickly into the skin. How to Use: Apply an almond-sized amount to your face and neck after shaving. Massage gently until fully absorbed, and enjoy the invigorated feeling. Specifications: Size: 55ml Fragrance: Mint Forest Applications: Up to 55 uses Ingredients: Includes natural ingredients such as Shea Butter, Menthol, Tea Tree Oil, and Baobab Oil. Free from parabens and harmful additives.",
-        "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-barbers-style-post-shave-balm",
-        "price": "£5.00",
-        "vendor": "Wilkinson Sword",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/wilkinson-sword-barbers-style-post-shave-balm-118ml-282720.webp?v=1723969855"
       },
       {
         "name": "Wilkinson Sword Double Edge Razor Blades",
