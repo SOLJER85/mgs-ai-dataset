@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2025-12-22",
+    "last_updated": "2025-12-23",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -2510,7 +2510,7 @@
       {
         "name": "Dovo Ebony Wood Handle Shavette",
         "category": "DOVO Solingen",
-        "description": "The Dovo Ebony Wood Handle Shavette offers the sophistication of a classic straight razor with the modern convenience of interchangeable blades. This premium grooming tool is expertly crafted with a polished stainless steel body and a luxurious black ebony handle, blending durability with refined aesthetics. Perfect for barbers and personal grooming enthusiasts alike, the Shavette ensures a hygienic, precise shaving experience by allowing blade replacements for each use. With its ergonomic design and high-quality materials, this Shavette delivers unparalleled control, making it a standout tool for both shaping and shaving. Key Features: Polished stainless steel construction for durability and a sleek finish. Handle crafted from premium black ebony wood for a timeless look. Includes two black razor blade holders for easy blade changes. Supplied with one Merkur Super blade for immediate use. Hygienic and practical design, ideal for barbers and home use. Specifications: Material: Stainless steel (1.4301), black ebony wood handle. Dimensions: 14.4 cm x 2.5 cm x 1.4 cm. Scope of Supply: 1 Dovo Shavette, 2 black blade holders, 1 Merkur Super blade. Usage: Compatible with regular short double-edge blades (when split in half).",
+        "description": "The Dovo Ebony Wood Handle Shavette offers the sophistication of a classic straight razor with the modern convenience of interchangeable blades. This premium grooming tool is expertly crafted with a polished stainless steel body and a luxurious black ebony handle, blending durability with refined aesthetics. Perfect for barbers and personal grooming enthusiasts alike, the Shavette ensures a hygienic, precise shaving experience by allowing blade replacements for each use. With its ergonomic design and high-quality materials, this Shavette delivers unparalleled control, making it a standout tool for both shaping and shaving. Key Features: Polished stainless steel construction for durability and a sleek finish. Handle crafted from premium black ebony wood for a timeless look. Includes two black razor blade holders for easy blade changes. Supplied with one Merkur Super blade for immediate use. Hygienic and practical design, ideal for barbers and home use. Specifications: Material: Stainless steel (1.4301), black ebony wood handle. Dimensions: 14.4 cm x 2.5 cm x 1.4 cm. Scope of Supply: 1 Dovo Shavette, 2 black blade holders, 1 Merkur Super blade. Usage: Compatible with regular short double-edge blades (when split in half). Previous SKU: 201061",
         "url": "https://www.malegroomingsupplies.com/products/dovo-ebony-wood-handle-shavette-straight-razor-201061",
         "price": "£49.25",
         "vendor": "Dovo",
@@ -7924,6 +7924,24 @@
         "price": "£11.95",
         "vendor": "Taylor of Old Bond Street",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/j01004-shaving-cream-rose-150ml-2023_2048x_43d9c767-f270-4c76-bc16-488676c6cc5f.jpg?v=1743444412"
+      },
+      {
+        "name": "Taylor of Old Bond Street Royal Forest Shaving Cream 150g",
+        "category": "Shaving Creams",
+        "description": "Taylor of Old Bond Street Royal Forest Shaving Cream delivers a fresh and clean shave with a bright, modern fragrance. The rich, creamy lather cushions the skin and softens facial hair, helping the razor glide easily while reducing irritation. The scent is a fresh masculine fougère , opening with bergamot, mandarin , and citrus ozone notes , followed by a floral-fruity heart and a woody amber base . Contains natural oils including coriander, geranium, lavandin grosso, lemon, patchouli, pine , and spearmint . Key Features: Builds a thick lather for close, comfortable shaving Bright, modern fougère scent with citrus, woods, and herbs Enriched with a blend of natural essential oils Best used with a shaving brush Made in the UK Specifications: Type: Shaving Cream Bowl Fragrance: Royal Forest Size: 150g Use: Wet shaving Made in: England",
+        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-royal-forest-shaving-cream-150g",
+        "price": "£13.95",
+        "vendor": "Taylor of Old Bond Street",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J00998-Royal-Forest-Shaving-Cream-Bowl-150g-1200x1200px_2048x_bcd0d250-7c55-4ca4-a06d-dbee02e3c627.jpg?v=1743371893"
+      },
+      {
+        "name": "Taylor of Old Bond Street Sandalwood & Pure Badger Luxury Wooden Gift Box",
+        "category": "Badger Shaving Brushes",
+        "description": "A timeless grooming gift, the Taylor of Old Bond Street Sandalwood & Pure Badger Luxury Wooden Gift Box brings together two essentials for the classic wet shave. This premium set features a 150g bowl of Sandalwood Shaving Cream , renowned for its rich, creamy lather and refined masculine fragrance, along with a pure badger shaving brush in elegant imitation ivory. Presented in a beautifully crafted luxury wooden box , this set is ideal for both seasoned wet shavers and those new to traditional grooming. Set Includes: Sandalwood Shaving Cream Bowl (150g) Pure Badger Shaving Brush (Imitation Ivory Handle) Luxury Wooden Gift Box",
+        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-sandalwood-pure-badger-luxury-wooden-gift-box",
+        "price": "£52.59",
+        "vendor": "Taylor of Old Bond Street",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J00215-pure-badger-brush-and-sandalwood-shave-cream-in-luxury-gift-box-1200p.jpg?v=1743371896"
       },
       {
         "name": "Taylor of Old Bond Street Sandalwood Aftershave Gel 75ml",
