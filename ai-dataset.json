@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-01-20",
+    "last_updated": "2026-01-21",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -4965,6 +4965,15 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Muhle-R103-Safety-Razor-Open-Comb-Tortoise-Shell-32_0a7b2ce2-9e93-4824-bec4-7dbf072c3a1a.jpg?v=1768059476"
       },
       {
+        "name": "Muhle R108 Tortoiseshell Closed Comb Safety Razor",
+        "category": "MUHLE Shaving",
+        "description": "The Muhle R108 Closed Comb Safety Razor combines a classic shaving format with a distinctive tortoiseshell-style handle. Designed for smooth, comfortable daily shaving, the closed comb head offers a forgiving shave that suits a wide range of skin types and experience levels. The handle is made from high-grade resin with a tortoiseshell finish, giving each razor a warm, patterned appearance. Chrome-plated metal accents add strength, balance, and a refined contrast to the handle. Comfortable in the hand and well proportioned, the R108 is a dependable choice for those who want reliable performance with a more characterful look. Please note: tortoiseshell-patterned resin varies in tone and pattern. Each razor is unique and may differ slightly from the images shown. Key Features: Closed comb safety razor designed for smooth, controlled shaving. High-grade resin handle with tortoiseshell-style finish. Chrome-plated metal accents for durability and balance. Comfortable, well-balanced feel suitable for daily use. Specifications: Razor Type: Double edge safety razor Comb Type: Closed comb Handle Material: High-grade resin, tortoiseshell pattern Finish: Chrome-plated metal accents Dimensions: 41 mm x 94 mm Weight: 64 g",
+        "url": "https://www.malegroomingsupplies.com/products/muhle-r108-tortoiseshell-closed-comb-safety-razor",
+        "price": "£31.95",
+        "vendor": "Muhle",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Muhle-R103-Safety-Razor-Open-Comb-Tortoise-Shell-32.jpg?v=1768059018"
+      },
+      {
         "name": "Muhle R41 Grande Open Comb Safety Razor",
         "category": "MUHLE Shaving",
         "description": "The Muhle R41 Grande Safety Razor is an open comb double edge safety razor designed for very close, efficient shaving. It is particularly well suited to experienced wet shavers and those with thick, coarse, or longer beard growth. The open comb head allows greater blade contact with the hair, making it effective for tackling heavier growth and less frequent shaving. The Grande version features a longer and heavier handle, providing a more substantial feel and improved grip. Finished in polished chrome, the razor offers excellent durability, corrosion resistance, and a clean, understated appearance suited to regular use. Key Features: Open comb safety razor designed for highly efficient shaving. Well suited to thick or coarse beard growth and longer stubble. Longer handle design offering added weight and control. Chrome-plated metal construction for durability and easy maintenance. Recommended for experienced wet shavers who prefer a direct shave feel. Specifications: Razor Type: Double edge safety razor Comb Type: Open comb Material: Chrome-plated metal Weight: 90 g Dimensions: 41 mm x 107 mm",
@@ -5071,15 +5080,6 @@
         "price": "£255.00",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muehle-sophist-rasierset-hobel-porzellan-silberspitz-dachszupf_s93p84sr_2000x2000_clipped_rev_1.jpg?v=1732126621"
-      },
-      {
-        "name": "Muhle Tortoiseshell Closed Comb Safety Razor",
-        "category": "MUHLE Shaving",
-        "description": "The Muhle R108 Closed Comb Safety Razor combines a classic shaving format with a distinctive tortoiseshell-style handle. Designed for smooth, comfortable daily shaving, the closed comb head offers a forgiving shave that suits a wide range of skin types and experience levels. The handle is made from high-grade resin with a tortoiseshell finish, giving each razor a warm, patterned appearance. Chrome-plated metal accents add strength, balance, and a refined contrast to the handle. Comfortable in the hand and well proportioned, the R108 is a dependable choice for those who want reliable performance with a more characterful look. Please note: tortoiseshell-patterned resin varies in tone and pattern. Each razor is unique and may differ slightly from the images shown. Key Features: Closed comb safety razor designed for smooth, controlled shaving. High-grade resin handle with tortoiseshell-style finish. Chrome-plated metal accents for durability and balance. Comfortable, well-balanced feel suitable for daily use. Specifications: Razor Type: Double edge safety razor Comb Type: Closed comb Handle Material: High-grade resin, tortoiseshell pattern Finish: Chrome-plated metal accents Dimensions: 41 mm x 94 mm Weight: 64 g",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-r108-tortoiseshell-closed-comb-safety-razor",
-        "price": "£31.95",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Muhle-R103-Safety-Razor-Open-Comb-Tortoise-Shell-32.jpg?v=1768059018"
       },
       {
         "name": "Muhle Tortoiseshell Resin Shaving Brush Drip Stand",
