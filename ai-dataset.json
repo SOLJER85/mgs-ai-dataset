@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-01-24",
+    "last_updated": "2026-01-25",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -5175,7 +5175,7 @@
         "name": "Muhle VIVO Plum Wood 3 Piece Safety Razor Shaving Set",
         "category": "MUHLE Shaving",
         "description": "The Muhle VIVO 3-Piece Safety Razor Shaving Set in plum wood combines natural materials with clean, functional design. The handles are made from sustainably sourced plum wood, known for its rich colour and distinctive grain. The wood is oil-sealed to help protect against moisture while retaining a warm, natural feel in the hand. This set includes a closed comb safety razor for smooth, comfortable shaving, a Pure Badger shaving brush for building a rich lather, and a matching chrome-plated stand to keep everything neatly organised. Well suited to both beginners and experienced wet shavers, the VIVO plum wood set offers dependable daily performance with a more traditional, natural look. Please note: as a natural material, plum wood varies in grain and tone. Each set is unique and may differ slightly from the images shown. Key Features: Three-piece shaving set including safety razor, shaving brush, and stand. Closed comb safety razor for smooth, forgiving daily shaving. Pure Badger shaving brush suitable for rich lathering and gentle exfoliation. Plum wood handles with oil-sealed finish for water resistance. Chrome-plated stand for tidy and practical storage. Specifications: Razor Type: Double edge safety razor Comb Type: Closed comb Brush Hair: Pure Badger Ring Size: 21 mm (Size M) Handle Material: Plum wood, oil-sealed Stand Material: Chrome-plated metal Replaceable Brush Head: No Bowl Included: No Vegan: No",
-        "url": "https://www.malegroomingsupplies.com/products/uhle-vivo-plum-wood-3-piece-shaving-set",
+        "url": "https://www.malegroomingsupplies.com/products/muhle-vivo-plum-wood-3-piece-shaving-set",
         "price": "£85.00",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-3-piece-sr-shaving-set-male-grooming-supplies-351073.jpg?v=1722956391"
@@ -5865,6 +5865,24 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-adjustable-injector-razor-male-grooming-supplies-496608.jpg?v=1722956692"
       },
       {
+        "name": "Parker AeroShave Aluminum Classic Length Safety Razor",
+        "category": "Parker Shaving",
+        "description": "The Parker AeroShave Aluminum 3-Piece Safety Razor-Classic Length Handle is designed to be one of the easiest and most forgiving double edge safety razors to use. Its mild blade angle and positive yet minimal blade exposure provide a smooth, comfortable shave while helping to reduce irritation, razor bumps, and ingrown hairs. Precision CNC-machined from 6061 aluminum , the AeroShave is exceptionally lightweight , offering excellent control and balance throughout the shave. The classic length handle suits those who prefer a shorter, more traditional grip while maintaining stability and accuracy, particularly when shaving around contours and tighter areas. With its modern matte anodised finish and distinctive eco-green safety bar plate , the AeroShave combines contemporary styling with reliable, all-metal construction, making it suitable for both beginners and experienced wet shavers. Key Features Mild shaving profile ideal for sensitive skin and daily use. Ultra-lightweight aluminum construction for precise handling. Classic length handle for a traditional, balanced grip. CNC-machined for consistent blade alignment and durability. Three-piece closed comb safety razor for easy cleaning and maintenance. Specifications Razor type: Three-piece closed comb safety razor . Material: 6061 aluminum . Finish: Silver anodised handle and cap with eco-green anodised safety bar plate . Handle length: 84.8 mm . Overall length: 92.2 mm . Head width: 43.2 mm . Head depth: 24.7 mm . Head thickness: 6.95 mm . Blade gap: 0.59 mm . Blade exposure: +0.015 mm . Shaving angle: 45 degrees . Weight: 39 g . Blade included: No .",
+        "url": "https://www.malegroomingsupplies.com/products/parker-aeroshave-aluminum-classic-length-safety-razor",
+        "price": "£45.50",
+        "vendor": "Parker",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aeroshaveS-main-right.jpg?v=1769259585"
+      },
+      {
+        "name": "Parker AeroShave Aluminum Long Handle Safety Razor",
+        "category": "Parker Shaving",
+        "description": "The Parker AeroShave Aluminum 3-Piece Safety Razor-Long Handle is designed to deliver one of the most forgiving and comfortable double edge safety razor shaves available. Its mild blade angle and minimal blade exposure help reduce irritation, making it an excellent choice for sensitive skin , daily shaving, and those new to traditional wet shaving . CNC-machined from 6061 aluminum , the AeroShave is exceptionally lightweight , allowing the razor to glide smoothly with minimal pressure. The long handle provides improved balance and control, helping maintain a steady shaving angle while navigating contours and tighter areas with ease. Finished with a modern matte anodised surface and a distinctive eco-green safety bar plate , the AeroShave combines contemporary design with practical performance in a durable, all-metal construction. Key Features Mild shaving profile for smooth, irritation-free results. Ultra-lightweight aluminum construction for precise control. Long handle design for improved balance and handling. CNC-machined for accurate blade alignment and durability. Three-piece closed comb safety razor for easy cleaning and maintenance. Specifications Razor type: Three-piece closed comb safety razor . Material: 6061 aluminum . Finish: Silver anodised handle and cap with eco-green anodised safety bar plate . Handle length: 96 mm . Overall length: 102.8 mm . Head width: 43.2 mm . Head depth: 24.7 mm . Head thickness: 6.95 mm . Blade gap: 0.59 mm . Blade exposure: +0.015 mm . Shaving angle: 45 degrees . Weight: 42 g . Blade included: No .",
+        "url": "https://www.malegroomingsupplies.com/products/parker-aeroshave-aluminum-long-handle-safety-razor",
+        "price": "£45.50",
+        "vendor": "Parker",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_37.png?v=1769261179"
+      },
+      {
         "name": "Parker Alum Block in Plastic Case 125g",
         "category": "Parker Shaving",
         "description": "The Parker Alum Block in Plastic Case (125g) offers a premium post-shave treatment made from 100% pure natural potash alum. Unlike chemically derived alternatives, this high-quality alum block is renowned for its superior antiseptic properties, providing an effective solution for treating minor shaving nicks and cuts. With origins tracing back over 4,000 years to the Egyptians, alum remains a timeless grooming essential. Designed for convenience, this large 125g alum stone comes with a protective plastic travel case, ensuring durability and portability. Using the alum block is simple: wet the block with cold water, apply it to freshly shaved skin, and rinse off after 30 seconds. You'll experience its antiseptic action, leaving your skin refreshed and smooth. Key Features: Antiseptic properties to soothe skin and treat shaving nicks. Made from 100% pure natural potash alum. Large 125g/4 oz. size, lasting for years of regular use. Packaged in a protective plastic case, ideal for travel. A time-honoured grooming solution, first used over 4,000 years ago. Add the Parker Alum Block to your shaving routine for an effective and natural way to care for your skin.",
@@ -5901,6 +5919,15 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-caddy-4-razor-stand-chrome-male-grooming-supplies-679458.jpg?v=1722956670"
       },
       {
+        "name": "Parker CHRFUS Fusion Compatible Deluxe Chrome Razor",
+        "category": "Parker Shaving",
+        "description": "The Parker CHRFUS Fusion Compatible Deluxe Chrome Razor combines substantial weight with refined design to deliver a smooth, controlled shave. Compatible with Gillette Fusion blades , this cartridge razor is designed to reduce tugging by allowing the razor’s natural weight to do the work rather than relying on pressure. The textured chrome handle provides a secure grip, even with wet or soapy hands, helping maintain control and consistency throughout the shave. Its balanced feel and solid construction make it suitable for everyday use while also presenting well as a thoughtful grooming gift. Supplied with one Gillette Fusion blade and presented in a black Parker gift box , the CHRFUS offers both performance and presentation in equal measure. Key Features Fusion compatible razor for convenient blade replacement. Heavyweight handle to minimise tugging and improve comfort. Textured chrome finish for secure grip and control. Well-balanced design suitable for daily shaving. Supplied in branded Parker packaging . Specifications Razor type: Fusion compatible cartridge razor . Handle material: Textured chrome . Weight: 116 g . Length: 133 mm . Packaging: Branded Parker gift box . Blade included: Yes, one Gillette Fusion blade .",
+        "url": "https://www.malegroomingsupplies.com/products/parker-chrfus-fusion-compatible-deluxe-chrome-razor",
+        "price": "£40.65",
+        "vendor": "Parker",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chrfus-cat_clipped_rev_1.jpg?v=1769254922"
+      },
+      {
         "name": "Parker Classic Style Mango Wood Shaving Soap Bowl",
         "category": "Parker Shaving",
         "description": "Parker Safety Razor’s Shaving Soap Bowl is expertly hand-crafted from genuine mango wood, featuring an exceptionally high luster for a polished and elegant finish. Sourced from a renewable resource, mango wood is known for its durability and enduring beauty, making it a timeless addition to your shaving routine. Designed to securely house shaving soap, this bowl combines functionality with style. After use, simply leave the lid off to allow the soap to dry before replacing it. Key Features: Handcrafted from genuine mango wood with a high-luster finish. Durable, renewable material that maintains its elegance over time. Ideal for securely housing shaving soaps. Easy to maintain—allow soap to dry with the lid off after use. Specifications: Exterior dimensions: 3.8 inches wide x 1.75 inches deep (approx. 9.7 cm x 4.5 cm). Interior dimensions: 3.2 inches wide x 1 inch deep (approx. 8.1 cm x 2.5 cm). Lightweight and compact for easy handling. Packaging: Eco-friendly and secure.",
@@ -5917,6 +5944,15 @@
         "price": "£22.95",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ParkStdAdjmain-1.jpg?v=1764938582"
+      },
+      {
+        "name": "Parker Deluxe Black Safety Razor & Shave Brush Stand",
+        "category": "Parker Shaving",
+        "description": "The Parker Deluxe Black Safety Razor & Shave Brush Stand is designed to provide proper storage for your safety razor and shaving brush while helping to extend their lifespan. Crafted from solid brass with a durable matte black finish , this heavyweight stand offers stability, protection, and a refined presence on the bathroom countertop. Correct drying is essential for brush longevity, and storing a shaving brush bristles-down helps prevent water retention at the knot. This stand supports proper airflow, allowing brushes to dry thoroughly between uses while keeping both razor and brush organised and easily accessible. Designed to accommodate most standard round-handled safety razors and shaving brushes with 20 to 25 mm knots , the Parker Deluxe stand combines practical function with understated styling. Key Features Heavyweight solid brass construction for excellent stability. Matte black finish for a clean, contemporary look. Weighted base to prevent tipping. Rubber feet to protect countertop surfaces from scratching. Supports proper bristles-down drying for shaving brushes. Specifications Material: Solid brass . Finish: Matte black . Compatibility: Most standard safety razors and shaving brushes with 20 to 25 mm knots . Base: Weighted with rubber feet . Dimensions: 15.2 × 7.1 × 7.1 cm . Razor and brush included: No .",
+        "url": "https://www.malegroomingsupplies.com/products/parker-deluxe-black-safety-razor-brush-stand",
+        "price": "£25.60",
+        "vendor": "Parker",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Parkerblackstd-main-angled.png?v=1769258735"
       },
       {
         "name": "Parker Director BK Non-Folding Barber Razor – Japanese Style Shavette",
@@ -5953,6 +5989,15 @@
         "price": "£14.95",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-double-sided-rosewood-beard-comb-male-grooming-supplies-980979.jpg?v=1722956714"
+      },
+      {
+        "name": "Parker Fusion Compatible Travel Razor With Leather Case",
+        "category": "Parker Shaving",
+        "description": "The Parker TRAVFUS Fusion Compatible Travel Razor with Leather Case is designed for comfortable shaving while travelling, without compromising on weight, balance, or build quality. Compact yet reassuringly solid, this travel razor delivers a smooth, controlled shave whether used on the road or as an everyday option. At just 3.75 inches in length , the razor is easy to pack while its solid brass frame provides the weight needed for a stable, comfortable shaving experience. The textured chrome plated handle improves grip and control, even when shaving in less familiar environments. Supplied with a saddle brown genuine buffalo leather case with a felt-lined interior, the TRAVFUS offers practical protection for transport while adding a refined finishing touch. Compatible with Gillette Fusion blades , it provides convenience and easy blade availability worldwide. Key Features Fusion compatible travel razor suitable for home or travel use. Solid brass handle for balanced weight and durability. Textured chrome plated finish for improved grip. Compact size ideal for wash bags and carry-on luggage. Supplied with a genuine leather felt-lined travel case . Specifications Razor type: Fusion compatible razor . Handle material: Solid brass with chrome plated finish. Weight: 60 g . Razor length: 95 mm . Length with case: 102 mm . Case material: Genuine buffalo leather , felt lined. Dimensions: 9.5 × 5.1 × 2.5 cm . Blade included: Yes, one Gillette Fusion blade .",
+        "url": "https://www.malegroomingsupplies.com/products/parker-travfus-fusion-compatible-travel-razor",
+        "price": "£29.95",
+        "vendor": "Parker",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Travfus-no-case_clipped_rev_1.jpg?v=1769257165"
       },
       {
         "name": "Parker Honey Mango Wood Shaving Soap Bowl",
@@ -6223,6 +6268,15 @@
         "price": "£22.95",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-and-brush-stand-male-grooming-supplies-314662.jpg?v=1722957145"
+      },
+      {
+        "name": "Parker Sandalwood & Shea Butter Travel Shave Soap 50g",
+        "category": "Parker Shaving",
+        "description": "The Parker Sandalwood & Shea Butter Travel Shave Soap 50g is a compact, high-quality shaving soap formulated to deliver a smooth, comfortable shave while conditioning the skin. Made with genuine Ethiopian shea butter and real sandalwood , it produces a rich, creamy lather that supports excellent glide and protection when used with a shaving brush . Enriched with olive oil, aloe vera, cocoa butter, coconut oil, and almond oil , this soap helps soften facial hair while lubricating and conditioning the skin. The result is a dense, long-lasting lather that remains stable throughout the shave, making it suitable for both home use and travel. Housed in a watertight container , this travel-friendly shave soap is ideal for wet shavers who value performance, skin comfort, and convenience in a compact format. Key Features Premium shaving soap with genuine shea butter and real sandalwood. Rich, creamy lather designed for use with a shaving brush. Skin-conditioning formula with natural oils and aloe vera. Watertight container suitable for travel or everyday storage. Ideal for wet shavers seeking consistent glide and comfort. Specifications Product type: Shaving soap . Weight: 50 g . Fragrance: Sandalwood . Container: Watertight travel container . Dimensions: 2.5 × 5.1 × 5.1 cm .",
+        "url": "https://www.malegroomingsupplies.com/products/parker-sandalwood-shea-butter-travel-shave-soap-50g",
+        "price": "£6.00",
+        "vendor": "Parker",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SSPPARK150.png?v=1769253848"
       },
       {
         "name": "Parker Sandalwood and Sheabutter Shaving Soap 100g",
