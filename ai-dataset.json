@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-04-03",
+    "last_updated": "2026-04-04",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -5100,6 +5100,15 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/osma-haemostatic-pencil-12g-hs-male-grooming-supplies-725451.jpg?v=1731918797"
       },
       {
+        "name": "Osma Pre-Shave Oil 50ml",
+        "category": "Pre-Shave",
+        "description": "This 100% natural pre-shave oil is rich in vitamins and essential fatty acids to help protect the skin Smoothes and soothes allowing the razor to glide over the skin for a silky shave Made in France by Laboratoires OSMA who since 1957 have been manufacturing superior quality shaving products using natural ingredients where possible Glass Pump Flask",
+        "url": "https://www.malegroomingsupplies.com/products/osma-pre-shave-oil-50ml",
+        "price": "£14.35",
+        "vendor": "Osma",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Huile_avant-rasage_clipped_rev_1.jpg?v=1730146672"
+      },
+      {
         "name": "Osma Shaving Soap in Glass Jar 130g",
         "category": "Shaving Soap",
         "description": "The Osma Tradition Shaving Soap (130g) offers a luxurious shaving experience with over 99% natural ingredients , ensuring a smooth, comfortable, and nourishing shave . Formulated with hydrating vegetable oils like coconut and sunflower , this premium shaving soap enhances razor glide while protecting and moisturizing the skin. Shea butter adds an extra layer of nourishment, leaving your skin feeling soft, refreshed, and irritation-free . Housed in a sophisticated glass jar with a sleek black lid , this shaving soap is both practical and stylish , making it a perfect addition to any traditional wet shaving routine . When used with a shaving brush , it creates a rich, compact foam for enhanced lathering and effortless shaving . For a sustainable option , this soap is also available as a refill , allowing you to reduce waste while enjoying the same premium quality shave . Key Features: 99% Natural Ingredients – Gentle, skin-friendly formula with premium vegetable oils. Shea Butter Enriched – Deeply hydrates and soothes the skin post-shave. Superior Lather & Glide – Enhances razor performance for a smooth, irritation-free shave. Elegant Glass Jar – Stylish, durable, and practical for daily use. Light, Fresh Fragrance – Adds a luxurious touch to your grooming routine. Eco-Friendly Refill Available – Helps reduce waste without compromising on quality. Specifications: Product Type: Shaving Soap in Glass Jar Size: 130g Key Ingredients: Coconut Oil, Sunflower Oil, Shea Butter Packaging: Reusable Glass Jar With Black Lid Lather Type: Rich, Compact Foam (Best Used With A Shaving Brush) Experience the perfect balance of tradition, quality, and sustainability with Osma Tradition Shaving Soap —crafted for a superior wet shaving experience .",
@@ -5125,6 +5134,15 @@
         "price": "£8.40",
         "vendor": "Osma",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/shaving-soap-osma-shaving-soap-refill-100g-1.jpg?v=1730146673"
+      },
+      {
+        "name": "Osma Shaving Soap Refill 130g",
+        "category": "Shaving Soap",
+        "description": "Contains coconut and sunflower oils, and enriched with Shea Butter to nourish the skin and provide a smooth shave Made in France by Laboratoires OSMA who since 1957 have been manufacturing superior quality shaving products using natural ingredients where possible",
+        "url": "https://www.malegroomingsupplies.com/products/osma-shaving-soap-refill-130g",
+        "price": "£9.30",
+        "vendor": "Osma",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Rechargesabtradition_clipped_rev_1.jpg?v=1730146674"
       },
       {
         "name": "Osma Tradition Beard Oil 50ml",
