@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-04-11",
+    "last_updated": "2026-04-12",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -7872,6 +7872,15 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRBRDCOMB.jpg?v=1735926053"
       },
       {
+        "name": "The Bluebeards Revenge Matt Paste",
+        "category": "The Bluebeards Revenge",
+        "description": "Achieve effortlessly stylish looks with The Bluebeards Revenge Matt Paste. This versatile hair product offers a light to medium hold with a touchable texture, making it perfect for both classic and modern hairstyles. Its water-based formula is easy to apply and washes out effortlessly, leaving no residue behind. Infused with a fresh barbershop fragrance, this matt paste is ideal for medium to long hair and doubles as a great pre-styling product. Key Features: Light to Medium Hold: Perfect for creating touchable, natural textures. Pre-Styling Hero: Sets your hair for a variety of classic and modern styles. Water-Based Formula: Easy to apply and wash out without residue. Fresh Fragrance: Modern barbershop scent leaves your hair smelling great. Vegan-Friendly: Free from animal-derived ingredients, suitable for vegetarians and vegans. Why Choose The Bluebeards Revenge Matt Paste? Whether you’re aiming for a sleek, professional style or a relaxed, casual look, this matt paste provides the versatility you need while maintaining a commitment to ethical and effective grooming.",
+        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-matt-paste-100ml",
+        "price": "£5.85",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/hair-products-the-bluebeards-revenge-matt-paste-100ml-2.jpg?v=1735926058"
+      },
+      {
         "name": "The Bluebeards Revenge Original Body Wash 300ml",
         "category": "The Bluebeards Revenge",
         "description": "Shake up your shower routine with The Bluebeards Revenge Original Body Wash. Enriched with marula oil, this nourishing shower gel effectively cleanses sweat, dirt, and excess oils while restoring essential moisture to your skin. Finished with the invigorating Original scent, a blend of Madagascan vanilla, classic sandalwood, and patchouli, it provides a masculine fragrance that lasts all day and night. Key Features: Original Scent: A fresh, masculine blend of Madagascan vanilla, sandalwood, and patchouli for long-lasting freshness. Nourishing Formula: Contains marula oil to cleanse and hydrate your skin. Eco-Friendly Packaging: Packaged in a 100% recycled plastic bottle, which can be endlessly recycled, repurposed, or refilled. Vegan-Friendly: Free from animal-derived ingredients and cruelty-free. Daily Use: Perfect for refreshing your skin every day. Why Choose The Bluebeards Revenge Original Body Wash? This body wash offers an effective cleanse, a distinctive masculine scent, and eco-conscious packaging, making it a grooming essential for modern men.",
@@ -7888,6 +7897,15 @@
         "price": "£5.95",
         "vendor": "The Bluebeards Revenge",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRSBORI50_CARTON-1.jpg?v=1735926050"
+      },
+      {
+        "name": "The Bluebeards Revenge Post-Shave Balm 100ml",
+        "category": "Post-Shave",
+        "description": "Elevate your grooming routine with The Bluebeards Revenge Post-Shave Balm. This luxurious balm is specially formulated to reduce beard growth while nourishing and moisturizing freshly shaved skin. Enriched with Witch Hazel and Aloe Vera, it soothes irritation and tackles common shaving problems like razor rash and burn. Infused with Decelerine™, it provides long-term benefits by softening the skin and slowing down hair regrowth. Key Features: Reduces Beard Growth: Contains Decelerine™, a unique ingredient designed to slow hair regrowth. Nourishes & Moisturizes: Witch Hazel and Aloe Vera soothe and hydrate post-shave skin. Paraben-Free: Gentle formula free from parabens for a natural finish. Skin-Friendly: Helps to alleviate razor rash, burn, and irritation for a comfortable shave. Classic Scent: Subtle yet refreshing fragrance that complements your grooming routine. Why Choose The Bluebeards Revenge Post-Shave Balm? This balm offers a professional-quality finish while providing long-term benefits for smoother, healthier skin.",
+        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-post-shave-balm-100ml",
+        "price": "£4.85",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/post-shave-balm-the-bluebeards-revenge-post-shave-balm-100ml-1.jpg?v=1735926056"
       },
       {
         "name": "The Bluebeards Revenge Professional Range Pre-Shave Oil 250ml",
