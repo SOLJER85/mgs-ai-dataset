@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-04-29",
+    "last_updated": "2026-04-30",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -4081,6 +4081,15 @@
         "price": "£7.00",
         "vendor": "Morgan's",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Body-Wash-150ml-n-510x510.jpg?v=1748704721"
+      },
+      {
+        "name": "Morgan's Exfoliating Scrub 100ml",
+        "category": "New Additions",
+        "description": "Morgan’s Exfoliating Scrub is a natural based facial scrub designed to gently remove dull surface skin and cleanse away impurities. It helps leave the skin feeling smoother, fresher, and more refined without using plastic particles. Formulated with Ecuadorean Ivory Palm Seed Powder , the scrub provides physical exfoliation while eucalyptus , lime , and rosemary oils add a fresh, clean feel during use. Suitable for men’s grooming routines, it helps revive tired-looking skin and supports a clearer, healthier-looking complexion. Key Features: Exfoliating Face Scrub for tired, dull skin Ecuadorean Ivory Palm Seed Powder provides natural exfoliation Eucalyptus, Lime And Rosemary Oils for a fresh cleansing feel No Plastic Particles Helps cleanse away impurities for smoother-looking skin Suitable for regular men’s skincare routines Specifications: Size: 100ml Format: Tube Scrub type: Natural based physical exfoliant Key exfoliant: Ecuadorean Ivory Palm Seed Powder Plastic particles: None",
+        "url": "https://www.malegroomingsupplies.com/products/morgans-exfoliating-scrub-100ml",
+        "price": "£12.00",
+        "vendor": "Morgan's",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/43._Exfoliating_Face_Scrub_100ml.jpg?v=1777467531"
       },
       {
         "name": "Morgan's Gel Wax 150ml",
