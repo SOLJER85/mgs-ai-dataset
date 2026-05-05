@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-04",
+    "last_updated": "2026-05-05",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -319,6 +319,15 @@
         "price": "£43.00",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CaptainFawcettJimmyNiggles50mlLowRes-5.jpg?v=1751822911"
+      },
+      {
+        "name": "Captain Fawcett's Lavender Moustache Wax 15ml",
+        "category": "New Additions",
+        "description": "The Captain Fawcett Lavender Moustache Wax is the ultimate grooming aid for the gentleman intent on keeping a stiff upper lip, regardless. Discovered among Captain Fawcett’s personal papers, this authentic recipe has been faithfully recreated for the first time in over a century. Handmade using only the finest natural ingredients and premium Lavender essential oil, this wax provides excellent hold and a classic, soothing fragrance. Presented in a robust glass jar with a black screw top lid, it is the perfect companion for shaping, taming, and styling your upper lip topiary. Key Features Firm hold for shaping and styling moustaches Infused with calming, high-quality Lavender essential oil Handmade using natural, pure ingredients Supplied in a premium glass jar with screw top lid Ideal for daily use or as a refined gift Specifications Size: 15ml ℮ 0.5fl oz Fragrance: Lavender Packaging: Glass jar with black screw top lid How To Apply Keep the wax warm in a waistcoat or trouser pocket. Use the back of your fingernail to remove a small amount of wax. Soften between thumb and forefinger, then smooth into your moustache in an outward and upward motion. Add a final twisting flourish to perky tips for a tip-top finish. Ingredients Cera Flava (Yellow Beeswax), Paraffinum-Liquidum, Lavender Oil (Lavandula angustifolia).",
+        "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-lavender-moustache-wax-15ml",
+        "price": "£13.00",
+        "vendor": "Captain Fawcett",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/72301_72301_clipped_rev_1.jpg?v=1777923158"
       },
       {
         "name": "Captain Fawcett's Luxurious Shaving Soap 110g",
@@ -6261,13 +6270,58 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/personna-platinum-chrome-super-stainless-double-edge-blades-pack-of-200-436496.jpg?v=1722957742"
       },
       {
+        "name": "Proraso Azur Lime Beard Balm 100ml",
+        "category": "New Additions",
+        "description": "Proraso Azur Lime Beard Balm is a lightweight conditioning balm designed to soften new beard and moustache growth while helping to reduce itching and discomfort. Ideal for the early stages of beard growth, its fast-absorbing formula works into the beard and skin beneath, helping to improve softness, comfort and manageability without leaving a greasy residue. It helps tame coarse new hairs while keeping shorter beards feeling fresh and well cared for. The Azur Lime fragrance gives the beard a clean, uplifting scent with bright citrus character and a crisp, modern finish. With regular use, this balm helps leave facial hair feeling softer, smoother and easier to manage. Massage a small amount thoroughly into the beard and moustache to help condition the hair, comfort the skin and improve overall beard appearance. Key Features: Helps Reduce Itching: Designed to comfort the skin during early beard growth. Softens New Beard Growth: Improves the feel and manageability of shorter facial hair. Lightweight Formula: Absorbs easily without leaving a greasy residue. Conditioning Care: Helps nourish, protect and add body to the beard. Azur Lime Fragrance: Fresh citrus scent with a clean, modern finish. Suitable For Beard And Moustache: Helps condition and manage facial hair. Specifications: Product Type: Beard balm Size: 100ml Fragrance: Azur Lime Formula: Lightweight, fast-absorbing conditioning balm Use: Apply a small amount to the beard and moustache, then massage thoroughly into the beard Suitable For: Early beard growth, shorter beards and moustaches",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-azur-lime-beard-balm-100ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176691-pr400371-2-3-1000_clipped_rev_1.jpg?v=1777926980"
+      },
+      {
+        "name": "Proraso Azur Lime Beard Oil 30ml",
+        "category": "New Additions",
+        "description": "Proraso Azur Lime Beard Oil is a lightweight conditioning oil designed for longer, thicker beards that need softness, control and a fresher feel. The silicone-free formula is enriched with macadamia oil and avocado oil , helping to nourish facial hair, improve texture and support easier styling. It absorbs easily without leaving the beard feeling heavy or greasy, making it suitable for daily grooming. Its bright Azur Lime fragrance gives the beard a clean, refreshing scent with lively citrus character. Ideal for taming coarse or unruly facial hair, this beard oil helps reduce dryness, improve manageability and leave the beard looking soft, healthy and well groomed. Apply a few drops to the palm of your hand, spread evenly from root to tip, then brush through carefully to remove knots and shape the beard. Key Features: Lightweight Beard Oil: Conditions longer, thicker beards without heaviness. Silicone-Free Formula: Absorbs easily and leaves a clean, non-greasy finish. Macadamia Oil: Helps nourish and soften facial hair. Avocado Oil: Supports smoother texture and improved manageability. Azur Lime Fragrance: Fresh citrus scent for a clean, revitalised finish. Improves Control: Helps tame coarse, dry or unruly beard hair. Specifications: Product Type: Beard oil Size: 30ml Fragrance: Azur Lime Formula: Silicone-free Key Ingredients: Macadamia oil and avocado oil Use: Apply a few drops to the palm, spread evenly from root to tip, then brush through Suitable For: Longer, thicker or coarse beards",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-azur-lime-beard-oil-30ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176693-pr400741-2-3-1000_clipped_rev_1.jpg?v=1777923506"
+      },
+      {
+        "name": "Proraso Azur Lime Beard Wash 200ml",
+        "category": "New Additions",
+        "description": "Proraso Azur Lime Beard Wash is a gentle, low-foaming cleanser designed to keep your beard clean, fresh and easy to manage. Formulated with plant-based surfactants , it helps remove dirt, impurities and unwanted odours without stripping the beard or skin. Its creamy texture creates a soft, lasting foam that works through the beard, helping to soften even coarse or bristly facial hair. The bright Azur Lime fragrance adds a clean, refreshing finish, combining lively citrus notes with a cool hint of mint. Suitable for beards of all lengths, it is ideal for regular use as part of a simple, effective grooming routine. Use once or twice a week, or daily if needed, to leave your beard feeling fresh, soft and well cared for. Key Features: Low-Foaming Formula: Gently cleanses the beard without harsh stripping. Plant-Based Surfactants: Help remove dirt, impurities and odours. Softens Coarse Hair: Leaves bristly beards feeling cleaner and easier to manage. Azur Lime Fragrance: Fresh citrus and mint scent for a clean finish. Creamy Texture: Produces a soft, lasting foam for thorough cleansing. Suitable For Regular Use: Recommended once or twice a week, or daily if required. Specifications: Product Type: Beard wash Size: 200ml Fragrance: Azur Lime Formula: Low-foaming cleanser with plant-based surfactants Dimensions: 6cm x 6cm x 13.5cm Use: Massage into a damp beard with warm water, then rinse thoroughly Recommended Use: Once or twice a week, or daily if needed",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-azur-lime-beard-wash-200ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/AZUR_LIME_detergente_75f98c42-9805-4af1-9a07-28652f2581cd.png?v=1777921729"
+      },
+      {
+        "name": "Proraso Azur Lime Cologne 100ml",
+        "category": "New Additions",
+        "description": "Proraso Azur Lime Cologne is an alcohol-based cologne with a fresh citrus profile and a clean barbershop character. It delivers an immediate refreshing feel, making it suitable as a post-shave finish or an everyday men’s fragrance. The scent combines bright citrus notes with subtle spice, creating a crisp, modern fragrance that feels light, clean, and easy to wear. Apply to the neck, or spray into the palm and gently dab onto the face after shaving. Key Features: Men’s Cologne with a fresh citrus fragrance Azur Lime Scent with Mediterranean-inspired brightness Alcohol-Based Formula for a crisp, refreshing finish Suitable for post-shave use or everyday fragrance Light, clean scent profile for regular wear Part of the Proraso barbershop fragrance range Specifications: Size: 100ml Format: Cologne Fragrance: Azur lime Formula: Alcohol based Usage: Spray onto the neck, or spray into the palm and gently dab onto the face Dimensions: 7cm depth , 12cm height , 4.2cm width Shipping note: Flammable item – hazardous goods shipping applies",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-azur-lime-cologne-100ml",
+        "price": "£26.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/AZUR_LIME_colonia2_9753cc2f-3c78-43ba-a369-7fad90cbf5ff_clipped_rev_1.jpg?v=1777916056"
+      },
+      {
+        "name": "Proraso Beard Exfoliating Paste 60ml",
+        "category": "New Additions",
+        "description": "Proraso Beard Exfoliating Paste is a beard exfoliator designed to deep clean the beard and skin beneath. Its textured formula helps remove impurities, dead skin, and product build-up, leaving the beard feeling cleaner, softer, and fresher. Infused with mint and rosemary , it provides a refreshing feel while helping to tone and revitalise the skin. Suitable as part of a regular beard care routine, it can also be used before shaving to help prepare the skin and improve overall grooming comfort. Key Features: Beard Exfoliating Paste for deep cleansing beard and skin Helps remove dead skin , impurities, and product build-up Supports cleaner skin and helps reduce blocked pores Infused with Mint for a cooling, refreshing feel Contains Rosemary to help tone and revitalise the skin Leaves the beard feeling softer and cleaner Suitable for weekly beard care or pre-shave preparation Specifications: Size: 60ml Format: Textured beard exfoliating paste Fragrance notes: Mint and rosemary Usage: Massage into the beard and skin, then rinse thoroughly Intended use: Beard cleansing, exfoliation, and pre-shave preparation Skin feel: Fresh, clean, and renewed",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-beard-exfoliating-paste-60ml",
+        "price": "£15.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404796-pr400803-2-3-1000_clipped_rev_1.jpg?v=1777910688"
+      },
+      {
         "name": "Proraso Blue Pre-Shave Cream 100ml",
         "category": "Pre-Shave",
         "description": "Proraso Blue Pre-Shave Cream is a pre-shave cream designed to prepare the skin and beard before shaving. Enriched with aloe vera and vitamin E , it helps soften facial hair, support razor glide, and improve comfort during a close shave. Applied before shaving cream or shaving soap, the formula helps condition the beard area and create a smoother surface for the razor. It is well suited to regular wet shaving routines, particularly where added preparation and skin comfort are needed. Key Features: Pre-Shave Cream designed to prepare the skin before shaving Enriched with Aloe Vera and Vitamin E Helps soften beard hair before shaving Supports smoother razor glide and shaving comfort Use before shaving cream, shaving soap, or shaving foam Suitable for regular wet shaving routines Specifications: Size: 100ml Format: Pre-shave cream Usage: Apply a small amount to damp fingertips and massage into the beard area before applying shaving cream Key ingredients: aloe vera and vitamin E Skin feel: Prepared, softened, and comfortable",
         "url": "https://www.malegroomingsupplies.com/products/proraso-blue-pre-shave-cream-100ml",
         "price": "£9.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crema-PROTETTIVA_f8e947fb-b477-4a6f-ab0a-aacb1c0135ae.png?v=1777834583"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404771-pr400503-2-3-1000_clipped_rev_1.jpg?v=1777885192"
       },
       {
         "name": "Proraso Blue Shaving Cream Tube 150ml",
@@ -6276,7 +6330,7 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-blue-shaving-cream-tube-150ml",
         "price": "£6.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sapone-tubo-PROTETTIVO-OK_bccb1616-3f5a-4eb4-8277-b0ebfd34436e_clipped_rev_1.jpg?v=1777836304"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9448079-pr400513-2-3-1000_clipped_rev_1.jpg?v=1777908906"
       },
       {
         "name": "Proraso Blue Shaving Foam 300ml",
@@ -6285,34 +6339,70 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-blue-shaving-foam-300ml",
         "price": "£7.00",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/schiuma-PROTETTIVA_e82ca17c-8041-4a2b-8506-1b9ed7084b76.png?v=1777844989"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404769-pr400448-2-3-1000_clipped_rev_1.jpg?v=1777909838"
+      },
+      {
+        "name": "Proraso Cypress & Vetyver Beard Balm 100ml",
+        "category": "New Additions",
+        "description": "Proraso Cypress & Vetyver Beard Balm is a lightweight conditioning balm designed to soften new beard and moustache growth while helping to reduce itching and discomfort. Its fast-absorbing formula works into the beard and skin beneath, helping to improve softness, comfort and manageability without leaving a heavy residue. It is especially useful during the early stages of beard growth, when facial hair can feel coarse, itchy or difficult to control. The fresh Cypress & Vetyver fragrance gives the beard a clean, woody scent with a refined finish. With regular use, this balm helps leave facial hair feeling softer, smoother and better cared for. Massage a small amount thoroughly into the beard and moustache to help condition the hair, comfort the skin and improve overall beard appearance. Key Features: Helps Reduce Itching: Designed to comfort the skin during early beard growth. Softens Beard Hair: Improves the feel and manageability of new facial hair. Lightweight Formula: Absorbs easily without leaving the beard feeling heavy. Conditioning Care: Helps nourish, protect and add body to the beard. Cypress & Vetyver Fragrance: Fresh, woody scent with a clean, refined finish. Suitable For Beard And Moustache: Helps condition and manage facial hair. Specifications: Product Type: Beard balm Size: 100ml Fragrance: Cypress & Vetyver Formula: Lightweight, fast-absorbing conditioning balm Use: Apply a small amount to the beard and moustache, then massage thoroughly into the beard Suitable For: Early beard growth, shorter beards and moustaches",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-cypress-vetyver-beard-balm-100ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404767-pr400372-2-3-1000_clipped_rev_1.jpg?v=1777926738"
+      },
+      {
+        "name": "Proraso Cypress & Vetyver Beard Oil 30ml",
+        "category": "New Additions",
+        "description": "Proraso Cypress & Vetyver Beard Oil is a lightweight conditioning oil designed for longer, thicker beards that need softness, control and improved manageability. The silicone-free formula is enriched with macadamia oil and avocado oil , helping to nourish the beard while giving the hair a smoother, more disciplined feel. It absorbs easily without leaving a heavy or greasy residue, making it well suited to daily beard care . Its fresh Cypress & Vetyver fragrance gives the beard a clean, woody scent with a refined finish. Ideal for taming coarse or unruly facial hair, this beard oil helps reduce dryness, improve comfort and leave the beard looking healthy, soft and well groomed. Apply a few drops to the palm of your hand, spread evenly from root to tip, then brush through carefully to remove knots and shape the beard. Key Features: Lightweight Beard Oil: Conditions longer, thicker beards without heaviness. Silicone-Free Formula: Designed to absorb easily and leave a clean finish. Macadamia Oil: Helps nourish and soften facial hair. Avocado Oil: Supports a smoother, more manageable beard. Cypress & Vetyver Fragrance: Fresh, woody scent with a refined finish. Improves Control: Helps tame coarse, dry or unruly beard hair. Specifications: Product Type: Beard oil Size: 30ml Fragrance: Cypress & Vetyver Formula: Silicone-free Key Ingredients: Macadamia oil and avocado oil Use: Apply a few drops to the palm, spread evenly from root to tip, then brush through Suitable For: Longer, thicker or coarse beards",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-cypress-vetyver-beard-oil-30ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404788-pr400742-2-3-1000_clipped_rev_1.jpg?v=1777922740"
+      },
+      {
+        "name": "Proraso Cypress & Vetyver Beard Wash 200ml",
+        "category": "New Additions",
+        "description": "Proraso Cypress & Vetyver Beard Wash is a gentle, low-foaming cleanser designed to keep your beard clean, fresh and comfortable. Made with plant-based surfactants , it helps remove dirt, impurities and unwanted odours while being kind to the beard and skin. Its creamy texture creates a soft, lasting foam that works through facial hair and helps soften even coarse, bristly beards. The Cypress & Vetyver fragrance gives the beard a clean, woody scent with a refined finish. Ideal for beards of all lengths, this beard wash helps improve softness and manageability as part of a regular grooming routine. Use once or twice a week, or daily if needed, to leave your beard feeling fresh, clean and well cared for. Key Features: Low-Foaming Formula: Gently cleanses without drying the beard or skin. Plant-Based Surfactants: Help remove dirt, impurities and unwanted odours. Softens Coarse Hair: Improves the feel and manageability of bristly beards. Creamy Texture: Produces a soft, lasting foam for comfortable cleansing. Cypress & Vetyver Fragrance: Fresh, woody scent with a refined finish. Suitable For Regular Use: Recommended once or twice a week, or daily if required. Specifications: Product Type: Beard wash Size: 200ml Fragrance: Cypress & Vetyver Formula: Low-foaming cleanser with plant-based surfactants Use: Massage into a damp beard with warm water, then rinse thoroughly Recommended Use: Once or twice a week, or daily if needed",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-cypress-vetyver-beard-wash-200ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404789-pr400752-2-3-1000_clipped_rev_1.jpg?v=1777922029"
+      },
+      {
+        "name": "Proraso Cypress & Vetyver Cologne 100ml",
+        "category": "New Additions",
+        "description": "Proraso Cypress & Vetyver Cologne is an alcohol-based cologne designed to refresh the skin and complete a refined grooming routine. It delivers an immediate clean feel with a distinctive woody fragrance built around cypress and vetiver. The scent combines crisp freshness with earthy depth, creating a balanced masculine finish that feels polished without being overpowering. Use after shaving or as a daily fragrance by applying to the neck, or by dabbing a small amount onto the face from the palm of the hand. Key Features: Men’s Cologne with a refined woody scent Cypress And Vetyver Fragrance combining freshness and depth Alcohol-Based Formula for a crisp, refreshing finish Helps leave the skin feeling clean and revitalised Suitable as a post-shave or daily grooming fragrance Long-lasting scent with a masculine character Specifications: Size: 100ml Format: Cologne Fragrance: Cypress and vetyver Formula: Alcohol based Usage: Spray onto the neck, or spray into the palm and gently dab onto the face Skin feel: Fresh, clean, and revitalised Shipping note: Flammable item – hazardous goods shipping applies SEO Information:",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-cypress-vetyver-cologne-100ml",
+        "price": "£26.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404792-pr400772-2-3-1000_clipped_rev_1.jpg?v=1777915681"
       },
       {
         "name": "Proraso Green After Shave Balm 100ml",
-        "category": "New Additions",
+        "category": "Post-Shave",
         "description": "Proraso Green After Shave Balm is a soothing aftershave balm designed to calm, hydrate, and refresh the skin after shaving. Enriched with eucalyptus oil and menthol , it helps reduce the feeling of irritation while leaving the skin comfortable and clean. The balm format provides post-shave comfort without the sharp feel of a splash lotion, making it suitable for regular use after wet shaving. Applied to clean, dry skin, it helps support a smooth, refreshed finish with the classic cooling character of the Proraso Green range. Key Features: After Shave Balm for post-shave comfort Enriched with Eucalyptus Oil and Menthol Helps calm the feel of irritation and redness after shaving Supports hydration for softer-feeling skin Comfortable balm format with a fresh cooling feel Suitable for regular men’s post-shave care Specifications: Size: 100ml Format: After shave balm Usage: Apply to clean, dry skin immediately after shaving Key ingredients: eucalyptus oil and menthol Skin feel: Cooling, hydrating, and refreshed",
         "url": "https://www.malegroomingsupplies.com/products/proraso-green-after-shave-balm-100ml",
         "price": "£12.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Balsamo-dopobarbaRINFRESCANTE_8ac3082a-3120-4c5b-9bc0-decf625ef502.png?v=1777835728"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176732-pr400580-2-3-1000_clipped_rev_1.jpg?v=1777885503"
       },
       {
         "name": "Proraso Green After Shave Lotion 100ml",
-        "category": "New Additions",
+        "category": "Post-Shave",
         "description": "Proraso Green After Shave Lotion is a refreshing aftershave lotion designed to tone and comfort the skin after shaving. Enriched with eucalyptus oil and menthol , it delivers a clean, cooling feel while helping the skin feel smooth and refreshed. This classic splash-style lotion is suited to regular wet shaving routines and provides a crisp post-shave finish. Apply a small amount to the palm and pat gently onto the face after shaving. Key Features: After Shave Lotion for a fresh post-shave finish Enriched with Eucalyptus Oil and Menthol Helps soothe and tone the skin after shaving Provides a clean, cooling sensation Supports a smooth, refreshed feel Suitable for regular wet shaving routines Specifications: Size: 100ml Format: After shave lotion Usage: Apply a small amount to the palm and pat gently onto the face after shaving Key ingredients: Eucalyptus oil and menthol Skin feel: Cooling, fresh, and toned Shipping note: Flammable item – hazardous goods shipping applies",
         "url": "https://www.malegroomingsupplies.com/products/proraso-green-after-shave-lotion-100ml",
         "price": "£12.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Lozione-RINFRESCANTE_1821fa78-1a15-4bf0-a378-77c7f5535504.png?v=1777834078"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176730-pr400570-2-3-1000_clipped_rev_1.jpg?v=1777884972"
       },
       {
         "name": "Proraso Green Pre-Shave Cream 100ml",
-        "category": "New Additions",
+        "category": "Pre-Shave",
         "description": "Proraso Green Pre-Shave Cream is a pre-shave cream designed to prepare the skin and beard before shaving. Enriched with eucalyptus oil and menthol , it helps soften facial hair, support razor glide, and deliver a fresh cooling feel before applying shaving cream or shaving soap. Used as the first step in a traditional wet shaving routine, the cream helps condition the beard area and create a smoother surface for the razor. Apply a small amount to damp skin before lathering to support a closer, more comfortable shave. Key Features: Pre-Shave Cream designed to prepare the skin before shaving Enriched with Eucalyptus Oil and Menthol Helps soften beard hair before shaving Supports smoother razor glide and shaving comfort Fresh cooling feel from the Proraso Green range Use before shaving cream, shaving soap, or shaving foam Suitable for regular wet shaving routines Specifications: Size: 100ml Format: Pre-shave cream Usage: Apply a small amount to damp fingertips and massage into the beard area before applying shaving cream Key ingredients: eucalyptus oil and menthol Skin feel: Fresh, prepared, and comfortable",
         "url": "https://www.malegroomingsupplies.com/products/proraso-green-pre-shave-cream-100ml",
         "price": "£9.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crema-RINFRESCANTE_3ba9c24c-c599-4b11-ae7e-a4943ed5b0d8.png?v=1777844600"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176726-pr400500-2-3-1000_clipped_rev_1.jpg?v=1777909559"
       },
       {
         "name": "Proraso Green Shaving Cream Tube 150ml",
@@ -6321,7 +6411,7 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-green-shaving-cream-tube-150ml",
         "price": "£6.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/tubo_rinfrescante-ok_7176604d-bd61-4d98-996e-deb89d80ebd3_clipped_rev_1.jpg?v=1777838187"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176728-pr400510-2-3-1000_clipped_rev_1.jpg?v=1777909230"
       },
       {
         "name": "Proraso Green Shaving Foam 300ml",
@@ -6330,7 +6420,7 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-green-shaving-foam-300ml",
         "price": "£7.00",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/schiuma-RINFRESCANTE_22ff1877-41f1-4801-9aec-4c37a7359370.png?v=1777844416"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176724-pr400445-2-3-1000_clipped_rev_1.jpg?v=1777909429"
       },
       {
         "name": "Proraso Green Shaving Foam 50ml",
@@ -6357,43 +6447,124 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-green-vintage-gift-set",
         "price": "£28.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/400366-1.jpg?v=1777845908"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9236511-pr400366-2-3-1000.jpg?v=1777910052"
+      },
+      {
+        "name": "Proraso Metal Beard Gift Set Wood & Spice",
+        "category": "New Additions",
+        "description": "The Proraso Wood & Spice Beard Gift Set is a complete beard care collection for cleansing, softening and conditioning facial hair. Presented in a smart metal tin, it makes an excellent gift for any beard enthusiast or a practical upgrade for a regular grooming routine. This set includes three essential products from Proraso’s popular Wood & Spice range: Beard Wash , Beard Oil and Beard Balm . Together, they help keep the beard feeling clean, fresh, comfortable and easier to manage. The Beard Wash gently removes dirt, impurities and unwanted odours while helping to soften coarse facial hair. The Beard Oil is designed for longer, thicker beards, helping to nourish the hair, improve manageability and add a healthy-looking finish. The Beard Balm is ideal for soothing the discomfort often associated with new beard growth, helping to reduce itching while softening the beard and skin beneath. Finished with Proraso’s warm Wood & Spice fragrance, the set has a refined scent with notes of wood and spice. All products in the set are vegan and are also available individually. Key Features: Complete Beard Care Set: Includes beard wash, beard oil and beard balm. Wood & Spice Fragrance: Warm, refined scent with classic woody and spicy notes. Presented In A Metal Tin: Smart gift-ready packaging with practical storage use. Cleanses And Freshens: Beard wash helps remove impurities and unwanted odours. Softens And Conditions: Beard oil and balm help improve comfort and manageability. Vegan Products: All products included in the set are vegan. Specifications: Product Type: Beard care gift set Fragrance: Wood & Spice Presentation: Metal beard care tin Set Includes: Proraso Beard Wash Wood & Spice 200ml, Proraso Beard Oil Wood & Spice 30ml, Proraso Beard Balm Wood & Spice 100ml Vegan: Yes Suitable For: Beard cleansing, conditioning, softening and gifting Use: Follow the directions provided on each individual product",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-wood-spice-beard-gift-set",
+        "price": "£43.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9296625-pr400380-2-3-1000_clipped_rev_1.jpg?v=1777925233"
+      },
+      {
+        "name": "Proraso Post Shave Powder 100g",
+        "category": "Post-Shave",
+        "description": "Proraso Post Shave Powder is a fine post-shave powder designed to absorb excess moisture and leave the skin with a fresh, matt finish after shaving. It helps maintain comfort and dryness, making it suitable for daily grooming routines and professional barber use. Infused with mint and rosemary , the powder provides a clean, refreshing feel while helping the skin feel calm and balanced after shaving. It is a practical finishing step for reducing shine, improving post-shave comfort, and leaving the face feeling smooth, dry, and refreshed. Key Features: Post-Shave Powder for a fresh, dry finish after shaving Helps absorb excess moisture and reduce shine Leaves the skin with a matt finish Infused with Mint for a cooling, refreshing feel Contains Rosemary to help tone and invigorate the skin Helps reduce the feel of post-shave irritation Suitable for barber use and daily grooming routines Specifications: Size: 100g Format: Fine post-shave powder Fragrance notes: Mint and rosemary Usage: Apply lightly to clean, dry skin after shaving Finish: Dry, fresh, and matt Intended use: Post-shave comfort and moisture control",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-post-shave-powder-100g",
+        "price": "£5.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404794-pr400800-2-3-1000_clipped_rev_1.jpg?v=1777912234"
+      },
+      {
+        "name": "Proraso Professional Beard Balm Wood & Spice 300ml",
+        "category": "New Additions",
+        "description": "Proraso Professional Wood & Spice Beard Balm is a lightweight conditioning balm designed to soften new beard and moustache growth while helping to reduce the discomfort often felt in the early stages. Its fast-absorbing formula works into the beard and skin beneath, helping to improve softness, comfort and manageability without leaving a heavy residue. It is especially useful for shorter or developing beards that can feel coarse, itchy or difficult to control. The warm Wood & Spice fragrance gives the beard a refined, classic scent, while the generous 300ml professional size makes it well suited to frequent use, barbershop settings or customers who prefer a larger bottle for regular grooming. Massage a small amount thoroughly into the beard and moustache to leave facial hair feeling softer, fresher and better cared for. Key Features: Professional Size: 300ml bottle, ideal for regular use or barbershop settings. Helps Reduce Itching: Designed to comfort the skin during early beard growth. Softens Beard Hair: Improves the feel and manageability of new facial hair. Lightweight Formula: Absorbs easily without leaving the beard feeling heavy. Conditioning Care: Helps nourish, protect and add body to the beard. Wood & Spice Fragrance: Warm, refined scent with a classic grooming finish. Specifications: Product Type: Beard balm Size: 300ml Fragrance: Wood & Spice Formula: Lightweight, fast-absorbing conditioning balm Use: Apply a small amount to the beard and moustache, then massage thoroughly into the beard Suitable For: Early beard growth, shorter beards and moustaches Suitable Use: Regular home use and professional barbershop use",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-professional-beard-balm-wood-spice-300ml",
+        "price": "£25.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404785-pr400626-2-3-1000_clipped_rev_1.jpg?v=1777924541"
+      },
+      {
+        "name": "Proraso Professional Beard Oil Wood & Spice 100ml",
+        "category": "New Additions",
+        "description": "Proraso Professional Wood & Spice Beard Oil is a lightweight conditioning oil designed for longer, thicker beards that need softness, control and improved manageability. The silicone-free formula is enriched with macadamia oil and avocado oil , helping to nourish facial hair, improve texture and support a smoother, more disciplined finish. It absorbs easily without leaving the beard feeling greasy or heavy, making it ideal for regular use. Its warm Wood & Spice fragrance gives the beard a refined scent with a classic barbershop character. Supplied in a generous 100ml professional size , it is well suited to frequent grooming, barbershop use or customers who prefer a larger bottle for maintaining a fuller beard. Apply a few drops to the palm of your hand, spread evenly from root to tip, then brush through carefully to remove knots and shape the beard. Key Features: Professional Size: 100ml bottle, ideal for regular use or barbershop settings. Lightweight Beard Oil: Conditions longer, thicker beards without heaviness. Silicone-Free Formula: Absorbs easily and leaves a clean, non-greasy finish. Macadamia Oil: Helps nourish and soften facial hair. Avocado Oil: Supports smoother texture and improved manageability. Wood & Spice Fragrance: Warm, refined scent with a classic grooming finish. Specifications: Product Type: Beard oil Size: 100ml Fragrance: Wood & Spice Formula: Silicone-free Key Ingredients: Macadamia oil and avocado oil Use: Apply a few drops to the palm, spread evenly from root to tip, then brush through Suitable For: Longer, thicker or coarse beards Suitable Use: Regular home use and professional barbershop use",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-professional-beard-oil-wood-spice-100ml",
+        "price": "£25.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404784-pr400625-2-3-1000_clipped_rev_1.jpg?v=1777924193"
+      },
+      {
+        "name": "Proraso Professional Beard Wash Wood & Spice 500ml",
+        "category": "New Additions",
+        "description": "Proraso Professional Wood & Spice Beard Wash is a gentle, low-foaming cleanser designed to keep the beard clean, soft and fresh. Formulated with plant-based surfactants , it helps remove dirt, impurities and unwanted odours without stripping the beard or skin. Its creamy texture creates a soft, lasting foam that works through facial hair, helping to soften even coarse, bristly beards. The warm Wood & Spice fragrance leaves a refined scent with a classic barbershop character. Supplied in a generous 500ml professional size , it is ideal for frequent use, barbershop settings or customers who prefer a larger bottle for their regular beard care routine. Use once or twice a week, or daily if needed, to leave the beard feeling clean, fresh and well cared for. Key Features: Professional Size: 500ml bottle, ideal for regular use or barbershop settings. Low-Foaming Formula: Gently cleanses without drying the beard or skin. Plant-Based Surfactants: Help remove dirt, impurities and unwanted odours. Softens Coarse Hair: Improves the feel and manageability of bristly beards. Creamy Texture: Produces a soft, lasting foam for comfortable cleansing. Wood & Spice Fragrance: Warm, refined scent with a classic grooming finish. Specifications: Product Type: Beard wash Size: 500ml Fragrance: Wood & Spice Formula: Low-foaming cleanser with plant-based surfactants Use: Massage into a damp beard with warm water, then rinse thoroughly Recommended Use: Once or twice a week, or daily if needed Suitable For: Regular home use and professional barbershop use",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-professional-beard-wash-wood-spice-500ml",
+        "price": "£20.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404786-pr400627-2-3-1000_clipped_rev_1.jpg?v=1777923750"
+      },
+      {
+        "name": "Proraso Professional Pre-Shave Cream 300ml",
+        "category": "Pre-Shave",
+        "description": "Proraso Professional Pre-Shave Cream Refreshing 300ml is designed to prepare the skin and beard before shaving, helping to improve comfort, razor glide and overall shaving performance. Its rich, non-greasy texture works into the skin easily, helping to soften stubble and hydrate the face before shaving cream or soap is applied. This creates a better base for the razor, helping to reduce drag and support a smoother, more comfortable shave. Enriched with eucalyptus oil and menthol , this pre-shave cream gives the skin a clean, cooling sensation. Eucalyptus oil helps purify and tone, while menthol delivers Proraso’s signature refreshing feel, leaving the skin revived and ready for shaving. The generous 300ml professional size makes it ideal for barbershop use, frequent shaving or customers who prefer a long-lasting format of their favourite pre-shave cream. Key Features: Professional Size: 300ml format, ideal for barbershop or frequent home use. Pre-Shave Preparation: Helps soften stubble and prepare the skin before shaving. Improved Razor Glide: Creates a better base for a smoother, more comfortable shave. Eucalyptus Oil: Helps purify and tone the skin. Menthol: Provides a cooling, refreshing sensation. Non-Greasy Texture: Absorbs easily and sits comfortably under shaving cream or soap. Specifications: Product Type: Pre-shave cream Size: 300ml Range: Refreshing Eucalyptus & Menthol Key Ingredients: Eucalyptus oil and menthol Formula: Rich, non-greasy pre-shave cream Use: Apply to damp skin before shaving cream or soap, then shave as normal Suitable For: Frequent shaving, traditional wet shaving and professional barbershop use",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-professional-pre-shave-cream-refreshing-300ml",
+        "price": "£14.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404781-pr400605-2-3-1000_clipped_rev_1.jpg?v=1777925833"
+      },
+      {
+        "name": "Proraso Professional Shaving Brush",
+        "category": "Shaving Brushes",
+        "description": "The Proraso Professional Shaving Brush is a traditional wet shaving brush designed to help create a rich, creamy lather for a smoother and more comfortable shave. Made with natural boar bristles , it offers firm backbone for working shaving soap or cream into the beard, helping to lift and soften facial hair before shaving. The bristles retain water well, making it easier to build a dense, protective lather either in a bowl or directly on the face. Its contoured handle provides a secure, comfortable grip, while the professional-style design makes it suitable for both home wet shavers and barbershop use. With regular use and proper care, the boar bristles will soften over time, giving the brush a more comfortable feel while maintaining its effective lathering performance. Soak the brush in hot water before use, build lather using circular movements, then rinse thoroughly, shake out excess water and store with the bristles facing downwards. Key Features: Natural Boar Bristles: Firm backbone helps lift and soften facial hair. Rich Lather: Retains water well to build creamy shaving soap or cream lather. Professional Design: Suitable for traditional wet shaving and barbershop use. Comfortable Handle: Contoured shape offers a secure grip during use. Improves With Use: Boar bristles gradually soften over time with proper care. Traditional Shaving Tool: Helps prepare the beard and skin for a closer shave. Specifications: Product Type: Shaving brush Bristle Type: Natural boar bristle Handle: Contoured professional-style handle Dimensions: 4.2cm x 5.2cm x 16cm Use: Soak in hot water, build lather in a bowl or on the face, then rinse after use Care: Shake out excess water, wring dry gently and store with bristles pointing downwards Suitable For: Traditional wet shaving, shaving soaps and shaving creams",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-professional-shaving-brush",
+        "price": "£15.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/pennello-rasatura_0b7e0585-b357-4b37-a775-65a5dfa86dc8_clipped_rev_1.jpg?v=1777924793"
+      },
+      {
+        "name": "Proraso Professional Shaving Cream Tube 500ml",
+        "category": "Shaving Creams",
+        "description": "Professional Shaving Cream Tube Refreshing 500ml is a generous shaving cream designed for barbers, professional use and regular traditional wet shaving. Its rich, creamy formula works into a dense lather that helps soften beard hair and prepare the skin for a close, comfortable shave. The lather supports smooth razor glide, helping to reduce drag while improving control during each pass. Enriched with eucalyptus oil and menthol , this shaving cream delivers a fresh, cooling sensation on the skin. Eucalyptus oil helps purify and tone, while menthol provides Proraso’s signature refreshing feel, leaving the face clean, revived and comfortable after shaving. The large 500ml professional size makes it ideal for high-frequency use, barbershop settings or customers who prefer a long-lasting supply of their favourite shaving cream. Key Features: Professional Size: 500ml tube, ideal for barbershop or frequent home use. Rich Creamy Lather: Helps soften beard hair and prepare the skin for shaving. Smooth Razor Glide: Reduces drag for a closer, more comfortable shave. Eucalyptus Oil: Helps purify and tone the skin. Menthol: Provides a cooling, refreshing sensation during and after shaving. Traditional Wet Shaving: Suitable for use with a shaving brush or by hand. Specifications: Product Type: Shaving cream Size: 500ml Range: Refreshing Eucalyptus & Menthol Key Ingredients: Eucalyptus oil and menthol Use: Apply with a shaving brush or by hand to create a rich lather before shaving Suitable For: Frequent shaving, traditional wet shaving and professional barbershop use Packaging: Professional tube",
+        "url": "https://www.malegroomingsupplies.com/products/professional-shaving-cream-tube-refreshing-500ml",
+        "price": "£14.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404782-pr400615-2-3-1000_clipped_rev_1.jpg?v=1777925469"
+      },
+      {
+        "name": "Proraso Razor Cut Repair Gel 10ml",
+        "category": "All Razors",
+        "description": "Proraso Razor Cut Repair Gel is a compact grooming essential designed for quick, targeted care after minor shaving nicks and cuts. The clear gel formula is easy to apply directly to the affected area, helping to calm the skin and create a protective layer over small shaving mishaps. Its precise application makes it suitable for both home shaving routines and professional barbershop use. Ideal to keep in a wash bag, bathroom cabinet or grooming kit, this 10ml repair gel is a practical solution for dealing with minor razor cuts quickly and neatly. Apply directly to the affected area as needed. Key Features: Targeted Repair Gel: Designed for minor shaving nicks and cuts. Clear Formula: Applies neatly and precisely to the affected area. Protective Layer: Helps cover small shaving cuts after application. Compact Size: 10ml format is ideal for travel or grooming kits. Easy To Use: Apply directly to the affected area with no complicated routine. Suitable For Barbershop Use: Practical for professional or home shaving care. Specifications: Product Type: Razor cut repair gel Size: 10ml Formula: Clear gel Use: Apply directly to minor shaving nicks or cuts Dimensions: 2.3cm x 4.5cm x 12.5cm Suitable For: Home shaving, travel and professional barbershop use",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-razor-cut-repair-gel-10ml",
+        "price": "£3.95",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404780-pr400591-2-3-1000_clipped_rev_1.jpg?v=1777926368"
       },
       {
         "name": "Proraso Red After Shave Balm 100ml",
-        "category": "New Additions",
+        "category": "Post-Shave",
         "description": "Proraso Red After Shave Balm is a soothing aftershave balm designed to calm and hydrate the skin after shaving. Enriched with sandalwood oil and shea butter , it helps reduce the feeling of irritation and supports a soft, comfortable post-shave finish. The balm has a smooth, non-splash format that is well suited to daily grooming routines, particularly for those who prefer a comforting finish after using a razor. Applied to clean, dry skin after shaving, it helps leave the face feeling refreshed, moisturised, and well cared for. Key Features: After Shave Balm for post-shave comfort Enriched with Sandalwood Oil and Shea Butter Helps calm the feel of irritation and redness after shaving Supports hydration for softer-feeling skin Smooth balm format with a comfortable finish Suitable for regular men’s shaving routines Specifications: Size: 100ml Format: After shave balm Usage: Apply to clean, dry skin immediately after shaving Key ingredients: Sandalwood oil and shea butter Skin feel: Soothing, hydrating, and comfortable",
         "url": "https://www.malegroomingsupplies.com/products/proraso-red-after-shave-balm-100ml",
         "price": "£12.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1_Balsamo-dopobarba-BARBE-DURE_2021_7ff2cb7f-bc91-466c-a98f-8e9f8db5b230.png?v=1777831630"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404778-pr400582-2-3-1000_clipped_rev_1.jpg?v=1777884026"
       },
       {
         "name": "Proraso Red After Shave Lotion 100ml",
-        "category": "New Additions",
+        "category": "Post-Shave",
         "description": "Proraso Red After Shave Lotion is a refreshing aftershave lotion designed to tone and comfort the skin after shaving. Enriched with sandalwood oil and shea butter , it helps calm the feel of post-shave irritation while leaving the skin smooth, clean, and refreshed. This classic splash-style lotion is suited to regular wet shaving routines, particularly for those who enjoy the warm, traditional character of the Proraso Red range. Apply a small amount to the palm and pat gently onto the face after shaving. Key Features: After Shave Lotion for a clean post-shave finish Enriched with Sandalwood Oil and Shea Butter Helps soothe and tone the skin after shaving Supports a smooth, refreshed feel Classic splash format for traditional wet shaving routines Suitable for regular men’s post-shave care Specifications: Size: 100ml Format: After shave lotion Usage: Apply a small amount to the palm and pat gently onto the face after shaving Key ingredients: sandalwood oil and shea butter Skin feel: Clean, smooth, and refreshed Shipping note: Flammable item – hazardous goods shipping applies",
         "url": "https://www.malegroomingsupplies.com/products/proraso-red-after-shave-lotion-100ml",
         "price": "£12.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Lozione-BARBE-DURE_0f41e538-272c-47d7-8266-81a5ae4dba66.png?v=1777835173"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/81cIR68vorL._AC_SX679__clipped_rev_1.jpg?v=1777885394"
       },
       {
         "name": "Proraso Red Pre-Shave Cream 100ml",
-        "category": "New Additions",
+        "category": "Pre-Shave",
         "description": "Proraso Red Pre-Shave Cream is a pre-shave cream designed to prepare the skin and soften coarse beard hair before shaving. Enriched with sandalwood oil and shea butter , it helps condition the beard area, support razor glide, and improve comfort during a close shave. Applied before shaving cream or shaving soap, the formula helps create a better-prepared surface for the razor. It is especially well suited to traditional wet shaving routines where added beard softening and skin protection are needed. Key Features: Pre-Shave Cream designed to prepare the skin before shaving Enriched with Sandalwood Oil and Shea Butter Helps soften coarse beard hair before shaving Supports smoother razor glide and shaving comfort Use before shaving cream, shaving soap, or shaving foam Suitable for regular wet shaving routines Specifications: Size: 100ml Format: Pre-shave cream Usage: Apply a small amount to damp fingertips and massage into the beard area before applying shaving cream Key ingredients: sandalwood oil and shea butter Beard type: Suitable for coarse beard hair and regular shaving routines",
         "url": "https://www.malegroomingsupplies.com/products/proraso-red-pre-shave-cream-100ml",
         "price": "£9.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crema-BARNE-DURE_96901d8c-c848-416f-a405-40b488343b9f.png?v=1777837286"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404770-pr400502-2-3-1000_clipped_rev_1.jpg?v=1777909064"
       },
       {
         "name": "Proraso Red Professional After Shave Lotion 400ml",
-        "category": "New Additions",
+        "category": "Post-Shave",
         "description": "Proraso Red Professional After Shave Lotion is a professional-size aftershave lotion designed for barbers and high-use grooming environments. Enriched with eucalyptus oil and menthol , it helps tone and refresh the skin after shaving while delivering Proraso’s familiar cooling sensation. The generous 400ml format is ideal for professional use or for regular wet shavers who prefer a larger bottle. Applied after shaving, it leaves the skin feeling clean, fresh, and revitalised with a classic barbershop finish. Key Features: Professional After Shave Lotion in a large 400ml format Enriched with Eucalyptus Oil and Menthol Helps tone and refresh the skin after shaving Delivers Proraso’s signature cooling sensation Suitable for barbers and frequent wet shaving use Classic splash format for a fresh post-shave finish Specifications: Size: 400ml Format: After shave lotion Usage: Apply to the face after shaving, avoiding the eye area Key ingredients: Eucalyptus oil and menthol Intended use: Professional barber use or frequent home use Shipping note: Flammable item – hazardous goods shipping applies",
         "url": "https://www.malegroomingsupplies.com/products/proraso-red-professional-after-shave-lotion-400ml",
         "price": "£22.00",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PR400675_clipped_rev_1.jpg?v=1777831992"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404787-pr400675-2-3-1000_clipped_rev_1.jpg?v=1777884386"
       },
       {
         "name": "Proraso Red Shaving Cream Tube 150ml",
@@ -6402,7 +6573,7 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-red-shaving-cream-tube-150ml",
         "price": "£6.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sapone-tubo-BARNE-DURE-OK_77ac5257-0b6e-4f9b-9684-6724d96f79ce_clipped_rev_1.jpg?v=1777834890"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9448078-pr400512-2-3-1000_clipped_rev_1.jpg?v=1777885271"
       },
       {
         "name": "Proraso Red Shaving Foam 300ml",
@@ -6411,7 +6582,7 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-red-shaving-foam-300ml",
         "price": "£7.00",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/schiuma-BARBE-DURE_23e8d176-7f52-4d83-a53d-756a13cbb096.png?v=1777838386"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404768-pr400447-2-3-1000_clipped_rev_1.jpg?v=1777909365"
       },
       {
         "name": "Proraso Red Shaving Soap in Bowl 150ml",
@@ -6424,21 +6595,21 @@
       },
       {
         "name": "Proraso White Sensitive After Shave Balm 100ml",
-        "category": "New Additions",
+        "category": "Post-Shave",
         "description": "Proraso White Sensitive After Shave Balm is a soothing aftershave balm developed for sensitive skin. Enriched with green tea and oat extract , it helps calm the feel of post-shave irritation while supporting hydration and skin comfort. The gentle balm format is ideal for daily use after shaving, particularly for skin that is prone to redness or discomfort. Applied to clean, dry skin, it leaves the face feeling refreshed, moisturised, and comfortable without the sting of a splash aftershave. Key Features: After Shave Balm For Sensitive Skin Enriched with Green Tea and Oat Extract Helps calm the feel of irritation and redness after shaving Supports hydration for softer-feeling skin Comfortable balm format for daily post-shave care Suitable for regular men’s shaving routines Specifications: Size: 100ml Format: After shave balm Usage: Apply to clean, dry skin immediately after shaving Skin type: Sensitive skin Key ingredients: Green tea and oat extract Skin feel: Soothing, hydrating, and refreshed",
         "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-after-shave-balm-100ml",
         "price": "£12.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Balsamo-dopobarba-PELLI-SENSIBILI_c25a7004-4d79-45c4-bc3e-a3f0366a74ff.png?v=1777831437"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176717-pr400581-2-3-1000_clipped_rev_1.jpg?v=1777884187"
       },
       {
         "name": "Proraso White Sensitive Pre-Shave Cream 100ml",
-        "category": "New Additions",
+        "category": "Pre-Shave",
         "description": "Proraso White Sensitive Pre-Shave Cream is a pre-shave cream developed for sensitive skin. Enriched with green tea and oat extract , it helps soften the beard, prepare the skin, and support a close, comfortable shave. Used before shaving cream , shaving soap , or shaving foam, the formula helps condition the beard area and improve razor glide. It is especially suitable for shavers who want added preparation without harshness, helping the skin feel calm, comfortable, and ready for shaving. Key Features: Pre-Shave Cream developed for sensitive skin Enriched with Green Tea and Oat Extract Helps soften beard hair before shaving Supports smoother razor glide and shaving comfort Use before shaving cream, shaving soap, or shaving foam Suitable for regular wet shaving routines Specifications: Size: 100ml Format: Pre-shave cream Usage: Apply a small amount to damp fingertips and massage into the beard area before applying shaving cream Skin type: Sensitive skin Key ingredients: green tea and oat extract Skin feel: Calm, prepared, and comfortable",
         "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-pre-shave-cream-100ml",
         "price": "£9.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crema-PELLI-SENSIBILI_79c3360f-14a5-409e-8816-940cced5ecd8.png?v=1777844743"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176713-pr400501-2-3-1000_clipped_rev_1.jpg?v=1777909736"
       },
       {
         "name": "Proraso White Sensitive Shaving Cream Tube 150ml",
@@ -6447,7 +6618,7 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-shaving-cream-tube-150ml",
         "price": "£6.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/tubo_pelli_sensibili-ok_092adbed-2fa6-4888-b684-4d466a4d3a34_clipped_rev_1.jpg?v=1777835973"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404774-pr400511-2-3-1000_clipped_rev_1.jpg?v=1777908817"
       },
       {
         "name": "Proraso White Sensitive Shaving Foam 300ml",
@@ -6456,7 +6627,7 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-shaving-foam-300ml",
         "price": "£7.00",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/schiuma-PELLI-SENSIBILI-300m-OKl_cc1a27ad-60bf-4e04-a4ed-b36f6be523b4.png?v=1777845142"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176711-pr400446-2-3-1000_clipped_rev_1.jpg?v=1777909912"
       },
       {
         "name": "Proraso White Sensitive Shaving Foam 50ml",
@@ -6465,7 +6636,16 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-shaving-foam-50ml",
         "price": "£3.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/schiuma-PELLI-SENSIBILI-300m-OKl_d13468a8-09f5-4d1e-ac87-14703a71530e.png?v=1777829905"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176721-pr400956-2-3-1000_clipped_rev_1.jpg?v=1777883933"
+      },
+      {
+        "name": "Proraso White Sensitive Shaving Soap in Bowl 150ml",
+        "category": "Shaving Soap",
+        "description": "Proraso White Sensitive Shaving Soap In Bowl is a traditional shaving soap developed for sensitive skin. Enriched with green tea and oat extract , it creates a rich, dense lather that helps soften the beard, protect the skin, and support smooth razor glide. Used with a damp shaving brush , the soap works into a creamy lather suitable for classic wet shaving. Its gentle formula makes it a good choice for shavers who want traditional lathering performance with a more comfortable feel on sensitive skin. Key Features: Traditional Shaving Soap supplied in a bowl Developed for sensitive skin Enriched with Green Tea and Oat Extract Produces a rich, dense lather for smooth razor glide Helps soften beard hair before shaving Supports skin protection during a close shave Shaving Brush Required for best lathering results Specifications: Size: 150ml Format: Shaving soap in bowl Usage: Use with a damp shaving brush to create lather, then apply to the beard before shaving Skin type: Sensitive skin Key ingredients: Green tea and oat extract Country style: Traditional Italian shaving formula",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-shaving-soap-in-bowl-150ml",
+        "price": "£6.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sapone-ciotola-PELLI-SENSIBILI_6ae76403-a365-4404-8aa5-d4d838ccdd12_clipped_rev_1.jpg?v=1777834377"
       },
       {
         "name": "Proraso White Sensitive Vintage Gift Set",
@@ -6474,7 +6654,61 @@
         "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-vintage-gift-set",
         "price": "£28.50",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/400367-1.jpg?v=1777846485"
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176710-pr400367-2-3-1000_clipped_rev_1.jpg?v=1777910174"
+      },
+      {
+        "name": "Proraso Wood & Spice After Shave Balm 100ml",
+        "category": "Post-Shave",
+        "description": "Proraso Wood & Spice After Shave Balm is a nourishing aftershave balm designed to calm, hydrate, and comfort the skin after shaving. Its lightweight texture absorbs quickly, helping to reduce the feeling of dryness and irritation without leaving a heavy residue. The balm leaves the skin feeling smooth, refreshed, and well cared for, with a warm wood and spice scent for a refined post-shave finish. Suitable for daily use, it is a practical choice for men who prefer a moisturising balm rather than a traditional splash lotion. Key Features: After Shave Balm designed to soothe and hydrate post-shave skin Warm Wood And Spice Scent for a refined finish Helps reduce the feeling of irritation and dryness after shaving Supports softer, smoother-feeling skin Lightweight Formula absorbs quickly without heavy residue Suitable for daily men’s post-shave care Specifications: Size: 100ml Format: After shave balm Fragrance: Wood and spice Usage: Apply to clean, dry skin immediately after shaving Skin feel: Soft, smooth, refreshed, and comfortable Intended use: Post-shave hydration and comfort",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-wood-spice-after-shave-balm-100ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9296634-pr400785-2-3-1000_clipped_rev_1.jpg?v=1777911920"
+      },
+      {
+        "name": "Proraso Wood & Spice Beard Balm 100ml",
+        "category": "New Additions",
+        "description": "Proraso Wood & Spice Beard Balm is a lightweight conditioning balm designed to soften new beard and moustache growth while helping to reduce itching and discomfort. Ideal for the early stages of beard growth, its fast-absorbing formula works into the beard and skin beneath, helping to improve softness, comfort and manageability without leaving a greasy residue. It helps tame coarse new hairs while keeping shorter beards feeling neat, refreshed and well cared for. The Wood & Spice fragrance gives the beard a warm, refined scent with notes of saffron , cedarwood and sandalwood . With regular use, this balm helps leave facial hair feeling softer, smoother and easier to manage. Massage a small amount thoroughly into the beard and moustache to help condition the hair, comfort the skin and improve overall beard appearance. Key Features: Helps Reduce Itching: Designed to comfort the skin during early beard growth. Softens New Beard Growth: Improves the feel and manageability of shorter facial hair. Lightweight Formula: Absorbs easily without leaving a greasy residue. Conditioning Care: Helps nourish, protect and add body to the beard. Wood & Spice Fragrance: Warm scent with saffron, cedarwood and sandalwood notes. Suitable For Beard And Moustache: Helps condition and manage facial hair. Specifications: Product Type: Beard balm Size: 100ml Fragrance: Wood & Spice Fragrance Notes: Saffron, cedarwood and sandalwood Formula: Lightweight, fast-absorbing conditioning balm Dimensions: 8.3cm x 3.75cm x 11cm Use: Apply a small amount to the beard and moustache, then massage thoroughly into the beard Suitable For: Early beard growth, shorter beards and moustaches",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-wood-spice-beard-balm-100ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176700-pr400370-2-3-1000_clipped_rev_1.jpg?v=1777927261"
+      },
+      {
+        "name": "Proraso Wood & Spice Beard Oil 30ml",
+        "category": "New Additions",
+        "description": "Proraso Wood & Spice Beard Oil is a lightweight conditioning oil designed for longer, thicker beards that need softness, control and improved manageability. The silicone-free formula is enriched with macadamia oil and avocado oil , helping to nourish facial hair, improve texture and support a smoother, more disciplined finish. It absorbs easily without leaving the beard feeling greasy or heavy, making it well suited to daily grooming. Its warm Wood & Spice fragrance gives the beard a refined scent with a classic barbershop character. Ideal for taming coarse or unruly facial hair, this beard oil helps reduce dryness, improve comfort and leave the beard looking soft, healthy and well groomed. Apply a few drops to the palm of your hand, spread evenly from root to tip, then brush through carefully to remove knots and shape the beard. Key Features: Lightweight Beard Oil: Conditions longer, thicker beards without heaviness. Silicone-Free Formula: Absorbs easily and leaves a clean, non-greasy finish. Macadamia Oil: Helps nourish and soften facial hair. Avocado Oil: Supports smoother texture and improved manageability. Wood & Spice Fragrance: Warm, refined scent with a classic grooming finish. Improves Control: Helps tame coarse, dry or unruly beard hair. Specifications: Product Type: Beard oil Size: 30ml Fragrance: Wood & Spice Formula: Silicone-free Key Ingredients: Macadamia oil and avocado oil Use: Apply a few drops to the palm, spread evenly from root to tip, then brush through Suitable For: Longer, thicker or coarse beards",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-wood-spice-beard-oil-30ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176702-pr400740-2-3-1000_clipped_rev_1.jpg?v=1777923931"
+      },
+      {
+        "name": "Proraso Wood & Spice Beard Wash 200ml",
+        "category": "New Additions",
+        "description": "Proraso Wood & Spice Beard Wash is a gentle, low-foaming cleanser designed to leave your beard clean, soft and fresh. Formulated with plant-based surfactants , it helps remove dirt, impurities and unwanted odours without stripping the beard or skin. Its creamy texture creates a soft, lasting foam that works through facial hair, helping to soften even coarse, bristly beards. The Wood & Spice fragrance leaves a warm, refined scent with a classic grooming feel. Suitable for beards of all lengths, this beard wash helps improve softness, comfort and manageability as part of a regular beard care routine. Use once or twice a week, or daily if needed, to keep your beard feeling clean, fresh and well cared for. Key Features: Low-Foaming Formula: Gently cleanses without drying the beard or skin. Plant-Based Surfactants: Help remove dirt, impurities and unwanted odours. Softens Coarse Hair: Improves the feel and manageability of bristly beards. Creamy Texture: Produces a soft, lasting foam for comfortable cleansing. Wood & Spice Fragrance: Warm, refined scent with a classic grooming finish. Suitable For Regular Use: Recommended once or twice a week, or daily if required. Specifications: Product Type: Beard wash Size: 200ml Fragrance: Wood & Spice Formula: Low-foaming cleanser with plant-based surfactants Use: Massage into a damp beard with warm water, then rinse thoroughly Recommended Use: Once or twice a week, or daily if needed",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-wood-spice-beard-wash-200ml",
+        "price": "£14.50",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9296632-pr400750-2-3-1000_clipped_rev_1.jpg?v=1777922335"
+      },
+      {
+        "name": "Proraso Wood & Spice Cologne 100ml",
+        "category": "New Additions",
+        "description": "Proraso Wood & Spice Cologne is an alcohol-based cologne with a warm, refined fragrance inspired by traditional barbershop grooming. It offers a distinctive blend of wood and spice notes , making it suitable as a post-shave finish or an everyday men’s fragrance. The scent opens with saffron, violet, and cumin, followed by cedarwood, guaiac wood, and amber for warmth and depth. A smooth base of sandalwood and vanilla gives the fragrance a rounded finish that feels confident, polished, and easy to wear. Apply to the neck as a finishing spray, or spray into the palm and gently dab onto the face after shaving. Key Features: Men’s Cologne with a warm wood and spice fragrance Opens with Saffron , Violet , and Cumin Heart notes of Cedarwood , Guaiac Wood , and Amber Base notes of Sandalwood and Vanilla Alcohol-Based Formula for a crisp, refreshing finish Suitable for post-shave use or everyday fragrance Part of the Proraso barbershop fragrance range Specifications: Size: 100ml Format: Cologne Fragrance: Wood and spice Formula: Alcohol based Usage: Spray onto the neck, or spray into the palm and gently dab onto the face Dimensions: 7cm depth , 12cm height , 4.2cm width Shipping note: Flammable item – hazardous goods shipping applies",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-wood-spice-cologne-100ml",
+        "price": "£26.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WOOD_SPICE_colonia-1_f8b069b3-b52b-4738-84a9-b4163c0b235e_clipped_rev_1.jpg?v=1777916367"
+      },
+      {
+        "name": "Proraso Wood & Spice Moustache Wax 15ml",
+        "category": "New Additions",
+        "description": "Proraso Wood & Spice Moustache Wax is designed to shape, define and control your moustache with a soft, workable texture that makes styling simple. Ideal for classic handlebar styles, fuller moustaches and everyday grooming, this wax helps keep facial hair neat and structured without leaving it feeling stiff or heavy. Formulated with shea butter and beeswax , it helps condition the hair while providing flexible hold and improved manageability. The warm Wood & Spice fragrance adds a refined finish, with notes that feel classic, masculine and well suited to traditional grooming. Apply a small amount, shape as required, and rework with a little water if you need extra setting or adjustment. Key Features: Flexible Hold: Helps shape, define and control the moustache throughout the day. Soft Texture: Easy to pick up, apply and rinse away. Shea Butter: Helps nourish and condition facial hair. Beeswax: Provides natural styling control and structure. Wood & Spice Fragrance: Warm, refined scent with a classic barbershop feel. Suitable For Different Styles: Ideal for handlebar, fuller and neatly shaped moustaches. Specifications: Product Type: Moustache wax Size: 15ml Fragrance: Wood & Spice Key Ingredients: Shea butter and beeswax Use: Apply a small amount to the moustache and style as desired. Dampen and repeat for extra setting.",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-wood-spice-moustache-wax-15ml",
+        "price": "£9.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WOOD_SPICE_cera-2021_2c2c3c23-c87b-41ff-bd4e-a60f4595cfb3.png?v=1777921324"
       },
       {
         "name": "Red & Black Strop Paste",
