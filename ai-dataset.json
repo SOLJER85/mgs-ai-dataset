@@ -2,7 +2,7 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-05",
+    "last_updated": "2026-05-06",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "products": [
       {
@@ -6495,6 +6495,15 @@
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404786-pr400627-2-3-1000_clipped_rev_1.jpg?v=1777923750"
       },
       {
+        "name": "Proraso Professional Boar Bristle Shaving Brush",
+        "category": "Shaving Brushes",
+        "description": "The Proraso Professional Shaving Brush is a traditional wet shaving brush designed to help create a rich, creamy lather for a smoother and more comfortable shave. Made with natural boar bristles , it offers firm backbone for working shaving soap or cream into the beard, helping to lift and soften facial hair before shaving. The bristles retain water well, making it easier to build a dense, protective lather either in a bowl or directly on the face. Its contoured handle provides a secure, comfortable grip, while the professional-style design makes it suitable for both home wet shavers and barbershop use. With regular use and proper care, the boar bristles will soften over time, giving the brush a more comfortable feel while maintaining its effective lathering performance. Soak the brush in hot water before use, build lather using circular movements, then rinse thoroughly, shake out excess water and store with the bristles facing downwards. Key Features: Natural Boar Bristles: Firm backbone helps lift and soften facial hair. Rich Lather: Retains water well to build creamy shaving soap or cream lather. Professional Design: Suitable for traditional wet shaving and barbershop use. Comfortable Handle: Contoured shape offers a secure grip during use. Improves With Use: Boar bristles gradually soften over time with proper care. Traditional Shaving Tool: Helps prepare the beard and skin for a closer shave. Specifications: Product Type: Shaving brush Bristle Type: Natural boar bristle Handle: Contoured professional-style handle Dimensions: 4.2cm x 5.2cm x 16cm Use: Soak in hot water, build lather in a bowl or on the face, then rinse after use Care: Shake out excess water, wring dry gently and store with bristles pointing downwards Suitable For: Traditional wet shaving, shaving soaps and shaving creams",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-professional-shaving-brush",
+        "price": "£15.00",
+        "vendor": "Proraso",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/pennello-rasatura_0b7e0585-b357-4b37-a775-65a5dfa86dc8_clipped_rev_1.jpg?v=1777924793"
+      },
+      {
         "name": "Proraso Professional Pre-Shave Cream 300ml",
         "category": "Pre-Shave",
         "description": "Proraso Professional Pre-Shave Cream Refreshing 300ml is designed to prepare the skin and beard before shaving, helping to improve comfort, razor glide and overall shaving performance. Its rich, non-greasy texture works into the skin easily, helping to soften stubble and hydrate the face before shaving cream or soap is applied. This creates a better base for the razor, helping to reduce drag and support a smoother, more comfortable shave. Enriched with eucalyptus oil and menthol , this pre-shave cream gives the skin a clean, cooling sensation. Eucalyptus oil helps purify and tone, while menthol delivers Proraso’s signature refreshing feel, leaving the skin revived and ready for shaving. The generous 300ml professional size makes it ideal for barbershop use, frequent shaving or customers who prefer a long-lasting format of their favourite pre-shave cream. Key Features: Professional Size: 300ml format, ideal for barbershop or frequent home use. Pre-Shave Preparation: Helps soften stubble and prepare the skin before shaving. Improved Razor Glide: Creates a better base for a smoother, more comfortable shave. Eucalyptus Oil: Helps purify and tone the skin. Menthol: Provides a cooling, refreshing sensation. Non-Greasy Texture: Absorbs easily and sits comfortably under shaving cream or soap. Specifications: Product Type: Pre-shave cream Size: 300ml Range: Refreshing Eucalyptus & Menthol Key Ingredients: Eucalyptus oil and menthol Formula: Rich, non-greasy pre-shave cream Use: Apply to damp skin before shaving cream or soap, then shave as normal Suitable For: Frequent shaving, traditional wet shaving and professional barbershop use",
@@ -6502,15 +6511,6 @@
         "price": "£14.00",
         "vendor": "Proraso",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404781-pr400605-2-3-1000_clipped_rev_1.jpg?v=1777925833"
-      },
-      {
-        "name": "Proraso Professional Shaving Brush",
-        "category": "Shaving Brushes",
-        "description": "The Proraso Professional Shaving Brush is a traditional wet shaving brush designed to help create a rich, creamy lather for a smoother and more comfortable shave. Made with natural boar bristles , it offers firm backbone for working shaving soap or cream into the beard, helping to lift and soften facial hair before shaving. The bristles retain water well, making it easier to build a dense, protective lather either in a bowl or directly on the face. Its contoured handle provides a secure, comfortable grip, while the professional-style design makes it suitable for both home wet shavers and barbershop use. With regular use and proper care, the boar bristles will soften over time, giving the brush a more comfortable feel while maintaining its effective lathering performance. Soak the brush in hot water before use, build lather using circular movements, then rinse thoroughly, shake out excess water and store with the bristles facing downwards. Key Features: Natural Boar Bristles: Firm backbone helps lift and soften facial hair. Rich Lather: Retains water well to build creamy shaving soap or cream lather. Professional Design: Suitable for traditional wet shaving and barbershop use. Comfortable Handle: Contoured shape offers a secure grip during use. Improves With Use: Boar bristles gradually soften over time with proper care. Traditional Shaving Tool: Helps prepare the beard and skin for a closer shave. Specifications: Product Type: Shaving brush Bristle Type: Natural boar bristle Handle: Contoured professional-style handle Dimensions: 4.2cm x 5.2cm x 16cm Use: Soak in hot water, build lather in a bowl or on the face, then rinse after use Care: Shake out excess water, wring dry gently and store with bristles pointing downwards Suitable For: Traditional wet shaving, shaving soaps and shaving creams",
-        "url": "https://www.malegroomingsupplies.com/products/proraso-professional-shaving-brush",
-        "price": "£15.00",
-        "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/pennello-rasatura_0b7e0585-b357-4b37-a775-65a5dfa86dc8_clipped_rev_1.jpg?v=1777924793"
       },
       {
         "name": "Proraso Professional Shaving Cream Tube 500ml",
