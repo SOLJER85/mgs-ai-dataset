@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 2 * * *"   # runs every day at 02:00 UTC
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,126 +22,23 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          pip install requests
 
-      - name: Generate ai-dataset.json from Shopify
+      - name: Generate AI and shopping feeds from Shopify
         env:
           SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
           SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}
           STORE_FRONT_URL: https://www.malegroomingsupplies.com
-          API_VERSION: 2024-07
+          SELLER_NAME: Male Grooming Supplies
+          STORE_COUNTRY: GB
+          API_VERSION: 2026-04
         run: |
-          python - <<'PY'
-          import os, json, time, re, requests
-          from datetime import datetime, timezone
-          from bs4 import BeautifulSoup
-
-          # --- env/config ---
-          store  = os.environ["SHOPIFY_STORE_DOMAIN"]         # e.g. eb5945-66.myshopify.com
-          token  = os.environ["SHOPIFY_ADMIN_TOKEN"]
-          api_v  = os.getenv("API_VERSION","2024-07")
-          public = os.getenv("STORE_FRONT_URL","https://www.malegroomingsupplies.com")
-
-          gql = f"https://{store}/admin/api/{api_v}/graphql.json"
-          headers = {"X-Shopify-Access-Token": token, "Content-Type": "application/json"}
-
-          # HTML -> clean text (prevents “missing letters”)
-          def html_to_text(s: str) -> str:
-            if not s:
-              return ""
-            txt = BeautifulSoup(s, "html.parser").get_text(separator=" ")
-            txt = txt.replace("\u00ad", "")   # remove soft hyphen
-            txt = re.sub(r"\s+", " ", txt).strip()
-            return txt
-
-          SYMBOL = {"GBP":"£","USD":"$","EUR":"€"}
-
-          # NOTE: we avoid 'publishedOnCurrentPublication' for maximum compatibility.
-          # Instead we keep only products with a non-null onlineStoreUrl (i.e., published to Online Store).
-          QUERY = """
-          query Products($cursor: String) {
-            shop { currencyCode }
-            products(first: 100, after: $cursor, sortKey: TITLE) {
-              edges {
-                cursor
-                node {
-                  title
-                  vendor
-                  handle
-                  productType
-                  onlineStoreUrl
-                  status
-                  descriptionHtml
-                  featuredImage { url altText }
-                  collections(first: 5) { edges { node { title } } }
-                  variants(first: 1) { edges { node { price } } }
-                }
-              }
-              pageInfo { hasNextPage }
-            }
-          }
-          """
-
-          products, cursor, currency = [], None, "GBP"
-          while True:
-            r = requests.post(gql, headers=headers, json={"query": QUERY, "variables": {"cursor": cursor}}, timeout=60)
-            r.raise_for_status()
-            root = r.json()["data"]
-            currency = root.get("shop",{}).get("currencyCode") or currency
-            data = root["products"]
-
-            for edge in data["edges"]:
-              n = edge["node"]
-              cursor = edge["cursor"]
-
-              # ✅ Only include if Active AND published to Online Store (onlineStoreUrl present)
-              if not (n.get("status") == "ACTIVE" and n.get("onlineStoreUrl")):
-                continue
-
-              # Category: first collection title -> productType -> fallback
-              colls = n.get("collections",{}).get("edges",[])
-              category = (colls[0]["node"]["title"] if colls else (n.get("productType") or "Products"))
-
-              # Price -> "£12.34" (or None)
-              price_node = (n.get("variants",{}).get("edges") or [{}])[0].get("node",{})
-              raw_price  = price_node.get("price")
-              amount     = raw_price.get("amount") if isinstance(raw_price, dict) else raw_price
-              symbol     = SYMBOL.get(currency, currency + " ")
-              price_str  = f"{symbol}{amount}" if amount else None
-
-              url = n["onlineStoreUrl"]  # by filter above, this is non-null
-              products.append({
-                "name": n["title"],
-                "category": category,
-                "description": html_to_text(n.get("descriptionHtml") or ""),
-                "url": url,
-                "price": price_str,
-                "vendor": n.get("vendor") or None,
-                "image": (n.get("featuredImage") or {}).get("url")
-              })
-
-            if not data["pageInfo"]["hasNextPage"]:
-              break
-            time.sleep(0.2)
-
-          payload = [{
-            "site": public,
-            "brand": "Male Grooming Supplies",
-            "last_updated": datetime.now(timezone.utc).date().isoformat(),
-            "description": "UK based retailer specialising in premium shaving and grooming products.",
-            "products": products
-          }]
-
-          with open("ai-dataset.json","w", encoding="utf-8") as f:
-            json.dump(payload, f, indent=2, ensure_ascii=False)
-
-          print(f"Wrote ai-dataset.json with {len(products)} published Online Store products ({currency})")
-          PY
+          python scripts/generate_ai_dataset.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add ai-dataset.json
+          git add ai-dataset.json ai-dataset-summary.json openai-products-feed.csv openai-products-feed.csv.gz openai-products-feed.jsonl.gz shopping-feed-google-compatible.tsv shopping-feed-google-compatible.tsv.gz social-catalog-feed.csv social-catalog-feed.csv.gz scripts/generate_ai_dataset.py
           git commit -m "Auto-update dataset" || echo "No changes"
           git push
