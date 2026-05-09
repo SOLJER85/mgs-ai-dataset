@@ -2,16 +2,16 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-08",
-    "generated_at": "2026-05-08T14:20:02+00:00",
+    "last_updated": "2026-05-09",
+    "generated_at": "2026-05-09T05:23:23+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [
       "GB"
     ],
-    "product_count": 985,
-    "variant_count": 1247,
+    "product_count": 980,
+    "variant_count": 1242,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -5349,6 +5349,79 @@
         ]
       },
       {
+        "name": "D.R. Harris Almond Oil Bath Soap 3 x 150g Pack",
+        "category": "Bath Soap and Shower Gels > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care",
+        "description": "D.R. Harris Almond Oil Bath Soap 3 x 150g Pack is a classic triple-milled soap set designed to cleanse gently while helping to leave the skin feeling soft and comfortable. Made with added sweet almond oil, this white bath soap is recommended for delicate skin and helps prevent the dryness often associated with ordinary soap bars. The triple-milled formula produces a rich, creamy lather and makes each bar long-lasting, giving a traditional bathing experience with excellent economy. The fragrance has a soft, slightly rosy character with a warm clove-like note, offering a refined and understated scent suitable for daily use. This pack contains three 150g bars, making it ideal for regular bathroom use, guest bathrooms or gifting. Key Features: Triple-Milled Soap: Produces a rich, creamy and long-lasting lather. Sweet Almond Oil: Helps prevent dryness and leaves skin feeling comfortable. Suitable For Delicate Skin: Gentle enough for regular use. Classic Fragrance: Slightly rosy scent with a warm clove-like note. Long-Lasting Bars: Traditional soap quality with excellent economy. Three-Bar Pack: Includes 3 x 150g bath soaps. Specifications: Product Type: Bath soap Pack Size: 3 x 150g Total Weight: 450g Fragrance: Almond Oil Fragrance Profile: Slightly rosy with a clove-like note Soap Type: Triple-milled bar soap Key Ingredients: Sweet almond oil, glycerin and shea butter Use: Lather with warm water, cleanse the skin, then rinse thoroughly Suitable For: Daily bathing, hand washing and delicate skin",
+        "url": "https://www.malegroomingsupplies.com/products/d-r-harris-almond-oil-hand-soap-3-x-150g-pack",
+        "price": "£41.00",
+        "brand": "D.R. Harris",
+        "vendor": "D.R. Harris",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-bath-3-1-scaled_clipped_rev_1.jpg?v=1778267008",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Bath Soap and Shower Gels",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Gift Sets",
+          "D.R. Harris"
+        ],
+        "variants": [
+          {
+            "id": "57044502839561",
+            "sku": "10032",
+            "gtin": "5060242620034",
+            "mpn": null,
+            "title": "D.R. Harris Almond Oil Bath Soap 3 x 150g Pack",
+            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-almond-oil-hand-soap-3-x-150g-pack",
+            "price": "41.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-bath-3-1-scaled_clipped_rev_1.jpg?v=1778267008",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "D.R. Harris Almond Oil Bath Soap Single 150g",
+        "category": "Bath Soap and Shower Gels > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care",
+        "description": "D.R. Harris Almond Oil Bath Soap 150g is a classic triple-milled soap designed to cleanse gently while helping to leave the skin feeling soft and comfortable. Made with nourishing sweet almond oil, this white bath soap helps prevent dryness and is recommended for delicate skin. The triple-milled formula produces a rich, creamy lather and helps the bar last well, making it a refined and economical choice for daily bathing or hand washing. The fragrance combines rose, geranium, cinnamon and clove, giving the soap a warm, slightly floral and gently spiced character. Traditional, elegant and long-lasting, it is a fine example of D.R. Harris’s classic soap-making quality. Key Features: Triple-Milled Soap: Produces a rich, creamy and long-lasting lather. Sweet Almond Oil: Helps prevent dryness and leaves skin feeling comfortable. Suitable For Delicate Skin: Gentle enough for regular use. Classic Fragrance: Rose, geranium, cinnamon and clove notes. Long-Lasting Bar: Traditional soap quality with excellent economy. Single 150g Bar: Ideal for daily bathing, hand washing or guest bathrooms. Specifications: Product Type: Bath soap Size: 150g Fragrance: Almond Oil Fragrance Notes: Rose, geranium, cinnamon and clove Soap Type: Triple-milled bar soap Key Ingredients: Sweet almond oil, glycerin and shea butter Use: Lather with warm water, cleanse the skin, then rinse thoroughly Suitable For: Daily bathing, hand washing and delicate skin",
+        "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-oil-bath-soap-150g",
+        "price": "£14.00",
+        "brand": "D.R. Harris",
+        "vendor": "D.R. Harris",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1628-Almond_Soap_Bath_3_600p.jpg?v=1778267735",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Bath Soap and Shower Gels",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "D.R. Harris"
+        ],
+        "variants": [
+          {
+            "id": "57044502774025",
+            "sku": "10012",
+            "gtin": "5060242620010",
+            "mpn": null,
+            "title": "D.R. Harris Almond Oil Bath Soap Single 150g",
+            "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-oil-bath-soap-150g",
+            "price": "14.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1628-Almond_Soap_Bath_3_600p.jpg?v=1778267735",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "D.R. Harris Almond Oil Hand Wash 250ml",
         "category": "Hand Soap & Wash > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Bath & Body",
@@ -7829,6 +7902,43 @@
         ]
       },
       {
+        "name": "D.R. Harris Lavender Bath Soap 3 x 150g Pack",
+        "category": "Bath Soap and Shower Gels > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care",
+        "description": "D.R. Harris Lavender Bath Soap 3 x 150g Pack is a traditional triple-milled soap set made with the same superfatted formula as the D.R. Harris Almond Oil soap, but finished with the brand’s classic Old English Lavender fragrance. The soap produces a rich, creamy lather and is designed to cleanse gently while leaving the skin feeling comfortable. Its superfatted formula includes glycerin and shea butter, helping to support a softer after-wash feel and making it well suited to regular bathing or hand washing. The Lavender fragrance has a floral and herbaceous character, offering a clean, traditional scent with a calming feel. Each bar has a classic lavender hue, making this three-bar pack a refined choice for the bathroom, guest washroom or gifting. This pack contains three 150g bath-size bars. Key Features: Triple-Milled Soap: Produces a rich, creamy and long-lasting lather. Old English Lavender Fragrance: Floral and herbaceous scent with a traditional character. Superfatted Formula: Based on the same formula as D.R. Harris Almond Oil soap. Glycerin And Shea Butter: Help leave skin feeling clean, soft and comfortable. Bath-Size Bars: Includes three generous 150g soap bars. Ideal For Daily Use: Suitable for bathing, hand washing and guest bathrooms. Specifications: Product Type: Bath soap Pack Size: 3 x 150g Total Weight: 450g Fragrance: Lavender Fragrance Profile: Floral and herbaceous Soap Type: Triple-milled bar soap Key Ingredients: Glycerin and shea butter Use: Lather with warm water, cleanse the skin, then rinse thoroughly Suitable For: Daily bathing, hand washing and guest bathrooms Also Available: 3 x 75g hand-size pack",
+        "url": "https://www.malegroomingsupplies.com/products/dr-harris-lavender-bath-soap-3-pack",
+        "price": "£41.00",
+        "brand": "D.R. Harris",
+        "vendor": "D.R. Harris",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Lavender-Bath-x3-JPEG-1-scaled_clipped_rev_1.jpg?v=1778268995",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Bath Soap and Shower Gels",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Gift Sets",
+          "D.R. Harris"
+        ],
+        "variants": [
+          {
+            "id": "57044502511881",
+            "sku": "20032",
+            "gtin": "5060242620126",
+            "mpn": null,
+            "title": "D.R. Harris Lavender Bath Soap 3 x 150g Pack",
+            "url": "https://www.malegroomingsupplies.com/products/dr-harris-lavender-bath-soap-3-pack",
+            "price": "41.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Lavender-Bath-x3-JPEG-1-scaled_clipped_rev_1.jpg?v=1778268995",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "D.R. Harris Lavender Hand Soap 3 Pack",
         "category": "Hand Soap & Wash > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Bath & Body",
@@ -9865,6 +9975,43 @@
             "options": {
               "Volume": "500ml Glass Bottle"
             }
+          }
+        ]
+      },
+      {
+        "name": "D.R. Harris Sandalwood Alcohol-Free Stick Deodorant 75g",
+        "category": "Deodorant > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "description": "D.R. Harris Sandalwood Alcohol-Free Stick Deodorant 75g is a gentle daily deodorant fragranced with the classic Sandalwood scent. The alcohol-free formulation is well suited to those with sensitive skin, offering everyday freshness without the harshness sometimes associated with alcohol-based deodorants. Its stick format makes application clean, simple and convenient for daily grooming. The Sandalwood fragrance comes through with clarity, giving a warm, refined and traditionally masculine scent with a smooth aromatic character. A practical addition to the D.R. Harris Sandalwood range, this 75g stick deodorant is ideal for use at home, after showering, or when travelling. Key Features: Alcohol-Free Formula: Suitable for those with sensitive skin. Sandalwood Fragrance: Warm, refined scent with classic grooming character. Stick Deodorant: Clean, convenient and easy to apply. Daily Freshness: Designed for regular everyday use. Gentle Feel: Comfortable alternative to alcohol-based deodorants. Travel Friendly: Compact 75g format for home, gym bag or wash bag. Specifications: Product Type: Stick deodorant Size: 75g Fragrance: Sandalwood Formula: Alcohol-free Key Ingredient: Vitamin E Use: Apply to clean, dry underarms as required Suitable For: Daily use and sensitive skin",
+        "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-alcohol-free-stick-deodorant-75g-for-sensitive-skin",
+        "price": "£19.00",
+        "brand": "D.R. Harris",
+        "vendor": "D.R. Harris",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-stick-deodorant-new-usb-JPEG.jpg?v=1778243239",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Deodorant",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Gift Sets",
+          "D.R. Harris"
+        ],
+        "variants": [
+          {
+            "id": "57044502806793",
+            "sku": "80030",
+            "gtin": "5060242623769",
+            "mpn": null,
+            "title": "D.R. Harris Sandalwood Alcohol-Free Stick Deodorant 75g",
+            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-alcohol-free-stick-deodorant-75g-for-sensitive-skin",
+            "price": "19.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-stick-deodorant-new-usb-JPEG.jpg?v=1778243239",
+            "options": {}
           }
         ]
       },
@@ -22027,42 +22174,6 @@
         ]
       },
       {
-        "name": "Muhle Double Edge Blades Pack of 10",
-        "category": "Blades > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Muhle Double Edge Razor Blades are designed to deliver a clean, precise shave with consistent performance. Made from high-quality stainless steel, they offer a good balance of sharpness and smoothness, helping to achieve close results while remaining comfortable on the skin. Compatible with all standard double edge safety razors, these blades are suitable for regular use and work well across a range of beard types and shaving styles. Each pack contains 10 individually wrapped blades, neatly housed in a protective plastic dispenser for safe storage and easy handling. Pair it with Muhle Black Open Comb Safety Razor R101 and Muhle Closed Comb Black Safety Razor R106. Key Features: Stainless steel double edge blades for smooth, controlled shaving. Universal compatibility with all standard double edge safety razors. Balanced sharpness suitable for everyday use. Pack of 10 blades supplied in a protective plastic dispenser. Specifications: Material: Stainless steel Blade Weight: 2.6 g Blade Dimensions: 21 mm x 43 mm x 0.25 mm",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-double-edge-razor-blades-pack-of-10",
-        "price": "£4.45",
-        "brand": "Muhle",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-double-edge-blades-pack-of-200-male-grooming-supplies-658079.jpg?v=1722956205",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Blades",
-        "collections": [
-          "MUHLE Shaving",
-          "Razors Blades",
-          "New Additions"
-        ],
-        "variants": [
-          {
-            "id": "45366264004873",
-            "sku": "K1-200",
-            "gtin": "4028982008476",
-            "mpn": null,
-            "title": "Muhle Double Edge Blades Pack of 10",
-            "url": "https://www.malegroomingsupplies.com/products/muhle-double-edge-razor-blades-pack-of-10",
-            "price": "4.45 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-double-edge-blades-pack-of-200-male-grooming-supplies-658079.jpg?v=1722956205",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Muhle KOSMO Fine Badger Olive Wood Shaving Brush",
         "category": "Shaving Brushes > MUHLE Shaving",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
@@ -22132,43 +22243,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-3-blade-gillette-mach3-black-resin-razor-male-grooming-supplies-984660.jpg?v=1722956249",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Muhle LISCIO White Resin Mach3 Razor",
-        "category": "Razors > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Muhle LISCIO Mach3 Razor in white resin offers a clean, minimalist take on cartridge shaving, combining smooth lines with durable materials. The handle is crafted from high-grade white resin and polished to a smooth, glossy finish, paired with chrome-plated metal accents for added strength and balance. Compatible with the Gillette Mach3 system, the razor provides a familiar, comfortable shave using widely available replacement cartridges. The handle sits securely in the hand, offering good control and a reassuring feel, making it well suited to daily shaving for those who prefer cartridge razors with a refined, well-made handle. Key Features: Mach3 compatible razor using widely available Gillette Mach3 cartridges. High-grade white resin handle with smooth, polished finish. Chrome-plated metal accents for durability and balance. Comfortable grip designed for controlled, everyday shaving. Part of the Muhle LISCIO series with clean, understated styling. Specifications: Razor Type: Mach3 compatible cartridge razor Handle Material: High-grade resin, white Finish: Chrome-plated metal accents Replaceable Blades: Yes (Gillette Mach3) Design Series: LISCIO For related razor options, browse the MUHLE Shaving collection.",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-liscio-white-resin-mach3-razor",
-        "price": "£38.95",
-        "brand": "Muhle",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-3-blade-gillette-mach3-white-razor-male-grooming-supplies-811614.jpg?v=1722956234",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Razors",
-        "collections": [
-          "MUHLE Shaving",
-          "All Razors",
-          "Mach 3 Razors",
-          "New Additions"
-        ],
-        "variants": [
-          {
-            "id": "45366265184521",
-            "sku": "R147 M3",
-            "gtin": "4028982014361",
-            "mpn": null,
-            "title": "Muhle LISCIO White Resin Mach3 Razor",
-            "url": "https://www.malegroomingsupplies.com/products/muhle-liscio-white-resin-mach3-razor",
-            "price": "38.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-3-blade-gillette-mach3-white-razor-male-grooming-supplies-811614.jpg?v=1722956234",
             "options": {}
           }
         ]
@@ -22765,44 +22839,6 @@
         ]
       },
       {
-        "name": "Muhle RYTMO Mint Pure Badger Shaving Set",
-        "category": "Shaving Sets > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "The Muhle RYTMO Pure Badger Mint Shaving Set combines a clean, contemporary design with reliable wet shaving performance. Defined by the RYTMO series’ minimalist, conical shape, the high-grade mint resin handles are polished to a smooth, glossy finish and paired with chrome-plated metal accents for a balanced, modern look. This set includes a closed comb safety razor designed for smooth, controlled shaving, a Pure Badger shaving brush that provides a comfortable balance of softness and gentle exfoliation, and a matching chrome-plated stand to keep everything neatly organised between uses. Well suited to both beginners and experienced wet shavers, the RYTMO mint set offers everyday practicality with a distinctive finish. For related Muhle options, compare Muhle RYTMO Steamed Ash Pure Badger Shaving Set with Muhle RYTMO Black Pure Badger Shaving Set, or browse the MUHLE Shaving collection. Key Features: Three-piece shaving set including safety razor, shaving brush, and stand. Closed comb safety razor for smooth, forgiving daily shaving. Pure Badger shaving brush suitable for rich lathering and light exfoliation. High-grade mint resin handles with polished finish. Chrome-plated stand for tidy, secure storage. Specifications: Razor Type: Double edge safety razor Comb Type: Closed comb Brush Hair: Pure Badger Ring Size: 21 mm (Size M) Handle Material: High-grade resin, mint Stand Material: Chrome-plated metal Replaceable Brush Head: No",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-rytmo-mint-pure-badger-shaving-set",
-        "price": "£85.00",
-        "brand": "Muhle",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-rytmo-pure-badger-mint-shaving-set-male-grooming-supplies-600509.jpg?v=1722956192",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Sets",
-        "collections": [
-          "MUHLE Shaving",
-          "Badger Shaving Brushes",
-          "Shaving Sets",
-          "New Additions",
-          "Gift Sets"
-        ],
-        "variants": [
-          {
-            "id": "45366263611657",
-            "sku": "S81M224SR",
-            "gtin": "4028982005758",
-            "mpn": null,
-            "title": "Muhle RYTMO Mint Pure Badger Shaving Set",
-            "url": "https://www.malegroomingsupplies.com/products/muhle-rytmo-mint-pure-badger-shaving-set",
-            "price": "85.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-rytmo-pure-badger-mint-shaving-set-male-grooming-supplies-600509.jpg?v=1722956192",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Muhle RYTMO Steamed Ash Pure Badger Shaving Set",
         "category": "Shaving Sets > MUHLE Shaving",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
@@ -22872,43 +22908,6 @@
             "sale_price": "20.75 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-shaving-mirror-with-suction-pads-884077.jpg?v=1722956217",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Muhle Silvertip Badger Faux Ivory Shaving Brush",
-        "category": "Shaving Brushes > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "The Muhle Silvertip Badger Faux Ivory Shaving Brush from the PURIST range is designed for traditional wet shavers who value soft face feel and reliable lathering. The brush features a high-grade resin handle in a faux ivory finish, paired with chrome-plated metal accents for a clean, classic look. The silvertip badger knot is known for its soft tips and strong water retention, helping to build a dense, creamy lather with both shaving soaps and creams. Balanced in the hand and comfortable to use, this brush suits both experienced wet shavers and those starting out who want a higher-grade badger brush without unnecessary embellishment. Key Features: Silvertip badger hair offering a soft face feel and excellent lathering. High-grade resin handle in faux ivory with a smooth, polished finish. Chrome-plated metal accents for durability and a refined appearance. Medium knot size providing balanced control and lather production. Replaceable brush head for extended service life. Specifications: Brush Hair: Silvertip badger Ring Size: 21 mm (Size M) Handle Material: High-grade resin, faux ivory Finish: Chrome-plated accents Dimensions: 37 mm x 113 mm Weight: 120 g Replaceable Brush Head: Yes For related shaving brush options, browse the Shaving Brushes collection.",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-silvertip-badger-faux-ivory-shaving-brush",
-        "price": "£90.00",
-        "brand": "Muhle",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-silvertip-badger-faux-ivory-shaving-brush-174832.jpg?v=1722956318",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Brushes",
-        "collections": [
-          "MUHLE Shaving",
-          "Shaving Brushes",
-          "Badger Shaving Brushes",
-          "New Additions"
-        ],
-        "variants": [
-          {
-            "id": "45366267445513",
-            "sku": "091K57",
-            "gtin": "4028982091553",
-            "mpn": null,
-            "title": "Muhle Silvertip Badger Faux Ivory Shaving Brush",
-            "url": "https://www.malegroomingsupplies.com/products/muhle-silvertip-badger-faux-ivory-shaving-brush",
-            "price": "90.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-silvertip-badger-faux-ivory-shaving-brush-174832.jpg?v=1722956318",
             "options": {}
           }
         ]
@@ -23243,43 +23242,6 @@
             "sale_price": "90.00 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-3-piece-m3-shaving-set-male-grooming-supplies-342781.jpg?v=1722956368",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Muhle VIVO Horn Brown 3 Piece Safety Razor Shaving Set",
-        "category": "Shaving Sets > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Muhle VIVO 3-Piece Safety Razor Shaving Set in horn brown resin offers a well-balanced introduction to traditional wet shaving, combining practical design with a refined appearance. The high-grade resin handles feature a polished horn brown finish, complemented by chrome-plated metal accents for a clean, coordinated look. This set includes a closed comb safety razor designed for smooth, comfortable shaving, a Pure Badger shaving brush for building a rich lather, and a matching chrome-plated stand to keep everything neatly organised between uses. Suitable for both beginners and experienced wet shavers, the VIVO set provides reliable daily performance without unnecessary complexity. Please note: horn brown resin handles feature natural variation in tone and pattern. Each set is unique and may differ slightly from the images shown. Key Features: Three-piece shaving set including safety razor, shaving brush, and stand. Closed comb safety razor for smooth, forgiving daily shaving. Pure Badger shaving brush suitable for creating a rich lather and gentle exfoliation. High-grade horn brown resin handles with a polished finish. Chrome-plated stand for tidy, practical storage. Specifications: Razor Type: Double edge safety razor Comb Type: Closed comb Brush Hair: Pure Badger Ring Size: 21 mm (Size M) Handle Material: High-grade resin, horn brown Stand Material: Chrome-plated metal Replaceable Brush Head: No Bowl Included: No Vegan: No For related grooming options, browse the MUHLE Shaving collection.",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-vivo-horn-brown-3-piece-shaving-set",
-        "price": "£90.00",
-        "brand": "Muhle",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-3-piece-sr-shaving-set-male-grooming-supplies-339201.jpg?v=1722956446",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Sets",
-        "collections": [
-          "MUHLE Shaving",
-          "Shaving Sets",
-          "New Additions",
-          "Gift Sets"
-        ],
-        "variants": [
-          {
-            "id": "45366271246601",
-            "sku": "S81M332SR",
-            "gtin": "4028982006175",
-            "mpn": null,
-            "title": "Muhle VIVO Horn Brown 3 Piece Safety Razor Shaving Set",
-            "url": "https://www.malegroomingsupplies.com/products/muhle-vivo-horn-brown-3-piece-shaving-set",
-            "price": "110.00 GBP",
-            "sale_price": "90.00 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-3-piece-sr-shaving-set-male-grooming-supplies-339201.jpg?v=1722956446",
             "options": {}
           }
         ]
@@ -30416,7 +30378,7 @@
         "category": "Shaving Creams Gels & Soaps > Shaving Soap",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Proraso Red Shaving Soap In Bowl is a traditional shaving soap designed to soften coarse beard hair and support a smooth, close shave. Enriched with sandalwood oil and shea butter, it creates a rich, dense lather that helps protect the skin while improving razor glide. Used with a damp shaving brush, the soap works into a creamy lather suitable for classic wet shaving. Its warm sandalwood character and proven Italian barber-style formula make it a reliable choice for men who prefer a more traditional shaving routine. Key Features: Traditional Shaving Soap supplied in a bowl Enriched with Sandalwood Oil and Shea Butter Produces a rich, dense lather for smooth razor glide Helps soften coarse beard hair before shaving Supports skin protection during a close shave Shaving Brush Required for best lathering results Suitable for classic wet shaving routines Specifications: Size: 150ml Format: Shaving soap in bowl Usage: Use with a damp shaving brush to create lather, then apply to the beard before shaving Key ingredients: Sandalwood oil and shea butter Skin and beard type: Suitable for coarse beard hair and traditional wet shaving routines Country style: Traditional Italian shaving formula",
-        "url": "https://www.malegroomingsupplies.com/products/products-proraso-red-shaving-soap-in-bowl-150ml",
+        "url": "https://www.malegroomingsupplies.com/products/proraso-red-shaving-soap-in-bowl-150ml",
         "price": "£6.00",
         "brand": "Proraso",
         "vendor": "Proraso",
@@ -30438,7 +30400,7 @@
             "gtin": "8004395001163",
             "mpn": null,
             "title": "Proraso Red Shaving Soap in Bowl 150ml",
-            "url": "https://www.malegroomingsupplies.com/products/products-proraso-red-shaving-soap-in-bowl-150ml",
+            "url": "https://www.malegroomingsupplies.com/products/proraso-red-shaving-soap-in-bowl-150ml",
             "price": "6.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
@@ -37194,42 +37156,6 @@
         ]
       },
       {
-        "name": "Taylor of Old Bond Sandalwood Hand Wash 300ml",
-        "category": "Hand Soap & Wash > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Bath & Body",
-        "description": "Taylor of Old Bond Street Sandalwood Hand Wash is a luxurious liquid soap formulated to gently cleanse and moisturise the skin. Infused with the brand’s signature classic sandalwood fragrance, it offers an elevated handwashing experience that leaves your skin refreshed, soft, and delicately scented. The refined fougère scent opens with geranium, lavender, rosemary, and liquid amber, flows into a floral heart of carnation, fern, and orange blossom, and rests on a rich base of patchouli, sandalwood, vetivert, powdery musk, and rock rose. Key Features: Gently cleanses and moisturises the skin Infused with classic sandalwood fragrance Features a rich fougère scent profile Supplied in an elegant 300ml pump bottle Made in the UK Specifications: Product Type: Hand Wash Fragrance: Sandalwood Size: 300ml Use: Daily hand cleansing Made in: England For related bath and body options, browse the Hair & Body collection.",
-        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-sandalwood-hand-wash-300ml",
-        "price": "£11.95",
-        "brand": "Taylor of Old Bond Street",
-        "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07135-hand-wash-sandalwood-1200pxx1200px_2048x_3a3ec373-3ef5-417c-9652-f7f9270f539a.jpg?v=1743351224",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Hand Soap & Wash",
-        "collections": [
-          "New Additions",
-          "Hair & Body",
-          "Taylor of Old Bond Street"
-        ],
-        "variants": [
-          {
-            "id": "55089928438025",
-            "sku": "07135",
-            "gtin": null,
-            "mpn": null,
-            "title": "Taylor of Old Bond Sandalwood Hand Wash 300ml",
-            "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-sandalwood-hand-wash-300ml",
-            "price": "11.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07135-hand-wash-sandalwood-1200pxx1200px_2048x_3a3ec373-3ef5-417c-9652-f7f9270f539a.jpg?v=1743351224",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Taylor of Old Bond Sandalwood Moisturising Cream 75ml",
         "category": "Hand & Body Lotions > Hair & Body",
         "product_category": "Health & Beauty > Personal Care",
@@ -37333,42 +37259,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06018-Bay-Rum-150ml-1200x1200px_2048x_clipped_rev_1.jpg?v=1743448116",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Taylor of Old Bond Street Eton College Aftershave Cream 75ml",
-        "category": "Post Shave > Post-Shave",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "Taylor of Old Bond Street Eton College Aftershave Cream is a luxurious post-shave moisturiser designed to soften, hydrate, and nourish the skin. Suitable for use on the face or body, this cream provides a gentle alternative to traditional aftershave lotions, making it ideal for those with sensitive or dry skin. Infused with the Eton College Collection’s invigorating citrus fragrance, it opens with zesty lemon, orange, and mandarin, layered over subtle floral notes, and grounded by a warm base of patchouli. Enriched with lemon oil and patchouli oil, it delivers both fragrance and skincare in one elegant formula. Key Features: Hydrates and soothes skin post-shave Doubles as an all-over body moisturiser Infused with the Eton College citrus fragrance Contains lemon oil and patchouli oil Suitable for all skin types Made in the UK Specifications: Product Type: Aftershave Cream Collection: Eton College Fragrance Notes: Top: Lemon, Orange, Mandarin Heart: Gentle Florals Base: Patchouli Size: 75ml Made in: England",
-        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-eton-college-aftershave-cream-75ml",
-        "price": "£16.95",
-        "brand": "Taylor of Old Bond Street",
-        "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06002-Eton-College-Collection-Luxury-Aftershave-Cream-75ml-1200x1200px_2048x_b945843f-ce93-401e-b632-3c0b3385def2.jpg?v=1743351218",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Post Shave",
-        "collections": [
-          "Post-Shave",
-          "New Additions",
-          "Taylor of Old Bond Street"
-        ],
-        "variants": [
-          {
-            "id": "55089926635785",
-            "sku": "06002",
-            "gtin": "696770060025",
-            "mpn": null,
-            "title": "Taylor of Old Bond Street Eton College Aftershave Cream 75ml",
-            "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-eton-college-aftershave-cream-75ml",
-            "price": "16.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06002-Eton-College-Collection-Luxury-Aftershave-Cream-75ml-1200x1200px_2048x_b945843f-ce93-401e-b632-3c0b3385def2.jpg?v=1743351218",
             "options": {}
           }
         ]
@@ -37513,42 +37403,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06020-Jermyn-Street-Collection-Aftershave-Cream-for-Sensitive-Skin-1200x1200px_2048x_250452db-0ed2-45b5-95df-9e4528db3cc7.jpg?v=1743337280",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Taylor of Old Bond Street Jermyn Street Collection Cologne 100ml",
-        "category": "Fragrances > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne",
-        "description": "Taylor of Old Bond Street Jermyn Street Cologne is a modern, fresh fragrance designed especially for sensitive skin. Free from alcohol and allergens, this refined cologne is gentle on the skin while offering long-lasting scent. Packaged in a sleek 100ml bottle with a spray atomiser, it delivers a polished finish to your grooming routine. The fragrance opens with vibrant citrus top notes of lemon, lime, bergamot, and lavender, flowing into a clean heart of geranium, neroli, and amber. It settles into a warm and balanced base of musk, patchouli, and vanilla, creating a distinguished yet subtle signature scent. Key Features: Alcohol-free and allergen-free – ideal for sensitive skin Fresh fougère scent with citrus, floral, and musky tones Includes patchouli oil for depth and warmth Comes with atomiser spray for easy application Made in the UK Specifications: Product Type: Cologne Collection: Jermyn Street Fragrance Notes: Top: Lemon, Lime, Lavender, Bergamot Heart: Geranium, Neroli, Amber Base: Musk, Patchouli, Vanilla Size: 100ml Made in: England",
-        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-jermyn-street-collection-cologne-100ml",
-        "price": "£36.95",
-        "brand": "Taylor of Old Bond Street",
-        "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06015-Jermyn-Street-Alcohol-Free-Cologne-for-Sensitive-Skin-and-box-1200x1200px_2048x_2f6e9847-aea3-44bc-b3ec-b060b309adc4.jpg?v=1743440979",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Fragrances",
-        "collections": [
-          "New Additions",
-          "Hair & Body",
-          "Taylor of Old Bond Street"
-        ],
-        "variants": [
-          {
-            "id": "55089926996233",
-            "sku": "06015",
-            "gtin": "696770060155",
-            "mpn": null,
-            "title": "Taylor of Old Bond Street Jermyn Street Collection Cologne 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-jermyn-street-collection-cologne-100ml",
-            "price": "36.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06015-Jermyn-Street-Alcohol-Free-Cologne-for-Sensitive-Skin-and-box-1200x1200px_2048x_2f6e9847-aea3-44bc-b3ec-b060b309adc4.jpg?v=1743440979",
             "options": {}
           }
         ]
@@ -37949,44 +37803,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/j01004-shaving-cream-rose-150ml-2023_2048x_43d9c767-f270-4c76-bc16-488676c6cc5f.jpg?v=1743444412",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Taylor of Old Bond Street Sandalwood & Pure Badger Luxury Wooden Gift Box",
-        "category": "Shaving Sets > Badger Shaving Brushes",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "A timeless grooming gift, the Taylor of Old Bond Street Sandalwood & Pure Badger Luxury Wooden Gift Box brings together two essentials for the classic wet shave. This premium set features a 150g bowl of Sandalwood Shaving Cream, renowned for its rich, creamy lather and refined masculine fragrance, along with a pure badger shaving brush in elegant imitation ivory. Presented in a beautifully crafted luxury wooden box, this set is ideal for both seasoned wet shavers and those new to traditional grooming. Set Includes: Sandalwood Shaving Cream Bowl (150g) Pure Badger Shaving Brush (Imitation Ivory Handle) Luxury Wooden Gift Box",
-        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-sandalwood-pure-badger-luxury-wooden-gift-box",
-        "price": "£52.59",
-        "brand": "Taylor of Old Bond Street",
-        "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J00215-pure-badger-brush-and-sandalwood-shave-cream-in-luxury-gift-box-1200p.jpg?v=1743371896",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Sets",
-        "collections": [
-          "Badger Shaving Brushes",
-          "Shaving Sets",
-          "New Additions",
-          "Taylor of Old Bond Street",
-          "Gift Sets"
-        ],
-        "variants": [
-          {
-            "id": "55091151110409",
-            "sku": "00215",
-            "gtin": null,
-            "mpn": null,
-            "title": "Taylor of Old Bond Street Sandalwood & Pure Badger Luxury Wooden Gift Box",
-            "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-sandalwood-pure-badger-luxury-wooden-gift-box",
-            "price": "59.95 GBP",
-            "sale_price": "52.59 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J00215-pure-badger-brush-and-sandalwood-shave-cream-in-luxury-gift-box-1200p.jpg?v=1743371896",
             "options": {}
           }
         ]

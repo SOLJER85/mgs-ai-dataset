@@ -3,22 +3,22 @@
   "category_counts": {
     "Health & Beauty > Personal Care": 33,
     "Health & Beauty > Personal Care > Bath & Body": 47,
-    "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne": 79,
+    "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne": 78,
     "Health & Beauty > Personal Care > Cosmetics > Skin Care": 28,
-    "Health & Beauty > Personal Care > Hair Care": 315,
+    "Health & Beauty > Personal Care > Hair Care": 318,
     "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care": 101,
     "Health & Beauty > Personal Care > Hair Care > Hair Color": 4,
     "Health & Beauty > Personal Care > Oral Care": 7,
-    "Health & Beauty > Personal Care > Shaving & Grooming": 333,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 300
+    "Health & Beauty > Personal Care > Shaving & Grooming": 329,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 297
   },
   "currency": "GBP",
-  "generated_at": "2026-05-08T14:20:02+00:00",
+  "generated_at": "2026-05-09T05:23:23+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 985,
+  "included_products": 980,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 394,
+  "skipped_products": 399,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15367113998601",
@@ -89,55 +89,55 @@
     {
       "id": "gid://shopify/Product/9368732270857",
       "reason": "not_active_or_no_online_store_url",
-      "status": "ACTIVE",
+      "status": "DRAFT",
       "title": "American Crew 2 in 1 Skin Moist & Beard Conditioner 100ml"
     },
     {
       "id": "gid://shopify/Product/9368732172553",
       "reason": "not_active_or_no_online_store_url",
-      "status": "ACTIVE",
+      "status": "DRAFT",
       "title": "American Crew 24-Hour Deodorant Body Wash 450ml"
     },
     {
       "id": "gid://shopify/Product/9368732303625",
       "reason": "not_active_or_no_online_store_url",
-      "status": "ACTIVE",
+      "status": "DRAFT",
       "title": "American Crew 3 in 1 Energizing 250ML"
     },
     {
       "id": "gid://shopify/Product/9368732205321",
       "reason": "not_active_or_no_online_store_url",
-      "status": "ACTIVE",
+      "status": "DRAFT",
       "title": "American Crew 3 in 1 Energizing 450ML"
     },
     {
       "id": "gid://shopify/Product/9368732238089",
       "reason": "not_active_or_no_online_store_url",
-      "status": "ACTIVE",
+      "status": "DRAFT",
       "title": "American Crew 3 in 1 Relaxing 250ML"
     },
     {
       "id": "gid://shopify/Product/9368732369161",
       "reason": "not_active_or_no_online_store_url",
-      "status": "ACTIVE",
+      "status": "DRAFT",
       "title": "American Crew 3 in 1 Relaxing 450ML"
     },
     {
       "id": "gid://shopify/Product/9368732401929",
       "reason": "not_active_or_no_online_store_url",
-      "status": "ACTIVE",
+      "status": "DRAFT",
       "title": "American Crew 3 in 1 Tea Tree 100ml"
     },
     {
       "id": "gid://shopify/Product/9368732500233",
       "reason": "not_active_or_no_online_store_url",
-      "status": "ACTIVE",
+      "status": "DRAFT",
       "title": "American Crew 3 in 1 Tea Tree 250ml"
     },
     {
       "id": "gid://shopify/Product/9368732467465",
       "reason": "not_active_or_no_online_store_url",
-      "status": "ACTIVE",
+      "status": "DRAFT",
       "title": "American Crew 3 in 1 Tea Tree 450ml"
     }
   ],
@@ -145,12 +145,12 @@
   "source_products": 1379,
   "validation": {
     "availability_counts": {
-      "in_stock": 904,
-      "out_of_stock": 343
+      "in_stock": 908,
+      "out_of_stock": 334
     },
     "checkout_eligibility_counts": {
-      "false": 343,
-      "true": 904
+      "false": 334,
+      "true": 908
     },
     "duplicate_item_id_count": 0,
     "invalid_gtin_rows": 0,
@@ -173,8 +173,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1247,
-    "rows_with_gtin": 1175,
+    "row_count": 1242,
+    "rows_with_gtin": 1172,
     "rows_with_mpn": 0,
     "target_country_count": 1
   }
