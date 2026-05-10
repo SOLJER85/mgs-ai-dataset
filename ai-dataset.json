@@ -2,16 +2,16 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-09",
-    "generated_at": "2026-05-09T05:23:23+00:00",
+    "last_updated": "2026-05-10",
+    "generated_at": "2026-05-10T05:38:54+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [
       "GB"
     ],
-    "product_count": 980,
-    "variant_count": 1242,
+    "product_count": 1004,
+    "variant_count": 1266,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -2989,7 +2989,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes15_clipped_rev_1.jpg?v=1748201094",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3009,7 +3009,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-1445-eau-de-parfum-100ml",
             "price": "68.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes15_clipped_rev_1.jpg?v=1748201094",
             "options": {}
           }
@@ -3385,7 +3385,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes3_clipped_rev_1.jpg?v=1748263868",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3405,7 +3405,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-special-reserve-neroli-eau-de-parfum-100ml",
             "price": "98.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes3_clipped_rev_1.jpg?v=1748263868",
             "options": {}
           }
@@ -17542,6 +17542,873 @@
             "options": {
               "Size": "Sample Envelope"
             }
+          }
+        ]
+      },
+      {
+        "name": "Marvis 3 Flavours Box 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis 3 Flavours Box 25ml brings together a selection of Marvis toothpaste flavours in compact 25ml tubes. It is a practical way to compare the range, keep smaller tubes for travel, or give a well-presented oral care set. In Marvis 3 Flavours Box 25ml, the set includes Classic Strong Mint, Whitening Mint and Cinnamon Mint. Each tube keeps the smooth Marvis paste texture and distinctive flavour-led approach, while the smaller size is easy to pack or store. Key Features 25ml Tubes: Compact format for travel, trial use or gifting Flavour Selection: Classic Strong Mint, Whitening Mint and Cinnamon Mint Marvis Toothpaste: Smooth paste texture and distinctive flavour profiles Specifications Brand: Marvis Product Type: Toothpaste Set Tube Size: 25ml Contents: Classic Strong Mint, Whitening Mint and Cinnamon Mint Measurements: Length or Depth: 10cm; Height: 3cm; Width: 12.8cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-3-flavours-box-25ml",
+        "price": "£12.00",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7931338-mt411468-2-3-1000.jpg?v=1777814094",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Gift Sets",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034332995849",
+            "sku": "MT411468",
+            "gtin": "8004395114689",
+            "mpn": null,
+            "title": "Marvis 3 Flavours Box 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-3-flavours-box-25ml",
+            "price": "12.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7931338-mt411468-2-3-1000.jpg?v=1777814094",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis 7 Flavours Box 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis 7 Flavours Box 25ml brings together a selection of Marvis toothpaste flavours in compact 25ml tubes. It is a practical way to compare the range, keep smaller tubes for travel, or give a well-presented oral care set. In Marvis 7 Flavours Box 25ml, the set includes Classic Strong Mint, Whitening Mint, Cinnamon Mint, Aquatic Mint, Jasmin Mint, Ginger Mint and Amarelli Liquorice Mint. Each tube keeps the smooth Marvis paste texture and distinctive flavour-led approach, while the smaller size is easy to pack or store. Key Features 25ml Tubes: Compact format for travel, trial use or gifting Flavour Selection: Classic Strong Mint, Whitening Mint, Cinnamon Mint, Aquatic Mint, Jasmin Mint, Ginger Mint and Amarelli Liquorice Mint Marvis Toothpaste: Smooth paste texture and distinctive flavour profiles Specifications Brand: Marvis Product Type: Toothpaste Set Tube Size: 25ml Contents: Classic Strong Mint, Whitening Mint, Cinnamon Mint, Aquatic Mint, Jasmin Mint, Ginger Mint and Amarelli Liquorice Mint Measurements: Length or Depth: 12.5cm; Height: 3.2cm; Width: 30cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-7-flavours-box-25ml-1",
+        "price": "£41.00",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7931336-mt411466-2-3-1000.jpg?v=1777814084",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Gift Sets",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034332537097",
+            "sku": "MT411466",
+            "gtin": "8004395114665",
+            "mpn": null,
+            "title": "Marvis 7 Flavours Box 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-7-flavours-box-25ml-1",
+            "price": "41.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7931336-mt411466-2-3-1000.jpg?v=1777814084",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis 7 Flavours Pack 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis 7 Flavours Pack 25ml brings together a selection of Marvis toothpaste flavours in compact 25ml tubes. It is a practical way to compare the range, keep smaller tubes for travel, or give a well-presented oral care set. In Marvis 7 Flavours Pack 25ml, the set includes Classic Strong Mint, Whitening Mint, Cinnamon Mint, Aquatic Mint, Jasmin Mint, Ginger Mint and Amarelli Liquorice Mint. Each tube keeps the smooth Marvis paste texture and distinctive flavour-led approach, while the smaller size is easy to pack or store. Key Features 25ml Tubes: Compact format for travel, trial use or gifting Flavour Selection: Classic Strong Mint, Whitening Mint, Cinnamon Mint, Aquatic Mint, Jasmin Mint, Ginger Mint and Amarelli Liquorice Mint Marvis Toothpaste: Smooth paste texture and distinctive flavour profiles Specifications Brand: Marvis Product Type: Toothpaste Set Tube Size: 25ml Contents: Classic Strong Mint, Whitening Mint, Cinnamon Mint, Aquatic Mint, Jasmin Mint, Ginger Mint and Amarelli Liquorice Mint Measurements: Length or Depth: 31cm; Height: 11cm; Width: 5cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-7-flavours-pack-25ml",
+        "price": "£29.25",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8088674-mt411467-2-3-1000.jpg?v=1778319257",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Gift Sets",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034332700937",
+            "sku": "MT411467",
+            "gtin": "8004395114672",
+            "mpn": null,
+            "title": "Marvis 7 Flavours Pack 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-7-flavours-pack-25ml",
+            "price": "29.25 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8088674-mt411467-2-3-1000.jpg?v=1778319257",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Anise Mint Mouth Wash 120ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Anise Mint Mouth Wash 120ml is a mouthwash from Marvis for a clean, fresh finish after brushing. The anise mint profile gives the rinse a distinctive character while keeping the overall feel crisp and practical. The 120ml Anise Mint bottle is easy to keep by the sink as part of a daily oral care routine. It suits customers who already use Marvis toothpaste and want a matching mouthwash with the same refined approach to flavour. Key Features Mouthwash: Designed for use after brushing as part of oral care Flavour Profile: star anise, clean mint and a gently spiced finish Size: 120ml Marvis Range: Pairs naturally with Marvis toothpaste flavours Specifications Brand: Marvis Product Type: Mouthwash Size: 120ml Flavour: Anise Mint Measurements: Length or Depth: 5.5cm; Height: 11.5cm; Width: 5.5cm; Weight: 315g",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-anise-mint-mouthwash-120ml",
+        "price": "£9.95",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564501-mt411158-2-3-1000.jpg?v=1777814100",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034334372105",
+            "sku": "MT411158",
+            "gtin": "8004395111589",
+            "mpn": null,
+            "title": "Marvis Anise Mint Mouth Wash 120ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-anise-mint-mouthwash-120ml",
+            "price": "9.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564501-mt411158-2-3-1000.jpg?v=1777814100",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Anise Mint Toothpaste 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Anise Mint Toothpaste 25ml is a fluoride toothpaste from Marvis with aromatic anise with fresh mint. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on star anise, clean mint and a gently spiced finish. The compact tube is useful for travel, gym bags, short stays, or trying the flavour before moving to a larger size. It is a good fit for customers who prefer a flavour-led toothpaste without losing the clean, practical feel expected from daily brushing. The Anise Mint variant uses fluoride and xylitol, with a cleaning powder blend designed to clean without being harsh on enamel or dentine. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: star anise, clean mint and a gently spiced finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 25ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 25ml Flavour: Anise Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene.",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-anise-mint-toothpaste-25ml",
+        "price": "£3.85",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564497-mt411137-2-3-1000.jpg?v=1777814098",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034333585673",
+            "sku": "MT411337",
+            "gtin": "8004395111374",
+            "mpn": null,
+            "title": "Marvis Anise Mint Toothpaste 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-anise-mint-toothpaste-25ml",
+            "price": "3.85 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564497-mt411137-2-3-1000.jpg?v=1777814098",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Anise Mint Toothpaste 85ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Anise Mint Toothpaste 85ml is a fluoride toothpaste from Marvis with aromatic anise with fresh mint. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on star anise, clean mint and a gently spiced finish. The standard tube is well suited to regular bathroom use and everyday brushing. It is a good fit for customers who prefer a flavour-led toothpaste without losing the clean, practical feel expected from daily brushing. The Anise Mint variant uses fluoride and xylitol, with a cleaning powder blend designed to clean without being harsh on enamel or dentine. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: star anise, clean mint and a gently spiced finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 85ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 85ml Flavour: Anise Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene. Measurements: Length or Depth: 5.3cm; Height: 3.2cm; Width: 17cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-anise-mint-toothpaste-85ml",
+        "price": "£7.50",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926506-mt411377_2-2-3-1000.jpg?v=1778278142",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034332602633",
+            "sku": "MT411377",
+            "gtin": "8004395111879",
+            "mpn": null,
+            "title": "Marvis Anise Mint Toothpaste 85ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-anise-mint-toothpaste-85ml",
+            "price": "7.50 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926506-mt411377_2-2-3-1000.jpg?v=1778278142",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Aquatic Mint Toothpaste 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Aquatic Mint Toothpaste 25ml is a fluoride toothpaste from Marvis with cool aquatic mint and a light sweetness. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on fresh aquatic mint, cool sweetness and a clean finish. The compact tube is useful for travel, gym bags, short stays, or trying the flavour before moving to a larger size. It suits anyone who wants a more considered alternative to a standard mint toothpaste while keeping the role of daily oral care clear. In this 25ml Aquatic Mint toothpaste, the formula contains fluoride and xylitol, with cleaning powders designed for enamel and dentine care. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: fresh aquatic mint, cool sweetness and a clean finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 25ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 25ml Flavour: Aquatic Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Hydroxycitronellal, Farnesol. Measurements: Length or Depth: 4cm; Height: 11.5cm; Width: 3cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-aquatic-mint-toothpaste-25ml",
+        "price": "£3.85",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926546-mt411332_1-2-3-1000.jpg?v=1778278170",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034333061385",
+            "sku": "MT411332",
+            "gtin": "8004395111329",
+            "mpn": null,
+            "title": "Marvis Aquatic Mint Toothpaste 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-aquatic-mint-toothpaste-25ml",
+            "price": "3.85 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926546-mt411332_1-2-3-1000.jpg?v=1778278170",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Black Forest Toothpaste 75ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Black Forest Toothpaste 75ml is a fluoride toothpaste with dark chocolate and cherry notes lifted by peppermint. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on dark chocolate, cherry, amaretto marzipan and peppermint. The 75ml tube is a practical everyday size for regular bathroom use. It works well on a bathroom shelf where freshness, flavour and a smooth brushing texture all matter. For everyday brushing, the 75ml Black Forest tube brings together fluoride, xylitol and a concentrated paste texture that feels smooth rather than gritty. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: dark chocolate, cherry, amaretto marzipan and peppermint Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 75ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 75ml Flavour: Black Forest Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavour), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene. Measurements: Length or Depth: 5.3cm; Height: 3.2cm; Width: 17cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-black-forest-toothpaste-75ml",
+        "price": "£7.50",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8913198-mt411363-2-3-1000.jpg?v=1778278220",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034334044425",
+            "sku": "MT411363",
+            "gtin": "8004395111633",
+            "mpn": null,
+            "title": "Marvis Black Forest Toothpaste 75ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-black-forest-toothpaste-75ml",
+            "price": "7.50 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8913198-mt411363-2-3-1000.jpg?v=1778278220",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Cinnamon Mint Mouthwash 120ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Cinnamon Mint Mouthwash 120ml is a mouthwash from Marvis for a clean, fresh finish after brushing. The cinnamon mint profile gives the rinse a distinctive character while keeping the overall feel crisp and practical. The 120ml Cinnamon Mint bottle is easy to keep by the sink as part of a daily oral care routine. It suits customers who already use Marvis toothpaste and want a matching mouthwash with the same refined approach to flavour. Key Features Mouthwash: Designed for use after brushing as part of oral care Flavour Profile: cinnamon warmth, menthol freshness and a rounded aromatic finish Size: 120ml Marvis Range: Pairs naturally with Marvis toothpaste flavours Specifications Brand: Marvis Product Type: Mouthwash Size: 120ml Flavour: Cinnamon Mint Measurements: Length or Depth: 5.5cm; Height: 11.5cm; Width: 5.5cm; Weight: 315g",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-cinnamon-mint-mouthwash-120ml",
+        "price": "£9.95",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564503-mt411159-2-3-1000.jpg?v=1777814100",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034334437641",
+            "sku": "MT411159",
+            "gtin": "8004395111596",
+            "mpn": null,
+            "title": "Marvis Cinnamon Mint Mouthwash 120ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-cinnamon-mint-mouthwash-120ml",
+            "price": "9.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564503-mt411159-2-3-1000.jpg?v=1777814100",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Cinnamon Mint Toothpaste 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Cinnamon Mint Toothpaste 25ml is a fluoride toothpaste with warm cinnamon with brisk mint freshness. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on cinnamon warmth, menthol freshness and a rounded aromatic finish. The compact tube is useful for travel, gym bags, short stays, or trying the flavour before moving to a larger size. It suits anyone who wants a more considered alternative to a standard mint toothpaste while keeping the role of daily oral care clear. In this 25ml Cinnamon Mint toothpaste, the formula contains fluoride and xylitol, with cleaning powders designed for enamel and dentine care. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: cinnamon warmth, menthol freshness and a rounded aromatic finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 25ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 25ml Flavour: Cinnamon Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Cinnamyl Alcohol, Cinnamal, Limonene, Eugenol. Measurements: Length or Depth: 4cm; Height: 11.5cm; Width: 3cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-cinnamon-mint-toothpaste-25ml",
+        "price": "£3.85",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926540-mt411336_1-2-3-1000.jpg?v=1778278196",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034333487369",
+            "sku": "MT411336",
+            "gtin": "8004395111367",
+            "mpn": null,
+            "title": "Marvis Cinnamon Mint Toothpaste 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-cinnamon-mint-toothpaste-25ml",
+            "price": "3.85 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926540-mt411336_1-2-3-1000.jpg?v=1778278196",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Classic Strong Mint Toothpaste 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Classic Strong Mint Toothpaste 25ml is a fluoride toothpaste from Marvis with clear peppermint and a firm, cooling finish. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on peppermint, clean mint and long-lasting freshness. The compact tube is useful for travel, gym bags, short stays, or trying the flavour before moving to a larger size. Choose it if you want a distinctive Marvis flavour in a format that still feels straightforward for regular oral care. This 25ml Classic Strong Mint paste combines fluoride, xylitol and a smooth cleaning base, with a preservative-free formula that contains no ingredients of animal origin. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: peppermint, clean mint and long-lasting freshness Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 25ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 25ml Flavour: Classic Strong Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavour), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene, Eugenol. Measurements: Length or Depth: 4cm; Height: 11.5cm; Width: 3cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-classic-strong-mint-toothpaste-25ml",
+        "price": "£3.85",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8913164-mt411330_1-2-3-1000.jpg?v=1778319125",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034332766473",
+            "sku": "MT411330",
+            "gtin": "8004395111305",
+            "mpn": null,
+            "title": "Marvis Classic Strong Mint Toothpaste 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-classic-strong-mint-toothpaste-25ml",
+            "price": "3.85 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8913164-mt411330_1-2-3-1000.jpg?v=1778319125",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Classic Strong Mint Toothpaste 85ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Classic Strong Mint Toothpaste 85ml is a fluoride toothpaste from Marvis with clear peppermint and a firm, cooling finish. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on peppermint, clean mint and long-lasting freshness. The standard tube is well suited to regular bathroom use and everyday brushing. Choose it if you want a distinctive Marvis flavour in a format that still feels straightforward for regular oral care. This 85ml Classic Strong Mint paste combines fluoride, xylitol and a smooth cleaning base, with a preservative-free formula that contains no ingredients of animal origin. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: peppermint, clean mint and long-lasting freshness Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 85ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 85ml Flavour: Classic Strong Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavour), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene, Eugenol. Measurements: Length or Depth: 5.3cm; Height: 3.2cm; Width: 17cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-classic-strong-mint-toothpaste-85ml",
+        "price": "£7.50",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926516-mt411370-2-3-1000.jpg?v=1777814082",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034331685129",
+            "sku": "MT411370",
+            "gtin": "8004395111701",
+            "mpn": null,
+            "title": "Marvis Classic Strong Mint Toothpaste 85ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-classic-strong-mint-toothpaste-85ml",
+            "price": "7.50 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926516-mt411370-2-3-1000.jpg?v=1777814082",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Ginger Mint Toothpaste 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Ginger Mint Toothpaste 25ml is a fluoride toothpaste from Marvis with warm ginger balanced with fresh mint. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on ginger warmth, mint freshness and a lightly spiced finish. The compact tube is useful for travel, gym bags, short stays, or trying the flavour before moving to a larger size. It is a good fit for customers who prefer a flavour-led toothpaste without losing the clean, practical feel expected from daily brushing. The Ginger Mint variant uses fluoride and xylitol, with a cleaning powder blend designed to clean without being harsh on enamel or dentine. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: ginger warmth, mint freshness and a lightly spiced finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 25ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 25ml Flavour: Ginger Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavour), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene. Measurements: Length or Depth: 4cm; Height: 11.5cm; Width: 3cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-ginger-mint-toothpaste-25ml",
+        "price": "£3.85",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926543-mt411333_1-2-3-1000.jpg?v=1778278181",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034333192457",
+            "sku": "MT411333",
+            "gtin": "8004395111336",
+            "mpn": null,
+            "title": "Marvis Ginger Mint Toothpaste 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-ginger-mint-toothpaste-25ml",
+            "price": "3.85 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926543-mt411333_1-2-3-1000.jpg?v=1778278181",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Jasmin Mint Toothpaste 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Jasmin Mint Toothpaste 25ml is a fluoride toothpaste from Marvis with soft jasmin with gentle mint freshness. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on floral jasmin, mint and a refined fresh finish. The compact tube is useful for travel, gym bags, short stays, or trying the flavour before moving to a larger size. It works well on a bathroom shelf where freshness, flavour and a smooth brushing texture all matter. For everyday brushing, the 25ml Jasmin Mint tube brings together fluoride, xylitol and a concentrated paste texture that feels smooth rather than gritty. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: floral jasmin, mint and a refined fresh finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 25ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 25ml Flavour: Jasmin Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Linalool. Measurements: Length or Depth: 4cm; Height: 11.5cm; Width: 3cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-jasmin-mint-toothpaste-25ml",
+        "price": "£3.85",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8784118-mt411335_1-2-3-1000.jpg?v=1778278192",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034333389065",
+            "sku": "MT411335",
+            "gtin": "8004395111350",
+            "mpn": null,
+            "title": "Marvis Jasmin Mint Toothpaste 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-jasmin-mint-toothpaste-25ml",
+            "price": "3.85 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8784118-mt411335_1-2-3-1000.jpg?v=1778278192",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Jasmin Mint Toothpaste 85ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Jasmin Mint Toothpaste 85ml is a fluoride toothpaste from Marvis with soft jasmin with gentle mint freshness. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on floral jasmin, mint and a refined fresh finish. The standard tube is well suited to regular bathroom use and everyday brushing. It works well on a bathroom shelf where freshness, flavour and a smooth brushing texture all matter. For everyday brushing, the 85ml Jasmin Mint tube brings together fluoride, xylitol and a concentrated paste texture that feels smooth rather than gritty. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: floral jasmin, mint and a refined fresh finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 85ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 85ml Flavour: Jasmin Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Linalool. Measurements: Length or Depth: 5.3cm; Height: 3.2cm; Width: 17cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-jasmin-mint-toothpaste-85ml",
+        "price": "£7.50",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8784120-mt411375-2-3-1000_124651a5-924b-49b3-ac99-2bc9db867419.jpg?v=1778278241",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034334634249",
+            "sku": "MT411375",
+            "gtin": "8004395111756",
+            "mpn": null,
+            "title": "Marvis Jasmin Mint Toothpaste 85ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-jasmin-mint-toothpaste-85ml",
+            "price": "7.50 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8784120-mt411375-2-3-1000_124651a5-924b-49b3-ac99-2bc9db867419.jpg?v=1778278241",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Orange Blossom Bloom Toothpaste 75ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Orange Blossom Bloom Toothpaste 75ml is a fluoride toothpaste from Marvis with floral orange blossom with fresh mint and citrus character. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on orange blossom, citrus, spearmint and peppermint. The 75ml tube is a practical everyday size for regular bathroom use. Choose it if you want a distinctive Marvis flavour in a format that still feels straightforward for regular oral care. This 75ml Orange Blossom Bloom paste combines fluoride, xylitol and a smooth cleaning base, with a preservative-free formula that contains no ingredients of animal origin. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: orange blossom, citrus, spearmint and peppermint Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 75ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 75ml Flavour: Orange Blossom Bloom Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavour), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene, Linalool. Measurements: Length or Depth: 5.3cm; Height: 3.2cm; Width: 17cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-orange-blossom-bloom-toothpaste-75ml",
+        "price": "£7.50",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8009789-mt411362-2-3-1000.jpg?v=1777814098",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034333782281",
+            "sku": "MT411362",
+            "gtin": "8004395111626",
+            "mpn": null,
+            "title": "Marvis Orange Blossom Bloom Toothpaste 75ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-orange-blossom-bloom-toothpaste-75ml",
+            "price": "7.50 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8009789-mt411362-2-3-1000.jpg?v=1777814098",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Sensitive Gums Mint Toothpaste 75ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Sensitive Gums Mint Toothpaste 75ml is a fluoride toothpaste with creamy spearmint, peppermint and menthol freshness. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on spearmint, peppermint, menthol and a gentle fresh finish. The 75ml tube is a practical everyday size for regular bathroom use. Choose it if you want a distinctive Marvis flavour in a format that still feels straightforward for regular oral care. This 75ml Sensitive Gums Mint paste combines fluoride, xylitol and a smooth cleaning base, with a preservative-free formula that contains no ingredients of animal origin. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: spearmint, peppermint, menthol and a gentle fresh finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 75ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 75ml Flavour: Sensitive Gums Mint Made In: Italy Ingredients: Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavour), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Fructooligosaccharides, Sodium Hyaluronate, Allantoin, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene. Measurements: Length or Depth: 5.3cm; Height: 3.2cm; Width: 17cm; Weight: 141.6g",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-sensitive-gums-mint-toothpaste-75ml",
+        "price": "£9.00",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6713458-mt411242-2-3-1000.jpg?v=1777814098",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034333683977",
+            "sku": "MT411242",
+            "gtin": "8004395112425",
+            "mpn": null,
+            "title": "Marvis Sensitive Gums Mint Toothpaste 75ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-sensitive-gums-mint-toothpaste-75ml",
+            "price": "9.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6713458-mt411242-2-3-1000.jpg?v=1777814098",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Smokers Whitening Mint Toothpaste 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Smokers Whitening Mint Toothpaste 25ml is a fluoride toothpaste from Marvis with cool mint freshness and a clean brushing feel. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on cool mint, stain-focused cleaning and a fresh finish. The compact tube is useful for travel, gym bags, short stays, or trying the flavour before moving to a larger size. Choose it if you want a distinctive Marvis flavour in a format that still feels straightforward for regular oral care. This 25ml Smokers Whitening Mint paste combines fluoride, xylitol and a smooth cleaning base, with a preservative-free formula that contains no ingredients of animal origin. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: cool mint, stain-focused cleaning and a fresh finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 25ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 25ml Flavour: Smokers Whitening Mint Made In: Italy Ingredients: Glycerin, Calcium Carbonate, Hydrated Silica, Aqua (Water/Eau), PVP, Aroma (Flavor), Xylitol, Cellulose Gum, Titanium Dioxide, Trisodium Phosphate, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Fluoride, Limonene, Eugenol. Measurements: Length or Depth: 4cm; Height: 11.5cm; Width: 3cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-smokers-whitening-mint-toothpaste-25ml",
+        "price": "£4.90",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926535-mt411338-2-3-1000.jpg?v=1777814099",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034333880585",
+            "sku": "MT411338",
+            "gtin": "8004395111381",
+            "mpn": null,
+            "title": "Marvis Smokers Whitening Mint Toothpaste 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-smokers-whitening-mint-toothpaste-25ml",
+            "price": "4.90 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926535-mt411338-2-3-1000.jpg?v=1777814099",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Smokers Whitening Mint Toothpaste 85ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Smokers Whitening Mint Toothpaste 85ml is a fluoride toothpaste from Marvis with cool mint freshness and a clean brushing feel. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on cool mint, stain-focused cleaning and a fresh finish. The standard tube is well suited to regular bathroom use and everyday brushing. Choose it if you want a distinctive Marvis flavour in a format that still feels straightforward for regular oral care. This 85ml Smokers Whitening Mint paste combines fluoride, xylitol and a smooth cleaning base, with a preservative-free formula that contains no ingredients of animal origin. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: cool mint, stain-focused cleaning and a fresh finish Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 85ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 85ml Flavour: Smokers Whitening Mint Made In: Italy Ingredients: Glycerin, Calcium Carbonate, Hydrated Silica, Aqua (Water/Eau), PVP, Aroma (Flavor), Xylitol, Cellulose Gum, Titanium Dioxide, Trisodium Phosphate, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Fluoride, Limonene, Eugenol. Measurements: Length or Depth: 5.3cm; Height: 3.2cm; Width: 17cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-smokers-whitening-mint-toothpaste-85ml",
+        "price": "£9.00",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8913182-mt411378_3-2-3-1000.jpg?v=1778320066",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034332438793",
+            "sku": "MT411378",
+            "gtin": "8004395111817",
+            "mpn": null,
+            "title": "Marvis Smokers Whitening Mint Toothpaste 85ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-smokers-whitening-mint-toothpaste-85ml",
+            "price": "9.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8913182-mt411378_3-2-3-1000.jpg?v=1778320066",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Spearmint Mouthwash 120ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Spearmint Mouthwash 120ml is a mouthwash from Marvis for a clean, fresh finish after brushing. The spearmint profile gives the rinse a distinctive character while keeping the overall feel crisp and practical. The 120ml Spearmint bottle is easy to keep by the sink as part of a daily oral care routine. It suits customers who already use Marvis toothpaste and want a matching mouthwash with the same refined approach to flavour. Key Features Mouthwash: Designed for use after brushing as part of oral care Flavour Profile: clean spearmint freshness Size: 120ml Marvis Range: Pairs naturally with Marvis toothpaste flavours Specifications Brand: Marvis Product Type: Mouthwash Size: 120ml Flavour: Spearmint Measurements: Length or Depth: 5.5cm; Height: 11.5cm; Width: 5.5cm; Weight: 315g",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-spearmint-mouthwash-120ml",
+        "price": "£9.95",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6713354-mt411157-2-3-1000.jpg?v=1777814099",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034334306569",
+            "sku": "MT411157",
+            "gtin": "8004395111572",
+            "mpn": null,
+            "title": "Marvis Spearmint Mouthwash 120ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-spearmint-mouthwash-120ml",
+            "price": "9.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6713354-mt411157-2-3-1000.jpg?v=1777814099",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Strong Mint Mouthwash 120ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Strong Mint Mouthwash 120ml is a mouthwash from Marvis for a clean, fresh finish after brushing. The strong mint profile gives the rinse a distinctive character while keeping the overall feel crisp and practical. The 120ml Strong Mint bottle is easy to keep by the sink as part of a daily oral care routine. It suits customers who already use Marvis toothpaste and want a matching mouthwash with the same refined approach to flavour. Key Features Mouthwash: Designed for use after brushing as part of oral care Flavour Profile: bold mint freshness Size: 120ml Marvis Range: Pairs naturally with Marvis toothpaste flavours Specifications Brand: Marvis Product Type: Mouthwash Size: 120ml Flavour: Strong Mint Measurements: Length or Depth: 7.3cm; Height: 13.1cm; Width: 7.3cm; Weight: 373g",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-strong-mint-mouthwash-120ml",
+        "price": "£24.50",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6713303-mt411055-2-3-1000.jpg?v=1777814100",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034334503177",
+            "sku": "MT411055",
+            "gtin": "8004395155781",
+            "mpn": null,
+            "title": "Marvis Strong Mint Mouthwash 120ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-strong-mint-mouthwash-120ml",
+            "price": "24.50 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6713303-mt411055-2-3-1000.jpg?v=1777814100",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Toothbrush",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Toothbrush is a refined manual toothbrush designed to sit neatly alongside the Marvis oral care range. The long black handle gives it a clean, simple look, while the medium bristles are suited to everyday brushing. It is a useful choice for customers who want a toothbrush that feels considered without being fussy. The slim handle is easy to control in the hand and works well as part of a regular bathroom kit or travel wash bag. Key Features Manual Toothbrush: Made for everyday brushing Medium Bristles: Balanced feel for regular use Long Handle: Slim black handle with a controlled feel in hand Marvis Range: Pairs neatly with Marvis toothpaste and mouthwash Specifications Brand: Marvis Product Type: Toothbrush Bristle Type: Medium Handle Colour: Black Measurements: Length or Depth: 2cm; Height: 3.5cm; Width: 17cm; Weight: 28.8g",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-toothbrush",
+        "price": "£5.00",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564468-mt411067_1-2-3-1000.jpg?v=1778278226",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034334241033",
+            "sku": "MT411067",
+            "gtin": "8004395110087",
+            "mpn": null,
+            "title": "Marvis Toothbrush",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-toothbrush",
+            "price": "5.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564468-mt411067_1-2-3-1000.jpg?v=1778278226",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Whitening Mint Toothpaste 25ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Whitening Mint Toothpaste 25ml is a fluoride toothpaste from Marvis with bright mint and a crisp, cooling finish. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on cool mint freshness and a clean brushing feel. The compact tube is useful for travel, gym bags, short stays, or trying the flavour before moving to a larger size. It works well on a bathroom shelf where freshness, flavour and a smooth brushing texture all matter. For everyday brushing, the 25ml Whitening Mint tube brings together fluoride, xylitol and a concentrated paste texture that feels smooth rather than gritty. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: cool mint freshness and a clean brushing feel Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 25ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 25ml Flavour: Whitening Mint Made In: Italy Ingredients: Glycerin, Calcium Carbonate, Hydrated Silica, Aqua (Water/Eau), Aroma (Flavour), Xylitol, Cellulose Gum, Titanium Dioxide, Trisodium Phosphate, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Fluoride, Limonene, Eugenol. Measurements: Length or Depth: 4cm; Height: 11.5cm; Width: 3cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-whitening-mint-toothpaste-25ml",
+        "price": "£4.90",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7935972-mt411331_1-2-3-1000.jpg?v=1778278159",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034332897545",
+            "sku": "MT411331",
+            "gtin": "8004395111312",
+            "mpn": null,
+            "title": "Marvis Whitening Mint Toothpaste 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-whitening-mint-toothpaste-25ml",
+            "price": "4.90 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7935972-mt411331_1-2-3-1000.jpg?v=1778278159",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Marvis Whitening Mint Toothpaste 85ml",
+        "category": "Dental Care > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Oral Care",
+        "description": "Marvis Whitening Mint Toothpaste 85ml is a fluoride toothpaste from Marvis with bright mint and a crisp, cooling finish. It has the smooth, concentrated paste texture the range is known for, leaving the mouth feeling clean without a harsh brushing feel. The flavour profile centres on cool mint freshness and a clean brushing feel. The standard tube is well suited to regular bathroom use and everyday brushing. It works well on a bathroom shelf where freshness, flavour and a smooth brushing texture all matter. For everyday brushing, the 85ml Whitening Mint tube brings together fluoride, xylitol and a concentrated paste texture that feels smooth rather than gritty. Key Features Fluoride Toothpaste: Contains fluoride and xylitol for daily oral care Flavour Profile: cool mint freshness and a clean brushing feel Paste Texture: Rich, concentrated paste with a smooth brushing feel Format: 85ml tube Specifications Brand: Marvis Product Type: Toothpaste Size: 85ml Flavour: Whitening Mint Made In: Italy Ingredients: Glycerin, Calcium Carbonate, Hydrated Silica, Aqua (Water/Eau), Aroma (Flavour), Xylitol, Cellulose Gum, Titanium Dioxide, Trisodium Phosphate, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Fluoride, Limonene, Eugenol. Measurements: Length or Depth: 5.3cm; Height: 3.2cm; Width: 17cm",
+        "url": "https://www.malegroomingsupplies.com/products/marvis-whitening-mint-toothpaste-85ml",
+        "price": "£9.00",
+        "brand": "Marvis",
+        "vendor": "Marvis",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926534-mt411371_1-2-3-1000.jpg?v=1778278115",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Dental Care",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Marvis"
+        ],
+        "variants": [
+          {
+            "id": "57034332340489",
+            "sku": "MT411371",
+            "gtin": "8004395111718",
+            "mpn": null,
+            "title": "Marvis Whitening Mint Toothpaste 85ml",
+            "url": "https://www.malegroomingsupplies.com/products/marvis-whitening-mint-toothpaste-85ml",
+            "price": "9.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926534-mt411371_1-2-3-1000.jpg?v=1778278115",
+            "options": {}
           }
         ]
       },
@@ -37053,7 +37920,7 @@
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Tabac Original Shaving Bowl Soap Refill 125g offers a superior lather that softens beard hairs for an effortless and close shave. Formulated without tallow, this soap provides a smooth, irritation-free shaving experience while maintaining the unmistakable masculine scent of Tabac Original. Dermatologically confirmed and designed to fit perfectly into the Tabac Original Shaving Bowl. Key Features: Non-Tallow Formula: Vegan-friendly for a clean shave. Softens Beard Hairs: Ensures a smooth and close shave. Classic Scent: The signature masculine fragrance of Tabac Original. Perfect Fit: Designed as a refill for the Tabac Original Shaving Bowl. Dermatologically Tested: Proven gentle on all skin types. Specifications: Weight: 125g Formula: Non-Tallow Based Category: Shaving Soap Refill Scent: Tabac Original Signature Fragrance",
         "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-refill-125g",
-        "price": "£8.95",
+        "price": "£9.95",
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_309_TO_Rasierseife_Tiegel_Refill_FS_clipped_rev_1.jpg?v=1734518424",
@@ -37075,7 +37942,7 @@
             "mpn": null,
             "title": "Tabac Original Shaving Bowl Soap Refill 125g",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-refill-125g",
-            "price": "8.95 GBP",
+            "price": "9.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_309_TO_Rasierseife_Tiegel_Refill_FS_clipped_rev_1.jpg?v=1734518424",
@@ -37089,7 +37956,7 @@
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Tabac Original Shaving Soap Stick Refill 100g ensures a smooth and comfortable shaving experience. This convenient refill produces a luxurious, creamy lather that softens facial hair and protects the skin, enabling a close and easy shave. Crafted with a non-tallow-based formula, it’s gentle on the skin while delivering exceptional performance. The iconic woody and spicy fragrance of Tabac Original adds a classic, masculine touch to your grooming routine. Ideal for use with a shaving brush for optimal lathering. Key Features: Non-Tallow Based: Gentle and effective formula for all skin types. Luxurious Lather: Softens facial hair for a smooth and easy shave. Classic Fragrance: Signature woody and spicy scent of Tabac Original. Convenient Refill: 100g stick. Travel-Friendly: Compact and easy to carry.",
         "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-soap-stick-refill-100g",
-        "price": "£4.55",
+        "price": "£5.50",
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_101_TO_Rasierseife_Refill_FS_clipped_rev_1.jpg?v=1734519611",
@@ -37111,7 +37978,7 @@
             "mpn": null,
             "title": "Tabac Original Shaving Soap Stick REFILL 100g",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-soap-stick-refill-100g",
-            "price": "4.55 GBP",
+            "price": "5.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_101_TO_Rasierseife_Refill_FS_clipped_rev_1.jpg?v=1734519611",
