@@ -2,16 +2,16 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-11",
-    "generated_at": "2026-05-11T06:00:15+00:00",
+    "last_updated": "2026-05-12",
+    "generated_at": "2026-05-12T05:40:05+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [
       "GB"
     ],
-    "product_count": 1004,
-    "variant_count": 1266,
+    "product_count": 1003,
+    "variant_count": 1259,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -504,27 +504,12 @@
             "gtin": "5060338442472",
             "mpn": null,
             "title": "Captain Expedition Reserve Hair Powder 20g",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-expedition-reserve-hair-powder-20g?variant=55815788888329",
+            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-expedition-reserve-hair-powder-20g",
             "price": "16.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HairPowderFinalistCosmoprof2024.jpg?v=1751363962",
             "options": {}
-          },
-          {
-            "id": "56829810409737",
-            "sku": "7010-15",
-            "gtin": "5060338442472",
-            "mpn": null,
-            "title": "Captain Expedition Reserve Hair Powder 20g - Case of 15",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-expedition-reserve-hair-powder-20g?variant=56829810409737",
-            "price": "123.75 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HairPowderFinalistCosmoprof2024.jpg?v=1751363962",
-            "options": {
-              "Title": "Case of 15"
-            }
           }
         ]
       },
@@ -570,10 +555,10 @@
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
         "description": "The Captain Fawcett Nebula Beard Oil is a silky smooth elixir that nourishes facial follicles while adding subtle shine to rock star manes. A must-have for the contemporary beardsman, it brings a touch of cosmic sophistication to your daily grooming ritual.Exhilarating top notes of bergamot and aromatic myrtle riff with the bittersweet tang of grapefruit, leading to an intense heart of earthy violet orris, dark coffee, and robust woody cedar. A seductive musk trails a smoky backbeat laced with vetiver and luxurious leather.This stellar beard oil is handmade in small batches by the Captain’s master blender and supplied in a glass bottle with rubber topped glass pipette for accurate dispensing. For related Captain Fawcett options, compare Captain Fawcett's Rufus Hound's Triumphant Beard Oil 50ml with Captain Fawcett's Jimmy Niggles Esq. The Million Dollar Beard Oil, or browse the Beard & Moustache Care collection. Key Features Nourishes and conditions beard hair Delivers subtle, healthy shine Exhilarating fragrance with bergamot, violet, vetiver, and leather Ideal for daily beard care Handmade in small batches in England Specifications Size: 50ml ℮ 1.7 fl.oz Fragrance: Bergamot, myrtle, coffee, cedar, musk, leather Packaging: Glass bottle with pipette How To ApplyDispense a few drops of Fawcett’s finest Beard Oil into the palm of your hand and rub together. Smooth the oil thoroughly into your beard, then gently comb through for a Rock ’n’ Roll finish. IngredientsPrunus Amygdalus Dulcis (Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol, Parfum (Fragrance), Citronellol, Coumarin, Limonene, Linalool, Alpha-Isomethyl Ionone.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-beard-oil",
-        "price": "£43.00",
+        "price": "£17.00",
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CF_NebulaPickNo.3BeardOil72dpi-5657.jpg?v=1751993137",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Nebula-2235.jpg?v=1751363960",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -585,21 +570,6 @@
           "Captain Fawcett"
         ],
         "variants": [
-          {
-            "id": "55815788036361",
-            "sku": "1126",
-            "gtin": "5060338441673",
-            "mpn": null,
-            "title": "Captain Fawcett Nebula Beard Oil 50ml - 50ml",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-beard-oil?variant=55815788036361",
-            "price": "43.00 GBP",
-            "sale_price": null,
-            "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CF_NebulaPickNo.3BeardOil72dpi-5657.jpg?v=1751993137",
-            "options": {
-              "Size": "50ml"
-            }
-          },
           {
             "id": "55815788069129",
             "sku": "1125",
@@ -616,33 +586,18 @@
             }
           },
           {
-            "id": "56829824467209",
-            "sku": "1125-20",
-            "gtin": "5060338441680",
-            "mpn": null,
-            "title": "Captain Fawcett Nebula Beard Oil 50ml - Case of 20",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-beard-oil?variant=56829824467209",
-            "price": "170.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CF_NebulaPickNo.3BeardOil72dpi-5657.jpg?v=1751993137",
-            "options": {
-              "Size": "Case of 20"
-            }
-          },
-          {
-            "id": "56829824499977",
-            "sku": "1126-6",
+            "id": "55815788036361",
+            "sku": "1126",
             "gtin": "5060338441673",
             "mpn": null,
-            "title": "Captain Fawcett Nebula Beard Oil 50ml - Case of 6",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-beard-oil?variant=56829824499977",
-            "price": "129.00 GBP",
+            "title": "Captain Fawcett Nebula Beard Oil 50ml - 50ml",
+            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-beard-oil?variant=55815788036361",
+            "price": "43.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CF_NebulaPickNo.3BeardOil72dpi-5657.jpg?v=1751993137",
             "options": {
-              "Size": "Case of 6"
+              "Size": "50ml"
             }
           }
         ]
@@ -696,21 +651,6 @@
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/AlessandroManfrediniPureBeauty2.jpg?v=1751910423",
             "options": {
               "Size": "2ml Sample"
-            }
-          },
-          {
-            "id": "56829824663817",
-            "sku": "4448-6",
-            "gtin": "5060338441659",
-            "mpn": null,
-            "title": "Captain Fawcett's Alessandro Manfredini Eau De Parfum 50ml - Case of 6",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcetts-alessandro-manfredini-eau-de-parfum-50ml?variant=56829824663817",
-            "price": "225.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/b0c1907b-7cf0-4b13-8076-16ce3f7899b8.jpg?v=1751363964",
-            "options": {
-              "Size": "Case of 6"
             }
           }
         ]
@@ -1636,11 +1576,11 @@
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne",
         "description": "A collaboration between Captain Fawcett and The Jodhpur Company, this Signature Series Eau De Parfum is a tantalising fragrance inspired by the opulence of ancient India. The Maharajah Eau De Parfum blends heady rose with peppery spice, rich musk, cedar, and leather, all brightened by dazzling citrus top notes. Sophisticated and evocative, it’s the perfect companion to the Maharajah range’s Moustache Wax, Beard Oil, and Beard Balm. All Hail the Hirsute. For related Captain Fawcett options, compare Captain Fawcett's Nebula Eau De Parfum 50ml with Captain Fawcett's Triumphant Eau De Parfum 50ml, or browse the Hair & Body collection. Key Features: Top notes: Citrus blend Heart notes: Rose and peppery spice Base notes: Musk, cedar, and leather Inspired by princely India’s rich heritage Complements the Maharajah grooming range Specifications: Quantity: 50ml ℮ 1.7 fl.oz Glass bottle with pump atomiser Handmade in small batches Important Shipping Information:We can ship Eau De Parfum worldwide using courier services, as it’s classed as a hazardous item. A small surcharge applies. To make shipping cost-effective, consider adding other items to your order. Contact us for more details. How to Apply:Spray onto pulse points such as wrists, neck, and chest for a lasting, exotic scent.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-maharajah-eau-de-parfum-50ml",
-        "price": "£75.00",
+        "price": "£3.25",
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PBHighlyCommended22_1_clipped_rev_1.jpg?v=1751363963",
-        "availability": "out_of_stock",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/image.jpg?v=1751363964",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1651,21 +1591,6 @@
           "Captain Fawcett"
         ],
         "variants": [
-          {
-            "id": "55815789641993",
-            "sku": "4449",
-            "gtin": "5060338442205",
-            "mpn": null,
-            "title": "Captain Fawcett's Maharajah Eau de Parfum 50ml - 50ml",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-maharajah-eau-de-parfum-50ml?variant=55815789641993",
-            "price": "75.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PBHighlyCommended22_1_clipped_rev_1.jpg?v=1751363963",
-            "options": {
-              "Size": "50ml"
-            }
-          },
           {
             "id": "55815789674761",
             "sku": "4506",
@@ -1682,18 +1607,18 @@
             }
           },
           {
-            "id": "56829824696585",
-            "sku": "4449-6",
+            "id": "55815789641993",
+            "sku": "4449",
             "gtin": "5060338442205",
             "mpn": null,
-            "title": "Captain Fawcett's Maharajah Eau de Parfum 50ml - Case of 6",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-maharajah-eau-de-parfum-50ml?variant=56829824696585",
-            "price": "225.00 GBP",
+            "title": "Captain Fawcett's Maharajah Eau de Parfum 50ml - 50ml",
+            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-maharajah-eau-de-parfum-50ml?variant=55815789641993",
+            "price": "75.00 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PBHighlyCommended22_1_clipped_rev_1.jpg?v=1751363963",
             "options": {
-              "Size": "Case of 6"
+              "Size": "50ml"
             }
           }
         ]
@@ -1853,10 +1778,10 @@
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne",
         "description": "A cosmic collaboration between Captain Fawcett and legendary guitarist John Petrucci, this Eau De Parfum is a symphonic cascade of scent that’s truly out of this world. The Nebula Eau De Parfum opens with dazzling Bergamot and crisp Rosemary, building into rockstar florals that take centre stage. A smoky bassline of Guaiac Wood, Cedarwood, and musky Ambergris creates a crescendo of aromatic intensity. It’s a stellar remix of the original Nebula fragrance, reimagined for a universe of transformation. Awarded Silver in the 2024 Pure Beauty Awards for Best New Fragrance. All Hail the Hirsute. For related Captain Fawcett options, compare Captain Fawcett's Alessandro Manfredini Eau De Parfum 50ml with Captain Fawcett's Eau de Parfum Original 50ml, or browse the Hair & Body collection. Key Features: Top notes: Bergamot, Rosemary Heart notes: Florals, Guaiac Wood Base notes: Cedarwood, Ambergris Created in collaboration with John Petrucci Silver Award Winner – Pure Beauty Awards 2024 Specifications: Quantity: 50ml ℮ 1.7 fl.oz Glass bottle with precision atomiser Handmade in small batches Important Shipping Information:We are able to ship Eau De Parfum worldwide using our courier services. As these items are classified as hazardous and flammable, they require a specialist shipping service, and a small surcharge will apply. To maximise the value of shipping, we recommend adding other items to your order. For more details, please contact us. How to Apply:Spray onto pulse points such as wrists, neck, and chest for a lasting celestial scent.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-eau-de-parfum-50ml",
-        "price": "£75.00",
+        "price": "£3.25",
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Nebula_EDP-5948_0242e535-fe19-428a-98eb-d26a2e358729.jpg?v=1751363964",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/NebulaEDP2mlSample-4959.jpg?v=1751363963",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -1868,21 +1793,6 @@
           "Captain Fawcett"
         ],
         "variants": [
-          {
-            "id": "55815789576457",
-            "sku": "4450",
-            "gtin": "5060338442779",
-            "mpn": null,
-            "title": "Captain Fawcett's Nebula Eau De Parfum 50ml - 50ml",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-eau-de-parfum-50ml?variant=55815789576457",
-            "price": "75.00 GBP",
-            "sale_price": null,
-            "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Nebula_EDP-5948_0242e535-fe19-428a-98eb-d26a2e358729.jpg?v=1751363964",
-            "options": {
-              "Size": "50ml"
-            }
-          },
           {
             "id": "55815789609225",
             "sku": "4507",
@@ -1899,18 +1809,18 @@
             }
           },
           {
-            "id": "56829824106761",
-            "sku": "4450-6",
+            "id": "55815789576457",
+            "sku": "4450",
             "gtin": "5060338442779",
             "mpn": null,
-            "title": "Captain Fawcett's Nebula Eau De Parfum 50ml - Case of 6",
-            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-eau-de-parfum-50ml?variant=56829824106761",
-            "price": "225.00 GBP",
+            "title": "Captain Fawcett's Nebula Eau De Parfum 50ml - 50ml",
+            "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-eau-de-parfum-50ml?variant=55815789576457",
+            "price": "75.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Nebula_EDP-5948_0242e535-fe19-428a-98eb-d26a2e358729.jpg?v=1751363964",
             "options": {
-              "Size": "Case of 6"
+              "Size": "50ml"
             }
           }
         ]
@@ -13262,7 +13172,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-DX-Wood-Razor-handle_clipped_rev_1.jpg?v=1737670589",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13283,7 +13193,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-dx-wood-razor-acd-rw",
             "price": "240.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-DX-Wood-Razor-handle_clipped_rev_1.jpg?v=1737670589",
             "options": {}
           }
@@ -18718,7 +18628,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-33001-206938.jpg?v=1722957387",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18739,7 +18649,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-33c-classic-double-edge-safety-razor",
             "price": "26.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-33001-206938.jpg?v=1722957387",
             "options": {}
           }
@@ -38247,7 +38157,7 @@
         "price": "£15.95",
         "brand": "Taylor of Old Bond Street",
         "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06020-Jermyn-Street-Collection-Aftershave-Cream-for-Sensitive-Skin-1200x1200px_2048x_250452db-0ed2-45b5-95df-9e4528db3cc7.jpg?v=1743337280",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06020-Jermyn-Street-Collection-Aftershave-Cream-for-Sensitive-Skin-1200x1200px_2048x_250452db-0ed2-45b5-95df-9e4528db3cc7_clipped_rev_1.jpg?v=1778501956",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38269,7 +38179,7 @@
             "price": "15.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06020-Jermyn-Street-Collection-Aftershave-Cream-for-Sensitive-Skin-1200x1200px_2048x_250452db-0ed2-45b5-95df-9e4528db3cc7.jpg?v=1743337280",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06020-Jermyn-Street-Collection-Aftershave-Cream-for-Sensitive-Skin-1200x1200px_2048x_250452db-0ed2-45b5-95df-9e4528db3cc7_clipped_rev_1.jpg?v=1778501956",
             "options": {}
           }
         ]
@@ -40131,43 +40041,6 @@
             "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/A00465WhiskyRustyNailCartonSoap100g_5000x_1e35a2a9-ab43-4d0b-8686-5ac9bab4efc0.png?v=1743283635",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "The Scottish Fine Soaps Whisky Cocktail Soap – The Manhattan 100g",
-        "category": "Bath Soap and Shower Gels > The Scottish Fine Soaps Company",
-        "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "The Scottish Fine Soaps Whisky Cocktail Soap – The Manhattan delivers an intense, masculine fragrance inspired by the sophistication of its namesake cocktail. Opening with aromatic whisky, citrus notes, and warming spices, it reveals a floral heart and settles into a rich base of woods, amber, and benzoin. Part of the Whisky Cocktails collection, this soap is enriched with whisky extract and presented in a luxurious, recyclable vintage-style carton. A perfect choice for those who appreciate bold scents and elegant packaging, it’s suitable for both men and women. Key Features: Inspired by the classic Manhattan cocktail Fragrance profile: Whisky, citrus, spice, floral, amber, and wood Whisky extract for a rich and refined cleansing experience Elegant recyclable carton with vintage design Made in Scotland by The Scottish Fine Soaps Company Specifications: Product Type: Luxury Soap Bar Fragrance: The Manhattan (Whisky, Citrus, Floral, Woods, Amber) Size: 100g Packaging: Recyclable carton Made in: Scotland Ingredients: Sodium Palmate, Sodium Cocoate, Aqua (Water), Glycerin, Parfum (Fragrance), Titanium Dioxide, Tetrasodium Etidronate, Sodium Chloride, Tetrasodium EDTA, Whisky Extract, Sodium Gluconate, Linalool, Coumarin How to Use: Lather with warm water over wet skin. Rinse thoroughly to leave skin clean, refreshed, and lightly fragranced. Pair it with The Scottish Fine Soaps Company Vetiver & Sandalwood Cleansing Body Bar 220g and The Scottish Fine Soaps Men’s Grooming Bath & Muscle Soak 500g.",
-        "url": "https://www.malegroomingsupplies.com/products/the-scottish-fine-soaps-whisky-cocktail-soap-the-manhattan-100g",
-        "price": "£6.99",
-        "brand": "The Scottish Fine Soaps Company",
-        "vendor": "The Scottish Fine Soaps Company",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/A00463WhiskyManhattanCartonSoap100g_5000x_8a9c2b49-abaf-48d2-9d0a-f2a2044b055e.png?v=1743283189",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Bath Soap and Shower Gels",
-        "collections": [
-          "New Additions",
-          "The Scottish Fine Soaps Company",
-          "Hair & Body",
-          "Gift Sets"
-        ],
-        "variants": [
-          {
-            "id": "55085849706761",
-            "sku": "A00463",
-            "gtin": "5016365004633",
-            "mpn": null,
-            "title": "The Scottish Fine Soaps Whisky Cocktail Soap – The Manhattan 100g",
-            "url": "https://www.malegroomingsupplies.com/products/the-scottish-fine-soaps-whisky-cocktail-soap-the-manhattan-100g",
-            "price": "6.99 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/A00463WhiskyManhattanCartonSoap100g_5000x_8a9c2b49-abaf-48d2-9d0a-f2a2044b055e.png?v=1743283189",
             "options": {}
           }
         ]
