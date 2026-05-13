@@ -2,16 +2,16 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-12",
-    "generated_at": "2026-05-12T05:40:05+00:00",
+    "last_updated": "2026-05-13",
+    "generated_at": "2026-05-13T05:50:38+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [
       "GB"
     ],
-    "product_count": 1003,
-    "variant_count": 1259,
+    "product_count": 1002,
+    "variant_count": 1258,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -133,7 +133,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143424_clipped_rev_1.jpg?v=1748896557",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -152,7 +152,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-shave-cream",
             "price": "14.40 GBP",
             "sale_price": "10.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143424_clipped_rev_1.jpg?v=1748896557",
             "options": {}
           }
@@ -1907,7 +1907,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Post_Shave_Balm_Low_Res-0008_clipped_rev_1.jpg?v=1751363965",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1927,7 +1927,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-post-shave-balm-125ml",
             "price": "21.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Post_Shave_Balm_Low_Res-0008_clipped_rev_1.jpg?v=1751363965",
             "options": {}
           }
@@ -2412,7 +2412,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Shaving_Cream_Low_Res-3-3_clipped_rev_1.jpg?v=1751363967",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -2432,7 +2432,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-shaving-cream-150ml",
             "price": "21.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Shaving_Cream_Low_Res-3-3_clipped_rev_1.jpg?v=1751363967",
             "options": {}
           }
@@ -3151,7 +3151,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes28_clipped_rev_1.jpg?v=1747947473",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3171,7 +3171,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lavender-aftershave-balm-150ml",
             "price": "33.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes28_clipped_rev_1.jpg?v=1747947473",
             "options": {}
           }
@@ -3403,7 +3403,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes23_clipped_rev_1.jpg?v=1747947379",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3423,7 +3423,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-the-pre-shave-150ml",
             "price": "36.25 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes23_clipped_rev_1.jpg?v=1747947379",
             "options": {}
           }
@@ -3439,7 +3439,7 @@
         "brand": "Cella",
         "vendor": "Cella",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/balsamo-dopobarba-prodotto-scatola.jpg?v=1758375400",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3459,7 +3459,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cella-after-shave-balm-100ml",
             "price": "8.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/balsamo-dopobarba-prodotto-scatola.jpg?v=1758375400",
             "options": {}
           }
@@ -6374,7 +6374,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-beech-bowl-JPEG.jpg?v=1757163268",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6394,7 +6394,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-beech-bowl",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-beech-bowl-JPEG.jpg?v=1757163268",
             "options": {}
           }
@@ -6518,7 +6518,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-bowl-refill-JPEG.jpg?v=1757188416",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6538,7 +6538,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-soap-refill-100g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-bowl-refill-JPEG.jpg?v=1757188416",
             "options": {}
           }
@@ -7236,7 +7236,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "D.R. Harris"
+          "D.R. Harris",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -7689,7 +7690,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "D.R. Harris"
+          "D.R. Harris",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -8688,7 +8690,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-beech-bowl-JPEG.jpg?v=1757180216",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8708,7 +8710,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-beech-bowl-100g",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-beech-bowl-JPEG.jpg?v=1757180216",
             "options": {}
           }
@@ -8832,7 +8834,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-bowl-refill-JPEG.jpg?v=1757170904",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8852,7 +8854,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-soap-refill-100g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-bowl-refill-JPEG.jpg?v=1757170904",
             "options": {}
           }
@@ -8980,7 +8982,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "D.R. Harris"
+          "D.R. Harris",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -10174,7 +10177,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-beech-bowl-JPEG.jpg?v=1778105308",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10194,7 +10197,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-sandalwood-shaving-soap-beech-bowl",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-beech-bowl-JPEG.jpg?v=1778105308",
             "options": {}
           }
@@ -10431,7 +10434,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "D.R. Harris"
+          "D.R. Harris",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -10467,7 +10471,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "D.R. Harris"
+          "D.R. Harris",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -11357,7 +11362,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757189650",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11377,7 +11382,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-shaving-cream-tube",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757189650",
             "options": {}
           }
@@ -12393,7 +12398,7 @@
         "brand": "Dovo",
         "vendor": "Dovo",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-facharbeit-blue-straight-razor-68-136813415-male-grooming-supplies-794195.jpg?v=1744055601",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -12414,7 +12419,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dovo-facharbeit-blue-straight-razor-6-8",
             "price": "280.95 GBP",
             "sale_price": "236.55 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-facharbeit-blue-straight-razor-68-136813415-male-grooming-supplies-794195.jpg?v=1744055601",
             "options": {}
           }
@@ -14946,7 +14951,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Floris London"
+          "Floris London",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -15018,7 +15024,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Floris London"
+          "Floris London",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -16247,7 +16254,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-rk-shaving-stainless-de-razor-blades-pack-of-5-male-grooming-supplies-460894.jpg?v=1722956565",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16267,7 +16274,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-rk-shaving-stainless-de-razor-blades-5-pack",
             "price": "1.25 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-rk-shaving-stainless-de-razor-blades-pack-of-5-male-grooming-supplies-460894.jpg?v=1722956565",
             "options": {}
           }
@@ -17474,7 +17481,8 @@
           "New Additions",
           "Hair & Body",
           "Gift Sets",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17511,7 +17519,8 @@
           "New Additions",
           "Hair & Body",
           "Gift Sets",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17548,7 +17557,8 @@
           "New Additions",
           "Hair & Body",
           "Gift Sets",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17584,7 +17594,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17620,7 +17631,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17656,7 +17668,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17692,7 +17705,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17728,7 +17742,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17764,7 +17779,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17800,7 +17816,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17836,7 +17853,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17872,7 +17890,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17908,7 +17927,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17944,7 +17964,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -17980,7 +18001,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -18016,7 +18038,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -18052,7 +18075,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -18088,7 +18112,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -18124,7 +18149,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -18160,7 +18186,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -18196,7 +18223,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -18232,7 +18260,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -18268,7 +18297,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -18304,7 +18334,8 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis"
+          "Marvis",
+          "Dental Care"
         ],
         "variants": [
           {
@@ -21239,7 +21270,7 @@
         "brand": "Morgan's",
         "vendor": "Morgan's",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Matt-Paste-Travel-Size-75ml-1-500x500.jpg?v=1748703617",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21259,7 +21290,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-matt-paste?variant=55572083867913",
             "price": "8.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Matt-Paste-Travel-Size-75ml-1-500x500.jpg?v=1748703617",
             "options": {
               "Size": "75ml"
@@ -22297,7 +22328,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-pomade?variant=55572123844873",
             "price": "8.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Pomade-100g-dropbox-e1569939713503.jpg?v=1748598654",
             "options": {
               "Size": "100g"
@@ -28967,7 +28998,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srb-33r-male-grooming-supplies-117395.jpg?v=1722957078",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28988,7 +29019,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-srb-33r-straight-razor",
             "price": "13.55 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srb-33r-male-grooming-supplies-117395.jpg?v=1722957078",
             "options": {}
           }
@@ -29078,7 +29109,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srpba-male-grooming-supplies-524225.jpg?v=1722957054",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29099,7 +29130,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-model-srpba-pine-wood-handle",
             "price": "26.65 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srpba-male-grooming-supplies-524225.jpg?v=1722957054",
             "options": {}
           }
@@ -29152,7 +29183,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srw-34r-male-grooming-supplies-548966.jpg?v=1722957063",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29173,7 +29204,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-model-srw-34r-barber-razor",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srw-34r-male-grooming-supplies-548966.jpg?v=1722957063",
             "options": {}
           }
@@ -33982,7 +34013,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPBTS_clipped_rev_1.jpg?v=1744055428",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -34003,7 +34034,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-soc-c5-selected-premium-boar-butterscotch",
             "price": "34.75 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPBTS_clipped_rev_1.jpg?v=1744055428",
             "options": {}
           }
@@ -37634,7 +37665,7 @@
           {
             "id": "48849258086665",
             "sku": "410903",
-            "gtin": "4011700410903",
+            "gtin": "4011700410033",
             "mpn": null,
             "title": "Tabac Original Deodorant Spray 200ml",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-deodorant-spray-200ml",
@@ -37656,7 +37687,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/411_801_TO_Deo_Stick_75_ml_clipped_rev_1.jpg?v=1734440091",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -37669,14 +37700,14 @@
         "variants": [
           {
             "id": "48849258250505",
-            "sku": "411801",
-            "gtin": "4011700411801",
+            "sku": "410057",
+            "gtin": "4011700410057",
             "mpn": null,
             "title": "Tabac Original Deodorant Stick 75g",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-deodorant-stick-75g",
             "price": "5.65 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/411_801_TO_Deo_Stick_75_ml_clipped_rev_1.jpg?v=1734440091",
             "options": {}
           }
@@ -37812,7 +37843,7 @@
           {
             "id": "48851978420489",
             "sku": "435173",
-            "gtin": "4011700435173",
+            "gtin": "4011700430154",
             "mpn": null,
             "title": "Tabac Original Shaving Bowl & Soap 125g",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-125g",
@@ -38580,42 +38611,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/j01004-shaving-cream-rose-150ml-2023_2048x_43d9c767-f270-4c76-bc16-488676c6cc5f.jpg?v=1743444412",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Taylor of Old Bond Street Sandalwood Aftershave Gel 75ml",
-        "category": "Post Shave > Post-Shave",
-        "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Taylor Of Old Bond Street Sandalwood Aftershave Gel is specially formulated without alcohol to provide a gentle, soothing finish to your shave. Ideal for sensitive or dry skin, this lightweight gel helps reduce irritation and redness, leaving skin feeling refreshed, smooth, and lightly scented. Infused with Taylor’s iconic Sandalwood fragrance, this classic blend opens with zesty lemon, layered with herbal notes of lavender, thyme, and rosemary, leading to a green floral heart and a rich, woody base of moss, amber, and musks. Key Features: Alcohol-free formula – ideal for sensitive skin Soothes and calms post-shave irritation Infused with classic Sandalwood fragrance Lightweight gel texture for quick absorption Contains essential oils of lemon, thyme, rosemary, lavandin, galbanum, and patchouli Made in the UK Specifications: Product Type: Aftershave Gel Size: 75ml Fragrance: Sandalwood Skin Benefits: Calming, hydrating, non-drying Made in: United Kingdom For related post-shave options, browse the Post-Shave collection.",
-        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-sandalwood-aftershave-gel-75ml",
-        "price": "£15.95",
-        "brand": "Taylor of Old Bond Street",
-        "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06007-Sandalwood-Luxury-Aftershave-Gel-75ml_afb55c8d-1f65-4d17-9a03-1f061c7128fd_clipped_rev_1.jpg?v=1759499669",
-        "availability": "in_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Post Shave",
-        "collections": [
-          "Post-Shave",
-          "New Additions",
-          "Taylor of Old Bond Street"
-        ],
-        "variants": [
-          {
-            "id": "55081253241097",
-            "sku": "06007",
-            "gtin": "696770060070",
-            "mpn": null,
-            "title": "Taylor of Old Bond Street Sandalwood Aftershave Gel 75ml",
-            "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-sandalwood-aftershave-gel-75ml",
-            "price": "15.95 GBP",
-            "sale_price": null,
-            "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J06007-Sandalwood-Luxury-Aftershave-Gel-75ml_afb55c8d-1f65-4d17-9a03-1f061c7128fd_clipped_rev_1.jpg?v=1759499669",
             "options": {}
           }
         ]
