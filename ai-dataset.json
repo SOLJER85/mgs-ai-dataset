@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-16",
-    "generated_at": "2026-05-16T05:28:47+00:00",
+    "last_updated": "2026-05-17",
+    "generated_at": "2026-05-17T05:50:26+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -129,7 +129,7 @@
       },
       {
         "name": "Alexander Simpson Est. 1919 Bay Rum Ultra-Glide Shave Cream",
-        "category": "Shaving Cream, Gels & Soaps > Simpson Shaving Brushes",
+        "category": "Shaving Cream, Gels & Soaps > Shaving Creams",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "From the makers of the world-famous Simpson shaving brushes, the Alexander Simpson Est. 1919 Bay Rum Ultra-Glide Shave Cream brings traditional British grooming into the modern age. Handcrafted on the Isle of Man, this premium shave cream features a rich, cushiony formula that softens facial hair and allows for a smooth, irritation-free shave. Infused with a deep and spicy Bay Rum fragrance, balanced with notes of Bergamot, Orange, Nutmeg, and Vetyver, this shave cream delivers both performance and sophistication in every use. Whether you shave daily or enjoy the ritual, this cream reflects the brand’s core values: heritage, quality, and tradition. Key Features: Ultra-glide formulation for easy razor glide Deep & spicy Bay Rum scent with aromatic citrus and spice notes Creates a rich, protective lather for a comfortable shave Crafted by the heritage brand behind Simpson shaving brushes Suitable for brush or hand application Generous 180ml size – ideal for regular use Made in the UK on the historic Isle of Man Fragrance Notes:Bay Rum, Bergamot, Orange, Nutmeg, Vetyver How to Use:Apply to damp skin or shaving brush. Work into a rich lather and shave as usual. Rinse thoroughly with warm water. Specifications: Size: 180ml / 6.08 fl. oz. Texture: Cream Use: Daily shaving Origin: Isle of Man, UK Heritage: Alexander Simpson Est. 1919",
         "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-shave-cream",
@@ -143,6 +143,7 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
+          "Shaving Creams",
           "New Additions",
           "Simpson Shaving Brushes",
           "Shaving Essentials",
@@ -204,7 +205,7 @@
       },
       {
         "name": "Alexander Simpson Est. 1919 Lime Ultra-Glide Shave Cream",
-        "category": "Shaving Cream, Gels & Soaps > Simpson Shaving Brushes",
+        "category": "Shaving Cream, Gels & Soaps > Shaving Creams",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "From the makers of the world-famous Simpson shaving brushes, the Alexander Simpson Est. 1919 Lime Ultra-Glide Shave Cream combines classic British grooming heritage with refreshing modern performance. Handcrafted on the Isle of Man, this premium shaving cream softens facial hair and cushions the skin, allowing for a smooth, close, and irritation-free shave. Infused with a vibrant West Indian Lime fragrance, elevated by warm hints of Jamaican Ginger and aromatic Lemongrass, this ultra-glide formula is ideal for those who enjoy a clean, zesty scent with every shave. Whether used with a brush or by hand, it reflects the Simpson commitment to heritage, quality, and tradition. Key Features: Ultra-glide formula for seamless razor movement Fresh citrus scent with lime, ginger, and lemongrass Helps reduce razor burn and irritation Rich lather – great with or without a brush Made in the UK by Simpson’s master craftsmen Generous 180ml size – perfect for daily grooming Fragrance Notes:West Indian Lime, Jamaican Ginger, Lemongrass How to Use:Apply to damp skin or shaving brush. Work into a lather, shave, and rinse thoroughly. Specifications: Size: 180ml / 6.08 fl. oz. Texture: Shave cream Use: Wet shaving Origin: Isle of Man, UK Brand: Alexander Simpson Est. 1919",
         "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-lime-shave-cream",
@@ -218,6 +219,7 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
+          "Shaving Creams",
           "New Additions",
           "Simpson Shaving Brushes",
           "Shaving Essentials",
@@ -393,7 +395,7 @@
       },
       {
         "name": "Alexander Simpson Est. 1919 Sandalwood Ultra-Glide Shave Cream 180ml",
-        "category": "Shaving Cream, Gels & Soaps > Simpson Shaving Brushes",
+        "category": "Shaving Cream, Gels & Soaps > Shaving Creams",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "From the makers of the world-famous Simpson shaving brushes, comes a luxurious shaving experience rooted in over a century of British grooming excellence. Alexander Simpson Est. 1919 Sandalwood Ultra-Glide Shave Cream delivers a smooth, irritation-free shave with a rich lather and classic scent. Crafted on the historic Isle of Man, this premium shave cream is infused with a refined Sandalwood accord, supported by warm notes of Geranium, Patchouli, Musk, and Tonka Bean. Whether used with a brush or applied by hand, it softens facial hair and cushions the skin for a traditional yet modern grooming ritual. Key Features: Ultra-glide formula for a smooth, effortless shave Signature Sandalwood scent with classic barbershop warmth Softens stubble and protects skin from irritation From the makers of the world-renowned Simpson shaving brushes Traditional craftsmanship meets modern performance Generous 180ml tub – perfect for daily use Handcrafted in the UK on the Isle of Man How to Use:Apply to damp skin or use with a shaving brush to build a rich lather. Shave as usual, then rinse thoroughly. Fragrance Notes:Sandalwood, Geranium, Patchouli, Musk, Tonka Bean Specifications: Size: 180ml / 6.08 fl. oz. Texture: Rich cream Use: Shaving cream for men Origin: Isle of Man, UK Heritage Brand: Alexander Simpson, Est. 1919",
         "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-sandalwood-shave-cream",
@@ -407,6 +409,7 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
+          "Shaving Creams",
           "New Additions",
           "Simpson Shaving Brushes",
           "Shaving Essentials",
@@ -970,7 +973,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Shampoo & Conditioner"
         ],
         "variants": [
           {
@@ -1138,7 +1142,7 @@
       },
       {
         "name": "Captain Fawcett's Eau De Parfum, Moustache Wax & Beard Oil Gift Set",
-        "category": "Gift Sets > Gift Sets",
+        "category": "Gift Sets > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne",
         "description": "The ultimate grooming collection for the modern gentleman, the Captain Fawcett Eau De Parfum, Moustache Wax & Beard Oil Gift Set brings together three of the Captain’s most celebrated essentials. Designed for the discerning dandy, this luxurious set ensures impeccable style from head to toe – perfect for keeping a stiff upper lip, regardless. Featuring the signature Private Stock Beard Oil, Original Eau De Parfum, and a trio of Cornucopia Moustache Waxes, this presentation is ideal for gifting or upgrading your personal grooming repertoire. Each product is infused with timeless scents and crafted to the highest standards for the man about town. Key Features: Includes Private Stock Beard Oil 50ml to nourish and condition facial hair Original Eau De Parfum 50ml for a refined, long-lasting fragrance Trio of Cornucopia Moustache Waxes (Lavender, Sandalwood, Ylang Ylang) for superior styling Elegant packaging, ideal as a luxurious gift Handmade in England using premium ingredients Specifications: Beard Oil: 50ml / 1.7 fl. oz Eau De Parfum: 50ml / 1.7 fl. oz Moustache Waxes: 3 x 15ml / 0.5 fl. oz (Lavender, Sandalwood, Ylang Ylang) Packaging: Premium presentation box Made in the UK How to Use:Apply the beard oil daily to nourish and soften facial hair. Spritz the Eau De Parfum onto pulse points for a lasting scent. Warm a small amount of moustache wax between fingers and style as desired.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-eau-de-parfum-moustache-wax-and-beard-oil-gift-set",
@@ -1153,8 +1157,11 @@
         "product_type": "Gift Sets",
         "collections": [
           "New Additions",
+          "Beard & Moustache Care",
           "Gift Sets",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Fragrances",
+          "Men's Eau de Parfum"
         ],
         "variants": [
           {
@@ -1283,7 +1290,7 @@
       },
       {
         "name": "Captain Fawcett's Folding Pocket Beard Comb (CF.82T)",
-        "category": "Hair Brushes & Combs > Hair & Body",
+        "category": "Hair Brushes & Combs > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
         "description": "An essential grooming companion, the Captain Fawcett Folding Pocket Beard Comb [CF.82T] is finely hand-crafted to keep your beard neat, shaped and well-groomed at all times. Designed with fine teeth and a folding mechanism for convenience, this portable grooming tool fits perfectly in your pocket or travel bag. Made from durable cellulose acetate, this comb helps evenly distribute oils or balms throughout the beard, reducing tangles and leaving your facial hair looking refined and orderly, whatever the day may bring. Key Features: Fine-toothed design for precision grooming Folding format ideal for travel and everyday use Helps evenly distribute beard oils and balms Durable construction using cellulose acetate A must-have for maintaining a well-kept beard Specifications: Length: 193mm (unfolded) Material: Cellulose acetate Application: Beard grooming and maintenance Packaging: Supplied in branded Captain Fawcett packaging Made in the UK How to Use:Gently comb downwards through a clean or nourished beard, starting from the top and working to the ends. Ideal for daily use and for shaping after applying beard oil or balm.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-folding-pocket-beard-comb",
@@ -1298,6 +1305,7 @@
         "product_type": "Hair Brushes & Combs",
         "collections": [
           "New Additions",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Captain Fawcett",
           "Hair Brushes & Combs"
@@ -1320,7 +1328,7 @@
       },
       {
         "name": "Captain Fawcett's Folding Pocket Moustache Comb (CF.87T)",
-        "category": "Hair Brushes & Combs > Hair & Body",
+        "category": "Hair Brushes & Combs > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
         "description": "Keep your moustache impeccably styled with the Captain Fawcett Folding Pocket Moustache Comb (CF.87T) – an essential grooming tool for the discerning gentleman. Beautifully crafted from durable cellulose acetate, this fine-toothed comb is perfect for taming, shaping, and maintaining even the most splendid upper lip sweater. Compact and foldable, it fits neatly into your pocket for on-the-go touch-ups and pairs perfectly with Captain Fawcett’s renowned moustache waxes and pomades. ‘Carry on that Man’… Key Features: Fine-toothed design ideal for precise moustache grooming Crafted from robust cellulose acetate for durability Foldable design for pocket-friendly portability Perfect companion to Captain Fawcett’s moustache wax range Suitable for daily grooming and styling Specifications: Length (Unfolded): 117mm Material: Cellulose acetate Packaging: Branded Captain Fawcett sleeve Made in the UK How to Use:Gently comb through your moustache, working from the centre outwards. Use on clean or waxed hair to shape and maintain style throughout the day.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-folding-pocket-moustache-comb-cf-87t",
@@ -1335,6 +1343,7 @@
         "product_type": "Hair Brushes & Combs",
         "collections": [
           "New Additions",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Captain Fawcett",
           "Hair Brushes & Combs"
@@ -1704,7 +1713,7 @@
       },
       {
         "name": "Captain Fawcett's Moustache Wax & Folding Pocket Comb Set",
-        "category": "Gift Sets > Gift Sets",
+        "category": "Gift Sets > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
         "description": "Keep your upper lip perfectly groomed with the Captain Fawcett Moustache Wax & Folding Pocket Comb Set. This thoughtfully curated pairing brings together the Captain’s iconic handmade moustache wax and his finely crafted folding pocket comb (CF.87T) – an essential tool for maintaining impeccable style wherever you go. Choose from a magnificent menu of six delectable fragrance varieties, each offering its own unique character to complement your daily grooming ritual. The moustache wax delivers superior hold for shaping and taming, while the pocket-friendly comb ensures precise styling with ease. This is the ultimate set for any gentleman determined to “Keep A Stiff Upper Lip Regardless.” Key Features: Includes Captain Fawcett’s handmade moustache wax in six fragrance options Comes with a fine-toothed folding pocket comb (CF.87T) Compact and portable for on-the-go grooming Ideal for styling, shaping, and taming facial hair Presented in elegant gift packaging Specifications: Moustache Wax Quantity: 15ml / 0.5 fl. oz Comb Length: 117mm (unfolded) Material: Cellulose acetate folding comb Packaging: Premium Captain Fawcett box Made in the UK How to Use:Warm a small amount of wax between your fingers and apply to the moustache. Shape and style using the folding comb for a refined finish.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-moustache-wax-and-folding-pocket-comb-set",
@@ -1719,6 +1728,7 @@
         "product_type": "Gift Sets",
         "collections": [
           "New Additions",
+          "Beard & Moustache Care",
           "Gift Sets",
           "Captain Fawcett"
         ],
@@ -2787,6 +2797,7 @@
         "collections": [
           "Boar, Hog & Horse Hair Shaving Brushes",
           "New Additions",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Captain Fawcett",
           "Hair Brushes & Combs"
@@ -3806,7 +3817,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Cella Milano"
+          "Cella Milano",
+          "Shampoo & Conditioner"
         ],
         "variants": [
           {
@@ -3826,7 +3838,7 @@
       },
       {
         "name": "Cella Hygienic Beard Gel & Protective Balm Set",
-        "category": "Gift Sets > Gift Sets",
+        "category": "Gift Sets > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
         "description": "The Cella Beard Hygienic Beard Gel & Protective Balm Set is everything you need to clean, protect, and style your beard. Combining a 150ml Beard Hygienic Gel with a 100ml Beard Protective Balm, this set is designed for daily use, keeping your beard refreshed, manageable, and perfectly styled. The Beard Hygienic Gel provides anti-bacterial and purifying care enriched with Provitamin B5. It deodorises, softens, and refreshes the beard without the need to rinse, making it a practical grooming essential to carry throughout the day. The Beard Protective Balm offers a gentle hold for styling, while delivering intense moisturisation to reduce irritation and bothersome regrowth. Infused with moringa extract, it forms a protective barrier against pollution and features a refined spicy and aromatic fragrance that leaves the beard subtly scented. For related Cella options, compare Cella Luxury Beard Grooming Gift Set with Cella Beard Protective Balm 100ml, or browse the Gift Sets collection. Key Features Complete 2-piece set for beard hygiene and protection Beard gel with Provitamin B5 purifies, deodorises, and refreshes No-rinse formula for convenient daily use Protective balm offers light styling hold with deep hydration Moringa extract shields against environmental pollution Spicy and aromatic fragrance for a refined finish Specifications Beard Hygienic Gel: 150ml Beard Protective Balm: 100ml Skin Type: Suitable for all beard and skin types Packaging: Boxed gift set presentation",
         "url": "https://www.malegroomingsupplies.com/products/cella-beard-hygenic-bearg-gel-protective-balm-set",
@@ -3841,6 +3853,7 @@
         "product_type": "Gift Sets",
         "collections": [
           "New Additions",
+          "Beard & Moustache Care",
           "Gift Sets",
           "Cella Milano"
         ],
@@ -3862,7 +3875,7 @@
       },
       {
         "name": "Cella Luxury Beard Grooming Gift Set",
-        "category": "Gift Sets > Gift Sets",
+        "category": "Gift Sets > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
         "description": "The Cella Luxury Beard Grooming Gift Set provides everything needed for clean, conditioned, and perfectly groomed facial hair. This premium set includes a 2-in-1 Beard Shampoo & Conditioner, a nourishing Beard Oil, and a hand-crafted Beard Brush made from FSC-certified ash wood. The Beard Conditioning Shampoo gently cleanses while softening and untangling, leaving your beard refreshed and easy to manage. Infused with a sophisticated fragrance of juniper and cinnamon, it offers a subtle, refined scent. The Beard Oil is enriched with natural oils and vitamin E, strengthening the beard while providing shine without greasiness. Its lightweight formula absorbs quickly, leaving the beard soft, healthy, and delicately scented. Completing the set, the Beard Brush is made from 100% FSC-certified ash wood treated with linseed oil. Its ergonomic design ensures a comfortable grip, making daily grooming a smooth and enjoyable ritual. For related Cella options, compare Cella Hygienic Beard Gel & Protective Balm Set with Cella Beard and Moustache Brush, or browse the Gift Sets collection. Key Features Complete 3-piece beard care set for cleansing, conditioning, and grooming 2-in-1 shampoo and conditioner gently cleanses and softens the beard Juniper and cinnamon fragrance provides a refined scent Beard oil with vitamin E nourishes, strengthens, and adds natural shine Non-oily, fast-absorbing formula suitable for all beard types FSC-certified ash wood beard brush with ergonomic grip for daily grooming Specifications Beard Shampoo & Conditioner: 200ml (2-in-1 formula) Beard Oil: 30ml Beard Brush: FSC-certified ash wood treated with linseed oil Skin Type: Suitable for all beard and skin types Packaging: Luxury gift set presentation",
         "url": "https://www.malegroomingsupplies.com/products/cella-luxury-beard-grooming-gift-set",
@@ -3877,6 +3890,7 @@
         "product_type": "Gift Sets",
         "collections": [
           "New Additions",
+          "Beard & Moustache Care",
           "Gift Sets",
           "Cella Milano"
         ],
@@ -4179,7 +4193,8 @@
           "Shaving Creams",
           "New Additions",
           "Gift Sets",
-          "Cella Milano"
+          "Cella Milano",
+          "Shaving Preparations"
         ],
         "variants": [
           {
@@ -4254,7 +4269,8 @@
           "Shaving Creams",
           "New Additions",
           "Gift Sets",
-          "Cella Milano"
+          "Cella Milano",
+          "Shaving Preparations"
         ],
         "variants": [
           {
@@ -4292,7 +4308,8 @@
           "New Additions",
           "Cella Milano",
           "Shaving Essentials",
-          "Shaving Preparations"
+          "Shaving Preparations",
+          "Bath, Body & Hand Care"
         ],
         "variants": [
           {
@@ -4368,7 +4385,8 @@
           "New Additions",
           "Cella Milano",
           "Shaving Essentials",
-          "Shaving Preparations"
+          "Shaving Preparations",
+          "Bath, Body & Hand Care"
         ],
         "variants": [
           {
@@ -4405,6 +4423,7 @@
           "Colonel Conk",
           "Post-Shave",
           "New Additions",
+          "Men's Aftershaves",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -4621,6 +4640,7 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Colonel Conk",
+          "Shaving Creams",
           "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -5403,7 +5423,8 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Bath, Body & Hand Care"
         ],
         "variants": [
           {
@@ -5552,6 +5573,7 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
+          "Bath, Body & Hand Care",
           "Face & Skin Care"
         ],
         "variants": [
@@ -5957,6 +5979,7 @@
           "Post-Shave",
           "New Additions",
           "D.R. Harris",
+          "Men's Aftershaves",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -10128,6 +10151,7 @@
           "Post-Shave",
           "New Additions",
           "D.R. Harris",
+          "Men's Aftershaves",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -11183,6 +11207,7 @@
           "Post-Shave",
           "New Additions",
           "D.R. Harris",
+          "Men's Aftershaves",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -12094,7 +12119,7 @@
         "name": "Dovo 'Master's' Straight Razor \"6/8",
         "category": "Straight Razors > DOVO Solingen",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Dovo 'Master's' Straight Razor 6/8\" is a rare and highly sought-after tool, blending expert craftsmanship with sophisticated design. Featuring a full hollow ground carbon steel blade, this razor provides a close and precise shave. The blade carries the distinctive Master's mark and an elegant geometric design along the spine, adding a touch of refinement. The tang includes jimping on both the upper and lower sides for a secure grip, ensuring exceptional control during use. The razor is complemented by dark, beautifully grained Grenadille wood scales with two heel pins, offering durability and a premium feel. As this model is no longer produced with Grenadille scales, it is a collector’s item—once it’s gone, it’s gone. Key Features 6/8\" carbon steel blade with full hollow grind for sharpness and precision Distinctive Master's mark and geometric spine design for a refined look Jimped tang on both sides for a secure and controlled grip Dark Grenadille wood handle with attractive natural grain and two heel pins Handcrafted in Solingen, Germany by Dovo’s expert artisans Rare collector’s item, no longer produced with Grenadille scales Specifications Material: Carbon steel blade Handle Material: Grenadille wood Blade Width: 6/8\" Grind: Full hollow ground Packaging: Branded Dovo packaging for secure storage Tang: Jimped on both upper and lower sides For related Dovo options, compare Dovo Inox Stainless Steel Straight Razor 5/8\" with Dovo Special Straight Razor 5/8\", or browse the DOVO Solingen collection.",
+        "description": "The Dovo 'Master's' Straight Razor 6/8\" is a rare and highly sought-after tool, blending expert craftsmanship with sophisticated design. Featuring a full hollow ground carbon steel blade, this razor provides a close and precise shave. The blade carries the distinctive Master's mark and an elegant geometric design along the spine, adding a touch of refinement. The tang includes jimping on both the upper and lower sides for a secure grip, ensuring exceptional control during use. The razor is complemented by dark, beautifully grained Grenadille wood scales with two heel pins, offering durability and a premium feel. As this model is no longer produced with Grenadille scales, it is a collector’s item—once it’s gone, it’s gone. Key Features 6/8\" carbon steel blade with full hollow grind for sharpness and precision Distinctive Master's mark and geometric spine design for a refined look Jimped tang on both sides for a secure and controlled grip Dark Grenadille wood handle with attractive natural grain and two heel pins Handcrafted in Solingen, Germany by Dovo’s expert artisans Rare collector’s item, no longer produced with Grenadille scales Specifications Material: Carbon steel blade Handle Material: Grenadille wood Blade Width: 6/8\" Grind: Full hollow ground Packaging: Branded Dovo packaging for secure storage Tang: Jimped on both upper and lower sides For related Dovo options, compare Dovo Inox Stainless Steel Straight Razor 5/8\", or browse the DOVO Solingen collection.",
         "url": "https://www.malegroomingsupplies.com/products/dovo-masters-straight-razor-6-8",
         "price": "£161.95",
         "brand": "Dovo",
@@ -12449,6 +12474,7 @@
         "product_type": "Straight Razors",
         "collections": [
           "DOVO Solingen",
+          "All Razors",
           "Straight Razors",
           "New Additions",
           "Shaving Essentials"
@@ -12525,6 +12551,7 @@
         "collections": [
           "DOVO Solingen",
           "New Additions",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Hair Brushes & Combs"
         ],
@@ -12561,6 +12588,7 @@
         "product_type": "Straight Razors",
         "collections": [
           "DOVO Solingen",
+          "All Razors",
           "Straight Razors",
           "New Additions",
           "Shaving Essentials"
@@ -12598,6 +12626,7 @@
         "product_type": "Shaving Accessories & Cases",
         "collections": [
           "DOVO Solingen",
+          "Straight Razors",
           "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials",
@@ -12668,6 +12697,7 @@
         "product_type": "Straight Razors",
         "collections": [
           "DOVO Solingen",
+          "All Razors",
           "Straight Razors",
           "New Additions",
           "Shaving Essentials"
@@ -13039,6 +13069,7 @@
         "product_type": "Straight Razors",
         "collections": [
           "DOVO Solingen",
+          "All Razors",
           "Straight Razors",
           "New Additions",
           "Shaving Essentials"
@@ -13076,6 +13107,7 @@
         "product_type": "Straight Razors",
         "collections": [
           "DOVO Solingen",
+          "All Razors",
           "Straight Razors",
           "New Additions",
           "Shaving Essentials"
@@ -13280,6 +13312,7 @@
         "collections": [
           "Feather Safety Razor Co.",
           "All Razors",
+          "Double Edge Safety Razors",
           "Adjustable DE Safety Razors",
           "New Additions",
           "Shaving Essentials"
@@ -13355,7 +13388,9 @@
         "product_type": "Razors",
         "collections": [
           "Feather Safety Razor Co.",
+          "All Razors",
           "Double Edge Safety Razors",
+          "Brush & Razor Stands",
           "New Additions",
           "Gift Sets",
           "Shaving Essentials"
@@ -13921,6 +13956,7 @@
         "collections": [
           "Feather Safety Razor Co.",
           "Razors Blades",
+          "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -13950,7 +13986,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13971,7 +14007,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades?variant=49025525907721",
             "price": "3.60 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
             "options": {
               "Pack Size": "Pack of 10"
@@ -14085,6 +14121,7 @@
         "collections": [
           "Feather Safety Razor Co.",
           "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -14121,6 +14158,9 @@
         "product_type": "Razors",
         "collections": [
           "Feather Safety Razor Co.",
+          "All Razors",
+          "Double Edge Safety Razors",
+          "Brush & Razor Stands",
           "New Additions",
           "Gift Sets",
           "Shaving Essentials"
@@ -16107,7 +16147,6 @@
         "product_type": "Brush and Razor Stands",
         "collections": [
           "Giesen & Forsthoff",
-          "All Razors",
           "Brush & Razor Stands",
           "New Additions",
           "Shaving Essentials",
@@ -16182,6 +16221,7 @@
         "product_type": "Straight Razors",
         "collections": [
           "Giesen & Forsthoff",
+          "All Razors",
           "Straight Razors",
           "New Additions",
           "Shaving Essentials"
@@ -16723,6 +16763,7 @@
         "product_type": "Razors",
         "collections": [
           "Henson Shaving",
+          "Brush & Razor Stands",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -19033,7 +19074,7 @@
       {
         "name": "Merkur 3-Piece Black & Chrome Shaving Set",
         "category": "Shaving Sets > Merkur Solingen",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Discover the perfect balance of style and function with the Merkur 3-Piece Black & Chrome Shaving Set. Featuring the elegant MERKUR 20C Double Edge Razor, this set is crafted with a striking combination of black anodised aluminium and bright chrome. The razor’s long handle offers superior grip and control, making it easy to achieve a smooth, precise shave. Its closed comb design, paired with a generous blade gap, ensures a gentle yet efficient shaving experience. Complementing the razor is a luxurious silvertip badger hair shaving brush, renowned for its ability to create a rich, creamy lather while gently exfoliating the skin. The accompanying polished chrome stand provides a practical and stylish way to keep your grooming tools organised and in top condition. This set includes a MERKUR Super Platinum Double Edge Razor Blade, so you’re ready to start your shaving journey right out of the box. Thoughtfully packaged in a sleek cardboard box, it makes an exceptional gift for anyone who values quality and craftsmanship. For related Merkur options, compare Merkur 3-Piece Chrome Shaving Set 3881 001 with Merkur FUTUR 3-Piece Polished Chrome Shaving Set 781 001, or browse the Merkur Solingen collection. Key Features: MERKUR 20C Razor: Designed with black anodised aluminium and bright chrome for a sophisticated finish. Silvertip Badger Hair Brush: Offers a luxurious lather and gentle exfoliation. Polished Chrome Stand: Keeps your razor and brush neatly organised. Comfortable Shaving: Closed comb and large blade gap for an efficient and gentle shave. Ready to Use: Includes one MERKUR Super Platinum Double Edge Razor Blade. Specifications: Material Finish: Bright Chrome / Black Anodised Aluminium Packaging: Cardboard box Packaging Size: 175mm x 120mm x 120mm Weight (with packaging): 490g",
         "url": "https://www.malegroomingsupplies.com/products/merkur-3-piece-black-chrome-shaving-set",
         "price": "£214.00",
@@ -19047,6 +19088,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -19072,7 +19115,7 @@
       {
         "name": "Merkur 3-Piece Chrome Shaving Set 3881 001",
         "category": "Shaving Sets > Merkur Solingen",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur 3-Piece Chrome Shaving Set 3881 001 is the epitome of luxury and practicality, making it an ideal gift for those who appreciate fine grooming tools. This premium set includes the iconic MERKUR 38C Barber Pole Razor, a silvertip badger hair shaving brush, and a polished chrome stand to showcase your grooming essentials in style. Designed to bring sophistication to your bathroom, this set ensures both exceptional performance and timeless aesthetics. The MERKUR 38C Razor is a heavyweight favourite among traditional shaving enthusiasts. Nicknamed the \"Barber Pole\" due to its ribbed handle design, this razor offers a comfortable, non-slip grip and a well-balanced weight. Its closed comb design provides a smooth, efficient shave, allowing you to guide the blade with ease and precision. This set comes with one MERKUR Super Platinum Double Edge Razor Blade to get you started. Packaged in an elegant cardboard box, it’s perfect as a gift or for upgrading your own grooming routine. For related Merkur options, compare Merkur 3-Piece Black & Chrome Shaving Set with Merkur FUTUR 4-Piece Polished Chrome Shaving Set 751 001, or browse the Merkur Solingen collection. Key Features: MERKUR 38C Barber Pole Razor: Heavyweight design with a ribbed, non-slip handle for superior control. Silvertip Badger Hair Brush: Creates a rich, luxurious lather while gently exfoliating the skin. Polished Chrome Stand: Keeps your razor and brush neatly organised and beautifully displayed. Effortless Shaving: Closed comb design ensures a smooth and precise shave. Ready to Use: Includes one MERKUR Super Platinum Double Edge Razor Blade. Specifications: Material Finish: Bright Chrome Packaging: Cardboard box Packaging Size: 175mm x 120mm x 120mm Weight (with packaging): 517g Product Dimensions: 100mm x 41mm x 25mm Product Weight: 113g",
         "url": "https://www.malegroomingsupplies.com/products/merkur-3-piece-chrome-shaving-set-3881-001",
         "price": "£220.00",
@@ -19086,6 +19129,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -19315,6 +19360,7 @@
         "product_type": "Razors",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
           "Double Edge Safety Razors",
           "New Additions",
           "Gift Sets",
@@ -19391,6 +19437,8 @@
         "product_type": "Razors",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Gift Sets",
           "Shaving Essentials"
@@ -19852,7 +19900,6 @@
         "product_type": "Brush and Razor Stands",
         "collections": [
           "Merkur Solingen",
-          "All Razors",
           "Brush & Razor Stands",
           "New Additions",
           "Shaving Essentials",
@@ -19967,6 +20014,8 @@
         "product_type": "Razors",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Travel Razors",
           "New Additions",
           "Shaving Essentials"
@@ -20004,6 +20053,8 @@
         "product_type": "Razors",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Travel Razors",
           "New Additions",
           "Shaving Essentials"
@@ -20045,7 +20096,8 @@
           "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
-          "Shaving Sets & Accessories"
+          "Shaving Sets & Accessories",
+          "Shaving Preparations"
         ],
         "variants": [
           {
@@ -20081,6 +20133,7 @@
         "collections": [
           "Merkur Solingen",
           "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -20103,7 +20156,7 @@
       {
         "name": "Merkur FUTUR 3-Piece Polished Chrome Shaving Set 781 001",
         "category": "Shaving Sets > Merkur Solingen",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Elevate your shaving routine with the Merkur FUTUR 3-Piece Polished Chrome Shaving Set, a luxurious grooming kit designed for discerning wet shave enthusiasts. This premium set features the innovative MERKUR FUTUR Adjustable Razor, a silvertip badger hair shaving brush, and a polished chrome stand that elegantly holds both tools. Every component is meticulously crafted and finished in bright polished chrome for a sleek and sophisticated look. The MERKUR FUTUR Razor is renowned for its adjustable blade gap, allowing you to customise the closeness of your shave for a truly personalised experience. Paired with the silvertip badger hair brush, which creates a rich, creamy lather while gently exfoliating your skin, this set ensures a superior wet shaving experience. To help you get started, the set includes 10 Merkur Super Platinum Double Edge Razor Blades, making it the perfect gift or upgrade to your grooming arsenal. Proudly designed and made in Germany, this set embodies precision, elegance, and performance. For related Merkur options, compare Merkur FUTUR Satin/Matt 4-Piece Shaving Set 750002 with Merkur 3-Piece Black & Chrome Shaving Set, or browse the Merkur Solingen collection. Key Features: MERKUR FUTUR Adjustable Razor: Features a duo clip and adjustable blade gap for a personalised shaving experience. Silvertip Badger Hair Brush: Offers a luxurious lather and gentle exfoliation. Polished Chrome Stand: Keeps your razor and brush neatly organised in style. Ready to Use: Includes 10 Merkur Super Platinum Double Edge Razor Blades. Craftsmanship: Made in Germany with premium materials for long-lasting quality. Specifications: Material Finish: Polished Chrome Packaging: Premium cardboard box Included Components: Razor (701), Brush (1701), Stand (4781), and 10 blades (910)",
         "url": "https://www.malegroomingsupplies.com/products/merkur-futur-polished-chrome-4-piece-shaving-set-751-001",
         "price": "£195.00",
@@ -20117,6 +20170,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -20142,7 +20197,7 @@
       {
         "name": "Merkur FUTUR 4-Piece Polished Chrome Shaving Set 751 001",
         "category": "Shaving Sets > Merkur Solingen",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Transform your shaving routine with the Merkur FUTUR 4-Piece Polished Chrome Shaving Set 751 001, a modern grooming kit that combines style and performance. This premium set includes the adjustable MERKUR FUTUR Razor, a luxurious silvertip badger hair shaving brush, a sleek polished chrome stand, and a stunning satin-finished glass soap dish. Perfectly balancing function and design, this set brings timeless sophistication to your bathroom. The MERKUR FUTUR Razor is equipped with an adjustable blade gap, allowing for a fully customisable shaving experience, whether you prefer a mild or close shave. Paired with the silvertip badger brush, which produces a rich lather while gently exfoliating your skin, this set ensures a superior wet shave every time. To get you started, the set includes 10 Merkur Super Platinum Double Edge Razor Blades, making it an ideal gift or upgrade for any grooming enthusiast. Designed and crafted in Germany, this set exemplifies precision, luxury, and quality. For related Merkur options, compare Merkur 3-Piece Black & Chrome Shaving Set with Merkur 3-Piece Chrome Shaving Set 3881 001, or browse the Merkur Solingen collection. Key Features: MERKUR FUTUR Adjustable Razor: Allows for a personalised shave with its adjustable blade gap. Silvertip Badger Hair Brush: Provides a luxurious lather and smooth application. Polished Chrome Stand and Satin Glass Soap Dish: A stylish organiser to elevate your bathroom aesthetics. Ready to Use: Includes 10 Merkur Super Platinum Double Edge Razor Blades. Craftsmanship: Made in Germany with premium materials for long-lasting performance. Specifications: Material Finish: Polished Chrome Soap Dish Material: Mouth-blown satinised crystal glass Packaging: Cardboard box Packaging Size: 175mm x 120mm x 120mm Weight (with packaging): 726g Product Dimensions: 104mm x 41mm x 25mm",
         "url": "https://www.malegroomingsupplies.com/products/merkur-futur-4-piece-polished-chrome-shaving-set-751-001",
         "price": "£229.70",
@@ -20156,6 +20211,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -20259,7 +20316,7 @@
       {
         "name": "Merkur FUTUR Satin/Matt 4-Piece Shaving Set 750002",
         "category": "Shaving Sets > Merkur Solingen",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Elevate your shaving routine with the Merkur FUTUR Satin/Matt 4-Piece Shaving Set 750002, a modern grooming kit designed for wet shave enthusiasts who appreciate both style and functionality. This premium set includes the adjustable MERKUR FUTUR Razor 700002, a luxurious silvertip badger hair shaving brush, a sleek matt chrome stand, and a sophisticated satin-finished glass soap dish. Each component showcases a matt chrome finish, complemented by the unique clouded glass bowl, bringing a contemporary edge to your bathroom. The MERKUR FUTUR Razor features an adjustable blade gap, allowing you to tailor your shave to your exact preference. Whether you prefer a wider gap for tackling longer hair or a closer, gentler shave for daily grooming, this razor delivers a precise and personalised experience. This set comes with 10 Merkur Super Platinum Double Edge Razor Blades, making it an excellent gift or upgrade for anyone seeking superior shaving performance. Designed and manufactured in Germany, the Merkur FUTUR set combines timeless design with exceptional quality. For related Merkur options, compare Merkur 3-Piece Black & Chrome Shaving Set with Merkur 3-Piece Chrome Shaving Set 3881 001, or browse the Merkur Solingen collection. Key Features: MERKUR FUTUR Adjustable Double Edge Safety Razor 700002: Customisable blade gap for a personalised shave. Silvertip Badger Hair Brush: Creates a rich, luxurious lather while gently exfoliating the skin. Matt Chrome Stand and Satin Glass Soap Dish: A sleek and practical organiser for your shaving essentials. Ready to Use: Includes 10 Merkur Super Platinum Double Edge Razor Blades. Precision German Craftsmanship: Designed and made in Germany for enduring quality and style. Specifications: Material Finish: Matt Chrome-Plated Soap Dish Material: Mouth-blown satinised crystal glass Packaging: Folding box Packaging Size: 175mm x 120mm x 120mm Weight (with packaging): 726g Product Dimensions: 104mm x 41mm x 25mm",
         "url": "https://www.malegroomingsupplies.com/products/merkur-futur-satin-matt-4-piece-shaving-set-750002",
         "price": "£229.95",
@@ -20273,6 +20330,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -20313,6 +20372,7 @@
         "collections": [
           "Merkur Solingen",
           "All Razors",
+          "Double Edge Safety Razors",
           "Adjustable DE Safety Razors",
           "New Additions",
           "Shaving Essentials"
@@ -20466,6 +20526,7 @@
           "Merkur Solingen",
           "Razors Blades",
           "New Additions",
+          "Beard & Moustache Care",
           "Shaving Essentials"
         ],
         "variants": [
@@ -20520,6 +20581,7 @@
           "Merkur Solingen",
           "All Razors",
           "New Additions",
+          "Beard & Moustache Care",
           "Shaving Essentials"
         ],
         "variants": [
@@ -20592,6 +20654,7 @@
         "collections": [
           "Merkur Solingen",
           "All Razors",
+          "Double Edge Safety Razors",
           "Travel Razors",
           "New Additions",
           "Shaving Essentials"
@@ -20784,6 +20847,8 @@
         "product_type": "Razors",
         "collections": [
           "Merkur Solingen",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Travel Razors",
           "Adjustable DE Safety Razors",
           "New Additions",
@@ -20862,6 +20927,7 @@
         "collections": [
           "Merkur Solingen",
           "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -20899,6 +20965,7 @@
         "collections": [
           "Merkur Solingen",
           "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -20936,6 +21003,7 @@
         "collections": [
           "Merkur Solingen",
           "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -21367,7 +21435,7 @@
       },
       {
         "name": "Morgan's Beard Brush",
-        "category": "Hair Brushes & Combs > Hair & Body",
+        "category": "Hair Brushes & Combs > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
         "description": "Maintain a healthy, well-groomed beard with the Morgan’s Beard Brush – a traditional military-style grooming brush designed to detangle, shape, and condition all beard types. Crafted with a blend of natural bristle and synthetic fibres, it helps distribute oils and products evenly through your beard, promoting shine and manageability. Engraved with the Morgan’s logo and packaged in a recyclable box, this brush is the perfect daily grooming companion and a fine addition to any beard care kit. For related Morgan's options, compare Morgan's Instant Beard Darkening Cream 100ml with Morgan’s Foldable Moustache Comb - Large, or browse the Hair & Body collection. Key Features: Classic men’s military-style beard brush Engraved with the Morgan’s logo for a premium touch Mix of natural and synthetic bristles for even product distribution Helps detangle, smooth, and condition the beard Suitable for all beard lengths and styles Packaged in a recyclable box Specifications: Type: Beard grooming brush Bristles: Mixed natural and synthetic fibres Packaging: Recyclable branded box Use: Daily beard maintenance and styling",
         "url": "https://www.malegroomingsupplies.com/products/morgans-beard-brush",
@@ -21382,6 +21450,7 @@
         "product_type": "Hair Brushes & Combs",
         "collections": [
           "New Additions",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Morgan's",
           "Hair Brushes & Combs"
@@ -21739,7 +21808,7 @@
       },
       {
         "name": "Morgan's Instant Beard Darkening Cream 100ml",
-        "category": "Hair Styling > Hair & Body",
+        "category": "Hair Styling > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Color",
         "description": "Blend away grey and define your beard instantly with Morgan’s Instant Beard Darkening Cream. This vegan-friendly formula is designed to darken, outline, and groom your beard in one easy step, helping you maintain a sharp, well-kept appearance. Formulated with a black pigment, it provides immediate results by gently covering greys and enhancing beard definition. Ideal for quick touch-ups or daily grooming, it leaves your facial hair looking fuller and more uniform with a healthy finish. Key Features: Instantly darkens and defines the beard Blends away grey without harsh dyes Vegan formula with black pigment for immediate results Suitable for daily use or as needed Easy application with brush or gloves Helps achieve a groomed, fuller beard appearance How to Use: Squeeze a pea-sized amount onto a Morgan’s Beard Brush or gloved hand Apply to a clean, dry beard and brush through evenly Reapply if needed to boost coverage Wipe off excess from the skin with a damp cloth Wash hands after useTip: Cover shirt collar before application to prevent staining. Specifications: Size: 100ml Texture: Cream Pigment: Black for instant darkening Vegan: Yes Packaging: Squeeze tube Made in the UK",
         "url": "https://www.malegroomingsupplies.com/products/morgans-instant-beard-darkening-cream",
@@ -21754,6 +21823,7 @@
         "product_type": "Hair Styling",
         "collections": [
           "New Additions",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Morgan's",
           "Hair Styling Products",
@@ -22427,6 +22497,7 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
+          "Shampoo & Conditioner",
           "Bath, Body & Hand Care"
         ],
         "variants": [
@@ -22664,6 +22735,7 @@
           "Post-Shave",
           "New Additions",
           "Morgan's",
+          "Men's Aftershaves",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -24446,6 +24518,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "MUHLE Shaving",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -24678,6 +24752,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "MUHLE Shaving",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -24741,7 +24817,7 @@
       {
         "name": "Muhle VIVO Black Resin Mach3 3 Piece Shaving Set",
         "category": "Shaving Sets > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Muhle VIVO 3-Piece Mach3 Shaving Set in black resin combines modern cartridge shaving with the look and feel of traditional wet shaving tools. The high-grade black resin handles are smoothly polished and finished with chrome-plated metal accents, giving the set a clean, understated appearance suited to everyday use. This set includes a Gillette Mach3 compatible razor for a familiar, comfortable shave, a Pure Badger shaving brush for building a rich lather, and a matching chrome-plated stand to keep everything neatly organised between uses. It is a practical choice for those who prefer Mach3 blades but want a more considered, coordinated shaving setup. For related Muhle options, compare Muhle VIVO Plum Wood Mach3 3 Piece Shaving Set with Muhle VIVO Horn Brown Mach3 3 Piece Shaving Set, or browse the MUHLE Shaving collection. Key Features: Three-piece shaving set including Mach3 razor, shaving brush, and stand. Mach3 compatible razor using widely available replacement cartridges. Pure Badger shaving brush suitable for rich lathering and gentle exfoliation. High-grade black resin handles with polished finish. Chrome-plated stand for tidy and practical storage. Specifications: Razor Type: Mach3 compatible cartridge razor Brush Hair: Pure Badger Ring Size: 21 mm (Size M) Handle Material: High-grade resin, black Stand Material: Chrome-plated metal Replaceable Brush Head: No",
         "url": "https://www.malegroomingsupplies.com/products/muhle-vivo-black-resin-mach3-3-piece-shaving-set",
         "price": "£90.00",
@@ -24755,6 +24831,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "MUHLE Shaving",
+          "All Razors",
+          "Mach 3 Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -24780,7 +24858,7 @@
       {
         "name": "Muhle VIVO Horn Brown Mach3 3 Piece Shaving Set",
         "category": "Shaving Sets > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Muhle VIVO 3-Piece Mach3 Shaving Set in horn brown resin offers a refined take on modern cartridge shaving, paired with traditional wet shaving tools. The high-grade resin handles feature a polished horn brown finish with natural depth and variation, complemented by chrome-plated metal accents for a clean, coordinated look. This set includes a Gillette Mach3 compatible razor for a smooth, familiar shave, a Pure Badger shaving brush for building a rich lather, and a matching chrome-plated stand to keep everything neatly organised between uses. Well suited to both beginners and experienced shavers, it is an excellent choice for those who prefer Mach3 blades but want a more considered, traditional shaving setup. Please note: horn brown resin handles vary in tone and pattern. Each set is unique and may differ slightly from the images shown. For related Muhle options, compare Muhle VIVO Black Resin Mach3 3 Piece Shaving Set with Muhle VIVO Plum Wood Mach3 3 Piece Shaving Set, or browse the MUHLE Shaving collection. Key Features: Three-piece shaving set including Mach3 razor, shaving brush, and stand. Mach3 compatible razor using widely available replacement cartridges. Pure Badger shaving brush suitable for rich lathering and gentle exfoliation. High-grade horn brown resin handles with polished finish. Chrome-plated stand for tidy, practical storage. Specifications: Razor Type: Mach3 compatible cartridge razor Brush Hair: Pure Badger Ring Size: 21 mm (Size M) Handle Material: High-grade resin, horn brown Stand Material: Chrome-plated metal Replaceable Brush Head: No",
         "url": "https://www.malegroomingsupplies.com/products/muhle-vivo-horn-brown-mach3-3-piece-shaving-set",
         "price": "£90.00",
@@ -24794,6 +24872,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "MUHLE Shaving",
+          "All Razors",
+          "Mach 3 Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -24833,6 +24913,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "MUHLE Shaving",
+          "All Razors",
+          "Double Edge Safety Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -24896,7 +24978,7 @@
       {
         "name": "Muhle VIVO Plum Wood Mach3 3 Piece Shaving Set",
         "category": "Shaving Sets > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Muhle VIVO 3-Piece Mach3 Shaving Set in plum wood combines natural materials with a clean, practical shaving setup. The handles are made from sustainably sourced plum wood, chosen for its rich colour and distinctive grain. Each handle is oil-sealed to help protect against moisture while maintaining a warm, natural feel in the hand. This set includes a Gillette Mach3 compatible razor for a familiar, comfortable shave, a Pure Badger shaving brush for building a rich lather, and a matching chrome-plated stand to keep everything neatly organised between uses. It is well suited to those who prefer Mach3 cartridges but want a more traditional and considered shaving arrangement. Please note: as a natural material, plum wood varies in grain and tone. Each set is unique and may differ slightly from the images shown. For related Muhle options, compare Muhle VIVO Black Resin Mach3 3 Piece Shaving Set with Muhle VIVO Horn Brown Mach3 3 Piece Shaving Set, or browse the MUHLE Shaving collection. Key Features: Three-piece shaving set including Mach3 razor, shaving brush, and stand. Mach3 compatible razor using widely available replacement cartridges. Pure Badger shaving brush suitable for rich lathering and gentle exfoliation. Plum wood handles with oil-sealed finish for water resistance. Chrome-plated stand for tidy, practical storage. Specifications: Razor Type: Mach3 compatible cartridge razor Brush Hair: Pure Badger Ring Size: 21 mm (Size M) Handle Material: Plum wood, oil-sealed Stand Material: Chrome-plated metal Replaceable Brush Head: No",
         "url": "https://www.malegroomingsupplies.com/products/muhle-vivo-plum-wood-mach3-3-piece-shaving-set",
         "price": "£90.00",
@@ -24910,6 +24992,8 @@
         "product_type": "Shaving Sets",
         "collections": [
           "MUHLE Shaving",
+          "All Razors",
+          "Mach 3 Razors",
           "Shaving Sets",
           "New Additions",
           "Gift Sets",
@@ -25011,7 +25095,7 @@
       {
         "name": "Omega Badger Imitation Hog Bristle Shaving Brush with Plastic Drip Stand 81020",
         "category": "Shaving Brushes > Omega",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Experience the perfect blend of practicality and luxury with the Omega Badger Imitation Hog Bristle Shaving Brush. With a height of 11.3 cm, this brush is thoughtfully paired with a black plastic drip stand for easy storage, ensuring it stays dry and in top condition. Crafted with badger imitation hog bristles, the brush creates a rich, luxurious lather and provides gentle exfoliation, preparing your skin for a smooth and close shave. The transparent resin handle adds a modern touch to its design while ensuring durability. Made with precision in Italy, this shaving brush is a reliable and stylish addition to your grooming routine. Key Features: Bristle Type: Badger imitation hog hair for excellent lathering and exfoliation. Handle: Transparent resin for durability and aesthetic appeal. Drip Stand: Black plastic stand to maintain hygiene and prolong brush life. Size: 113 mm (11.3 cm) in height. Add this versatile and stylish brush to your grooming collection today.",
         "url": "https://www.malegroomingsupplies.com/products/omega-badger-imitation-hog-bristle-shaving-brush-81020",
         "price": "£21.95",
@@ -25028,6 +25112,7 @@
           "Shaving Brushes",
           "Badger Shaving Brushes",
           "Boar, Hog & Horse Hair Shaving Brushes",
+          "Brush & Razor Stands",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -25332,6 +25417,7 @@
           "Omega",
           "Post-Shave",
           "New Additions",
+          "Men's Aftershaves",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -25408,6 +25494,7 @@
           "Omega",
           "Post-Shave",
           "New Additions",
+          "Men's Aftershaves",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -25446,6 +25533,7 @@
           "Omega",
           "Post-Shave",
           "New Additions",
+          "Men's Aftershaves",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -25915,7 +26003,8 @@
         "collections": [
           "Osma",
           "New Additions",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Shampoo & Conditioner"
         ],
         "variants": [
           {
@@ -26365,6 +26454,7 @@
         "collections": [
           "Parker Shaving",
           "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -27333,6 +27423,7 @@
         "collections": [
           "Parker Shaving",
           "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -27940,6 +28031,7 @@
         "collections": [
           "Parker Shaving",
           "All Razors",
+          "Double Edge Safety Razors",
           "Travel Razors",
           "New Additions",
           "Shaving Essentials"
@@ -28133,7 +28225,8 @@
           "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
-          "Shaving Sets & Accessories"
+          "Shaving Sets & Accessories",
+          "Shaving Preparations"
         ],
         "variants": [
           {
@@ -28285,7 +28378,8 @@
           "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
-          "Shaving Sets & Accessories"
+          "Shaving Sets & Accessories",
+          "Shaving Preparations"
         ],
         "variants": [
           {
@@ -28397,6 +28491,7 @@
         "collections": [
           "Parker Shaving",
           "All Razors",
+          "Straight Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -28434,6 +28529,7 @@
         "collections": [
           "Parker Shaving",
           "All Razors",
+          "Straight Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -28471,6 +28567,7 @@
         "collections": [
           "Parker Shaving",
           "Razors Blades",
+          "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -28543,6 +28640,7 @@
         "product_type": "Razors",
         "collections": [
           "Parker Shaving",
+          "All Razors",
           "Travel Razors",
           "New Additions",
           "Shaving Essentials"
@@ -28584,7 +28682,8 @@
           "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
-          "Shaving Sets & Accessories"
+          "Shaving Sets & Accessories",
+          "Shaving Preparations"
         ],
         "variants": [
           {
@@ -28656,7 +28755,7 @@
         "product_type": "Shaving Accessories & Cases",
         "collections": [
           "Parker Shaving",
-          "All Razors",
+          "Straight Razors",
           "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials",
@@ -28731,6 +28830,7 @@
         "product_type": "Shaving Accessories & Cases",
         "collections": [
           "Parker Shaving",
+          "Mach 3 Razors",
           "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials",
@@ -29052,7 +29152,8 @@
           "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
-          "Shaving Sets & Accessories"
+          "Shaving Sets & Accessories",
+          "Shaving Preparations"
         ],
         "variants": [
           {
@@ -29087,6 +29188,8 @@
         "product_type": "Razors",
         "collections": [
           "Parker Shaving",
+          "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -29123,6 +29226,8 @@
         "product_type": "Razors",
         "collections": [
           "Parker Shaving",
+          "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -29159,6 +29264,7 @@
         "product_type": "Razors",
         "collections": [
           "Parker Shaving",
+          "All Razors",
           "Mach 3 Razors",
           "New Additions",
           "Shaving Essentials"
@@ -29197,6 +29303,7 @@
         "collections": [
           "Parker Shaving",
           "New Additions",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Hair Brushes & Combs"
         ],
@@ -29436,6 +29543,7 @@
         "collections": [
           "Parker Shaving",
           "All Razors",
+          "Straight Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -29473,6 +29581,7 @@
         "collections": [
           "Parker Shaving",
           "All Razors",
+          "Straight Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -29502,7 +29611,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-ptb-male-grooming-supplies-186536.jpg?v=1722957007",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29524,7 +29633,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-ptb-shavette-razor",
             "price": "11.85 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-ptb-male-grooming-supplies-186536.jpg?v=1722957007",
             "options": {}
           }
@@ -29887,7 +29996,6 @@
         "collections": [
           "Parker Shaving",
           "All Razors",
-          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -30499,6 +30607,7 @@
         "collections": [
           "Parker Shaving",
           "All Razors",
+          "Double Edge Safety Razors",
           "Adjustable DE Safety Razors",
           "New Additions",
           "Shaving Essentials"
@@ -31142,6 +31251,7 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
+          "Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -31477,6 +31587,7 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
+          "Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -31686,7 +31797,7 @@
       },
       {
         "name": "Proraso Metal Beard Gift Set Wood & Spice",
-        "category": "Gift Sets > Gift Sets",
+        "category": "Gift Sets > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
         "description": "The Proraso Wood & Spice Beard Gift Set is a complete beard care collection for cleansing, softening and conditioning facial hair. Presented in a smart metal tin, it makes an excellent gift for any beard enthusiast or a practical upgrade for a regular grooming routine. This set includes three essential products from Proraso’s popular Wood & Spice range: Beard Wash, Beard Oil and Beard Balm. Together, they help keep the beard feeling clean, fresh, comfortable and easier to manage. The Beard Wash gently removes dirt, impurities and unwanted odours while helping to soften coarse facial hair. The Beard Oil is designed for longer, thicker beards, helping to nourish the hair, improve manageability and add a healthy-looking finish. The Beard Balm is ideal for soothing the discomfort often associated with new beard growth, helping to reduce itching while softening the beard and skin beneath. Finished with Proraso’s warm Wood & Spice fragrance, the set has a refined scent with notes of wood and spice. All products in the set are vegan and are also available individually. For the same Wood & Spice beard routine, pair it with Proraso Wood & Spice Beard Oil 30ml or Proraso Wood & Spice Beard Wash 200ml. Key Features: Complete Beard Care Set: Includes beard wash, beard oil and beard balm. Wood & Spice Fragrance: Warm, refined scent with classic woody and spicy notes. Presented In A Metal Tin: Smart gift-ready packaging with practical storage use. Cleanses And Freshens: Beard wash helps remove impurities and unwanted odours. Softens And Conditions: Beard oil and balm help improve comfort and manageability. Vegan Products: All products included in the set are vegan. Specifications: Product Type: Beard care gift set Fragrance: Wood & Spice Presentation: Metal beard care tin Set Includes: Proraso Beard Wash Wood & Spice 200ml, Proraso Beard Oil Wood & Spice 30ml, Proraso Beard Balm Wood & Spice 100ml Vegan: Yes Suitable For: Beard cleansing, conditioning, softening and gifting Use: Follow the directions provided on each individual product",
         "url": "https://www.malegroomingsupplies.com/products/proraso-wood-spice-beard-gift-set",
@@ -31701,6 +31812,7 @@
         "product_type": "Gift Sets",
         "collections": [
           "New Additions",
+          "Beard & Moustache Care",
           "Gift Sets",
           "Proraso"
         ],
@@ -31921,6 +32033,7 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
+          "Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -31982,7 +32095,7 @@
       },
       {
         "name": "Proraso Razor Cut Repair Gel 10ml",
-        "category": "Post-Shave > All Razors",
+        "category": "Post-Shave > Post-Shave",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Proraso Razor Cut Repair Gel is a compact grooming essential designed for quick, targeted care after minor shaving nicks and cuts. The clear gel formula is easy to apply directly to the affected area, helping to calm the skin and create a protective layer over small shaving mishaps. Its precise application makes it suitable for both home shaving routines and professional barbershop use. Ideal to keep in a wash bag, bathroom cabinet or grooming kit, this 10ml repair gel is a practical solution for dealing with minor razor cuts quickly and neatly. Apply directly to the affected area as needed. For related shaving recovery products, browse post-shave care or Proraso. Key Features: Targeted Repair Gel: Designed for minor shaving nicks and cuts. Clear Formula: Applies neatly and precisely to the affected area. Protective Layer: Helps cover small shaving cuts after application. Compact Size: 10ml format is ideal for travel or grooming kits. Easy To Use: Apply directly to the affected area with no complicated routine. Suitable For Barbershop Use: Practical for professional or home shaving care. Specifications: Product Type: Razor cut repair gel Size: 10ml Formula: Clear gel Use: Apply directly to minor shaving nicks or cuts Dimensions: 2.3cm x 4.5cm x 12.5cm Suitable For: Home shaving, travel and professional barbershop use",
         "url": "https://www.malegroomingsupplies.com/products/proraso-razor-cut-repair-gel-10ml",
@@ -31996,7 +32109,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Post-Shave",
         "collections": [
-          "All Razors",
           "Post-Shave",
           "New Additions",
           "Proraso",
@@ -32112,6 +32224,7 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
+          "Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -32339,6 +32452,7 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
+          "Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -38767,7 +38881,7 @@
       },
       {
         "name": "Tabac Original Aftershave Lotion 50ml & Shower Gel 100ml Gift Set",
-        "category": "Gift Sets > Tabac Original",
+        "category": "Gift Sets > Post-Shave",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "The Tabac Original Duo Gift Set combines two essentials for the modern gentleman: a 50ml Aftershave Lotion and a 100ml Shower Gel. Designed by Mäurer & Wirtz, this set embodies the unmistakable Tabac Original fragrance – a harmonious blend of fresh, floral, woody, and aromatic notes. Aftershave Lotion (50ml): Soothes, cools, and refreshes the skin post-shave, leaving behind a subtle masculine scent. Shower Gel (100ml): Cleanses and revitalises the body with its rich lather, ensuring you step out of the shower feeling fresh and confident. With its timeless, peppery-spicy accents and subtle woody undertones, this gift set delivers classic elegance and superior grooming in one box. Perfect as a thoughtful present or a treat for yourself. Key Features: Includes Aftershave Lotion (50ml) and Shower Gel (100ml) Fresh, floral, woody, and aromatic scent Soothes skin post-shave and leaves it refreshed Cleanses and revitalises the body with rich lather Presented as a ready-to-gift set Specifications: Fragrance Family: Fresh/Woody Type: Gift Set (Aftershave & Shower Gel) Skin Type: All Skin Types Brand: Tabac Original by Mäurer & Wirtz A timeless grooming duo that ensures a clean, invigorating routine while embodying the distinctive Tabac Original scent. Ideal for gifting on special occasions. For related grooming options, browse the Tabac Original collection.",
         "url": "https://www.malegroomingsupplies.com/products/tabac-original-gift-set",
@@ -38781,9 +38895,11 @@
         "shipping": "Calculated at checkout",
         "product_type": "Gift Sets",
         "collections": [
+          "Post-Shave",
           "New Additions",
           "Tabac Original",
-          "Gift Sets"
+          "Gift Sets",
+          "Men's Aftershaves"
         ],
         "variants": [
           {
@@ -38803,7 +38919,7 @@
       },
       {
         "name": "Tabac Original Aftershave Lotion 75ml & Shower Gel 100ml Gift Set",
-        "category": "Gift Sets > Tabac Original",
+        "category": "Gift Sets > Post-Shave",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Discover the ultimate grooming duo with the Tabac Original Gift Set, featuring a 75ml Aftershave Lotion and a 100ml Shower Gel. This timeless set from Mäurer & Wirtz delivers the iconic Tabac Original fragrance, blending fresh, floral, woody, and aromatic notes for the modern gentleman. Aftershave Lotion (75ml): Cools, soothes, and revitalises the skin after shaving, leaving a refreshing finish and the unmistakable masculine scent. Shower Gel (100ml): Cleanses the skin deeply, offering a luxurious lather that energises and refreshes for the day ahead. Encased in stylish packaging, this set combines practicality and sophistication, making it a perfect gift for men who appreciate classic grooming essentials. Key Features: Includes Aftershave Lotion (75ml) & Shower Gel (100ml) Fresh, floral, woody, and aromatic masculine fragrance Soothes and revitalises post-shave skin Cleanses and refreshes with rich lather Ready-to-gift packaging Specifications: Fragrance Family: Fresh/Woody Type: Gift Set (Aftershave & Shower Gel) Brand: Tabac Original by Mäurer & Wirtz Suitable For: All Skin Types This grooming gift set offers a complete post-shave and shower solution with the signature Tabac Original scent, ensuring confidence and timeless elegance every day. For related grooming options, browse the Tabac Original collection.",
         "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-shower-gift-set",
@@ -38817,9 +38933,11 @@
         "shipping": "Calculated at checkout",
         "product_type": "Gift Sets",
         "collections": [
+          "Post-Shave",
           "New Additions",
           "Tabac Original",
-          "Gift Sets"
+          "Gift Sets",
+          "Men's Aftershaves"
         ],
         "variants": [
           {
@@ -39191,6 +39309,7 @@
           "New Additions",
           "Hair & Body",
           "Taylor of Old Bond Street",
+          "Gift Sets",
           "Bath, Body & Hand Care"
         ],
         "variants": [
@@ -39437,7 +39556,7 @@
       },
       {
         "name": "Taylor of Old Bond Street Jermyn Street Collection Aftershave Cream 75ml",
-        "category": "Post Shave > Post-Shave",
+        "category": "Post Shave > Shaving Creams",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "Taylor of Old Bond Street Jermyn Street Collection Aftershave Cream is expertly crafted for individuals with sensitive skin, offering an allergen-free formula that soothes and nourishes the skin post-shave and throughout the day. This luxurious cream helps to reduce irritation and moisturise, leaving the skin feeling refreshed and comfortable. Fragrance Profile: Top Notes: A modern, fresh fougère opening with bergamot, lemon, lime, and lavender.​ Heart Notes: A harmonious blend of geranium, neroli, and amber.​ Base Notes: A substantive foundation of musk, patchouli, and vanilla.​ This allergen-free fragrance contains patchouli oil, providing a subtle yet distinctive scent that complements the aftershave's soothing properties.​ Key Features: Allergen-Free Formula: Ideal for sensitive skin, minimising the risk of irritation.​ Soothing and Nourishing: Provides relief after shaving, promoting skin comfort.​ Moisturising: Keeps the skin hydrated throughout the day.​ Signature Fragrance: Features the distinguished Jermyn Street scent with citrus, floral, and woody notes.​ Convenient Size: 75ml tube, perfect for both home use and travel.​ Made in the UK: Upholding the quality and craftsmanship associated with British grooming products.​ Specifications: Product Type: Aftershave Cream​ Collection: Jermyn Street​ Size: 75ml​ Skin Type: Sensitive​ Fragrance: Modern fresh fougère with citrus, floral, and woody notes",
         "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-jermyn-street-collection-aftershave-cream-75ml",
@@ -39451,9 +39570,11 @@
         "shipping": "Calculated at checkout",
         "product_type": "Post Shave",
         "collections": [
+          "Shaving Creams",
           "Post-Shave",
           "New Additions",
           "Taylor of Old Bond Street",
+          "Men's Aftershaves",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -39565,7 +39686,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Taylor of Old Bond Street"
+          "Taylor of Old Bond Street",
+          "Shampoo & Conditioner"
         ],
         "variants": [
           {
@@ -39890,7 +40012,7 @@
       },
       {
         "name": "Taylor of Old Bond Street Sandalwood Hand Soap Gift Set",
-        "category": "Gift Sets > Taylor of Old Bond Street",
+        "category": "Gift Sets > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Bath & Body",
         "description": "Taylor of Old Bond Street Sandalwood Hand Soap Gift Set features three individually wrapped 100g bars of the brand’s iconic sandalwood hand soap, elegantly presented in a classic gift box. Perfect for gifting or everyday indulgence, each soap is triple-milled to deliver a luxuriously rich lather, leaving hands cleansed, soft, and subtly fragranced. The timeless sandalwood scent blends citrus, herbs, florals, and woody base notes, offering a masculine, refined aroma. Ideal for fans of traditional British grooming or anyone who appreciates premium skincare essentials. Key Features: Gift set includes 3 x 100g triple-milled soaps Scented with Taylor’s classic sandalwood fragrance Rich, creamy lather and gentle cleansing Suitable for all skin types Presented in an elegant gift box Made in the UK Specifications: Product Type: Hand Soap Gift Set Contents: 3 x 100g bars Fragrance: Sandalwood Formulation: Triple-milled, vegetable-based Made in: England",
         "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-sandalwood-bath-soap-gift-set",
@@ -39905,8 +40027,10 @@
         "product_type": "Gift Sets",
         "collections": [
           "New Additions",
+          "Hair & Body",
           "Taylor of Old Bond Street",
-          "Gift Sets"
+          "Gift Sets",
+          "Bath, Body & Hand Care"
         ],
         "variants": [
           {
@@ -40355,7 +40479,8 @@
         "shipping": "Calculated at checkout",
         "product_type": "Barber Supplies",
         "collections": [
-          "The Bluebeards Revenge"
+          "The Bluebeards Revenge",
+          "Beard & Moustache Care"
         ],
         "variants": [
           {
@@ -40390,6 +40515,7 @@
         "product_type": "Fragrances",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Fragrances",
           "Men's Eau de Toilette"
@@ -40427,6 +40553,7 @@
         "product_type": "Bath Soap and Shower Gels",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Bath, Body & Hand Care"
         ],
@@ -40463,6 +40590,7 @@
         "product_type": "Shampoo & Conditioner",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Shampoo & Conditioner"
         ],
@@ -40499,6 +40627,7 @@
         "product_type": "Shampoo & Conditioner",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Shampoo & Conditioner"
         ],
@@ -40535,6 +40664,7 @@
         "product_type": "Towels",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Bath, Body & Hand Care"
         ],
@@ -40571,6 +40701,7 @@
         "product_type": "Hair Styling",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Hair Styling Products",
           "Men's Hair Sprays & Gels"
@@ -40608,6 +40739,7 @@
         "product_type": "Hair Brushes & Combs",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Hair Brushes & Combs"
         ],
@@ -40661,6 +40793,7 @@
         "product_type": "Hair Styling",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Hair Styling Products",
           "Men's Hair Clays, Pastes & Putty"
@@ -40698,6 +40831,7 @@
         "product_type": "Bath Soap and Shower Gels",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Bath, Body & Hand Care"
         ],
@@ -40734,6 +40868,7 @@
         "product_type": "Shampoo & Conditioner",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Hair & Body",
           "Shampoo & Conditioner"
         ],
@@ -40771,6 +40906,7 @@
         "collections": [
           "Post-Shave",
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -40808,6 +40944,7 @@
         "collections": [
           "Pre-Shave",
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -40844,6 +40981,7 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "The Bluebeards Revenge",
+          "Beard & Moustache Care",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -40918,7 +41056,6 @@
         "product_type": "Shaving Accessories & Cases",
         "collections": [
           "Henson Shaving",
-          "All Razors",
           "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials",
@@ -41420,6 +41557,7 @@
         "product_type": "Razors",
         "collections": [
           "Giesen & Forsthoff",
+          "All Razors",
           "Double Edge Safety Razors",
           "Travel Razors",
           "New Additions",
@@ -41871,6 +42009,8 @@
         "product_type": "Razors",
         "collections": [
           "Wilkinson Sword",
+          "All Razors",
+          "Double Edge Safety Razors",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -41946,7 +42086,8 @@
         "collections": [
           "Wilkinson Sword",
           "Shaving Sets",
-          "New Additions"
+          "New Additions",
+          "Gift Sets"
         ],
         "variants": [
           {

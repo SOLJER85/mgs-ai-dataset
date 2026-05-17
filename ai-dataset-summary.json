@@ -9,11 +9,11 @@
     "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care": 99,
     "Health & Beauty > Personal Care > Hair Care > Hair Color": 4,
     "Health & Beauty > Personal Care > Oral Care": 31,
-    "Health & Beauty > Personal Care > Shaving & Grooming": 304,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 296
+    "Health & Beauty > Personal Care > Shaving & Grooming": 295,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 305
   },
   "currency": "GBP",
-  "generated_at": "2026-05-16T05:28:47+00:00",
+  "generated_at": "2026-05-17T05:50:26+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1008,
   "openai_feed": "openai-products-feed.csv.gz",
@@ -145,12 +145,12 @@
   "source_products": 1375,
   "validation": {
     "availability_counts": {
-      "in_stock": 925,
-      "out_of_stock": 339
+      "in_stock": 923,
+      "out_of_stock": 341
     },
     "checkout_eligibility_counts": {
-      "false": 339,
-      "true": 925
+      "false": 341,
+      "true": 923
     },
     "duplicate_item_id_count": 0,
     "invalid_gtin_rows": 0,
