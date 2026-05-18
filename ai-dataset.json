@@ -2,16 +2,16 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-17",
-    "generated_at": "2026-05-17T05:50:26+00:00",
+    "last_updated": "2026-05-18",
+    "generated_at": "2026-05-18T06:16:19+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [
       "GB"
     ],
-    "product_count": 1008,
-    "variant_count": 1264,
+    "product_count": 1006,
+    "variant_count": 1262,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -2982,7 +2982,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes15_clipped_rev_1.jpg?v=1748201094",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3004,7 +3004,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-1445-eau-de-parfum-100ml",
             "price": "68.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes15_clipped_rev_1.jpg?v=1748201094",
             "options": {}
           }
@@ -3400,7 +3400,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes3_clipped_rev_1.jpg?v=1748263868",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3422,7 +3422,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-special-reserve-neroli-eau-de-parfum-100ml",
             "price": "98.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes3_clipped_rev_1.jpg?v=1748263868",
             "options": {}
           }
@@ -13221,7 +13221,7 @@
         "product_type": "Blades",
         "collections": [
           "DOVO Solingen",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -13656,7 +13656,7 @@
         "product_type": "Blades",
         "collections": [
           "Feather Safety Razor Co.",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -13693,7 +13693,7 @@
         "product_type": "Blades",
         "collections": [
           "Feather Safety Razor Co.",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -13730,7 +13730,7 @@
         "product_type": "Blades",
         "collections": [
           "Feather Safety Razor Co.",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -13767,7 +13767,7 @@
         "product_type": "Blades",
         "collections": [
           "Feather Safety Razor Co.",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -13804,7 +13804,7 @@
         "product_type": "Blades",
         "collections": [
           "Feather Safety Razor Co.",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -13955,7 +13955,7 @@
         "product_type": "Blades",
         "collections": [
           "Feather Safety Razor Co.",
-          "Razors Blades",
+          "Razor Blades",
           "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials"
@@ -13993,7 +13993,7 @@
         "product_type": "Blades",
         "collections": [
           "Feather Safety Razor Co.",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -15789,7 +15789,7 @@
         "product_type": "Blades",
         "collections": [
           "Giesen & Forsthoff",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -16800,7 +16800,7 @@
         "product_type": "Blades",
         "collections": [
           "Henson Shaving",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -16837,7 +16837,7 @@
         "product_type": "Blades",
         "collections": [
           "Henson Shaving",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -19277,7 +19277,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19299,7 +19299,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34c-heavy-duty-safety-razor",
             "price": "36.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
             "options": {}
           }
@@ -20524,7 +20524,7 @@
         "product_type": "Blades",
         "collections": [
           "Merkur Solingen",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Beard & Moustache Care",
           "Shaving Essentials"
@@ -21231,7 +21231,7 @@
         "product_type": "Blades",
         "collections": [
           "Merkur Solingen",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -21260,7 +21260,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-super-platinum-razor-blades?variant=48841591914761",
             "price": "58.05 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-super-platinum-razor-blades-100-pieces-908195.jpg?v=1722957308",
             "options": {
               "Quantity": "Full Pack (10 x 10)"
@@ -28566,7 +28566,7 @@
         "product_type": "Blades",
         "collections": [
           "Parker Shaving",
-          "Razors Blades",
+          "Razor Blades",
           "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials"
@@ -28718,7 +28718,7 @@
         "product_type": "Blades",
         "collections": [
           "Parker Shaving",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -29379,7 +29379,7 @@
         "product_type": "Blades",
         "collections": [
           "Parker Shaving",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -29505,7 +29505,7 @@
         "product_type": "Blades",
         "collections": [
           "Parker Shaving",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -30996,7 +30996,7 @@
         "product_type": "Blades",
         "collections": [
           "Personna",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -34445,7 +34445,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBB_clipped_rev_1.jpg?v=1744055330",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -34467,7 +34467,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-pharos-c3-pure-black-badger-black",
             "price": "18.35 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBB_clipped_rev_1.jpg?v=1744055330",
             "options": {}
           }
@@ -41955,7 +41955,7 @@
         "product_type": "Blades",
         "collections": [
           "Wilkinson Sword",
-          "Razors Blades",
+          "Razor Blades",
           "New Additions",
           "Shaving Essentials"
         ],
@@ -42026,81 +42026,6 @@
             "sale_price": "14.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/wilkinson-sword-premium-classic-razor-5-blades-779243.jpg?v=1723969897",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Wilkinson Sword Shaving Soap Bowl 125g",
-        "category": "Shaving Cream, Gels & Soaps > Wilkinson Sword",
-        "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Experience the classic shaving tradition with the Wilkinson Sword Shaving Soap Bowl. This hard shaving soap combines with hot water to create a rich, luxurious lather for a smooth and comfortable shave. It softens facial hair, lifts it from the skin, and reduces irritation, leaving you with a flawless shaving experience. Packed with moisturizing agents, it hydrates tired skin and provides a fresh, healthy glow. All presented in a sleek and stylish black bowl, perfect for traditional wet shaving enthusiasts. Key Features: Reduces irritation and razor drag. Hydrates and refreshes tired skin. Comes in a stylish black bowl for convenience. For related shaving cream and soap options, browse the Shaving Soap collection.",
-        "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-shaving-soap-bowl-125g",
-        "price": "£2.85",
-        "brand": "Wilkinson Sword",
-        "vendor": "Wilkinson Sword",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Classic_soap_bowl_Carousel_1800x1800_clipped_rev_1.jpg?v=1723318057",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Cream, Gels & Soaps",
-        "collections": [
-          "Wilkinson Sword",
-          "Shaving Soap",
-          "New Additions",
-          "Shaving Essentials",
-          "Shaving Preparations"
-        ],
-        "variants": [
-          {
-            "id": "48263283573001",
-            "sku": "W302238801",
-            "gtin": "4027800020553",
-            "mpn": null,
-            "title": "Wilkinson Sword Shaving Soap Bowl 125g",
-            "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-shaving-soap-bowl-125g",
-            "price": "2.85 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Classic_soap_bowl_Carousel_1800x1800_clipped_rev_1.jpg?v=1723318057",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Wilkinson Sword The Heritage Collection Gift Set",
-        "category": "Wilkinson Sword",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "Experience the art of traditional shaving with the Wilkinson Sword Heritage Collection Gift Set, a timeless set crafted for a luxurious grooming experience. This premium chromed double-edged razor features a butterfly opening and locking mechanism for effortless blade changes, while the 100% stainless steel blades ensure a close, precise shave. The set also includes a classic shaving brush and a shaving soap bowl, delivering a rich lather that softens facial hair and moisturises the skin for a smooth, refreshing shave. Designed for those who appreciate tradition and quality, this set is perfect for both new and experienced wet shavers. Gift Set Includes: One premium Edger Razor with butterfly mechanism. Five stainless steel blade refills. One classic shaving brush. One shaving soap bowl. How to Use:Load the blade into the razor using the butterfly mechanism. Work the shaving soap into a rich lather using the brush, apply to your face, and shave with the razor for a smooth finish. Rinse thoroughly after use. Key Features: Premium Razor: Chromed double-edged razor with butterfly mechanism for precision and convenience. Rich Lather: Shaving soap bowl provides a luxurious lather for smooth shaving. Complete Set: Includes razor, blade refills, brush, and soap bowl – all essentials for a traditional shave. Durable Materials: Stainless steel blades and high-quality components ensure long-lasting performance. Specifications: Razor Material: Chromed finish with butterfly opening. Blade Type: Double-edged, stainless steel. Packaging: Gift-ready box.",
-        "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-heritage-collection-gift-set",
-        "price": "£28.50",
-        "brand": "Wilkinson Sword",
-        "vendor": "Wilkinson Sword",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/wilkinson-sword-the-heritage-collection-gift-set-317864.jpg?v=1723969909",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": null,
-        "collections": [
-          "Wilkinson Sword",
-          "Shaving Sets",
-          "New Additions",
-          "Gift Sets"
-        ],
-        "variants": [
-          {
-            "id": "48263283671305",
-            "sku": "W302261100",
-            "gtin": "4027800226108",
-            "mpn": null,
-            "title": "Wilkinson Sword The Heritage Collection Gift Set",
-            "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-heritage-collection-gift-set",
-            "price": "28.50 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/wilkinson-sword-the-heritage-collection-gift-set-317864.jpg?v=1723969909",
             "options": {}
           }
         ]
