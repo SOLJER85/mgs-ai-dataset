@@ -3,7 +3,7 @@
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
     "last_updated": "2026-05-19",
-    "generated_at": "2026-05-19T06:09:37+00:00",
+    "generated_at": "2026-05-19T10:43:08+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -965,7 +965,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_shampoo_beauty_awards_clipped_rev_1.jpg?v=1751363980",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -986,7 +986,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-beerd-shampoo-250ml",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_shampoo_beauty_awards_clipped_rev_1.jpg?v=1751363980",
             "options": {}
           }
@@ -2662,7 +2662,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Triumphant_BeardBalm-4_large_c9e24c24-04ff-4d56-921b-00b4c6c52ac6.jpg?v=1751818754",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -2682,7 +2682,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-triumphant-beard-balm-60ml",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Triumphant_BeardBalm-4_large_c9e24c24-04ff-4d56-921b-00b4c6c52ac6.jpg?v=1751818754",
             "options": {}
           }
@@ -6898,7 +6898,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-talcum-powder-usb-JPEG-1.jpg?v=1752743462",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6919,7 +6919,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-talcum-powder",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-talcum-powder-usb-JPEG-1.jpg?v=1752743462",
             "options": {}
           }
@@ -7292,7 +7292,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crystal-eye-gel-JPEG.jpg?v=1756552007",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7313,7 +7313,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-crystal-eye-gel-30ml",
             "price": "20.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crystal-eye-gel-JPEG.jpg?v=1756552007",
             "options": {}
           }
@@ -11433,7 +11433,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-eau-de-toilette?variant=55897926172937",
             "price": "47.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-cologne-spray-JPEG_clipped_rev_1.jpg?v=1757182890",
             "options": {
               "Volume": "50ml Refillable Spray"
@@ -21224,7 +21224,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21245,7 +21245,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-super-platinum-razor-blades?variant=48841624617225",
             "price": "6.45 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
             "options": {
               "Quantity": "Pack of 10"
