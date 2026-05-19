@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-18",
-    "generated_at": "2026-05-18T06:16:19+00:00",
+    "last_updated": "2026-05-19",
+    "generated_at": "2026-05-19T06:09:37+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -403,7 +403,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143535_clipped_rev_1.png?v=1748897385",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -425,7 +425,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-sandalwood-shave-cream",
             "price": "14.40 GBP",
             "sale_price": "10.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143535_clipped_rev_1.png?v=1748897385",
             "options": {}
           }
@@ -7167,7 +7167,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-coconut-oil-conditioner?variant=56839265059081",
             "price": "43.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/coconut-conditioner-100ml-usb-JPEG.jpg?v=1757171456",
             "options": {
               "Volume": "600ml"
@@ -7236,7 +7236,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-coconut-oil-shampoo?variant=56839265091849",
             "price": "43.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/coconut-shampoo-100ml-usb-JPEG.jpg?v=1757191584",
             "options": {
               "Volume": "600ml"
@@ -7708,7 +7708,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-english-flannel-eau-de-portugal-cologne?variant=56839264370953",
             "price": "2.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/English-Flannel-100mlJPEG_707a5ef8-5bfa-47b4-a262-9f9aa9b495c4_clipped_rev_1.jpg?v=1757179564",
             "options": {
               "Volume": "2ml Spray"
@@ -8539,7 +8539,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lemon-conditioner?variant=56839264993545",
             "price": "43.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lemon-conditioner-100ml-usb-JPEG.jpg?v=1757179313",
             "options": {
               "Volume": "600ml"
@@ -8608,7 +8608,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-lemon-shampoo?variant=56839265026313",
             "price": "43.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lemon-shampoo-100ml-usb-JPEG_clipped_rev_1.jpg?v=1757168502",
             "options": {
               "Volume": "600ml"
@@ -15289,7 +15289,7 @@
         "brand": "Floris London",
         "vendor": "Floris London",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-bath-and-shower-gel-250ml-front.jpg?v=1752606059",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -15310,7 +15310,7 @@
             "url": "https://www.malegroomingsupplies.com/products/floris-no89-moisturising-bath-shower-gel-250ml",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-bath-and-shower-gel-250ml-front.jpg?v=1752606059",
             "options": {}
           }
@@ -15516,7 +15516,7 @@
         "brand": "Floris London",
         "vendor": "Floris London",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-violet-mouthwash-100ml-front.jpg?v=1752602884",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -15538,7 +15538,7 @@
             "url": "https://www.malegroomingsupplies.com/products/floris-violet-concentrated-mouthwash-100ml",
             "price": "45.00 GBP",
             "sale_price": "29.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-violet-mouthwash-100ml-front.jpg?v=1752602884",
             "options": {}
           }
@@ -16366,7 +16366,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/giesen-forsthoff-straight-razor-case-520826.jpg?v=1729090779",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16388,7 +16388,7 @@
             "url": "https://www.malegroomingsupplies.com/products/giesen-forsthoff-black-leather-straight-razor-case",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/giesen-forsthoff-straight-razor-case-520826.jpg?v=1729090779",
             "options": {}
           }
@@ -17416,7 +17416,7 @@
         "brand": "Martin De Candre",
         "vendor": "Martin De Candre",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Absinthe_200_clipped_rev_1.jpg?v=1766858539",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17438,7 +17438,7 @@
             "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-absinthe-shaving-soap?variant=56700306260233",
             "price": "48.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Absinthe_200_clipped_rev_1.jpg?v=1766858539",
             "options": {
               "Size": "200g"
@@ -17523,7 +17523,7 @@
             "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-agrumes-shaving-soap?variant=56700306096393",
             "price": "34.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Citrus_50_clipped_rev_1.jpg?v=1766858528",
             "options": {
               "Size": "50g Travel Size"
@@ -17626,7 +17626,7 @@
         "brand": "Martin De Candre",
         "vendor": "Martin De Candre",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Magellan_200_clipped_rev_1.jpg?v=1766858535",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17648,7 +17648,7 @@
             "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-magellan-shaving-soap?variant=56700306161929",
             "price": "48.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Magellan_200_clipped_rev_1.jpg?v=1766858535",
             "options": {
               "Size": "200g"
@@ -17803,7 +17803,7 @@
             "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-original-shaving-soap?variant=56700305703177",
             "price": "34.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Original_50g_clipped_rev_1.jpg?v=1766858529",
             "options": {
               "Size": "50g"
@@ -23293,7 +23293,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-styling-texture-clay?variant=55572086522121",
             "price": "10.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Texture-Clay-120ml-dropbox-1-e1549903597873_clipped_rev_1.jpg?v=1748634248",
             "options": {
               "Size": "120ml Jar"
@@ -23432,7 +23432,7 @@
         ]
       },
       {
-        "name": "Muhle Blade Guard for Safety Razors",
+        "name": "Muhle Blade Guard for Muhle Safety Razors",
         "category": "Shaving Accessories & Cases > MUHLE Shaving",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Muhle Blade Guard is a simple, practical accessory designed to protect your safety razor during storage or travel. Made from durable plastic, it fits securely over the razor head, helping to prevent accidental cuts while also protecting the blade edge when the razor is not in use. Compatible with all Muhle double edge safety razors, including both open comb and closed comb models, the blade guard is lightweight and easy to fit or remove. It is particularly useful for travel, drawer storage, or keeping your razor protected between shaves. For related razor case options, browse the MUHLE Shaving collection. Key Features: Protects the razor blade to help prevent accidental cuts. Suitable for storage and travel, keeping the razor safely covered. Compatible with all Muhle double edge safety razors, open and closed comb. Durable plastic construction with lightweight design. Specifications: Material: Plastic Compatibility: Muhle double edge safety razors (open and closed comb)",
@@ -23459,7 +23459,7 @@
             "sku": "KSR",
             "gtin": "4028982008483",
             "mpn": null,
-            "title": "Muhle Blade Guard for Safety Razors",
+            "title": "Muhle Blade Guard for Muhle Safety Razors",
             "url": "https://www.malegroomingsupplies.com/products/muhle-blade-guard-for-safety-razors",
             "price": "4.95 GBP",
             "sale_price": "3.50 GBP",
@@ -28559,7 +28559,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bladebanksq_main__86813.1759529933.jpg?v=1768042505",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28581,7 +28581,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-double-edge-blade-disposal-bank",
             "price": "6.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bladebanksq_main__86813.1759529933.jpg?v=1768042505",
             "options": {}
           }
@@ -28597,7 +28597,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-double-sided-rosewood-beard-comb-male-grooming-supplies-980979.jpg?v=1722956714",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28617,7 +28617,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-double-sided-rosewood-beard-comb",
             "price": "14.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-double-sided-rosewood-beard-comb-male-grooming-supplies-980979.jpg?v=1722956714",
             "options": {}
           }
@@ -38819,7 +38819,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -38841,7 +38841,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257758985",
             "price": "9.55 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "50ml"
@@ -38871,7 +38871,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257922825",
             "price": "20.65 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "150ml"
@@ -39039,7 +39039,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/411_801_TO_Deo_Stick_75_ml_clipped_rev_1.jpg?v=1734440091",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -39060,7 +39060,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-deodorant-stick-75g",
             "price": "5.65 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/411_801_TO_Deo_Stick_75_ml_clipped_rev_1.jpg?v=1734440091",
             "options": {}
           }
@@ -39076,7 +39076,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -39098,7 +39098,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-cologne?variant=48849258348809",
             "price": "14.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
             "options": {
               "Size": "100ml"
@@ -39131,7 +39131,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -39153,7 +39153,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-toilette?variant=48849258610953",
             "price": "11.25 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
             "options": {
               "Size": "50ml"
@@ -39186,7 +39186,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -39208,7 +39208,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-125g",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
             "options": {}
           }
@@ -41209,7 +41209,7 @@
         "name": "The Scottish Fine Soaps Men’s Grooming Bath & Muscle Soak 500g",
         "category": "Bath Soap and Shower Gels > The Scottish Fine Soaps Company",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Relax and rejuvenate with this milk thistle-enriched mineral bath soak. Made with magnesium-rich Epsom salts, it helps relieve sore, tired muscles and encourages full-body relaxation. Perfect for easing tension and supporting restful sleep, this muscle soak is a must-have for self-care. Product Features: Relieves Tired Muscles: Magnesium-rich Epsom salts help ease overworked and aching muscles. Paraben-Free & Cruelty-Free: Made without parabens or microbeads and never tested on animals. Supports Sleep & Recovery: Promotes muscle healing and restful sleep. Enriched with Milk Thistle: Features purifying milk thistle extract for added benefits. Signature Fragrance: Infused with Thistle & Black Pepper, a rich woody amber scent with notes of citrus, herbs, and sea buckthorn. Pair it with The Scottish Fine Soaps Company Sea Kelp Moisturiser 300ml and The Scottish Fine Soaps Sea Kelp Body Essentials Hydrating Duo.",
+        "description": "Relax and rejuvenate with this milk thistle-enriched mineral bath soak. Made with magnesium-rich Epsom salts, it helps relieve sore, tired muscles and encourages full-body relaxation. Perfect for easing tension and supporting restful sleep, this muscle soak is a must-have for self-care. Product Features: Relieves Tired Muscles: Magnesium-rich Epsom salts help ease overworked and aching muscles. Paraben-Free & Cruelty-Free: Made without parabens or microbeads and never tested on animals. Supports Sleep & Recovery: Promotes muscle healing and restful sleep. Enriched with Milk Thistle: Features purifying milk thistle extract for added benefits. Signature Fragrance: Infused with Thistle & Black Pepper, a rich woody amber scent with notes of citrus, herbs, and sea buckthorn. Pair it with The Scottish Fine Soaps Thistle & Black Pepper Shave Gel 100ml to keep the same Thistle & Black Pepper fragrance across bath and shaving.",
         "url": "https://www.malegroomingsupplies.com/products/scottish-fine-soaps-bath-muscle-soak-500g",
         "price": "£11.95",
         "brand": "The Scottish Fine Soaps Company",
@@ -41392,7 +41392,7 @@
         "name": "The Scottish Fine Soaps Thistle & Black Pepper Shave Gel 100ml",
         "category": "Pre-Shave > Pre-Shave",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Achieve a smooth, irritation-free shave with The Scottish Fine Soaps Company Thistle & Black Pepper Shave Gel. Enriched with soothing milk thistle extract and infused with the sophisticated Thistle & Black Pepper fragrance, this nutrient-rich gel is designed to protect your skin from shaving irritations while leaving it refreshed and nourished. The quick-lathering formula glides effortlessly onto the skin, ensuring a close and comfortable shave. The signature scent features a rich, woody amber fragrance with invigorating notes of citrus, herbs, and sea buckthorn, adding a refined touch to your grooming routine. Perfect for everyday use, this shave gel is dermatologically tested and suitable for all skin types. How to Use:Massage a small amount of gel onto wet skin before shaving, paying special attention to sensitive areas. Shave as usual, rinse thoroughly, and pat skin dry. For best results, use after a warm bath or shower. Key Features: Nutrient-Rich Formula: Enriched with milk thistle extract to soothe and protect the skin. Quick-Lathering Gel: Ensures a smooth and comfortable shaving experience. Sophisticated Scent: Features the Thistle & Black Pepper fragrance with woody, citrus, and herbal notes. Dermatologically Tested: Gentle on the skin, suitable for daily use. Specifications: Size: 100ml Packaging: Compact tube for easy application. Scent Profile: Woody amber with hints of citrus and herbs.",
+        "description": "Achieve a smooth, irritation-free shave with The Scottish Fine Soaps Company Thistle & Black Pepper Shave Gel. Enriched with soothing milk thistle extract and infused with the sophisticated Thistle & Black Pepper fragrance, this nutrient-rich gel is designed to protect your skin from shaving irritations while leaving it refreshed and nourished. The quick-lathering formula glides effortlessly onto the skin, ensuring a close and comfortable shave. The signature scent features a rich, woody amber fragrance with invigorating notes of citrus, herbs, and sea buckthorn, adding a refined touch to your grooming routine. Perfect for everyday use, this shave gel is dermatologically tested and suitable for all skin types. How to Use:Massage a small amount of gel onto wet skin before shaving, paying special attention to sensitive areas. Shave as usual, rinse thoroughly, and pat skin dry. For best results, use after a warm bath or shower. For the same Thistle & Black Pepper scent, pair it with The Scottish Fine Soaps Men's Grooming Bath & Muscle Soak 500g. Key Features: Nutrient-Rich Formula: Enriched with milk thistle extract to soothe and protect the skin. Quick-Lathering Gel: Ensures a smooth and comfortable shaving experience. Sophisticated Scent: Features the Thistle & Black Pepper fragrance with woody, citrus, and herbal notes. Dermatologically Tested: Gentle on the skin, suitable for daily use. Specifications: Size: 100ml Packaging: Compact tube for easy application. Scent Profile: Woody amber with hints of citrus and herbs.",
         "url": "https://www.malegroomingsupplies.com/products/scottish-fine-soaps-thistle-black-pepper-shave-gel-100ml",
         "price": "£11.95",
         "brand": "The Scottish Fine Soaps Company",
