@@ -5,20 +5,20 @@
     "Health & Beauty > Personal Care > Bath & Body": 62,
     "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne": 111,
     "Health & Beauty > Personal Care > Cosmetics > Skin Care": 28,
-    "Health & Beauty > Personal Care > Hair Care": 311,
-    "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care": 99,
+    "Health & Beauty > Personal Care > Hair Care": 310,
+    "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care": 92,
     "Health & Beauty > Personal Care > Hair Care > Hair Color": 4,
     "Health & Beauty > Personal Care > Oral Care": 31,
     "Health & Beauty > Personal Care > Shaving & Grooming": 294,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 305
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 306
   },
   "currency": "GBP",
-  "generated_at": "2026-05-19T14:37:55+00:00",
+  "generated_at": "2026-05-20T06:10:00+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1006,
+  "included_products": 1000,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 369,
+  "skipped_products": 376,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15367113998601",
@@ -142,15 +142,15 @@
     }
   ],
   "social_catalog_feed": "social-catalog-feed.csv",
-  "source_products": 1375,
+  "source_products": 1376,
   "validation": {
     "availability_counts": {
-      "in_stock": 902,
-      "out_of_stock": 360
+      "in_stock": 894,
+      "out_of_stock": 361
     },
     "checkout_eligibility_counts": {
-      "false": 360,
-      "true": 902
+      "false": 361,
+      "true": 894
     },
     "duplicate_item_id_count": 0,
     "invalid_gtin_rows": 0,
@@ -173,8 +173,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1262,
-    "rows_with_gtin": 1191,
+    "row_count": 1255,
+    "rows_with_gtin": 1183,
     "rows_with_mpn": 0,
     "target_country_count": 1
   }

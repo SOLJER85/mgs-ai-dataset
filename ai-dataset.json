@@ -2,16 +2,16 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-19",
-    "generated_at": "2026-05-19T14:37:55+00:00",
+    "last_updated": "2026-05-20",
+    "generated_at": "2026-05-20T06:10:00+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [
       "GB"
     ],
-    "product_count": 1006,
-    "variant_count": 1262,
+    "product_count": 1000,
+    "variant_count": 1255,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -593,7 +593,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -756,7 +757,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -792,7 +794,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -828,7 +831,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -864,7 +868,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -937,7 +942,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -974,7 +980,8 @@
           "New Additions",
           "Beard & Moustache Care",
           "Captain Fawcett",
-          "Shampoo & Conditioner"
+          "Shampoo & Conditioner",
+          "Beard Wash & Shampoo"
         ],
         "variants": [
           {
@@ -1161,7 +1168,10 @@
           "Gift Sets",
           "Captain Fawcett",
           "Fragrances",
-          "Men's Eau de Parfum"
+          "Men's Eau de Parfum",
+          "Beard Oils",
+          "Moustache Waxes",
+          "Beard Grooming Gift Sets"
         ],
         "variants": [
           {
@@ -1226,7 +1236,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CFSeaSaltScrub-2706.jpg?v=1751363988",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1246,7 +1256,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-exfoliating-scrub-moisturiser-set",
             "price": "62.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CFSeaSaltScrub-2706.jpg?v=1751363988",
             "options": {}
           }
@@ -1270,7 +1280,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -1308,7 +1319,8 @@
           "Beard & Moustache Care",
           "Hair & Body",
           "Captain Fawcett",
-          "Hair Brushes & Combs"
+          "Hair Brushes & Combs",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -1346,7 +1358,8 @@
           "Beard & Moustache Care",
           "Hair & Body",
           "Captain Fawcett",
-          "Hair Brushes & Combs"
+          "Hair Brushes & Combs",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -1418,7 +1431,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -1454,7 +1468,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -1566,7 +1581,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -1602,7 +1618,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -1693,7 +1710,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -1730,7 +1748,9 @@
           "New Additions",
           "Beard & Moustache Care",
           "Gift Sets",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Moustache Waxes",
+          "Beard Grooming Gift Sets"
         ],
         "variants": [
           {
@@ -1898,7 +1918,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -2008,7 +2029,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -2044,7 +2066,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -2080,7 +2103,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -2116,7 +2140,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -2188,7 +2213,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -2224,7 +2250,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -2260,7 +2287,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -2296,7 +2324,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -2596,7 +2625,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -2670,7 +2700,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -2761,7 +2792,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Captain Fawcett"
+          "Captain Fawcett",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -2800,7 +2832,8 @@
           "Beard & Moustache Care",
           "Hair & Body",
           "Captain Fawcett",
-          "Hair Brushes & Combs"
+          "Hair Brushes & Combs",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -3362,7 +3395,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes1_clipped_rev_1.jpg?v=1747948924",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3384,7 +3417,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lime-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes1_clipped_rev_1.jpg?v=1747948924",
             "options": {}
           }
@@ -3673,7 +3706,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Cella Milano"
+          "Cella Milano",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -3709,7 +3743,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Cella Milano"
+          "Cella Milano",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -3745,7 +3780,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Cella Milano"
+          "Cella Milano",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -3781,7 +3817,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Cella Milano"
+          "Cella Milano",
+          "Beard Skincare & Moisturisers"
         ],
         "variants": [
           {
@@ -3818,7 +3855,8 @@
           "New Additions",
           "Beard & Moustache Care",
           "Cella Milano",
-          "Shampoo & Conditioner"
+          "Shampoo & Conditioner",
+          "Beard Wash & Shampoo"
         ],
         "variants": [
           {
@@ -3855,7 +3893,9 @@
           "New Additions",
           "Beard & Moustache Care",
           "Gift Sets",
-          "Cella Milano"
+          "Cella Milano",
+          "Beard Skincare & Moisturisers",
+          "Beard Grooming Gift Sets"
         ],
         "variants": [
           {
@@ -3892,7 +3932,8 @@
           "New Additions",
           "Beard & Moustache Care",
           "Gift Sets",
-          "Cella Milano"
+          "Cella Milano",
+          "Beard Grooming Gift Sets"
         ],
         "variants": [
           {
@@ -4461,7 +4502,8 @@
         "collections": [
           "Colonel Conk",
           "New Additions",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -4497,7 +4539,8 @@
         "collections": [
           "Colonel Conk",
           "New Additions",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -4533,7 +4576,8 @@
         "collections": [
           "Colonel Conk",
           "New Additions",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -4569,7 +4613,8 @@
         "collections": [
           "Colonel Conk",
           "New Additions",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -4605,7 +4650,8 @@
         "collections": [
           "Colonel Conk",
           "New Additions",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -6290,7 +6336,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-cologne?variant=55897925419273",
             "price": "63.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-cologne-100ml-USB-800_clipped_rev_1.jpg?v=1757188281",
             "options": {
               "Volume": "100ml"
@@ -6822,7 +6868,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-soap-on-rope-usb-JPEG_clipped_rev_1.jpg?v=1757161536",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6844,7 +6890,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-soap-on-a-rope",
             "price": "21.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-soap-on-rope-usb-JPEG_clipped_rev_1.jpg?v=1757161536",
             "options": {}
           }
@@ -7052,7 +7098,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "D.R. Harris"
+          "D.R. Harris",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -7602,7 +7649,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_clipped_rev_1.jpg?v=1757161475",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7623,7 +7670,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-eau-de-portugal-hair-lotion-without-oil?variant=55897938657545",
             "price": "24.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_clipped_rev_1.jpg?v=1757161475",
             "options": {
               "Volume": "100ml"
@@ -8312,7 +8359,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-bowl-refill-JPEG.jpg?v=1757190727",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8334,7 +8381,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-soap-refill",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-bowl-refill-JPEG.jpg?v=1757190727",
             "options": {}
           }
@@ -8593,7 +8640,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-lemon-shampoo?variant=55897931251977",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lemon-shampoo-250ml-JPEG_clipped_rev_1.jpg?v=1757168502",
             "options": {
               "Volume": "250ml"
@@ -8716,7 +8763,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1790-Lip_Balm_Tube_15ml_JPEG_clipped_rev_1.jpg?v=1757179668",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8737,7 +8784,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lip-balm-tube-15g",
             "price": "8.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1790-Lip_Balm_Tube_15ml_JPEG_clipped_rev_1.jpg?v=1757179668",
             "options": {}
           }
@@ -12042,6 +12089,43 @@
         ]
       },
       {
+        "name": "Derby Professional Single Edge Blades Pack of 100",
+        "category": "Blades > Razor Blades",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "Derby Professional Single Edge Blades Pack of 100 is designed for use with barber razors and shavettes that take half double edge style blades. Each blade is individually wrapped in wax paper for safe handling, storage and hygiene. These single edge blades are made for professional shaving use, offering a practical choice for barbers, wet shavers and grooming professionals who require a reliable supply of fresh blades. The blades feature chromium, ceramic, platinum, tungsten and polymer coated edges, helping to provide smooth cutting performance and consistent sharpness. Supplied in a pack of 100 blades, they are ideal for regular use in barber razors where a fresh blade is needed for each shave. Key Features: Pack Of 100 Blades: Practical bulk pack for regular shaving or barbershop use. Single Edge Format: Designed for compatible barber razors and shavettes. Individually Wrapped: Each blade is wrapped in wax paper for hygiene and safe storage. Coated Edges: Chromium, ceramic, platinum, tungsten and polymer coated. Professional Use: Suitable for barbers and traditional shaving routines. Fresh Blade Convenience: Ideal where a clean, sharp blade is required for each shave. Specifications: Product Type: Single edge razor blades Pack Size: 100 blades Blade Type: Single edge blade for barber razors Wrapping: Individually wrapped in wax paper Coating: Chromium, ceramic, platinum, tungsten and polymer coated edges Suitable For: Compatible barber razors and shavettes Use: Insert into a compatible razor according to the razor manufacturer’s instructions Note: Handle blades carefully and dispose of used blades safely",
+        "url": "https://www.malegroomingsupplies.com/products/derby-professional-single-edge-blades-pack-of-100",
+        "price": "£5.95",
+        "brand": "Derby",
+        "vendor": "Derby",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bfc129d5-2ab4-4476-bf83-ddb06764e134_clipped_rev_1.jpg?v=1779219518",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Blades",
+        "collections": [
+          "Razor Blades",
+          "New Additions",
+          "Shaving Essentials",
+          "Derby"
+        ],
+        "variants": [
+          {
+            "id": "57070736081161",
+            "sku": "DEPRO100",
+            "gtin": null,
+            "mpn": null,
+            "title": "Derby Professional Single Edge Blades Pack of 100",
+            "url": "https://www.malegroomingsupplies.com/products/derby-professional-single-edge-blades-pack-of-100",
+            "price": "5.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bfc129d5-2ab4-4476-bf83-ddb06764e134_clipped_rev_1.jpg?v=1779219518",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Dior Sauvage Eau de Parfum 100ml",
         "category": "Eau de Parfum > Fragrances",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne",
@@ -12553,7 +12637,8 @@
           "New Additions",
           "Beard & Moustache Care",
           "Hair & Body",
-          "Hair Brushes & Combs"
+          "Hair Brushes & Combs",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -16589,7 +16674,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-jet-black?variant=45376843022601",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-jet-black-male-grooming-supplies-255999.jpg?v=1722956619",
             "options": {
               "Blade Gap & Exposure": "Medium Aggression"
@@ -17388,7 +17473,8 @@
         "product_type": "Beard and Moustache",
         "collections": [
           "LEA Classic",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Beard Skincare & Moisturisers"
         ],
         "variants": [
           {
@@ -18635,7 +18721,8 @@
           "Hair & Body",
           "Marvis",
           "Dental Care",
-          "Toothpaste & Toothpaste Sets"
+          "Toothpaste & Toothpaste Sets",
+          "Teeth Whitening Toothpaste"
         ],
         "variants": [
           {
@@ -18673,7 +18760,8 @@
           "Hair & Body",
           "Marvis",
           "Dental Care",
-          "Toothpaste & Toothpaste Sets"
+          "Toothpaste & Toothpaste Sets",
+          "Teeth Whitening Toothpaste"
         ],
         "variants": [
           {
@@ -18825,7 +18913,8 @@
           "Hair & Body",
           "Marvis",
           "Dental Care",
-          "Toothpaste & Toothpaste Sets"
+          "Toothpaste & Toothpaste Sets",
+          "Teeth Whitening Toothpaste"
         ],
         "variants": [
           {
@@ -18863,7 +18952,8 @@
           "Hair & Body",
           "Marvis",
           "Dental Care",
-          "Toothpaste & Toothpaste Sets"
+          "Toothpaste & Toothpaste Sets",
+          "Teeth Whitening Toothpaste"
         ],
         "variants": [
           {
@@ -20527,7 +20617,8 @@
           "Razor Blades",
           "New Additions",
           "Beard & Moustache Care",
-          "Shaving Essentials"
+          "Shaving Essentials",
+          "Moustache Razors & Blades"
         ],
         "variants": [
           {
@@ -20582,7 +20673,8 @@
           "All Razors",
           "New Additions",
           "Beard & Moustache Care",
-          "Shaving Essentials"
+          "Shaving Essentials",
+          "Moustache Razors & Blades"
         ],
         "variants": [
           {
@@ -21071,7 +21163,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4007001_701001_front_x_clipped_rev_1.jpg?v=1734214058",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21093,7 +21185,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-razor-stand-4007-bright-chrome",
             "price": "29.15 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4007001_701001_front_x_clipped_rev_1.jpg?v=1734214058",
             "options": {}
           }
@@ -21453,7 +21545,8 @@
           "Beard & Moustache Care",
           "Hair & Body",
           "Morgan's",
-          "Hair Brushes & Combs"
+          "Hair Brushes & Combs",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -21507,7 +21600,8 @@
           "New Additions",
           "Beard & Moustache Care",
           "Morgan's",
-          "Gift Sets"
+          "Gift Sets",
+          "Beard Grooming Gift Sets"
         ],
         "variants": [
           {
@@ -21828,7 +21922,8 @@
           "Morgan's",
           "Hair Styling Products",
           "Men's Hair Creams & Waxes",
-          "Hair Darkening Products"
+          "Hair Darkening Products",
+          "Beard Colour & Darkening"
         ],
         "variants": [
           {
@@ -22609,7 +22704,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Morgan's"
+          "Morgan's",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -22645,7 +22741,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Morgan's"
+          "Morgan's",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -22681,7 +22778,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Morgan's"
+          "Morgan's",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -22847,7 +22945,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Morgan's"
+          "Morgan's",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -22883,7 +22982,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Morgan's"
+          "Morgan's",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -22989,7 +23089,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Morgan's"
+          "Morgan's",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -25967,7 +26068,8 @@
         "collections": [
           "Osma",
           "New Additions",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -26004,7 +26106,8 @@
           "Osma",
           "New Additions",
           "Beard & Moustache Care",
-          "Shampoo & Conditioner"
+          "Shampoo & Conditioner",
+          "Beard Wash & Shampoo"
         ],
         "variants": [
           {
@@ -28605,7 +28708,8 @@
         "collections": [
           "Parker Shaving",
           "New Additions",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -29305,7 +29409,8 @@
           "New Additions",
           "Beard & Moustache Care",
           "Hair & Body",
-          "Hair Brushes & Combs"
+          "Hair Brushes & Combs",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -29960,7 +30065,8 @@
         "collections": [
           "Parker Shaving",
           "New Additions",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Beard Brushes & Combs"
         ],
         "variants": [
           {
@@ -31070,7 +31176,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -31106,7 +31213,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -31142,7 +31250,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Wash & Shampoo"
         ],
         "variants": [
           {
@@ -31216,7 +31325,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Skincare & Moisturisers"
         ],
         "variants": [
           {
@@ -31366,7 +31476,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -31402,7 +31513,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -31438,7 +31550,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Wash & Shampoo"
         ],
         "variants": [
           {
@@ -31814,7 +31927,8 @@
           "New Additions",
           "Beard & Moustache Care",
           "Gift Sets",
-          "Proraso"
+          "Proraso",
+          "Beard Grooming Gift Sets"
         ],
         "variants": [
           {
@@ -31888,7 +32002,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -31924,7 +32039,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -31960,7 +32076,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Wash & Shampoo"
         ],
         "variants": [
           {
@@ -32716,7 +32833,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Balms"
         ],
         "variants": [
           {
@@ -32752,7 +32870,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Oils"
         ],
         "variants": [
           {
@@ -32788,7 +32907,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Beard Wash & Shampoo"
         ],
         "variants": [
           {
@@ -32862,7 +32982,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Proraso"
+          "Proraso",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -39518,43 +39639,6 @@
         ]
       },
       {
-        "name": "Taylor of Old Bond Street Jermyn Street Bath Soap 200g",
-        "category": "Bath Soap and Shower Gels > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Taylor of Old Bond Street Jermyn Street Bath Soap is a triple-milled, vegetable-based bar crafted specifically for sensitive skin. This luxury soap gently cleanses and purifies while helping to protect the skin from dryness, making it ideal for daily use. Infused with the fresh and modern Jermyn Street fragrance, this soap nourishes and revitalises the skin, offering a smooth lather that leaves you feeling refreshed, clean, and lightly fragranced. Key Features: Triple-milled for a rich, long-lasting lather Formulated for sensitive skin Vegetable-based and free from harsh irritants Cleanses, purifies, and nourishes Infused with the fresh Jermyn Street fragrance Made in the UK Specifications: Product Type: Bath Soap Collection: Jermyn Street Weight: 200g Skin Type: Sensitive Formulation: Triple-milled, vegetable-based Made in: England For related bath and body options, browse the Hair & Body collection.",
-        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-jermyn-street-bath-soap-200g",
-        "price": "£7.95",
-        "brand": "Taylor of Old Bond Street",
-        "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07126-Hand-Soap-Jermyn-Street-Collection-800-x-800px.jpg?v=1743348800",
-        "availability": "in_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Bath Soap and Shower Gels",
-        "collections": [
-          "New Additions",
-          "Hair & Body",
-          "Taylor of Old Bond Street",
-          "Bath, Body & Hand Care"
-        ],
-        "variants": [
-          {
-            "id": "55089827184905",
-            "sku": "07126",
-            "gtin": "696770071090",
-            "mpn": null,
-            "title": "Taylor of Old Bond Street Jermyn Street Bath Soap 200g",
-            "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-jermyn-street-bath-soap-200g",
-            "price": "7.95 GBP",
-            "sale_price": null,
-            "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07126-Hand-Soap-Jermyn-Street-Collection-800-x-800px.jpg?v=1743348800",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Taylor of Old Bond Street Jermyn Street Collection Aftershave Cream 75ml",
         "category": "Post Shave > Shaving Creams",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
@@ -39687,7 +39771,8 @@
           "New Additions",
           "Beard & Moustache Care",
           "Taylor of Old Bond Street",
-          "Shampoo & Conditioner"
+          "Shampoo & Conditioner",
+          "Beard Wash & Shampoo"
         ],
         "variants": [
           {
@@ -39723,7 +39808,8 @@
         "collections": [
           "New Additions",
           "Beard & Moustache Care",
-          "Taylor of Old Bond Street"
+          "Taylor of Old Bond Street",
+          "Moustache Waxes"
         ],
         "variants": [
           {
@@ -40464,41 +40550,6 @@
         ]
       },
       {
-        "name": "The Bluebeard's Revenge Neocape Barber Gown",
-        "category": "Barber Supplies > The Bluebeards Revenge",
-        "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
-        "description": "Deliver a premium client experience with The Bluebeard's Revenge Neocape Barber Gown, crafted in collaboration with the barbering experts at Neocape. This custom blue barber gown combines style and practicality, ensuring your clients stay comfortable and protected during haircuts or grooming sessions. Key Features: Neoprene Collar: Designed to prevent cut hair and liquids from irritating the client’s neck or damaging their clothes. Water-Resistant Teflon Coating: A durable layer that repels water and liquids for added protection and ease of use. Adjustable Fit: Six adjustable poppers on the collar ensure the gown fits a variety of neck sizes comfortably. Distinctive Design: Features The Bluebeard's Revenge bold logo on the front, creating a standout look. Hygienic & Machine Washable: Easily remove stains and maintain cleanliness by machine washing after each use. Why Choose The Bluebeard's Revenge Neocape Barber Gown? This barber gown is more than just stylish—it’s a practical and professional addition to any barbershop. With its comfortable neoprene collar, water resistance, and durable construction, it’s built to enhance the client experience while maintaining the highest standards of hygiene. For related grooming options, browse the The Bluebeards Revenge collection.",
-        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-neocape-barber-gown",
-        "price": "£25.00",
-        "brand": "The Bluebeards Revenge",
-        "vendor": "The Bluebeards Revenge",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRNEOCAPE2.jpg?v=1735926055",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Barber Supplies",
-        "collections": [
-          "The Bluebeards Revenge",
-          "Beard & Moustache Care"
-        ],
-        "variants": [
-          {
-            "id": "48936181694729",
-            "sku": "BBRNEOCAPE",
-            "gtin": "5060032040158",
-            "mpn": null,
-            "title": "The Bluebeard's Revenge Neocape Barber Gown",
-            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-neocape-barber-gown",
-            "price": "30.00 GBP",
-            "sale_price": "25.00 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRNEOCAPE2.jpg?v=1735926055",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "The Bluebeards Revenge Classic Blend Eau De Toilette 100ml",
         "category": "Fragrances > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne",
@@ -40515,7 +40566,6 @@
         "product_type": "Fragrances",
         "collections": [
           "The Bluebeards Revenge",
-          "Beard & Moustache Care",
           "Hair & Body",
           "Fragrances",
           "Men's Eau de Toilette"
@@ -40537,43 +40587,6 @@
         ]
       },
       {
-        "name": "The Bluebeards Revenge Classic Body Wash 300ml",
-        "category": "Bath Soap and Shower Gels > The Bluebeards Revenge",
-        "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
-        "description": "Revitalize your body and mind with The Bluebeards Revenge Classic Body Wash. Designed for men, this invigorating shower gel instantly lathers to remove dirt, sweat, and oils, leaving your skin clean, refreshed, and hydrated. Infused with marula oil, it restores essential moisture to your skin for a soft yet strong complexion. Key Features: Classic Barbershop Scent: A refreshing burst of citrusy bergamot and lime, complemented by lavender, patchouli, amber, and musk for a lasting impression. Hydrating Formula: Enriched with marula oil to nourish and hydrate your skin, leaving it feeling smooth and strong. Eco-Friendly Packaging: Packaged in a 100% recycled plastic bottle that can be recycled, repurposed, or refilled to reduce waste. Vegan-Friendly: Made without animal-derived ingredients and cruelty-free for a guilt-free grooming experience. Instant Lather: Creates a rich lather for an effortless cleansing routine. Why Choose The Bluebeards Revenge Classic Body Wash? This body wash combines effective cleansing with eco-friendly packaging and a signature barbershop scent, making it the perfect addition to any man’s grooming routine. For related The Bluebeards Revenge options, compare The Bluebeards Revenge Original Body Wash 300ml, or browse the Hair & Body collection.",
-        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-body-wash-300ml",
-        "price": "£6.95",
-        "brand": "The Bluebeards Revenge",
-        "vendor": "The Bluebeards Revenge",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/The-Bluebeards-Revenge-Classic-Body-Wash.jpg?v=1735926055",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Bath Soap and Shower Gels",
-        "collections": [
-          "The Bluebeards Revenge",
-          "Beard & Moustache Care",
-          "Hair & Body",
-          "Bath, Body & Hand Care"
-        ],
-        "variants": [
-          {
-            "id": "48936182153481",
-            "sku": "BBRBWCLASS300",
-            "gtin": "5060297003011",
-            "mpn": null,
-            "title": "The Bluebeards Revenge Classic Body Wash 300ml",
-            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-body-wash-300ml",
-            "price": "8.95 GBP",
-            "sale_price": "6.95 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/The-Bluebeards-Revenge-Classic-Body-Wash.jpg?v=1735926055",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "The Bluebeards Revenge Classic Solid Shampoo Bar 50g",
         "category": "Shampoo & Conditioner > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
@@ -40590,7 +40603,6 @@
         "product_type": "Shampoo & Conditioner",
         "collections": [
           "The Bluebeards Revenge",
-          "Beard & Moustache Care",
           "Hair & Body",
           "Shampoo & Conditioner"
         ],
@@ -40627,7 +40639,6 @@
         "product_type": "Shampoo & Conditioner",
         "collections": [
           "The Bluebeards Revenge",
-          "Beard & Moustache Care",
           "Hair & Body",
           "Shampoo & Conditioner"
         ],
@@ -40643,43 +40654,6 @@
             "sale_price": "5.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRSBCUB50_CARTON.jpg?v=1735926050",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "The Bluebeards Revenge Flannel",
-        "category": "Towels > The Bluebeards Revenge",
-        "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
-        "description": "Upgrade your grooming routine with The Bluebeards Revenge Flannel, a simple yet highly effective washcloth that every man needs in his wash bag. Made from 100% cotton, this durable flannel is designed to scrub away dirt, maximize lather, and add a touch of style to your bathroom essentials. Key Features: Soft & Durable: Made from 100% high-quality cotton, offering a soft feel and long-lasting performance. Iconic Design: Features the woven-in Bluebeards Revenge skull and crossbones logo, crafted using jacquard cotton fabric for a unique and stylish finish. Perfect Dimensions: Measures H 32cm x W 34cm, making it the ideal size for versatile use in your grooming routine. High Absorbency: With a 450 GSM (grams per square meter) weight, this flannel delivers excellent absorption and a premium feel. Maximizes Lather: Helps enhance the effectiveness of your hair and body products by creating more lather for a thorough clean. Why Choose The Bluebeards Revenge Flannel? Whether you are scrubbing away dirt or applying your favourite body wash, this high-quality cotton flannel is the perfect companion for a fresh and clean finish.",
-        "url": "https://www.malegroomingsupplies.com/products/bluebeards-revenge-flannel-cotton-washcloth",
-        "price": "£4.95",
-        "brand": "The Bluebeards Revenge",
-        "vendor": "The Bluebeards Revenge",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRFLAN-2.jpg?v=1735926052",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Towels",
-        "collections": [
-          "The Bluebeards Revenge",
-          "Beard & Moustache Care",
-          "Hair & Body",
-          "Bath, Body & Hand Care"
-        ],
-        "variants": [
-          {
-            "id": "48936180744457",
-            "sku": "BBRFLAN",
-            "gtin": "5060297001307",
-            "mpn": null,
-            "title": "The Bluebeards Revenge Flannel",
-            "url": "https://www.malegroomingsupplies.com/products/bluebeards-revenge-flannel-cotton-washcloth",
-            "price": "8.95 GBP",
-            "sale_price": "4.95 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRFLAN-2.jpg?v=1735926052",
             "options": {}
           }
         ]
@@ -40701,7 +40675,6 @@
         "product_type": "Hair Styling",
         "collections": [
           "The Bluebeards Revenge",
-          "Beard & Moustache Care",
           "Hair & Body",
           "Hair Styling Products",
           "Men's Hair Sprays & Gels"
@@ -40723,98 +40696,6 @@
         ]
       },
       {
-        "name": "The Bluebeards Revenge Liquid Wood Comb",
-        "category": "Hair Brushes & Combs > The Bluebeards Revenge",
-        "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
-        "description": "Style your beard and save the planet with The Bluebeards Revenge Liquid Wood Comb. This eco-friendly comb is crafted from liquid wood, a revolutionary biodegradable material made from wood pulp and cellulose fibres, ensuring your grooming routine remains sustainable. Designed with fine and medium teeth, it effortlessly untangles and softens even the wildest of beards and moustaches. Key Features: Eco-Friendly Material: Made from liquid wood, a biodegradable alternative to plastic created from wood pulp and cellulose fibres. Dual Teeth Design: Features fine and medium teeth to style, untangle, and soften all beard types. Durable & Sustainable: Combines strength and sustainability for long-lasting use. Compact & Versatile: Perfect for styling both beards and moustaches. Plastic-Free: Keeps your facial hair and the environment clean. Specifications: Length: Available in 13cm and 18cm sizes. Why Choose The Bluebeards Revenge Liquid Wood Comb? This beard and moustache comb is not only effective in maintaining your style but also supports a more sustainable grooming routine, making it a must-have for the eco-conscious man.",
-        "url": "https://www.malegroomingsupplies.com/products/bluebeards-revenge-liquid-wood-comb",
-        "price": "£5.45",
-        "brand": "The Bluebeards Revenge",
-        "vendor": "The Bluebeards Revenge",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRBRDCOMB.jpg?v=1735926053",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Hair Brushes & Combs",
-        "collections": [
-          "The Bluebeards Revenge",
-          "Beard & Moustache Care",
-          "Hair & Body",
-          "Hair Brushes & Combs"
-        ],
-        "variants": [
-          {
-            "id": "48936181203209",
-            "sku": "BBRBRDCOMB",
-            "gtin": "5060297002632",
-            "mpn": null,
-            "title": "The Bluebeards Revenge Liquid Wood Comb - Beard & Mo' Com 13cm",
-            "url": "https://www.malegroomingsupplies.com/products/bluebeards-revenge-liquid-wood-comb?variant=48936181203209",
-            "price": "5.45 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRBRDCOMB.jpg?v=1735926053",
-            "options": {
-              "Size": "Beard & Mo' Com 13cm"
-            }
-          },
-          {
-            "id": "48936181268745",
-            "sku": "BBRHAIRCOMB",
-            "gtin": "5060297002632",
-            "mpn": null,
-            "title": "The Bluebeards Revenge Liquid Wood Comb - Styling Comb 18cm",
-            "url": "https://www.malegroomingsupplies.com/products/bluebeards-revenge-liquid-wood-comb?variant=48936181268745",
-            "price": "6.45 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRHAIRCOMB-2.jpg?v=1735926053",
-            "options": {
-              "Size": "Styling Comb 18cm"
-            }
-          }
-        ]
-      },
-      {
-        "name": "The Bluebeards Revenge Matt Paste",
-        "category": "Hair Styling > The Bluebeards Revenge",
-        "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
-        "description": "Achieve effortlessly stylish looks with The Bluebeards Revenge Matt Paste. This versatile hair product offers a light to medium hold with a touchable texture, making it perfect for both classic and modern hairstyles. Its water-based formula is easy to apply and washes out effortlessly, leaving no residue behind. Infused with a fresh barbershop fragrance, this matt paste is ideal for medium to long hair and doubles as a great pre-styling product. Key Features: Light to Medium Hold: Perfect for creating touchable, natural textures. Pre-Styling Hero: Sets your hair for a variety of classic and modern styles. Water-Based Formula: Easy to apply and wash out without residue. Fresh Fragrance: Modern barbershop scent leaves your hair smelling great. Vegan-Friendly: Free from animal-derived ingredients, suitable for vegetarians and vegans. Why Choose The Bluebeards Revenge Matt Paste? Whether you’re aiming for a sleek, professional style or a relaxed, casual look, this matt paste provides the versatility you need while maintaining a commitment to ethical and effective grooming. For related The Bluebeards Revenge options, compare The Bluebeards Revenge Hair Gel 100ml, or browse the Hair & Body collection.",
-        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-matt-paste-100ml",
-        "price": "£5.85",
-        "brand": "The Bluebeards Revenge",
-        "vendor": "The Bluebeards Revenge",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/hair-products-the-bluebeards-revenge-matt-paste-100ml-2.jpg?v=1735926058",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Hair Styling",
-        "collections": [
-          "The Bluebeards Revenge",
-          "Beard & Moustache Care",
-          "Hair & Body",
-          "Hair Styling Products",
-          "Men's Hair Clays, Pastes & Putty"
-        ],
-        "variants": [
-          {
-            "id": "48936183202057",
-            "sku": "BBRPASTE100",
-            "gtin": "5060297001260",
-            "mpn": null,
-            "title": "The Bluebeards Revenge Matt Paste",
-            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-matt-paste-100ml",
-            "price": "12.95 GBP",
-            "sale_price": "5.85 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/hair-products-the-bluebeards-revenge-matt-paste-100ml-2.jpg?v=1735926058",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "The Bluebeards Revenge Original Body Wash 300ml",
         "category": "Bath Soap and Shower Gels > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
@@ -40831,7 +40712,6 @@
         "product_type": "Bath Soap and Shower Gels",
         "collections": [
           "The Bluebeards Revenge",
-          "Beard & Moustache Care",
           "Hair & Body",
           "Bath, Body & Hand Care"
         ],
@@ -40868,7 +40748,6 @@
         "product_type": "Shampoo & Conditioner",
         "collections": [
           "The Bluebeards Revenge",
-          "Beard & Moustache Care",
           "Hair & Body",
           "Shampoo & Conditioner"
         ],
@@ -40884,44 +40763,6 @@
             "sale_price": "5.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRSBORI50_CARTON-1.jpg?v=1735926050",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "The Bluebeards Revenge Post-Shave Balm 100ml",
-        "category": "Post Shave > Post-Shave",
-        "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
-        "description": "Elevate your grooming routine with The Bluebeards Revenge Post-Shave Balm. This luxurious balm is specially formulated to reduce beard growth while nourishing and moisturizing freshly shaved skin. Enriched with Witch Hazel and Aloe Vera, it soothes irritation and tackles common shaving problems like razor rash and burn. Infused with Decelerine™, it provides long-term benefits by softening the skin and slowing down hair regrowth. Key Features: Reduces Beard Growth: Contains Decelerine™, a unique ingredient designed to slow hair regrowth. Nourishes & Moisturizes: Witch Hazel and Aloe Vera soothe and hydrate post-shave skin. Paraben-Free: Gentle formula free from parabens for a natural finish. Skin-Friendly: Helps to alleviate razor rash, burn, and irritation for a comfortable shave. Classic Scent: Subtle yet refreshing fragrance that complements your grooming routine. Why Choose The Bluebeards Revenge Post-Shave Balm? This balm offers a professional-quality finish while providing long-term benefits for smoother, healthier skin.",
-        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-post-shave-balm-100ml",
-        "price": "£4.85",
-        "brand": "The Bluebeards Revenge",
-        "vendor": "The Bluebeards Revenge",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/post-shave-balm-the-bluebeards-revenge-post-shave-balm-100ml-1.jpg?v=1735926056",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Post Shave",
-        "collections": [
-          "Post-Shave",
-          "The Bluebeards Revenge",
-          "Beard & Moustache Care",
-          "Shaving Essentials",
-          "Shaving Preparations"
-        ],
-        "variants": [
-          {
-            "id": "48936182841609",
-            "sku": "BBRPOST100",
-            "gtin": "5060196080076",
-            "mpn": null,
-            "title": "The Bluebeards Revenge Post-Shave Balm 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-post-shave-balm-100ml",
-            "price": "8.65 GBP",
-            "sale_price": "4.85 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/post-shave-balm-the-bluebeards-revenge-post-shave-balm-100ml-1.jpg?v=1735926056",
             "options": {}
           }
         ]
@@ -40944,7 +40785,6 @@
         "collections": [
           "Pre-Shave",
           "The Bluebeards Revenge",
-          "Beard & Moustache Care",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -40981,7 +40821,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "The Bluebeards Revenge",
-          "Beard & Moustache Care",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
