@@ -2,16 +2,16 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-21",
-    "generated_at": "2026-05-21T06:12:18+00:00",
+    "last_updated": "2026-05-22",
+    "generated_at": "2026-05-22T06:09:09+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [
       "GB"
     ],
-    "product_count": 1000,
-    "variant_count": 1255,
+    "product_count": 1003,
+    "variant_count": 1258,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -5321,7 +5321,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-milkJPEG_clipped_rev_1.jpg?v=1757180075",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5343,7 +5343,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-aftershave-milk?variant=55897927811337",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-milkJPEG_clipped_rev_1.jpg?v=1757180075",
             "options": {
               "Volume": "100ml"
@@ -6603,7 +6603,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shampoo-barJPEG_clipped_rev_1.jpg?v=1757180147",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6624,7 +6624,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shampoo-bar-50g",
             "price": "12.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shampoo-barJPEG_clipped_rev_1.jpg?v=1757180147",
             "options": {}
           }
@@ -6640,7 +6640,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-beech-bowl-JPEG.jpg?v=1757163268",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6662,7 +6662,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-beech-bowl",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-beech-bowl-JPEG.jpg?v=1757163268",
             "options": {}
           }
@@ -6754,7 +6754,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-mahogany-bowl-JPEG.jpg?v=1757169818",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6776,7 +6776,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-mahogany-bowl-100g",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-mahogany-bowl-JPEG.jpg?v=1757169818",
             "options": {}
           }
@@ -6792,7 +6792,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-bowl-refill-JPEG.jpg?v=1757188416",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6814,7 +6814,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-soap-refill-100g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-bowl-refill-JPEG.jpg?v=1757188416",
             "options": {}
           }
@@ -6944,7 +6944,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-talcum-powder-usb-JPEG-1.jpg?v=1752743462",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6965,7 +6965,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-talcum-powder",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-talcum-powder-usb-JPEG-1.jpg?v=1752743462",
             "options": {}
           }
@@ -9025,7 +9025,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-beech-bowl-JPEG.jpg?v=1757180216",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9047,7 +9047,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-beech-bowl-100g",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-beech-bowl-JPEG.jpg?v=1757180216",
             "options": {}
           }
@@ -9139,7 +9139,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-mahogony-bowl-JPEG.jpg?v=1757170100",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9161,7 +9161,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-mahogany-bowl-100g",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-mahogony-bowl-JPEG.jpg?v=1757170100",
             "options": {}
           }
@@ -9177,7 +9177,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-bowl-refill-JPEG.jpg?v=1757170904",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9199,7 +9199,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-soap-refill-100g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-bowl-refill-JPEG.jpg?v=1757170904",
             "options": {}
           }
@@ -10557,7 +10557,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-beech-bowl-JPEG.jpg?v=1778105308",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10579,7 +10579,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-sandalwood-shaving-soap-beech-bowl",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-beech-bowl-JPEG.jpg?v=1778105308",
             "options": {}
           }
@@ -10634,7 +10634,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757188599",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10656,7 +10656,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-cream-tube-75g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757188599",
             "options": {}
           }
@@ -11780,7 +11780,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757189650",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11802,7 +11802,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-shaving-cream-tube",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757189650",
             "options": {}
           }
@@ -12652,6 +12652,44 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_2016_clipped_rev_1.jpg?v=1737922330",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Dovo Bismarck Black Duke Straight Razor 6/8",
+        "category": "Straight Razors > DOVO Solingen",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "Refined Craftsmanship for the Modern Gentleman The DOVO Bismarck Black Duke Straight Razor exemplifies the pinnacle of razor craftsmanship. Featuring a 6/8\" burnished carbon steel blade with a full hollow grind, this razor embodies both precision and sophistication. Its robust ebony handle adds a touch of luxury and durability, while the roof-shaped spine and thumbnotch ensure superior control and balance during use. Handcrafted by Solingen's finest artisans, the Bismarck Black Duke is a tribute to timeless shaving tradition. Renowned for its exceptional handling and classic design, this razor carries the legacy of the \"Black Prince,\" making it a cherished tool for wet shaving enthusiasts and collectors alike. For related Dovo options, compare Dovo 'Black Star' Pakkawood Straight Razor 5/8\" with Dovo 'Master's' Straight Razor \"6/8, or browse the DOVO Solingen collection. Key Features: Premium 6/8\" burnished carbon steel blade with a full hollow grind. Black ebony handle for elegance and durability. Roof-shaped spine and thumbnotch for precise control. Handcrafted by experienced Solingen artisans. Perfect for daily shaving or as a collector's item. Specifications: Material: Carbon steel 1.2210 (burnished finish). Handle: Black ebony. Blade Profile: Round point, concave profile. Grind: Full hollow ground. Dimensions: 16 cm x 2.7 cm x 1.1 cm.",
+        "url": "https://www.malegroomingsupplies.com/products/dovo-bismarck-black-duke-razor-68",
+        "price": "£162.85",
+        "brand": "Dovo",
+        "vendor": "Dovo",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-bismarck-black-duke-straight-razor-68-668049.jpg?v=1723066526",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Straight Razors",
+        "collections": [
+          "DOVO Solingen",
+          "All Razors",
+          "Straight Razors",
+          "New Additions",
+          "Shaving Essentials"
+        ],
+        "variants": [
+          {
+            "id": "48236304531721",
+            "sku": "10682082",
+            "gtin": "4045284008812",
+            "mpn": null,
+            "title": "Dovo Bismarck Black Duke Straight Razor 6/8",
+            "url": "https://www.malegroomingsupplies.com/products/dovo-bismarck-black-duke-razor-68",
+            "price": "162.85 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-bismarck-black-duke-straight-razor-68-668049.jpg?v=1723066526",
             "options": {}
           }
         ]
@@ -20527,7 +20565,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Tackle longer hair and thicker beard growth with ease using the Merkur Long Handled Open Comb Double Edge Safety Razor 25001. Specifically designed to prevent clogging, the open comb system guides hair and lather directly to the razor blade, ensuring a smooth, uninterrupted shave. This makes it an excellent choice for shaving both beard and body hair, especially for those with strong growth or longer hair. The razor’s long handle provides exceptional control, making it ideal for those who prefer a more comfortable grip. Its three-piece construction allows for easy blade replacement and cleaning, while the straight-cut design ensures a close, precise shave. Whether you’re maintaining a full beard or achieving a clean shave, the Merkur 25C delivers consistent, high-quality results. Proudly made in Germany, this razor embodies precision engineering and superior craftsmanship. For related Merkur options, compare Merkur 43C Heavyweight Safety Razor with Merkur Classic 1904 Closed Comb Double Edge Safety Razor 42 001, or browse the Merkur Solingen collection. Key Features: Open Comb Design: Prevents clogging by directing longer hair and lather to the blade. Long Handle: Provides a secure and comfortable grip, ideal for larger hands. Three-Piece Construction: Easy to disassemble for blade replacement and cleaning. Straight Cut: Ensures a precise and smooth shave, perfect for both beard and body hair. Premium German Craftsmanship: Designed and manufactured in Germany for durability and quality. Specifications: Material Surface: Bright Chrome-Plated Packaging: Branded Merkur packaging Packaging Size: 132mm x 52mm x 27mm Weight (with packaging): 71g Product Dimensions: 104mm x 41mm x 25mm Product Weight: 57g This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-25001-long-handled-open-comb-razor",
-        "price": "£22.95",
+        "price": "£28.50",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-long-handled-open-comb-double-edge-safety-razor-25001-898327.jpg?v=1722957555",
@@ -20551,8 +20589,8 @@
             "mpn": null,
             "title": "Merkur Long Handled Open Comb Double Edge Safety Razor 25001",
             "url": "https://www.malegroomingsupplies.com/products/merkur-25001-long-handled-open-comb-razor",
-            "price": "28.45 GBP",
-            "sale_price": "22.95 GBP",
+            "price": "28.50 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-long-handled-open-comb-double-edge-safety-razor-25001-898327.jpg?v=1722957555",
             "options": {}
@@ -33763,7 +33801,7 @@
       },
       {
         "name": "Semogue Alum Stone",
-        "category": "Accessories > Semogue Shaving Brushes",
+        "category": "Accessories > Post-Shave",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "A traditional essential for post-shave care, the Semogue Alum Stone is made from 100% natural potassium alum of Grade A+ quality. Known for its antiseptic and astringent properties, this block helps soothe irritation, tighten pores, and reduce minor nicks or razor burn. Presented in a sturdy, travel-friendly plastic case, it's ideal for daily use and convenient for on-the-go grooming. Simply dampen the block and glide it across the skin after shaving to enjoy its natural calming effect. For related post-shave options, browse the Semogue Shaving Brushes collection. Key Features: Made from 100% natural potassium alum (Grade A+) Soothes irritation and razor burn post-shave Helps stop minor bleeding and tightens pores Supplied in a durable plastic case for hygiene and travel Long-lasting and economical Specifications: Material: Potassium alum Weight: Approx. 95g Finish: Solid crystal block Packaging: Resealable plastic case Made in Portugal",
         "url": "https://www.malegroomingsupplies.com/products/semogue-alum-stone-100-natural-grade-a",
@@ -33777,6 +33815,7 @@
         "shipping": "Calculated at checkout",
         "product_type": "Accessories",
         "collections": [
+          "Post-Shave",
           "New Additions",
           "Semogue Shaving Brushes"
         ],
@@ -38714,7 +38753,8 @@
           "New Additions",
           "Slick Gorilla",
           "Hair & Body",
-          "Hair Styling Products"
+          "Hair Styling Products",
+          "Men's Hair Clays, Pastes & Putty"
         ],
         "variants": [
           {
@@ -40550,6 +40590,44 @@
         ]
       },
       {
+        "name": "The Bluebeards Revenge Body Kit",
+        "category": "Gift Sets > Shaving Sets",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
+        "description": "Stay squeaky clean and irresistibly fresh with The Bluebeards Revenge Body Kit. Designed for the manliest of men, this all-in-one grooming set is perfect for home use or travel. Packed with grooming essentials, it ensures you always look and feel your best wherever you go. What’s Inside? Travel Washbag: A stylish and durable bag to keep all your grooming essentials in one place. Flannel: A high-quality flannel for scrubbing away dirt and maximizing lather. Cooling Moisturiser Sample (20ml): Hydrate and soothe your skin with this refreshing moisturiser. Big Blue Bar of Soap For Blokes (175g): A signature soap bar to keep you smelling fresh and feeling clean. Anti-Perspirant Deodorant (50ml): Long-lasting protection against sweat and body odour. Comb: A sleek comb to tame your hair and maintain a neat appearance. Why Choose The Bluebeards Revenge Body Kit? This kit is the ultimate solution for grooming on the go. With a curated selection of high-quality products, it’s the perfect gift for any man who values style and cleanliness.",
+        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-body-kit-1",
+        "price": "£12.60",
+        "brand": "The Bluebeards Revenge",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRBODYKIT_preview_clipped_rev_1.jpg?v=1735926055",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Gift Sets",
+        "collections": [
+          "Shaving Sets",
+          "The Bluebeards Revenge",
+          "Hair & Body",
+          "Gift Sets",
+          "Bath, Body & Hand Care"
+        ],
+        "variants": [
+          {
+            "id": "48936182186249",
+            "sku": "BBRBODYK",
+            "gtin": "5060297001581",
+            "mpn": null,
+            "title": "The Bluebeards Revenge Body Kit",
+            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-body-kit-1",
+            "price": "12.60 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRBODYKIT_preview_clipped_rev_1.jpg?v=1735926055",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "The Bluebeards Revenge Classic Blend Eau De Toilette 100ml",
         "category": "Fragrances > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne",
@@ -40662,7 +40740,7 @@
         "name": "The Bluebeards Revenge Hair Gel 100ml",
         "category": "Hair Styling > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
-        "description": "Revolutionize your styling routine with The Bluebeards Revenge Hair Gel. This multipurpose gel is designed to create both rock-hard spikes and natural, textured looks, depending on your application. Infused with the signature Bluebeards Classic scent, it keeps your hair fresh while leaving soggy styles in the past. What makes this product even more special? It’s been created in collaboration with The Lions Barber Collective charity, with 50p from every tub sold going directly to support their efforts in raising awareness and preventing male suicides worldwide. Key Features: Multipurpose Styling: Create sharp spikes or relaxed, textured styles with ease. Classic Scent: Fresh and masculine, the signature Bluebeards fragrance completes your grooming experience. Supports a Cause: 50p from every tub sold is donated to The Lions Barber Collective charity to raise awareness and support male mental health. Lightweight Formula: Easy to apply and washes out effortlessly. Compact Size: Perfect for use at home or on the go. About The Lions Barber Collective The Lions Barber Collective is an international group of barbers dedicated to raising awareness about men’s mental health and preventing male suicides. By purchasing this product, you’re directly contributing to their incredible mission. Charity Number: 1176363 For related The Bluebeards Revenge options, compare The Bluebeards Revenge Matt Paste, or browse the Hair & Body collection.",
+        "description": "Revolutionize your styling routine with The Bluebeards Revenge Hair Gel. This multipurpose gel is designed to create both rock-hard spikes and natural, textured looks, depending on your application. Infused with the signature Bluebeards Classic scent, it keeps your hair fresh while leaving soggy styles in the past. What makes this product even more special? It’s been created in collaboration with The Lions Barber Collective charity, with 50p from every tub sold going directly to support their efforts in raising awareness and preventing male suicides worldwide. Key Features: Multipurpose Styling: Create sharp spikes or relaxed, textured styles with ease. Classic Scent: Fresh and masculine, the signature Bluebeards fragrance completes your grooming experience. Supports a Cause: 50p from every tub sold is donated to The Lions Barber Collective charity to raise awareness and support male mental health. Lightweight Formula: Easy to apply and washes out effortlessly. Compact Size: Perfect for use at home or on the go. About The Lions Barber Collective The Lions Barber Collective is an international group of barbers dedicated to raising awareness about men’s mental health and preventing male suicides. By purchasing this product, you’re directly contributing to their incredible mission. Charity Number: 1176363 For related The Bluebeards Revenge options, browse the The Bluebeards Revenge range or the Hair Styling Products collection.",
         "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-hair-gel-100ml",
         "price": "£4.95",
         "brand": "The Bluebeards Revenge",
@@ -40696,10 +40774,46 @@
         ]
       },
       {
+        "name": "The Bluebeards Revenge Hipster Kit",
+        "category": "Gift Sets > Shaving Sets",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
+        "description": "Perfect for the modern gentleman, The Bluebeards Revenge Hipster Kit is a premium grooming set designed to keep your beard, moustache, and hair in impeccable shape. Packed with high-quality products, this kit has everything you need to stay sharp and stylish. What’s Inside? Classic Blend Beard Oil (50ml): Nourishes and softens your beard while leaving a fresh, masculine scent. Classic Blend Moustache Wax (20ml): Provides a strong hold for shaping and styling your moustache with ease. Pomade (100ml): Achieve sleek hairstyles with this versatile pomade, offering strong hold and high shine. Cut-Throat Replaceable Blade Razor: Experience precision shaving with this stylish and easy-to-use razor. Why Choose The Bluebeards Revenge Hipster Kit? This all-in-one kit is perfect for anyone looking to elevate their grooming game. With premium products for hair, beard, and moustache care, it makes the ultimate gift or self-care essential for the modern man.",
+        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-hipster-kit",
+        "price": "£16.25",
+        "brand": "The Bluebeards Revenge",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/mGpYRnPQ_clipped_rev_1.jpg?v=1735926054",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Gift Sets",
+        "collections": [
+          "Shaving Sets",
+          "The Bluebeards Revenge",
+          "Gift Sets"
+        ],
+        "variants": [
+          {
+            "id": "48936181661961",
+            "sku": "BBRHIPKIT",
+            "gtin": "5060297001574",
+            "mpn": null,
+            "title": "The Bluebeards Revenge Hipster Kit",
+            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-hipster-kit",
+            "price": "16.25 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/mGpYRnPQ_clipped_rev_1.jpg?v=1735926054",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "The Bluebeards Revenge Original Body Wash 300ml",
         "category": "Bath Soap and Shower Gels > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
-        "description": "Shake up your shower routine with The Bluebeards Revenge Original Body Wash. Enriched with marula oil, this nourishing shower gel effectively cleanses sweat, dirt, and excess oils while restoring essential moisture to your skin. Finished with the invigorating Original scent, a blend of Madagascan vanilla, classic sandalwood, and patchouli, it provides a masculine fragrance that lasts all day and night. Key Features: Original Scent: A fresh, masculine blend of Madagascan vanilla, sandalwood, and patchouli for long-lasting freshness. Nourishing Formula: Contains marula oil to cleanse and hydrate your skin. Eco-Friendly Packaging: Packaged in a 100% recycled plastic bottle, which can be endlessly recycled, repurposed, or refilled. Vegan-Friendly: Free from animal-derived ingredients and cruelty-free. Daily Use: Perfect for refreshing your skin every day. Why Choose The Bluebeards Revenge Original Body Wash? This body wash offers an effective cleanse, a distinctive masculine scent, and eco-conscious packaging, making it a grooming essential for modern men. For related The Bluebeards Revenge options, compare The Bluebeards Revenge Classic Body Wash 300ml, or browse the Hair & Body collection.",
+        "description": "Shake up your shower routine with The Bluebeards Revenge Original Body Wash. Enriched with marula oil, this nourishing shower gel effectively cleanses sweat, dirt, and excess oils while restoring essential moisture to your skin. Finished with the invigorating Original scent, a blend of Madagascan vanilla, classic sandalwood, and patchouli, it provides a masculine fragrance that lasts all day and night. Key Features: Original Scent: A fresh, masculine blend of Madagascan vanilla, sandalwood, and patchouli for long-lasting freshness. Nourishing Formula: Contains marula oil to cleanse and hydrate your skin. Eco-Friendly Packaging: Packaged in a 100% recycled plastic bottle, which can be endlessly recycled, repurposed, or refilled. Vegan-Friendly: Free from animal-derived ingredients and cruelty-free. Daily Use: Perfect for refreshing your skin every day. Why Choose The Bluebeards Revenge Original Body Wash? This body wash offers an effective cleanse, a distinctive masculine scent, and eco-conscious packaging, making it a grooming essential for modern men. For related The Bluebeards Revenge options, browse the The Bluebeards Revenge range or the Bath, Body & Hand Care collection.",
         "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-original-body-wash-300ml",
         "price": "£6.95",
         "brand": "The Bluebeards Revenge",
