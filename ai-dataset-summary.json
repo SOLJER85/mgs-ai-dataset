@@ -13,12 +13,12 @@
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 307
   },
   "currency": "GBP",
-  "generated_at": "2026-05-22T06:09:09+00:00",
+  "generated_at": "2026-05-23T05:40:35+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1003,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 373,
+  "skipped_products": 378,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15367113998601",
@@ -142,7 +142,7 @@
     }
   ],
   "social_catalog_feed": "social-catalog-feed.csv",
-  "source_products": 1376,
+  "source_products": 1381,
   "validation": {
     "availability_counts": {
       "in_stock": 908,

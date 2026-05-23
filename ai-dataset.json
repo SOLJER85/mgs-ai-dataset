@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-22",
-    "generated_at": "2026-05-22T06:09:09+00:00",
+    "last_updated": "2026-05-23",
+    "generated_at": "2026-05-23T05:40:35+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -12666,7 +12666,7 @@
         "brand": "Dovo",
         "vendor": "Dovo",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-bismarck-black-duke-straight-razor-68-668049.jpg?v=1723066526",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -12688,7 +12688,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dovo-bismarck-black-duke-razor-68",
             "price": "162.85 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-bismarck-black-duke-straight-razor-68-668049.jpg?v=1723066526",
             "options": {}
           }
@@ -15639,7 +15639,7 @@
         "brand": "Floris London",
         "vendor": "Floris London",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-violet-mouthwash-100ml-front.jpg?v=1752602884",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -15661,7 +15661,7 @@
             "url": "https://www.malegroomingsupplies.com/products/floris-violet-concentrated-mouthwash-100ml",
             "price": "45.00 GBP",
             "sale_price": "29.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-violet-mouthwash-100ml-front.jpg?v=1752602884",
             "options": {}
           }
