@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-23",
-    "generated_at": "2026-05-23T05:40:35+00:00",
+    "last_updated": "2026-05-24",
+    "generated_at": "2026-05-24T06:03:26+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -26624,7 +26624,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-safety-razor-29l-unisex?variant=48029437264137",
             "price": "23.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-29l-male-grooming-supplies-447182.jpg?v=1722957023",
             "options": {
               "Colour": "Rose Gold"
