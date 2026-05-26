@@ -8,17 +8,24 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-ai-dataset
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Install dependencies
         run: |
@@ -40,5 +47,10 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add ai-dataset.json ai-dataset-summary.json openai-products-feed.csv openai-products-feed.csv.gz openai-products-feed.jsonl.gz shopping-feed-google-compatible.tsv shopping-feed-google-compatible.tsv.gz social-catalog-feed.csv social-catalog-feed.csv.gz scripts/generate_ai_dataset.py
-          git commit -m "Auto-update dataset" || echo "No changes"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Auto-update dataset"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
