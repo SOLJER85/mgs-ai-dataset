@@ -2,6 +2,19 @@
 
 Public product data for Male Grooming Supplies, generated from live Shopify data.
 
+## Agent Discovery
+
+For real-time shopping, agents should use the live Shopify storefront first:
+
+- Storefront: https://www.malegroomingsupplies.com
+- Agent instructions: https://www.malegroomingsupplies.com/agents.md
+- UCP discovery: https://www.malegroomingsupplies.com/.well-known/ucp
+
+The files in this repository are public structured feeds for catalogue discovery,
+offline analysis, eligibility checks, GTIN/image/category review, and fallback
+product data. Shopify UCP, product pages and checkout remain the final authority
+for live price, stock, shipping, tax, hazardous goods restrictions and payment.
+
 ## Files
 
 - `ai-dataset.json` keeps the original public dataset URL stable and adds richer product, variant, availability, GTIN, return-policy, market-country, and category data.
