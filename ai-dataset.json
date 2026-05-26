@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-25",
-    "generated_at": "2026-05-25T06:37:14+00:00",
+    "last_updated": "2026-05-26",
+    "generated_at": "2026-05-26T06:08:46+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -33921,7 +33921,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3HPRBIR_clipped_rev_1.jpg?v=1744055309",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -33943,7 +33943,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-galahad-c3-premium-black-horse-imperial-red",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3HPRBIR_clipped_rev_1.jpg?v=1744055309",
             "options": {}
           }
@@ -35935,7 +35935,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5SOJB_clipped_rev_1.jpg?v=1744055456",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -35957,7 +35957,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-torga-c5-onyx-synthetic-jet-black",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5SOJB_clipped_rev_1.jpg?v=1744055456",
             "options": {}
           }
