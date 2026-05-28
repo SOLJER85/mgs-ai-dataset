@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-27",
-    "generated_at": "2026-05-27T06:22:45+00:00",
+    "last_updated": "2026-05-28",
+    "generated_at": "2026-05-28T06:14:37+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -332,7 +332,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114206_resized_clipped_rev_1.jpg?v=1748952575",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -354,7 +354,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-post-shave-balm",
             "price": "10.20 GBP",
             "sale_price": "8.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114206_resized_clipped_rev_1.jpg?v=1748952575",
             "options": {}
           }
@@ -370,7 +370,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143424_clipped_rev_1.jpg?v=1748896557",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -392,7 +392,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-shave-cream",
             "price": "14.40 GBP",
             "sale_price": "10.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143424_clipped_rev_1.jpg?v=1748896557",
             "options": {}
           }
@@ -560,7 +560,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1129_clipped_rev_1.jpg?v=1748896556",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -582,7 +582,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-sandalwood-pre-shave-oil",
             "price": "11.50 GBP",
             "sale_price": "7.50 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1129_clipped_rev_1.jpg?v=1748896556",
             "options": {}
           }
@@ -636,7 +636,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143535_clipped_rev_1.png?v=1748897385",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -658,7 +658,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-sandalwood-shave-cream",
             "price": "14.40 GBP",
             "sale_price": "10.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143535_clipped_rev_1.png?v=1748897385",
             "options": {}
           }
@@ -1806,7 +1806,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_maharajah_BB_LowRes-1789_ce604710-ae1f-4553-bb75-7712756513b3.jpg?v=1751995731",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1827,7 +1827,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-maharajah-beard-balm-60ml",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_maharajah_BB_LowRes-1789_ce604710-ae1f-4553-bb75-7712756513b3.jpg?v=1751995731",
             "options": {}
           }
@@ -2365,7 +2365,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Ricki_Hall_Beard_Balm_-_high_res-1_copy.jpg?v=1751997067",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -2386,7 +2386,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-booze-baccy-beard-balm-60ml",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Ricki_Hall_Beard_Balm_-_high_res-1_copy.jpg?v=1751997067",
             "options": {}
           }
@@ -5606,7 +5606,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-aftershave-milk?variant=55897927713033",
             "price": "43.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/after-shaving-milk-dispenser-JPEG_clipped_rev_1.jpg?v=1757180075",
             "options": {
               "Volume": "100ml Dispenser"
@@ -6692,7 +6692,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Arlington-bath-soap-JPEG.jpg?v=1757180839",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6713,7 +6713,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-large-bath-soap-200g",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Arlington-bath-soap-JPEG.jpg?v=1757180839",
             "options": {}
           }
@@ -6799,7 +6799,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-roll-on-usb-JPEG.jpg?v=1757188350",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6820,7 +6820,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-roll-on-deodorant",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-roll-on-usb-JPEG.jpg?v=1757188350",
             "options": {}
           }
@@ -7063,7 +7063,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shave-stick-JPEG.jpg?v=1757163245",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7085,7 +7085,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-stick",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shave-stick-JPEG.jpg?v=1757163245",
             "options": {}
           }
@@ -7572,7 +7572,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crystal-eye-gel-JPEG.jpg?v=1756552007",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7593,7 +7593,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-crystal-eye-gel-30ml",
             "price": "20.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crystal-eye-gel-JPEG.jpg?v=1756552007",
             "options": {}
           }
@@ -7882,7 +7882,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_clipped_rev_1.jpg?v=1757161475",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7903,7 +7903,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-eau-de-portugal-hair-lotion-without-oil?variant=55897938657545",
             "price": "24.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_clipped_rev_1.jpg?v=1757161475",
             "options": {
               "Volume": "100ml"
@@ -8516,7 +8516,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757187605",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8538,7 +8538,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-cream-tube-75g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757187605",
             "options": {}
           }
@@ -8592,7 +8592,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-bowl-refill-JPEG.jpg?v=1757190727",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8614,7 +8614,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-soap-refill",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-bowl-refill-JPEG.jpg?v=1757190727",
             "options": {}
           }
@@ -9448,7 +9448,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shave-stick-JPEG.jpg?v=1757188390",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9470,7 +9470,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-stick",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shave-stick-JPEG.jpg?v=1757188390",
             "options": {}
           }
@@ -9659,7 +9659,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-milk-of-cucumber-and-roses?variant=55897927221513",
             "price": "100.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Cucumber-roses-500mlusb-JPEG_clipped_rev_1.jpg?v=1757181021",
             "options": {
               "Volume": "500ml Glass Bottle"
@@ -11713,7 +11713,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-eau-de-toilette?variant=55897926172937",
             "price": "47.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-cologne-spray-JPEG_clipped_rev_1.jpg?v=1757182890",
             "options": {
               "Volume": "50ml Refillable Spray"
@@ -36319,7 +36319,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpson-shaving-brush-travel-tube?variant=56676755931401",
             "price": "12.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
             "options": {
               "Size": "Large"
@@ -36386,11 +36386,11 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Simpsons Chubby 2 Platinum Synthetic Shaving Brush is regarded as one of the leading synthetic shaving brushes available today. Hand-turned in a faux ivory handle, it features Simpsons’ exclusively developed Platinum Grade synthetic fibre, designed to replicate the luxurious face feel of high-quality badger hair while offering excellent lathering efficiency. Densely packed and shaped for controlled face lathering, the Chubby 2 delivers fast, generous lather with both shaving soaps and creams. The soft tips provide a comfortable sensation on the skin, while the fibre’s resilience ensures quick drying and long-lasting performance. Each brush is finished with the classic Simpsons front label stating Hand Made in Great Britain, maintaining the brand’s longstanding brushmaking heritage. Key Features: Filled with Platinum Grade synthetic fibre Hand-turned faux ivory handle with the iconic Chubby 2 shape Produces fast, rich lather with soaps or creams Soft tips with excellent backbone for controlled face lathering Quick drying and highly durable Handcrafted in Britain, finished with the Hand Made in Great Britain label Specifications: Overall brush height: 94mm Handle height: 44mm Loft: 50mm Knot diameter: 27mm",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-2-platinum-synthetic-shaving-brush",
-        "price": "£99.95",
+        "price": "£79.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front.png?v=1765233599",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36411,8 +36411,8 @@
             "title": "Simpsons 'Chubby 2' Platinum Synthetic Shaving Brush",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-2-platinum-synthetic-shaving-brush",
             "price": "99.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
+            "sale_price": "79.95 GBP",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front.png?v=1765233599",
             "options": {}
           }
@@ -36893,7 +36893,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH1-Best-Front.png?v=1765233804",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36915,7 +36915,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-best-or-super-silvertip-badger-shaving-brush?variant=56363188355337",
             "price": "99.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH1-Best-Front.png?v=1765233804",
             "options": {
               "Size & Brush Type": "Chubby Best 85mm - CH1 Best"
@@ -36930,7 +36930,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-best-or-super-silvertip-badger-shaving-brush?variant=56363188388105",
             "price": "165.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Best-Front.png?v=1765233804",
             "options": {
               "Size & Brush Type": "Chubby Best 95mm - CH2 Best"
@@ -36960,7 +36960,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-best-or-super-silvertip-badger-shaving-brush?variant=56363188453641",
             "price": "139.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Super-Front.png?v=1765233808",
             "options": {
               "Size & Brush Type": "Super Chubby 85mm - CH1 Super"
@@ -36975,7 +36975,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-best-or-super-silvertip-badger-shaving-brush?variant=56363188486409",
             "price": "195.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Super-Front.png?v=1765233808",
             "options": {
               "Size & Brush Type": "Super Chubby 95mm - CH2 Super"
@@ -36990,7 +36990,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-best-or-super-silvertip-badger-shaving-brush?variant=56363188519177",
             "price": "235.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH3-Super-Front.png?v=1765233808",
             "options": {
               "Size & Brush Type": "Super Chubby 105mm - CH3 Super"
@@ -37045,7 +37045,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic?variant=56363185832201",
             "price": "75.95 GBP",
             "sale_price": "49.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-sov-front_clipped_rev_1.jpg?v=1765233592",
             "options": {
               "Size": "Chubby 2 Sovereign"
@@ -37279,7 +37279,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_18__clipped_rev_1.jpg?v=1765233596",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -37301,7 +37301,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-commodore-sovereign-synthetic?variant=56363185635593",
             "price": "44.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_18__clipped_rev_1.jpg?v=1765233596",
             "options": {
               "Size": "Commodore X1 Sovereign"
@@ -37554,7 +37554,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-sovereign-synthetic?variant=56363185602825",
             "price": "52.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/d3-sov-front-clipped.jpg?v=1765233578",
             "options": {
               "Size": "Duke 3 Sovereign"
@@ -37624,7 +37624,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-eagle-pure-badger-shaving-brush?variant=56363187470601",
             "price": "108.70 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G3Pure-Front.png?v=1765233783",
             "options": {
               "Size": "Eagle Pure 3"
@@ -38441,7 +38441,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-the-special-shaving-brush?variant=56363186192649",
             "price": "30.20 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Pure-Front.png?v=1765233703",
             "options": {
               "Brush Type": "Pure Badger"
@@ -38675,7 +38675,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_5.png?v=1765233694",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -38697,7 +38697,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-shaving-cup-large",
             "price": "35.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_5.png?v=1765233694",
             "options": {}
           }
@@ -38713,7 +38713,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Shaving_Scuttle_-_Small_c19acdc5-c527-4fec-967f-4af5deda63ef.png?v=1765233708",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -38735,7 +38735,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-small-ceramic-shaving-cup",
             "price": "39.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Shaving_Scuttle_-_Small_c19acdc5-c527-4fec-967f-4af5deda63ef.png?v=1765233708",
             "options": {}
           }
