@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-28",
-    "generated_at": "2026-05-28T06:14:37+00:00",
+    "last_updated": "2026-05-29",
+    "generated_at": "2026-05-29T06:15:47+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -2438,7 +2438,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CaptainFawcettLtdRickiHallSignatureSeries-9_5125fa09-8825-41db-a24e-d863af97db76.jpg?v=1751793753",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -2459,7 +2459,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-booze-and-baccy-moustache-wax-15ml",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CaptainFawcettLtdRickiHallSignatureSeries-9_5125fa09-8825-41db-a24e-d863af97db76.jpg?v=1751793753",
             "options": {}
           }
@@ -17293,7 +17293,7 @@
         "brand": "Hermès",
         "vendor": "Hermès",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/terre-d-hermes-after-shave-lotion--107202V0-worn-1-0-0-2000-2000-q99_g_clipped_rev_1.jpg?v=1778796543",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17314,7 +17314,7 @@
             "url": "https://www.malegroomingsupplies.com/products/hermes-terre-dhermes-after-shave-lotion-100ml",
             "price": "62.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/terre-d-hermes-after-shave-lotion--107202V0-worn-1-0-0-2000-2000-q99_g_clipped_rev_1.jpg?v=1778796543",
             "options": {}
           }
@@ -17366,7 +17366,7 @@
         "brand": "Hermès",
         "vendor": "Hermès",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/terre-d-hermes-eau-de-toilette--107189V0-worn-2-0-0-2000-2000-q99_g_clipped_rev_1.jpg?v=1778834884",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17386,7 +17386,7 @@
             "url": "https://www.malegroomingsupplies.com/products/hermes-terre-dhermes-eau-de-toilette-50ml",
             "price": "72.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/terre-d-hermes-eau-de-toilette--107189V0-worn-2-0-0-2000-2000-q99_g_clipped_rev_1.jpg?v=1778834884",
             "options": {}
           }
@@ -23427,7 +23427,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-pomade?variant=55572123844873",
             "price": "8.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Pomade-100g-dropbox-e1569939713503.jpg?v=1748598654",
             "options": {
               "Size": "100g"
