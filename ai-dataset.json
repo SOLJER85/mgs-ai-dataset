@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-29",
-    "generated_at": "2026-05-29T06:15:47+00:00",
+    "last_updated": "2026-05-30",
+    "generated_at": "2026-05-30T05:49:38+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -30744,7 +30744,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srxblk-male-grooming-supplies-336512.jpg?v=1722957091",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30766,7 +30766,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-srxblk-barber-razor",
             "price": "18.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srxblk-male-grooming-supplies-336512.jpg?v=1722957091",
             "options": {}
           }
@@ -36592,7 +36592,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B1-Front.png?v=1765233853",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36614,7 +36614,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-beaufort-pure-badger-shaving-brush?variant=56363188551945",
             "price": "39.60 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B1-Front.png?v=1765233853",
             "options": {
               "Size": "90mm - B1 Pure"
