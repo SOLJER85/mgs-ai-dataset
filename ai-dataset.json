@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-05-30",
-    "generated_at": "2026-05-30T05:49:38+00:00",
+    "last_updated": "2026-05-31",
+    "generated_at": "2026-05-31T06:20:38+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -28781,7 +28781,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ParkStdAdjmain-1.jpg?v=1764938582",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28803,7 +28803,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-deluxe-adjustable-chrome-razor-brush-stand",
             "price": "22.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ParkStdAdjmain-1.jpg?v=1764938582",
             "options": {}
           }
