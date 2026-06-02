@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-01",
-    "generated_at": "2026-06-01T06:58:59+00:00",
+    "last_updated": "2026-06-02",
+    "generated_at": "2026-06-02T06:43:27+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -3362,7 +3362,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes36_clipped_rev_1.jpg?v=1747948374",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3384,7 +3384,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-cedarwood-sandalwood-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes36_clipped_rev_1.jpg?v=1747948374",
             "options": {}
           }
@@ -5440,7 +5440,7 @@
         "brand": "Cyril R. Salter",
         "vendor": "Cyril R. Salter",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HED02_clipped_rev_1.jpg?v=1732392436",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5462,7 +5462,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-sublime-citrus-shaving-cream",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HED02_clipped_rev_1.jpg?v=1732392436",
             "options": {}
           }
@@ -6249,7 +6249,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757190457",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6272,7 +6272,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-aftershave-milk?variant=55897924305161",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757190457",
             "options": {
               "Volume": "100ml"
@@ -6692,7 +6692,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Arlington-bath-soap-JPEG.jpg?v=1757180839",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6713,7 +6713,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-large-bath-soap-200g",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Arlington-bath-soap-JPEG.jpg?v=1757180839",
             "options": {}
           }
@@ -6729,7 +6729,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-pre-shaveJPEG.jpg?v=1757169217",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6751,7 +6751,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-pre-shave-lotion?variant=55897931153673",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-pre-shaveJPEG.jpg?v=1757169217",
             "options": {
               "Volume": "100ml"
@@ -6799,7 +6799,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-roll-on-usb-JPEG.jpg?v=1757188350",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6820,7 +6820,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-roll-on-deodorant",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-roll-on-usb-JPEG.jpg?v=1757188350",
             "options": {}
           }
@@ -6911,7 +6911,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shaving-cream-tub-JPEG.jpg?v=1757181709",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6933,7 +6933,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-cream-bowl-150g",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shaving-cream-tub-JPEG.jpg?v=1757181709",
             "options": {}
           }
@@ -7063,7 +7063,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shave-stick-JPEG.jpg?v=1757163245",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7085,7 +7085,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-stick",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shave-stick-JPEG.jpg?v=1757163245",
             "options": {}
           }
@@ -9334,7 +9334,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shaving-cream-75ml-tube-usb-JPEG-1.jpg?v=1757163407",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9356,7 +9356,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-cream-tube-75g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shaving-cream-75ml-tube-usb-JPEG-1.jpg?v=1757163407",
             "options": {}
           }
@@ -9410,7 +9410,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-bowl-refill-JPEG.jpg?v=1757170904",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9432,7 +9432,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-soap-refill-100g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-bowl-refill-JPEG.jpg?v=1757170904",
             "options": {}
           }
@@ -9659,7 +9659,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-milk-of-cucumber-and-roses?variant=55897927221513",
             "price": "100.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Cucumber-roses-500mlusb-JPEG_clipped_rev_1.jpg?v=1757181021",
             "options": {
               "Volume": "500ml Glass Bottle"
@@ -9889,7 +9889,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Ginger-and-Lemon-SoapJPEG.jpg?v=1778107122",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9910,7 +9910,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-naturals-ginger-lemon-soap-200g",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Ginger-and-Lemon-SoapJPEG.jpg?v=1778107122",
             "options": {}
           }
@@ -10017,7 +10017,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Lemon-and-Vetiver-SoapJPEG.jpg?v=1778106941",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10038,7 +10038,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-naturals-lemon-vetiver-soap-200g",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Lemon-and-Vetiver-SoapJPEG.jpg?v=1778106941",
             "options": {}
           }
@@ -29291,7 +29291,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-razor-guard?variant=48029431628041",
             "price": "5.65 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-razor-guard-male-grooming-supplies-817882.jpg?v=1722956782",
             "options": {
               "Colour": "Black"
