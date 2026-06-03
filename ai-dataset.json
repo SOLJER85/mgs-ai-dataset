@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-02",
-    "generated_at": "2026-06-02T06:43:27+00:00",
+    "last_updated": "2026-06-03",
+    "generated_at": "2026-06-03T06:54:28+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -1130,7 +1130,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com-2559.jpg?v=1751363990",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1151,7 +1151,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-bay-rum-hair-tonic-250ml",
             "price": "20.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com-2559.jpg?v=1751363990",
             "options": {}
           }
