@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-03",
-    "generated_at": "2026-06-03T06:54:28+00:00",
+    "last_updated": "2026-06-04",
+    "generated_at": "2026-06-04T06:44:13+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -982,7 +982,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Sid_Sottung_Beard_Balm_-_low_res-1.jpg?v=1751973496",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1003,7 +1003,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcetts-barberism-beard-balm-60ml",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Sid_Sottung_Beard_Balm_-_low_res-1.jpg?v=1751973496",
             "options": {}
           }
@@ -1620,7 +1620,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Trimming_Scissors_Low_Res-4.jpg?v=1751370206",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1640,7 +1640,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-hand-crafted-grooming-scissors",
             "price": "19.50 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Trimming_Scissors_Low_Res-4.jpg?v=1751370206",
             "options": {}
           }
@@ -2216,7 +2216,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Post_Shave_Balm_Low_Res-0008_clipped_rev_1.jpg?v=1751363965",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -2238,7 +2238,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-post-shave-balm-125ml",
             "price": "21.50 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Post_Shave_Balm_Low_Res-0008_clipped_rev_1.jpg?v=1751363965",
             "options": {}
           }
@@ -2737,7 +2737,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Shaving_Cream_Low_Res-3-3_clipped_rev_1.jpg?v=1751363967",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -2759,7 +2759,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-shaving-cream-150ml",
             "price": "21.50 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Shaving_Cream_Low_Res-3-3_clipped_rev_1.jpg?v=1751363967",
             "options": {}
           }
@@ -3054,7 +3054,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BeardBrushNEW4_clipped_rev_1.jpg?v=1751363962",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3078,7 +3078,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcetts-wild-boar-bristle-beard-brush-cf933",
             "price": "21.50 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BeardBrushNEW4_clipped_rev_1.jpg?v=1751363962",
             "options": {}
           }
@@ -14342,7 +14342,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14363,7 +14363,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades?variant=49025525907721",
             "price": "3.60 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
             "options": {
               "Pack Size": "Pack of 10"
