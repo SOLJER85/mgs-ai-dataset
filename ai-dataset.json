@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-06",
-    "generated_at": "2026-06-06T05:55:19+00:00",
+    "last_updated": "2026-06-07",
+    "generated_at": "2026-06-07T06:26:31+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -19676,7 +19676,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34002_top_x_clipped_rev_1.jpg?v=1765562133",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19698,7 +19698,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34c-matt-chrome-safety-razor",
             "price": "49.95 GBP",
             "sale_price": "45.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34002_top_x_clipped_rev_1.jpg?v=1765562133",
             "options": {}
           }
