@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-07",
-    "generated_at": "2026-06-07T06:26:31+00:00",
+    "last_updated": "2026-06-08",
+    "generated_at": "2026-06-08T06:45:16+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -13348,7 +13348,7 @@
         "brand": "Dovo",
         "vendor": "Dovo",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-leather-straight-razor-case-various-colours-521985.jpg?v=1758476420",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13370,7 +13370,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dovo-leather-straight-razor-cases?variant=48236305088777",
             "price": "17.45 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-leather-straight-razor-case-various-colours-521985.jpg?v=1758476420",
             "options": {
               "Colour": "Black"
@@ -13699,7 +13699,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13721,7 +13721,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-all-stainless-safety-razor-as-d2",
             "price": "142.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
             "options": {}
           }
