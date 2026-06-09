@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-08",
-    "generated_at": "2026-06-08T06:45:16+00:00",
+    "last_updated": "2026-06-09",
+    "generated_at": "2026-06-09T06:11:20+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1003,
-    "variant_count": 1258,
+    "product_count": 1004,
+    "variant_count": 1260,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -3552,7 +3552,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes34_clipped_rev_1.jpg?v=1747949325",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3574,7 +3574,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lavender-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes34_clipped_rev_1.jpg?v=1747949325",
             "options": {}
           }
@@ -10108,7 +10108,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ocean-shampoo-bar-JPEG.jpg?v=1757168248",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10129,7 +10129,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-ocean-shampoo-bar",
             "price": "12.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ocean-shampoo-bar-JPEG.jpg?v=1757168248",
             "options": {}
           }
@@ -42120,6 +42120,59 @@
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Wiberg_s_5000ml_New_Label_clipped_rev_1.jpg?v=1739391734",
             "options": {
               "Size": "5 Litre"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Wilkinson Sword Classic Double Edge Razor",
+        "category": "Razors > Wilkinson Sword",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The classic double edge razor. A safer shave for healthier and smoother looking skinIf you favour the retro look and style then you'll love the Wilkinson Sword Classic system. A traditional double edge wet shave razor that’s great on the pocket and excellent on your skin. Product features: Its simple design and double edge blade technology provide excellent value for money. If you're happy in your skin and want simplicity with performance then the Classic is the razor for you. Technology:Double edge blade technology.PTFE coating reduces friction during the shave.Simple handle design.Excellent value for money.",
+        "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-classic-double-edge-razor",
+        "price": "£3.75",
+        "brand": "Wilkinson Sword",
+        "vendor": "Wilkinson Sword",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/DE_Razor_clipped_rev_1.jpg?v=1723318055",
+        "availability": "out_of_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Razors",
+        "collections": [
+          "Wilkinson Sword",
+          "New Additions",
+          "Shaving Essentials"
+        ],
+        "variants": [
+          {
+            "id": "48263283310857",
+            "sku": "WILKSDE-1",
+            "gtin": "4027800015504",
+            "mpn": null,
+            "title": "Wilkinson Sword Classic Double Edge Razor - Single",
+            "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-classic-double-edge-razor?variant=48263283310857",
+            "price": "4.99 GBP",
+            "sale_price": "3.75 GBP",
+            "availability": "out_of_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/DE_Razor_clipped_rev_1.jpg?v=1723318055",
+            "options": {
+              "Size": "Single"
+            }
+          },
+          {
+            "id": "48263283343625",
+            "sku": "WILKSDE-2",
+            "gtin": null,
+            "mpn": null,
+            "title": "Wilkinson Sword Classic Double Edge Razor - Case of 5",
+            "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-classic-double-edge-razor?variant=48263283343625",
+            "price": "18.75 GBP",
+            "sale_price": null,
+            "availability": "out_of_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/DE_Razor_clipped_rev_1.jpg?v=1723318055",
+            "options": {
+              "Size": "Case of 5"
             }
           }
         ]
