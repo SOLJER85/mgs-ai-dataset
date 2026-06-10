@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-09",
-    "generated_at": "2026-06-09T06:11:20+00:00",
+    "last_updated": "2026-06-10",
+    "generated_at": "2026-06-10T06:25:44+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -2623,7 +2623,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CF_Scapicchio_Shaving_Soap-8284-low-res.jpg?v=1751818406",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -2645,7 +2645,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-scapicchio-shaving-soap-110g",
             "price": "35.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CF_Scapicchio_Shaving_Soap-8284-low-res.jpg?v=1751818406",
             "options": {}
           }
@@ -7177,7 +7177,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-talcum-powder-usb-JPEG-1.jpg?v=1752743462",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7198,7 +7198,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-talcum-powder",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-talcum-powder-usb-JPEG-1.jpg?v=1752743462",
             "options": {}
           }
@@ -16798,7 +16798,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16820,7 +16820,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-double-edge-safety-razor-aircraft-aluminium?variant=45376842924297",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
             "options": {
               "Blade Gap & Exposure": "Mild Aggression"
@@ -19366,7 +19366,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-23001-827730.jpg?v=1722957576",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19388,7 +19388,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-23c-long-handle-safety-razor-23001",
             "price": "26.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-23001-827730.jpg?v=1722957576",
             "options": {}
           }
@@ -41161,7 +41161,7 @@
         "brand": "The Bluebeards Revenge",
         "vendor": "The Bluebeards Revenge",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRSHVSOL150.jpg?v=1735926054",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41181,7 +41181,7 @@
             "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-shaving-solution-150ml",
             "price": "11.95 GBP",
             "sale_price": "7.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRSHVSOL150.jpg?v=1735926054",
             "options": {}
           }
@@ -41622,7 +41622,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/A00464WhiskyDandySourCartonSoap100g_1_5000x_186379ce-5352-458d-b989-8f61b6bee7b2.png?v=1743282290",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41644,7 +41644,7 @@
             "url": "https://www.malegroomingsupplies.com/products/the-scottish-fine-soaps-whisky-cocktail-soap-dandy-sour-100g",
             "price": "6.99 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/A00464WhiskyDandySourCartonSoap100g_1_5000x_186379ce-5352-458d-b989-8f61b6bee7b2.png?v=1743282290",
             "options": {}
           }
