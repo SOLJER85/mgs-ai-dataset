@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-12",
-    "generated_at": "2026-06-12T06:43:51+00:00",
+    "last_updated": "2026-06-13",
+    "generated_at": "2026-06-13T06:18:35+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -3286,7 +3286,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes38_clipped_rev_1.jpg?v=1747949947",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3308,7 +3308,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-1445-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes38_clipped_rev_1.jpg?v=1747949947",
             "options": {}
           }
@@ -3362,7 +3362,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes36_clipped_rev_1.jpg?v=1747948374",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3384,7 +3384,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-cedarwood-sandalwood-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes36_clipped_rev_1.jpg?v=1747948374",
             "options": {}
           }
@@ -3628,7 +3628,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes1_clipped_rev_1.jpg?v=1747948924",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3650,7 +3650,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lime-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes1_clipped_rev_1.jpg?v=1747948924",
             "options": {}
           }
@@ -3666,7 +3666,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes3_clipped_rev_1.jpg?v=1748263868",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3688,7 +3688,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-special-reserve-neroli-eau-de-parfum-100ml",
             "price": "98.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes3_clipped_rev_1.jpg?v=1748263868",
             "options": {}
           }
@@ -3704,7 +3704,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes5_clipped_rev_1.jpg?v=1748367167",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3726,7 +3726,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-special-reserve-vetiver-eau-de-parfum-100ml",
             "price": "98.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes5_clipped_rev_1.jpg?v=1748367167",
             "options": {}
           }
@@ -27484,7 +27484,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-66r-male-grooming-supplies-709804.jpg?v=1722956999",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27506,7 +27506,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-66r-safety-razor",
             "price": "27.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-66r-male-grooming-supplies-709804.jpg?v=1722956999",
             "options": {}
           }
@@ -30931,7 +30931,7 @@
         "name": "Parker VAR SC Open Comb Safety Razor - Satin Chrome",
         "category": "Razors > Parker Shaving",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Parker Variant Adjustable Open Comb safety razor is a precision-engineered tool designed for exceptional durability and performance. Its innovative open comb head stretches the skin while shaving, ensuring a close and comfortable experience. This design is perfect for daily shaving or tackling multiple days of stubble with ease. The electroplated brass handle features a knurled texture for a secure grip, even with wet hands, while the adjustment knob at the bottom offers deeply ridged grooves for enhanced control. With over 50 years of expertise, Parker Safety Razor has been producing premium-quality razors trusted by professionals worldwide. This adjustable razor suits both beginners and experienced shavers. The blade angle can be customised by turning the bottom dial, with settings ranging from 1 (mildest) to 5 (most aggressive). This allows for a tailored shaving experience based on facial hair thickness, skin type, and personal preferences. The satin chrome finish adds a sophisticated touch to the heavyweight, all-brass frame, making it as stylish as it is functional. Key Features: Adjustable Settings: Five settings to customise blade angle, accommodating different facial hair thicknesses, skin types, and experience levels. Open Comb Design: Stretches the skin for a closer shave, suitable for daily shaving or multiple days of stubble. Durable Construction: Genuine brass frame with a satin chrome electroplated finish for long-lasting quality. Enhanced Grip: Knurled handle and ridged adjustment knob ensure a secure hold during use. Specifications: Weight: 115g / 4 oz. Length: 102mm / 4 in. Blade Type: Double-edge razor blades (compatible with all standard DE blades). Design: Two-piece adjustable design for precise blade alignment. For related Parker options, compare Parker 22R Gunmetal Chrome Safety Razor with Parker 24C Open Comb Safety Razor, or browse the Parker Shaving collection. For storage or travel, this Parker safety razor can be paired with the Parker LP1 leather safety razor pouch or the Parker LP3 leather saddle case when available.",
+        "description": "The Parker Variant Adjustable Open Comb safety razor is a precision-engineered tool designed for exceptional durability and performance. Its innovative open comb head stretches the skin while shaving, ensuring a close and comfortable experience. This design is perfect for daily shaving or tackling multiple days of stubble with ease. The electroplated brass handle features a knurled texture for a secure grip, even with wet hands, while the adjustment knob at the bottom offers deeply ridged grooves for enhanced control. With over 50 years of expertise, Parker Safety Razor has been producing premium-quality razors trusted by professionals worldwide. This adjustable razor suits both beginners and experienced shavers. The blade angle can be customised by turning the bottom dial, with settings ranging from 1 (mildest) to 5 (most aggressive). This allows for a tailored shaving experience based on facial hair thickness, skin type, and personal preferences. The satin chrome finish adds a sophisticated touch to the heavyweight, all-brass frame, making it as stylish as it is functional. Key Features: Adjustable Settings: Five settings to customise blade angle, accommodating different facial hair thicknesses, skin types, and experience levels. Open Comb Design: Stretches the skin for a closer shave, suitable for daily shaving or multiple days of stubble. Durable Construction: Genuine brass frame with a satin chrome electroplated finish for long-lasting quality. Enhanced Grip: Knurled handle and ridged adjustment knob ensure a secure hold during use. Specifications: Weight: 115g / 4 oz. Length: 102mm / 4 in. Blade Type: Double-edge razor blades (compatible with all standard DE blades). Blades not included Design: Two-piece adjustable design for precise blade alignment. For related Parker options, compare Parker 22R Gunmetal Chrome Safety Razor with Parker 24C Open Comb Safety Razor, or browse the Parker Shaving collection. For storage or travel, this Parker safety razor can be paired with the Parker LP1 leather safety razor pouch or the Parker LP3 leather saddle case when available.",
         "url": "https://www.malegroomingsupplies.com/products/parker-variant-adjustable-open-comb-safety-razor-satin-chrome",
         "price": "£53.95",
         "brand": "Parker",
