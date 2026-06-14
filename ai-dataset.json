@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-13",
-    "generated_at": "2026-06-13T06:18:35+00:00",
+    "last_updated": "2026-06-14",
+    "generated_at": "2026-06-14T06:43:04+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -16138,7 +16138,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Timor_Rasierklinge_Dispenser_001_800x800_clipped_rev_1.jpg?v=1759056133",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16159,7 +16159,7 @@
             "url": "https://www.malegroomingsupplies.com/products/g-and-f-timor-razor-blades?variant=56235623809289",
             "price": "3.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Timor_Rasierklinge_Dispenser_001_800x800_clipped_rev_1.jpg?v=1759056133",
             "options": {
               "Quantity": "Pack of 10"
@@ -16174,7 +16174,7 @@
             "url": "https://www.malegroomingsupplies.com/products/g-and-f-timor-razor-blades?variant=56235623776521",
             "price": "53.85 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-klingenbox-02_1920x1920_clipped_rev_1.jpg?v=1759056133",
             "options": {
               "Quantity": "Box of 200"
