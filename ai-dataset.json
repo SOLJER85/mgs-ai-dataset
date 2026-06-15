@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-14",
-    "generated_at": "2026-06-14T06:43:04+00:00",
+    "last_updated": "2026-06-15",
+    "generated_at": "2026-06-15T07:22:53+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1004,
-    "variant_count": 1260,
+    "product_count": 1005,
+    "variant_count": 1261,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -10934,6 +10934,44 @@
         ]
       },
       {
+        "name": "D.R. Harris Sandalwood Shaving Soap Refill 100g",
+        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "product_category": "Health & Beauty > Personal Care > Hair Care",
+        "description": "D.R. Harris Sandalwood Shaving Soap Refill 100g is a traditional solid shaving soap, triple-milled to create a rich, creamy lather with excellent cushioning for a close and comfortable wet shave. This economical 100g shaving soap refill is designed to fit D.R. Harris beech and mahogany shaving bowls, making it ideal for replacing a finished puck without needing to buy a new bowl. The classic Sandalwood fragrance gives the shave a warm, refined character, with a traditional scent profile suited to daily use. Use with a quality shaving brush to build a dense lather before shaving. Key Features Triple-milled shaving soap for a rich, creamy lather Warm Sandalwood fragrance with a traditional masculine character 100g refill puck designed for D.R. Harris beech and mahogany bowls Economical format that lasts for several months with regular use Best used with a shaving brush for proper lather building Specifications Brand: D.R. Harris Type: Shaving soap refill Size: 100g Format: Solid shaving soap puck Fragrance: Sandalwood Compatibility: Fits D.R. Harris beech and mahogany shaving bowls Ingredients Potassium Palmate, Sodium Tallowate, Aqua, Glycerin, Potassium Stearate, Sodium Palmate, Potassium Palm Kernelate, Sodium Stearate, Sodium Palm Kernelate, Sodium Cocoate, Palm Kernel Acid, Parfum (Fragrance), Petrolatum, Sodium Chloride, Linalool, Coumarin, Tetrasodium Etidronate, Pentasodium Pentetate, Tetrasodium EDTA, O-Tolyl Biguanide, Limonene, CI 77891.",
+        "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-soap-refill-100g",
+        "price": "£15.00",
+        "brand": "D.R. Harris",
+        "vendor": "D.R. Harris",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-bowl-refill-JPEG_7c5d48a3-3ed7-47df-9fe7-bdfde146ce4b.jpg?v=1781469674",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Cream, Gels & Soaps",
+        "collections": [
+          "Shaving Soap",
+          "New Additions",
+          "D.R. Harris",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57077126529289",
+            "sku": "80101",
+            "gtin": "5060242621208",
+            "mpn": null,
+            "title": "D.R. Harris Sandalwood Shaving Soap Refill 100g",
+            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-soap-refill-100g",
+            "price": "15.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-bowl-refill-JPEG_7c5d48a3-3ed7-47df-9fe7-bdfde146ce4b.jpg?v=1781469674",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "D.R. Harris Sandalwood Shaving Stick 40g",
         "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
@@ -13028,7 +13066,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304924937",
             "price": "2.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-blade-holder-for-shavette-3-colours-218219.jpg?v=1723066525",
             "options": {
               "Colour": "Green"
