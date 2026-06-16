@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-15",
-    "generated_at": "2026-06-15T07:22:53+00:00",
+    "last_updated": "2026-06-16",
+    "generated_at": "2026-06-16T07:28:51+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -18906,7 +18906,7 @@
         "brand": "Marvis",
         "vendor": "Marvis",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8784120-mt411375-2-3-1000_124651a5-924b-49b3-ac99-2bc9db867419.jpg?v=1778278241",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18928,7 +18928,7 @@
             "url": "https://www.malegroomingsupplies.com/products/marvis-jasmin-mint-toothpaste-85ml",
             "price": "7.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8784120-mt411375-2-3-1000_124651a5-924b-49b3-ac99-2bc9db867419.jpg?v=1778278241",
             "options": {}
           }
