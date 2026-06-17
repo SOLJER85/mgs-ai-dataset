@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-16",
-    "generated_at": "2026-06-16T07:28:51+00:00",
+    "last_updated": "2026-06-17",
+    "generated_at": "2026-06-17T07:11:42+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1005,
-    "variant_count": 1261,
+    "product_count": 1006,
+    "variant_count": 1262,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -8067,6 +8067,43 @@
             "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/exfoliating-cream-50ml-usb-JPEG.jpg?v=1757169724",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "D.R. Harris Face Cloth",
+        "category": "Face > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care",
+        "description": "The D.R. Harris Face Cloth is made from organic, unbleached cotton for a soft, durable and more sustainable everyday flannel. Designed for daily cleansing, shaving preparation or removing excess product, this traditional cotton face cloth has a smooth, natural feel against the skin. It measures 32cm x 30cm and features two woven bands with the D.R. Harris signature in dark green for a refined finishing touch. Simple, practical and long-lasting, it is a useful addition to any traditional grooming routine. Key Features Organic, unbleached cotton for a softer and more natural feel Durable everyday face cloth for cleansing and shaving preparation Traditional flannel design with two woven bands D.R. Harris signature in dark green Specifications Brand: D.R. Harris Type: Face cloth / flannel Material: Organic, unbleached cotton Dimensions: 32cm x 30cm Colour Detail: Two woven bands with dark green D.R. Harris signature",
+        "url": "https://www.malegroomingsupplies.com/products/dr-harris-face-cloth",
+        "price": "£9.00",
+        "brand": "D.R. Harris",
+        "vendor": "D.R. Harris",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1756-_Face_Cloth_2_600.jpg?v=1781646192",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Face",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "D.R. Harris",
+          "Face & Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57077126562057",
+            "sku": "998000",
+            "gtin": "5060242623387",
+            "mpn": null,
+            "title": "D.R. Harris Face Cloth",
+            "url": "https://www.malegroomingsupplies.com/products/dr-harris-face-cloth",
+            "price": "9.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1756-_Face_Cloth_2_600.jpg?v=1781646192",
             "options": {}
           }
         ]
@@ -29822,7 +29859,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-premium-double-edge-razor-blades?variant=48778249830665",
             "price": "18.95 GBP",
             "sale_price": "14.50 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-premium-double-edge-blades-male-grooming-supplies-559399.jpg?v=1722957111",
             "options": {
               "Pack Size": "Pack of 100"
