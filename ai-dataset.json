@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-17",
-    "generated_at": "2026-06-17T07:11:42+00:00",
+    "last_updated": "2026-06-18",
+    "generated_at": "2026-06-18T06:54:03+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -29823,7 +29823,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-premium-double-edge-blades-male-grooming-supplies-559399.jpg?v=1722957111",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29844,7 +29844,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-premium-double-edge-razor-blades?variant=48778249863433",
             "price": "2.25 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-premium-double-edge-blades-male-grooming-supplies-559399.jpg?v=1722957111",
             "options": {
               "Pack Size": "Pack of 5"
@@ -41697,7 +41697,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/A00464WhiskyDandySourCartonSoap100g_1_5000x_186379ce-5352-458d-b989-8f61b6bee7b2.png?v=1743282290",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41719,7 +41719,7 @@
             "url": "https://www.malegroomingsupplies.com/products/the-scottish-fine-soaps-whisky-cocktail-soap-dandy-sour-100g",
             "price": "6.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/A00464WhiskyDandySourCartonSoap100g_1_5000x_186379ce-5352-458d-b989-8f61b6bee7b2.png?v=1743282290",
             "options": {}
           }
