@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-19",
-    "generated_at": "2026-06-19T07:08:29+00:00",
+    "last_updated": "2026-06-20",
+    "generated_at": "2026-06-20T06:23:01+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1006,
-    "variant_count": 1262,
+    "product_count": 1005,
+    "variant_count": 1261,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -252,7 +252,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Simpsons Barbican Boar Bristle Shaving Brush introduces a long-requested addition to the Simpsons range. Hand-turned in a traditional faux ivory handle, the Barbican provides the natural backbone and firm feel that boar bristle enthusiasts appreciate, softening progressively with use. Designed to offer excellent value, strong lathering capability and classic styling, this brush performs beautifully with hard soaps and produces a dense, controlled lather. Its well-proportioned handle provides a comfortable grip, making it suitable for both experienced wet shavers and those new to boar bristle brushes. For related Simpsons options, compare Alexander Simpson 'Farringdon' Boar Bristle Shaving Brush with Simpsons 'Berkeley 46' Sovereign Synthetic Shaving Brush, or browse the Shaving Brushes collection. Key Features: Filled with boar bristle for firm backbone and strong loading power Classic faux ivory handle Ideal for hard soaps and daily use Natural bristle that softens over time Balanced, comfortable proportions A practical and affordable addition to the Simpsons range Specifications: Overall brush height: 105mm Knot height: 53mm Handle height: 52mm Knot diameter: 22mm",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-barbican-boar-bristle",
-        "price": "£13.95",
+        "price": "£11.15",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Barbican.png?v=1765233840",
@@ -277,7 +277,7 @@
             "title": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-barbican-boar-bristle",
             "price": "13.95 GBP",
-            "sale_price": null,
+            "sale_price": "11.15 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Barbican.png?v=1765233840",
             "options": {}
@@ -484,7 +484,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1125_clipped_rev_1.jpg?v=1748896556",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -506,7 +506,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-pre-shave-oil",
             "price": "11.50 GBP",
             "sale_price": "7.50 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1125_clipped_rev_1.jpg?v=1748896556",
             "options": {}
           }
@@ -11431,44 +11431,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/twenty-nine-bath-oil-JPEG.jpg?v=1757171564",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "D.R. Harris Twenty Nine Shaving Cream Bowl 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
-        "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "A luxurious shaving cream designed for traditional wet shaving. Triple-milled to create a rich, creamy lather that softens the beard and protects the skin. Lightly fragranced with Twenty Nine, a distinctive blend of rose geranium, cinnamon, and clove. The concentrated formula contains a high proportion of glycerine for added moisturising and soothing benefits. To use, apply to a damp face and lather using a quality shaving brush dipped in warm water, or apply with the hands. The cream produces a generous lather that softens the beard for a smooth and comfortable shave. For related D.R. Harris options, compare D.R. Harris Marlborough Shaving Cream Bowl 150g with D.R. Harris Marlborough Shaving Cream Tube 75g, or browse the Shaving Creams collection. Key Features Produces a rich, protective lather for a traditional wet shave Lightly fragranced with rose geranium, cinnamon, and clove High glycerine content for extra hydration Suitable for use with a shaving brush or by hand Specifications Size: 150g bowl Packaging: Classic bowl with D.R. Harris branding IngredientsAqua (Water), Stearic Acid, Myristic Acid, Potassium Hydroxide, Coconut Acid, Glycerin, Parfum (Fragrance), Triethanolamine, Sodium Hydroxide, Geraniol, Eugenol, Citronellol, Linalool, Cinnamal, Limonene",
-        "url": "https://www.malegroomingsupplies.com/products/d-r-harris-twenty-nine-shaving-cream-bowl-150g",
-        "price": "£25.00",
-        "brand": "D.R. Harris",
-        "vendor": "D.R. Harris",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/twenty-nine-shaving-cream-tub-JPEG.jpg?v=1757168218",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Cream, Gels & Soaps",
-        "collections": [
-          "Men's Shaving Creams",
-          "New Additions",
-          "D.R. Harris",
-          "Shaving Essentials",
-          "Shaving Preparations"
-        ],
-        "variants": [
-          {
-            "id": "55897931383049",
-            "sku": "29202",
-            "gtin": "5060242623783",
-            "mpn": null,
-            "title": "D.R. Harris Twenty Nine Shaving Cream Bowl 150g",
-            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-twenty-nine-shaving-cream-bowl-150g",
-            "price": "25.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/twenty-nine-shaving-cream-tub-JPEG.jpg?v=1757168218",
             "options": {}
           }
         ]
@@ -37125,7 +37087,7 @@
             "title": "Simpsons 'The Chubby' Sovereign Synthetic Shaving Brush - Chubby 2 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic?variant=56363185832201",
             "price": "75.95 GBP",
-            "sale_price": "49.95 GBP",
+            "sale_price": "57.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-sov-front_clipped_rev_1.jpg?v=1765233592",
             "options": {
