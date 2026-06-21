@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-20",
-    "generated_at": "2026-06-20T06:23:01+00:00",
+    "last_updated": "2026-06-21",
+    "generated_at": "2026-06-21T06:52:59+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -15757,7 +15757,7 @@
         "brand": "Floris London",
         "vendor": "Floris London",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-shaving-cream-100ml-front.jpg?v=1752608705",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -15779,7 +15779,7 @@
             "url": "https://www.malegroomingsupplies.com/products/floris-no89-shaving-cream-100ml",
             "price": "30.00 GBP",
             "sale_price": "26.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-shaving-cream-100ml-front.jpg?v=1752608705",
             "options": {}
           }
@@ -16023,7 +16023,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-timor-black-leather-roll-up-razor-case-400847.jpg?v=1723969825",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16045,7 +16045,7 @@
             "url": "https://www.malegroomingsupplies.com/products/gf-timor-black-leather-roll-up-razor-case",
             "price": "43.75 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-timor-black-leather-roll-up-razor-case-400847.jpg?v=1723969825",
             "options": {}
           }
@@ -17110,7 +17110,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HensonBoxSet1_clipped_rev_1.jpg?v=1734179700",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17133,7 +17133,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-shaving-box-set-al13-razor-stand-100-blades",
             "price": "119.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HensonBoxSet1_clipped_rev_1.jpg?v=1734179700",
             "options": {}
           }
@@ -17223,7 +17223,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-rk-shaving-stainless-de-razor-blades-100-pack-male-grooming-supplies-906892.jpg?v=1722956564",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17244,7 +17244,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-rk-shaving-stainless-de-razor-blades-100-pack",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-rk-shaving-stainless-de-razor-blades-100-pack-male-grooming-supplies-906892.jpg?v=1722956564",
             "options": {}
           }
