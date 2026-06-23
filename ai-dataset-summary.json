@@ -2,23 +2,23 @@
   "api_version": "2026-04",
   "category_counts": {
     "Health & Beauty > Personal Care": 15,
-    "Health & Beauty > Personal Care > Bath & Body": 62,
+    "Health & Beauty > Personal Care > Bath & Body": 65,
     "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne": 111,
-    "Health & Beauty > Personal Care > Cosmetics > Skin Care": 29,
-    "Health & Beauty > Personal Care > Hair Care": 310,
+    "Health & Beauty > Personal Care > Cosmetics > Skin Care": 31,
+    "Health & Beauty > Personal Care > Hair Care": 312,
     "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care": 94,
-    "Health & Beauty > Personal Care > Hair Care > Hair Color": 4,
+    "Health & Beauty > Personal Care > Hair Care > Hair Color": 6,
     "Health & Beauty > Personal Care > Oral Care": 31,
-    "Health & Beauty > Personal Care > Shaving & Grooming": 284,
+    "Health & Beauty > Personal Care > Shaving & Grooming": 285,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 321
   },
   "currency": "GBP",
-  "generated_at": "2026-06-22T07:26:12+00:00",
+  "generated_at": "2026-06-23T06:09:11+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1005,
+  "included_products": 1015,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 384,
+  "skipped_products": 374,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15367113998601",
@@ -145,12 +145,12 @@
   "source_products": 1389,
   "validation": {
     "availability_counts": {
-      "in_stock": 913,
-      "out_of_stock": 348
+      "in_stock": 922,
+      "out_of_stock": 349
     },
     "checkout_eligibility_counts": {
-      "false": 348,
-      "true": 913
+      "false": 349,
+      "true": 922
     },
     "duplicate_item_id_count": 0,
     "invalid_gtin_rows": 0,
@@ -173,8 +173,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1261,
-    "rows_with_gtin": 1188,
+    "row_count": 1271,
+    "rows_with_gtin": 1198,
     "rows_with_mpn": 0,
     "target_country_count": 234
   }

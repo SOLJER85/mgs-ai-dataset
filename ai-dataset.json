@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-22",
-    "generated_at": "2026-06-22T07:26:12+00:00",
+    "last_updated": "2026-06-23",
+    "generated_at": "2026-06-23T06:09:11+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1005,
-    "variant_count": 1261,
+    "product_count": 1015,
+    "variant_count": 1271,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -3429,6 +3429,44 @@
         ]
       },
       {
+        "name": "Castle Forbes Forbes of Forbes Shaving Cream 200ml",
+        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "product_category": "Health & Beauty > Personal Care > Hair Care",
+        "description": "Castle Forbes Forbes of Forbes Shaving Cream 200ml is a distinguished traditional shaving cream created to accompany the Forbes of Forbes Eau de Parfum. Celebrating the heritage of the House of Forbes, it offers a refined shaving experience with a rich, cushioning lather and a polished fragrance character. Only a small amount of cream is needed. Blended with water and worked with a shaving brush, it produces a dense, velvety foam that helps cushion the blade, improve glide and leave the skin feeling soft, calm and refreshed after shaving. In keeping with the Castle Forbes approach to classic British grooming, the formula is free from parabens, artificial colourants and animal-derived ingredients, and is not tested on animals. The concentrated formula gives excellent longevity, making the 200ml jar an economical choice for regular wet shaving. Key Features Traditional shaving cream from Castle Forbes Forbes of Forbes fragrance, designed to accompany the Eau de Parfum Produces a rich, velvety lather with only a small amount Helps cushion the razor for a smooth, comfortable shave Leaves skin feeling soft, calm and refreshed Free from parabens, artificial colourants and animal-derived ingredients Not tested on animals Concentrated formula designed to last for months Supplied in a 200ml recyclable PET jar How to Use Apply a small amount of shaving cream to a damp shaving brush or bowl. Add water gradually and work into a rich lather before applying to the beard area. Shave as usual, then rinse thoroughly. Specifications Brand: Castle Forbes Type: Shaving cream Size: 200ml Format: Concentrated cream Fragrance: Forbes of Forbes Packaging: Recyclable PET jar Formula: Free from parabens, artificial colourants and animal-derived ingredients Use: Brush-built shaving lather",
+        "url": "https://www.malegroomingsupplies.com/products/castle-forbes-forbes-of-forbes-shaving-cream-200ml",
+        "price": "£26.00",
+        "brand": "Castle Forbes",
+        "vendor": "Castle Forbes",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Castle_Forbes_Forbes_of_Forbes_Shaving_Cream_Male_Grooming_Supplies.png?v=1782160456",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Cream, Gels & Soaps",
+        "collections": [
+          "Men's Shaving Creams",
+          "New Additions",
+          "Castle Forbes",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57131430674697",
+            "sku": "06030",
+            "gtin": "608476060308",
+            "mpn": null,
+            "title": "Castle Forbes Forbes of Forbes Shaving Cream 200ml",
+            "url": "https://www.malegroomingsupplies.com/products/castle-forbes-forbes-of-forbes-shaving-cream-200ml",
+            "price": "26.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Castle_Forbes_Forbes_of_Forbes_Shaving_Cream_Male_Grooming_Supplies.png?v=1782160456",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Castle Forbes Gentlemen's Cologne Eau De Parfum 100ml",
         "category": "Fragrances > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne",
@@ -6604,6 +6642,44 @@
             "options": {
               "Volume": "2ml Spray"
             }
+          }
+        ]
+      },
+      {
+        "name": "D.R. Harris Arlington Guest Soap 5 x 40g Pack",
+        "category": "Hand Soap & Wash > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "description": "D.R. Harris Arlington Guest Soap 5 x 40g Pack contains five compact 40g bars of triple-milled Arlington soap. Ideal for guest bathrooms, travel or gifting, each bar offers the classic D.R. Harris Arlington fragrance in a practical smaller size. Triple-milled for a long-lasting, creamy lather, this soap is fragranced with Arlington, the brand’s classic blend of fresh citrus and fern. Each 40g bar is designed to last at least 10 days with normal use, making the pack useful for short stays, wash bags and hospitality use. Also available as a single 40g bar, 150g, 200g and 200g Soap-on-a-Rope. Key Features Pack of 5 x 40g Arlington guest soaps Ideal for guest bathrooms, travel or gifting Triple-milled for a long-lasting, creamy lather Classic Arlington fragrance with citrus and fern Each 40g bar lasts at least 10 days with normal use Compact size, convenient for wash bags and short stays Made in the UK Specifications Brand: D.R. Harris Type: Guest soap / bath soap Pack Size: 5 bars Bar Size: 40g each Total Weight: 200g Fragrance: Arlington Format: Triple-milled solid soap bars Made in: United Kingdom Ingredients Sodium Palmate, Sodium Cocoate, Aqua, Glycerin, Parfum (Fragrance), Limonene, Butyrospermum Parkii (Shea Butter), Sodium Chloride, Linalool, Geraniol, Citronellol, Citral, Disodium EDTA, Farnesol, Tetrasodium EDTA, Pentasodium Pentetate, Tetrasodium Etidronate, CI 19140 (FD&C Yellow No. 5), CI 77891 (Titanium Dioxide).",
+        "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-guest-soap-5-x-40g",
+        "price": "£25.00",
+        "brand": "D.R. Harris",
+        "vendor": "D.R. Harris",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/40g-soap-arlington-x5-usb-JPEG-1.jpg?v=1779445513",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Hand Soap & Wash",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Gift Sets",
+          "D.R. Harris",
+          "Bath, Body & Hand Care"
+        ],
+        "variants": [
+          {
+            "id": "57077126627593",
+            "sku": "41045",
+            "gtin": "5060242624384",
+            "mpn": null,
+            "title": "D.R. Harris Arlington Guest Soap 5 x 40g Pack",
+            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-guest-soap-5-x-40g",
+            "price": "25.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/40g-soap-arlington-x5-usb-JPEG-1.jpg?v=1779445513",
+            "options": {}
           }
         ]
       },
@@ -10749,6 +10825,44 @@
         ]
       },
       {
+        "name": "D.R. Harris Sandalwood Guest Soap 5 x 40g Pack",
+        "category": "Hand Soap & Wash > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "description": "D.R. Harris Sandalwood Guest Soap 5 x 40g Pack contains five individually sized 40g bars of triple-milled Sandalwood bath soap. Ideal for guest bathrooms, travel or gifting, each compact bar offers the quality and fragrance of D.R. Harris Sandalwood soap in a practical smaller format. Triple-milled for a long-lasting, creamy lather, this soap is fragranced with the distinctive D.R. Harris Sandalwood scent, a refined blend with notes of eucalyptus, bergamot, camphor, clove and vetiver. Each bar is designed to last at least 10 days with normal use, making the pack useful for travel, hospitality or everyday rotation. Also available as a single 40g bar and in the larger 150g size. Key Features Pack of 5 x 40g Sandalwood guest soaps Ideal for guest bathrooms, travel or gifting Triple-milled for a long-lasting, creamy lather Sandalwood fragrance with notes of eucalyptus, bergamot, camphor, clove and vetiver Each 40g bar lasts at least 10 days with normal use Compact size, convenient for wash bags and short stays Made in the UK Specifications Brand: D.R. Harris Type: Guest soap / bath soap Pack Size: 5 bars Bar Size: 40g each Total Weight: 200g Fragrance: Sandalwood Format: Triple-milled solid soap bars Made in: United Kingdom Ingredients Sodium Palmate, Sodium Cocoate, Aqua (Water), Glycerin, Parfum (Fragrance), Butyrospermum Parkii (Shea Butter), Sodium Chloride, Linalool, Coumarin, Disodium EDTA, Limonene, Tetrasodium Etidronate, Tetrasodium EDTA, Pentasodium Pentetate, Eugenol.",
+        "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-guest-soap-5-x-40g",
+        "price": "£25.00",
+        "brand": "D.R. Harris",
+        "vendor": "D.R. Harris",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/40g-soap-sandalwood-x5-usb-JPEG-1.jpg?v=1779450263",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Hand Soap & Wash",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Gift Sets",
+          "D.R. Harris",
+          "Bath, Body & Hand Care"
+        ],
+        "variants": [
+          {
+            "id": "57077126693129",
+            "sku": "80045",
+            "gtin": "5060242624407",
+            "mpn": null,
+            "title": "D.R. Harris Sandalwood Guest Soap 5 x 40g Pack",
+            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-guest-soap-5-x-40g",
+            "price": "25.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/40g-soap-sandalwood-x5-usb-JPEG-1.jpg?v=1779450263",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "D.R. Harris Sandalwood Head to Toe Wash",
         "category": "Bath Soap and Shower Gels > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
@@ -11855,6 +11969,44 @@
             "options": {
               "Volume": "Pack of 6"
             }
+          }
+        ]
+      },
+      {
+        "name": "D.R. Harris Windsor Guest Soap 5 x 40g Pack",
+        "category": "Hand Soap & Wash > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "description": "D.R. Harris Windsor Guest Soap 5 x 40g Pack contains five compact 40g bars of triple-milled Windsor soap. Ideal for guest bathrooms, travel or gifting, each bar offers the quality and fragrance of D.R. Harris Windsor soap in a practical smaller size. Triple-milled for a long-lasting, creamy lather, this soap is fragranced with Windsor, a refined blend of grapefruit, black pepper and vetiver. Each 40g bar is designed to last at least 10 days with normal use, making the pack useful for short stays, wash bags and hospitality use. Also available as a single 40g bar and in the larger 150g size. Key Features Pack of 5 x 40g Windsor guest soaps Ideal for guest bathrooms, travel or gifting Triple-milled for a long-lasting, creamy lather Windsor fragrance with grapefruit, black pepper and vetiver Each 40g bar lasts at least 10 days with normal use Compact size, convenient for wash bags and short stays Made in the UK Specifications Brand: D.R. Harris Type: Guest soap / bath soap Pack Size: 5 bars Bar Size: 40g each Total Weight: 200g Fragrance: Windsor Format: Triple-milled solid soap bars Made in: United Kingdom Ingredients Sodium Palmate, Sodium Cocoate, Aqua (Water), Glycerin, Parfum (Fragrance), Butyrospermum Parkii (Shea Butter), Sodium Chloride, Limonene, Hydroxycitronellol, Disodium EDTA, Citronellol, Amyl Cinnamal, Tetrasodium Etidronate, Pentasodium Pentetate, Tetrasodium EDTA, Linalool.",
+        "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-guest-soap-5-x-40g",
+        "price": "£25.00",
+        "brand": "D.R. Harris",
+        "vendor": "D.R. Harris",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/40g-soap-windsor-x5-usb-JPEG-1.jpg?v=1779445513",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Hand Soap & Wash",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Gift Sets",
+          "D.R. Harris",
+          "Bath, Body & Hand Care"
+        ],
+        "variants": [
+          {
+            "id": "57077126660361",
+            "sku": "21045",
+            "gtin": "5060242624414",
+            "mpn": null,
+            "title": "D.R. Harris Windsor Guest Soap 5 x 40g Pack",
+            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-guest-soap-5-x-40g",
+            "price": "25.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/40g-soap-windsor-x5-usb-JPEG-1.jpg?v=1779445513",
+            "options": {}
           }
         ]
       },
@@ -14379,7 +14531,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14400,7 +14552,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades?variant=49025525907721",
             "price": "3.60 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
             "options": {
               "Pack Size": "Pack of 10"
@@ -22882,6 +23034,43 @@
         ]
       },
       {
+        "name": "Morgan’s 'Grey Away' Liquid Colour Restorer 120ml",
+        "category": "Hair Styling > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care",
+        "description": "Morgan’s Grey Away Liquid Colour Restorer 120ml is a liquid hair colour restorer designed to gradually reduce the appearance of grey hair and help restore a darker, more lustrous look over time. Unlike conventional instant dyes, this gradual colour restorer works over a period of around 3 to 4 weeks, allowing you to build colour slowly until you reach your preferred shade. It is suitable for normal hair, longer hair and for darkening grey areas around the temples. The formula contains Panthenol, which helps maintain the hair’s healthy appearance while adding moisture and conditioning. With regular use, Morgan’s Grey Away Liquid Colour Restorer helps improve shine, lustre and overall hair appearance in one simple spray application. Key Features Gradual hair colour restorer for grey hair Helps restore a darker, more lustrous appearance over 3 to 4 weeks Alternative to conventional instant hair dyes Suitable for normal hair, long hair and darkening temples Contains Panthenol to help moisturise and condition the hair Helps improve shine, lustre and brilliance Easy-to-use 120ml spray bottle How to Use Apply to clean, dry hair and style as usual. Use regularly over several weeks until the desired shade is achieved. Wash hands after use and avoid contact with eyes, clothing and porous surfaces. Specifications Brand: Morgan’s Type: Hair colour restorer Size: 120ml Format: Spray bottle Use: Gradual grey hair darkening Suitable For: Normal hair, long hair and grey temples Key Ingredient: Panthenol Result: Gradual colour restoration, shine and conditioning",
+        "url": "https://www.malegroomingsupplies.com/products/morgans-grey-away-liquid-colour-restorer-120ml",
+        "price": "£8.00",
+        "brand": "Morgan's",
+        "vendor": "Morgan's",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/120ml-Grey-Away_clipped_rev_1.jpg?v=1781465539",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Hair Styling",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Morgan's",
+          "Hair Styling Products"
+        ],
+        "variants": [
+          {
+            "id": "57131298783497",
+            "sku": "M005",
+            "gtin": "5012521500407",
+            "mpn": null,
+            "title": "Morgan’s 'Grey Away' Liquid Colour Restorer 120ml",
+            "url": "https://www.malegroomingsupplies.com/products/morgans-grey-away-liquid-colour-restorer-120ml",
+            "price": "8.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/120ml-Grey-Away_clipped_rev_1.jpg?v=1781465539",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Morgan’s 3-in-1 Shampoo, Wash, Shave 100ml",
         "category": "Bath Soap and Shower Gels > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
@@ -22915,6 +23104,118 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/24._3in1_Gel_100ml.jpg?v=1748434748",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Morgan’s Age Defying Moisturiser For Men 45ml",
+        "category": "Face > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care",
+        "description": "Morgan’s Age Defying Moisturiser For Men 45ml is a daily facial moisturiser designed to hydrate, protect and support smoother-looking skin. Formulated with UV filters, Shea Butter, natural oils and Matrixyl 3000, it helps care for the skin while targeting the visible signs of ageing. The formula includes Panthenol, also known as Pro-Vitamin B5, a vitamin complex of B3, B5, C, E and B6, plus Glycerin and Aloe Vera to help moisturise and comfort the skin. Argan Oil, Wheatgerm Oil, Camellia Oil and Shea Butter add nourishment, while UVA and UVB filters help protect against daily sun exposure. Use as the final step in your daily skincare routine after cleansing and drying the face. Key Features Age-defying moisturiser for men Helps hydrate, smooth and protect the skin Contains Matrixyl 3000 with Palmitoyl Tripeptide-1 and Palmitoyl Tetrapeptide-7 Includes UVA and UVB filters for daily skin protection Enriched with Shea Butter, Argan Oil, Wheatgerm Oil and Camellia Oil Contains Panthenol, Glycerin and Aloe Vera Vitamin complex with B3, B5, C, E and B6 Suitable for daily use after cleansing How to Use For best results: Wash with Morgan’s Face Wash. Exfoliate 1 to 2 times per week with Morgan’s Exfoliating Face Scrub. Dry the face with a clean towel. Apply Morgan’s Age Defying Moisturiser For Men evenly to the face. Specifications Brand: Morgan’s Type: Men’s facial moisturiser Size: 45ml Skin Benefit: Hydrating, smoothing, protective and age-defying Key Ingredients: Matrixyl 3000, Panthenol, Glycerin, Aloe Vera, Shea Butter Oils: Argan Oil, Wheatgerm Oil, Camellia Oil Vitamins: B3, B5, C, E and B6 UV Protection: UVA and UVB filters Use: Apply after cleansing to clean, dry skin",
+        "url": "https://www.malegroomingsupplies.com/products/morgans-age-defying-moisturiser-for-men-45ml",
+        "price": "£18.00",
+        "brand": "Morgan's",
+        "vendor": "Morgan's",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/age-defying-moisturiser3.jpg?v=1781469085",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Face",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Morgan's",
+          "Face & Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57131436114185",
+            "sku": "M220",
+            "gtin": "5012521542841",
+            "mpn": null,
+            "title": "Morgan’s Age Defying Moisturiser For Men 45ml",
+            "url": "https://www.malegroomingsupplies.com/products/morgans-age-defying-moisturiser-for-men-45ml",
+            "price": "18.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/age-defying-moisturiser3.jpg?v=1781469085",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Morgan’s Age Defying Serum 50ml",
+        "category": "Face > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care",
+        "description": "Morgan’s Age Defying Serum 50ml is a facial rejuvenating serum designed to help soften the appearance of fine lines while supporting smoother, fresher-looking skin. This mild, vegan formula has a neutral pH and is enriched with Hyaluronic Acid, Aloe Vera and Vitamin C. Lightweight and easy to apply, it fits naturally into a daily facial cleansing and moisturising routine, helping the skin feel hydrated, comfortable and better prepared for moisturiser. Use after cleansing and before moisturising as part of your morning or evening skincare routine. Key Features Age-defying facial serum for daily skincare Helps soften the appearance of fine lines Mild formula with neutral pH Contains Hyaluronic Acid, Aloe Vera and Vitamin C Lightweight serum for use before moisturiser Vegan product Suitable as part of a daily cleansing and moisturising routine How to Use Apply 2 pumps onto the tips of your fingers and massage into a clean, dry face. Once absorbed, follow with Morgan’s Daily Moisturiser or Morgan’s Age Defying Moisturiser. Specifications Brand: Morgan’s Type: Facial serum Size: 50ml Formula: Mild, neutral pH Key Ingredients: Hyaluronic Acid, Aloe Vera, Vitamin C Skin Benefit: Hydrating, smoothing and age-defying Vegan: Yes Use: Apply after cleansing and before moisturiser",
+        "url": "https://www.malegroomingsupplies.com/products/morgans-age-defying-serum-50ml",
+        "price": "£16.00",
+        "brand": "Morgan's",
+        "vendor": "Morgan's",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Age-Defying-Serum-N-50ml-510x510.jpg?v=1781469085",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Face",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Morgan's",
+          "Face & Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57131436179721",
+            "sku": "M320",
+            "gtin": "5012521542858",
+            "mpn": null,
+            "title": "Morgan’s Age Defying Serum 50ml",
+            "url": "https://www.malegroomingsupplies.com/products/morgans-age-defying-serum-50ml",
+            "price": "16.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Age-Defying-Serum-N-50ml-510x510.jpg?v=1781469085",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Morgan’s Anti-Ageing After Shave Balm 100ml",
+        "category": "Post Shave > Post-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "description": "Morgan’s Anti-Ageing After Shave Balm 100ml is a hydrating post-shave lotion designed to soothe, brighten and moisturise the skin after shaving. It helps calm irritation and razor burn while supporting a smoother, more refreshed-looking complexion. Formulated with Matrixyl®3000, an anti-ageing ingredient based on matrikine peptide technology, this balm helps care for the skin as part of a daily grooming routine. It also includes Argan Oil for added nourishment and Morgan’s signature fragrance of Bergamot, Jasmine, Sandalwood and Patchouli. Use after shaving to leave the skin feeling comfortable, conditioned and protected against everyday environmental stress. Key Features Anti-ageing post-shave balm for daily use Made with Matrixyl®3000, based on matrikine peptide technology Argan Oil helps nourish and condition the skin Soothes and moisturises after shaving Helps reduce razor burn and post-shave irritation Supports brighter, smoother-looking skin Pollution defence for everyday skin protection Signature Morgan’s fragrance of Bergamot, Jasmine, Sandalwood and Patchouli 100ml bottle How to Use After shaving, rinse away any remaining shaving cream or gel and splash the face with cold water. Pat dry with a clean towel, then apply Morgan’s Anti-Ageing After Shave Balm liberally to clean skin. Use morning and evening. For Best Results Use with Morgan’s Gentle Shaver, Morgan’s Pre-Shave Oil and Morgan’s Shaving Cream or Shaving Gel. Specifications Brand: Morgan’s Type: After shave balm Size: 100ml Skin Benefit: Soothing, moisturising, brightening and anti-ageing Key Ingredients: Matrixyl®3000, Argan Oil Fragrance: Bergamot, Jasmine, Sandalwood and Patchouli Use: Apply after shaving to clean, dry skin",
+        "url": "https://www.malegroomingsupplies.com/products/morgans-anti-ageing-after-shave-balm-100ml",
+        "price": "£16.00",
+        "brand": "Morgan's",
+        "vendor": "Morgan's",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Aftershave-balm-website-scaled_clipped_rev_1.jpg?v=1782156765",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Post Shave",
+        "collections": [
+          "Post-Shave",
+          "New Additions",
+          "Morgan's",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57144877416713",
+            "sku": "M059",
+            "gtin": "5012521541158",
+            "mpn": null,
+            "title": "Morgan’s Anti-Ageing After Shave Balm 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/morgans-anti-ageing-after-shave-balm-100ml",
+            "price": "16.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Aftershave-balm-website-scaled_clipped_rev_1.jpg?v=1782156765",
             "options": {}
           }
         ]
@@ -23380,6 +23681,82 @@
         ]
       },
       {
+        "name": "Morgan’s Hair Darkening Cream 150ml",
+        "category": "Hair Styling > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Color",
+        "description": "Morgan’s Hair Darkening Cream 150ml is a gradual hair colour restorer designed to darken grey hair over a period of three to four weeks without the need for conventional instant dyes. The quick and easy-to-use cream helps restore, moisturise and control grey hair while allowing the colour to build gradually for a natural-looking result. Regular daily use helps you achieve your preferred shade, which can then be maintained with less frequent applications. Suitable for normal hair, this 150ml tube is ideal for those who want controlled grey hair darkening as part of a regular grooming routine. The formula contains Panthenol, helping the hair feel conditioned and well cared for during use. Key Features Gradual hair darkening cream for grey hair Darkens grey hair over three to four weeks Alternative to conventional instant hair dyes Helps restore, moisturise and control grey hair Allows the user to build colour gradually to their preferred shade Suitable for normal hair Contains Panthenol to help condition the hair Easy-to-use 150ml tube How to Use Before first use, ensure the hair is clean and dry. Apply daily for up to four weeks until the desired shade is achieved. To maintain your chosen colour, reduce the frequency of application. Tip: The process works quicker in warm sunlight or with the use of a hairdryer. Wash hands after use and avoid contact with eyes, clothing and porous surfaces. Specifications Brand: Morgan’s Type: Hair darkening cream Size: 150ml Format: Tube Use: Gradual grey hair darkening Suitable For: Normal hair Key Ingredient: Panthenol Result: Gradual colour restoration, moisturising and grey hair control",
+        "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-cream-150ml",
+        "price": "£8.00",
+        "brand": "Morgan's",
+        "vendor": "Morgan's",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/150ml-HD-Cream-Tube_clipped_rev_1.jpg?v=1781465538",
+        "availability": "out_of_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Hair Styling",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Morgan's",
+          "Hair Styling Products",
+          "Hair Darkening Products"
+        ],
+        "variants": [
+          {
+            "id": "57131298685193",
+            "sku": "M004",
+            "gtin": "5012521510031",
+            "mpn": null,
+            "title": "Morgan’s Hair Darkening Cream 150ml",
+            "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-cream-150ml",
+            "price": "8.00 GBP",
+            "sale_price": null,
+            "availability": "out_of_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/150ml-HD-Cream-Tube_clipped_rev_1.jpg?v=1781465538",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Morgan’s Hair Darkening Mousse 150ml",
+        "category": "Hair Styling > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Color",
+        "description": "Morgan’s Hair Darkening Mousse 150ml is a light, two-in-one styling mousse designed to help darken grey hair while providing daily styling control. The lightweight foam helps style the hair while gradually improving the appearance of greying areas, leaving the hair looking fuller, darker and well-groomed. It is ideal for those who want a simple daily product that combines styling with gradual colour support. Formulated with extracts of Camomile, Coltsfoot and Cornflower, this mousse helps maintain the hair’s healthy appearance while adding shape and vitality. The 150ml pump foamer uses an environmentally friendly, non-aerosol dispenser for easy application. Key Features Two-in-one hair mousse for styling and darkening grey hair Helps maintain a darker, well-groomed appearance with regular use Light formulation that does not feel heavy on the hair Supports daily styling while helping hair look healthy and full of vitality Contains extracts of Camomile, Coltsfoot and Cornflower Environmentally friendly non-aerosol pump foam dispenser 150ml pump foamer bottle How to Use Apply a small amount of mousse to the hands and work evenly through clean, towel-dried or dry hair. Style as required. Use regularly as part of your daily hair grooming routine. Wash hands after use and avoid contact with eyes, clothing and porous surfaces. Specifications Brand: Morgan’s Type: Hair darkening mousse Size: 150ml Format: Pump foamer Dispenser: Non-aerosol foam pump Use: Styling and gradual grey hair darkening Key Ingredients: Camomile, Coltsfoot, Cornflower extracts Suitable For: Daily styling and grey hair control",
+        "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-mousse-150ml",
+        "price": "£8.00",
+        "brand": "Morgan's",
+        "vendor": "Morgan's",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/150ml-HD-Mousse_clipped_rev_1.jpg?v=1781465538",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Hair Styling",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Morgan's",
+          "Hair Styling Products",
+          "Hair Darkening Products"
+        ],
+        "variants": [
+          {
+            "id": "57131298619657",
+            "sku": "M006",
+            "gtin": "5012521510048",
+            "mpn": null,
+            "title": "Morgan’s Hair Darkening Mousse 150ml",
+            "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-mousse-150ml",
+            "price": "8.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/150ml-HD-Mousse_clipped_rev_1.jpg?v=1781465538",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Morgan’s Moustache Twist and Twiddle Styling Wax 50g",
         "category": "Beard and Moustache > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
@@ -23464,7 +23841,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-pomade?variant=55572123844873",
             "price": "8.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Pomade-100g-dropbox-e1569939713503.jpg?v=1748598654",
             "options": {
               "Size": "100g"
