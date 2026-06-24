@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-23",
-    "generated_at": "2026-06-23T06:09:11+00:00",
+    "last_updated": "2026-06-24",
+    "generated_at": "2026-06-24T06:08:35+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -711,7 +711,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-trafalgar-shaving-brush?variant=55607611228425",
             "price": "40.00 GBP",
             "sale_price": "35.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1765233562",
             "options": {
               "Size": "Trafalgar T2"
@@ -1542,7 +1542,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Combs-1565_clipped_rev_1.jpg?v=1751363989",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1565,7 +1565,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-folding-pocket-beard-comb",
             "price": "16.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Combs-1565_clipped_rev_1.jpg?v=1751363989",
             "options": {}
           }
@@ -1843,7 +1843,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_maharajah_10mlBO_LowRes-1718_clipped_rev_1.jpg?v=1751363985",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1864,7 +1864,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-maharajah-beard-oil-10ml",
             "price": "17.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_maharajah_10mlBO_LowRes-1718_clipped_rev_1.jpg?v=1751363985",
             "options": {}
           }
@@ -3816,7 +3816,7 @@
         "price": "£36.25",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes23_clipped_rev_1.jpg?v=1747947379",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_2.png?v=1782222570",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3840,7 +3840,7 @@
             "price": "36.25 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes23_clipped_rev_1.jpg?v=1747947379",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_2.png?v=1782222570",
             "options": {}
           }
         ]
@@ -7290,7 +7290,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bayrum-aftershave-800x_clipped_rev_1.jpg?v=1757164693",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7312,7 +7312,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-bay-rum-aftershave?variant=55897931579657",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bayrum-aftershave-800x_clipped_rev_1.jpg?v=1757164693",
             "options": {
               "Volume": "100ml"
@@ -10405,7 +10405,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/rose-shaving-cream-75ml-tube-usb-JPEG-1_clipped_rev_1.jpg?v=1778107282",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10427,7 +10427,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-rose-shaving-cream-tube-75g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/rose-shaving-cream-75ml-tube-usb-JPEG-1_clipped_rev_1.jpg?v=1778107282",
             "options": {}
           }
@@ -11715,7 +11715,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-deodorant-stick-new-usb-JPEG.jpg?v=1756551378",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11736,7 +11736,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-stick-deodorant",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-deodorant-stick-new-usb-JPEG.jpg?v=1756551378",
             "options": {}
           }
@@ -14194,7 +14194,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-Pro-Guard-Blades_clipped_rev_1.jpg?v=1737219901",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14215,7 +14215,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-pro-guard-blades-15-pack",
             "price": "20.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-Pro-Guard-Blades_clipped_rev_1.jpg?v=1737219901",
             "options": {}
           }
@@ -22120,12 +22120,12 @@
         "name": "Morgan's Exfoliating Scrub 100ml",
         "category": "Face > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care",
-        "description": "Morgan’s Exfoliating Scrub is a natural based facial scrub designed to gently remove dull surface skin and cleanse away impurities. It helps leave the skin feeling smoother, fresher, and more refined without using plastic particles. Formulated with Ecuadorean Ivory Palm Seed Powder, the scrub provides physical exfoliation while eucalyptus, lime, and rosemary oils add a fresh, clean feel during use. Suitable for men’s grooming routines, it helps revive tired-looking skin and supports a clearer, healthier-looking complexion. For related skincare options, browse the Hair & Body collection. For related Morgan's skincare, pair it with Morgan's Spa Facial Gift Set, or browse Morgan's. Key Features: Exfoliating Face Scrub for tired, dull skin Ecuadorean Ivory Palm Seed Powder provides natural exfoliation Eucalyptus, Lime And Rosemary Oils for a fresh cleansing feel No Plastic Particles Helps cleanse away impurities for smoother-looking skin Suitable for regular men’s skincare routines Specifications: Size: 100ml Format: Tube Scrub type: Natural based physical exfoliant Key exfoliant: Ecuadorean Ivory Palm Seed Powder Plastic particles: None",
+        "description": "Morgan’s Exfoliating Scrub is a natural based facial scrub designed to gently remove dull surface skin and cleanse away impurities. It helps leave the skin feeling smoother, fresher, and more refined without using plastic particles. Formulated with Ecuadorean Ivory Palm Seed Powder, the scrub provides physical exfoliation while eucalyptus, lime, and rosemary oils add a fresh, clean feel during use. Suitable for men’s grooming routines, it helps revive tired-looking skin and supports a clearer, healthier-looking complexion. For related skincare options, browse the Hair & Body collection. For related Morgan's skincare, pair it with Morgan's Spa Facial Gift Set, or browse Morgan's. For a fuller Morgan's anti-ageing skin-care routine, pair it with Morgan's Age Defying Serum, Morgan's Age Defying Moisturiser and Morgan's Anti-Ageing After Shave Balm, or browse men's anti-ageing skin care. Key Features: Exfoliating Face Scrub for tired, dull skin Ecuadorean Ivory Palm Seed Powder provides natural exfoliation Eucalyptus, Lime And Rosemary Oils for a fresh cleansing feel No Plastic Particles Helps cleanse away impurities for smoother-looking skin Suitable for regular men’s skincare routines Specifications: Size: 100ml Format: Tube Scrub type: Natural based physical exfoliant Key exfoliant: Ecuadorean Ivory Palm Seed Powder Plastic particles: None",
         "url": "https://www.malegroomingsupplies.com/products/morgans-exfoliating-scrub-100ml",
         "price": "£12.00",
         "brand": "Morgan's",
         "vendor": "Morgan's",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/43._Exfoliating_Face_Scrub_100ml.jpg?v=1777467531",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_sExfoliatingScrub100ml.png?v=1782239259",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -22135,7 +22135,8 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
-          "Face & Skin Care"
+          "Face & Skin Care",
+          "Men's Anti-Ageing & Age Defying Skin Care"
         ],
         "variants": [
           {
@@ -22148,7 +22149,7 @@
             "price": "12.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/43._Exfoliating_Face_Scrub_100ml.jpg?v=1777467531",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_sExfoliatingScrub100ml.png?v=1782239259",
             "options": {}
           }
         ]
@@ -22234,7 +22235,7 @@
         "name": "Morgan's Hair Growth Serum 50ml",
         "category": "Hair Lotions, Oils & Tonics > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Morgan’s Hair Growth Serum is a targeted scalp treatment formulated to support hair that appears thinner over time. Designed for regular use, the lightweight serum absorbs quickly and works at the roots to support scalp condition and improve the appearance of hair density. The formula combines established trichological ingredients selected to support scalp stimulation and reduce the appearance of shedding. Used consistently, it helps hair feel stronger, fuller, and more resilient while supporting long-term hair care routines focused on thickness and volume. For related Morgan's options, compare Morgan’s Bay Rum Grooming Hair Tonic 250ml with Morgan’s Cooling Menthol Hair Tonic 250ml, or browse the Hair & Body collection. Key Features: Hair Growth Serum designed to support the appearance of thicker hair Scalp Targeted Formula suitable for daily use Redensyl and Anagain included to support hair growth routines Pea Peptides to help improve the appearance of volume and density Caffeine to support scalp stimulation Horsetail, Nettle, and Rosemary Extracts for scalp conditioning Lightweight Texture for easy absorption without residue Specifications: Size: 50ml Usage: Apply 1 to 3 pumps to a wet or dry scalp and massage gently Application frequency: Use twice daily Recommended use: For best results, use alongside the Morgan’s Hair Growth range Results timeframe: Visible improvements may be seen within 3 to 6 months with consistent use",
+        "description": "Morgan's Hair Growth Serum 50ml is a targeted leave-on scalp serum for men who want a consistent grooming routine around thinning-looking hair and scalp care. The lightweight texture is applied directly to the scalp and suits regular use where hair needs a fuller-looking, better-managed appearance. The formula includes ingredients such as Redensyl, Anagain, pea peptides, caffeine, horsetail, nettle and rosemary extracts. Use it as part of the wider hair growth products and scalp care routine, alongside Morgan's Hair Growth Volume Shampoo and Morgan's Light Therapy Hair Growth Brush. For related Morgan's options, browse the Morgan's collection or compare classic hair lotions, oils and tonics. Key Features: Leave-On Scalp Serum: For targeted use as part of a regular hair-care routine Lightweight Texture: Designed to apply directly to the scalp without a heavy residue Fuller-Looking Finish: Suited to routines focused on thinning-looking hair and scalp care Morgan's Hair Growth Range: Pairs naturally with the matching shampoo and light therapy brush Specifications: Size: 50ml Product Type: Leave-on scalp serum Use: Apply to the scalp as directed by the manufacturer Range: Morgan's Hair Growth",
         "url": "https://www.malegroomingsupplies.com/products/morgans-hair-growth-serum-50ml",
         "price": "£45.00",
         "brand": "Morgan's",
@@ -22250,7 +22251,7 @@
           "Hair & Body",
           "Morgan's",
           "Hair Lotions, Oils & Tonics",
-          "Hair Growth Products"
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -22272,7 +22273,7 @@
         "name": "Morgan's Hair Growth Volume Shampoo 250ml",
         "category": "Shampoo & Conditioner > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Morgan’s Hair Growth Volume Shampoo is a mild, daily-use shampoo developed to support fuller-looking hair while maintaining scalp comfort. It provides gentle cleansing, helping to remove excess oil and build-up without drying the hair or scalp. Formulated as part of the Morgan’s Hair Growth range, this shampoo focuses on volume, hydration, and scalp conditioning. With consistent use, hair feels cleaner, softer, and more manageable, supporting a structured routine aimed at improving the appearance of hair density over time. For related hair care options, browse the Hair & Body collection. Key Features: Volume Shampoo designed to support thicker-looking hair Mild Cleansing Formula suitable for regular use Redensyl and Anagain included to support hair growth routines Pea Peptides to help improve body and volume Panthenol to support hydration and hair softness Rosemary Extract, Caffeine, Horsetail, and Nettle Extract for scalp conditioning Specifications: Size: 250ml Usage: Apply to wet hair, work into a lather, then rinse thoroughly. Repeat if necessary Recommended use: For best results, use as part of the Morgan’s Hair Growth range Results timeframe: Visible improvements may be seen within 3 to 6 months with consistent use",
+        "description": "Morgan's Hair Growth Volume Shampoo 250ml is a mild shampoo for men building a routine around thinning-looking hair, scalp care and fuller-looking volume. It cleanses the hair and scalp while helping the hair feel fresh, manageable and light. The formula includes ingredients such as Redensyl, Anagain, pea peptides, panthenol, caffeine, horsetail, nettle and rosemary extracts. Use it as the washing step in the hair growth products and scalp care range, then follow with Morgan's Hair Growth Serum where targeted leave-on scalp care is wanted. For more men's hair care options, browse shampoo and conditioner, hair lotions, oils and tonics or the full Morgan's range. Key Features: Volumising Shampoo: Helps hair feel cleaner, lighter and fuller-looking Scalp-Care Routine: Suitable for regular washing as part of a structured hair-care routine Gentle Cleansing: Helps remove oil and build-up without a heavy finish Morgan's Hair Growth Range: Works well alongside the serum and light therapy brush Specifications: Size: 250ml Product Type: Volumising shampoo Use: Apply to wet hair, lather and rinse as directed Range: Morgan's Hair Growth",
         "url": "https://www.malegroomingsupplies.com/products/morgans-hair-growth-volume-shampoo-250ml",
         "price": "£25.00",
         "brand": "Morgan's",
@@ -22288,7 +22289,7 @@
           "Hair & Body",
           "Morgan's",
           "Shampoo & Conditioner",
-          "Hair Growth Products"
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -22370,7 +22371,7 @@
         "brand": "Morgan's",
         "vendor": "Morgan's",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/instant-beard-darkening-cream_clipped_rev_1.jpg?v=1748434749",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22395,7 +22396,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-instant-beard-darkening-cream",
             "price": "10.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/instant-beard-darkening-cream_clipped_rev_1.jpg?v=1748434749",
             "options": {}
           }
@@ -22405,7 +22406,7 @@
         "name": "Morgan's Light Therapy Hair Growth Brush",
         "category": "Brushes & Combs > Morgan's",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "Morgan’s Light Therapy Hair Growth Brush is designed to support scalp care as part of a structured hair growth routine. The brush combines red LED light therapy with a gentle scalp massage to encourage a healthy scalp environment and improved circulation during use. The ergonomic design allows for controlled, comfortable brushing while the integrated light therapy targets the scalp directly. Suitable for regular use, it is intended to complement topical hair growth products by supporting absorption and overall scalp condition. Key Features: Red LED Light Therapy designed to support scalp stimulation Scalp Massage Function to encourage circulation during use Hair Growth Brush suitable for use within a structured hair care routine Ergonomic Design for comfortable handling and controlled application Designed To Complement the Morgan’s Hair Growth Range Specifications: Usage: Use on dry hair and scalp, following the manufacturer’s guidance Recommended use: For optimal results, use alongside Morgan’s Hair Growth Serum, Volume Spray, and Volume Shampoo Power source: Integrated electronic light therapy system Intended use: Scalp care and hair maintenance",
+        "description": "Morgan's Light Therapy Hair Growth Brush is a powered scalp-care brush for men who want a focused step within a regular hair-care routine. It combines brushing with red LED light and a massage function in a compact grooming tool. The brush is designed for controlled use on the scalp and can sit alongside topical scalp-care products, shampoo and everyday styling. It is best used as a grooming aid within a consistent routine, with realistic expectations around cosmetic hair-care results. Pair it with Morgan's Hair Growth Serum and Morgan's Hair Growth Volume Shampoo, or browse the full hair growth products and scalp care collection. Key Features: Scalp-Care Brush: Designed for use within a regular hair and scalp routine Red LED Light: Built into the brush for a focused grooming step Massage Function: Adds a comfortable scalp-care action during use Routine Pairing: Complements Morgan's serum and volume shampoo Specifications: Product Type: Powered scalp-care brush Use: Use on dry hair and scalp as directed by the manufacturer Feature: Red LED light and massage function Range: Morgan's Hair Growth",
         "url": "https://www.malegroomingsupplies.com/products/morgans-light-therapy-hair-growth-brush",
         "price": "£39.95",
         "brand": "Morgan's",
@@ -22420,7 +22421,7 @@
           "New Additions",
           "Morgan's",
           "Hair Brushes & Combs",
-          "Hair Growth Products"
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -23036,8 +23037,8 @@
       {
         "name": "Morgan’s 'Grey Away' Liquid Colour Restorer 120ml",
         "category": "Hair Styling > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Morgan’s Grey Away Liquid Colour Restorer 120ml is a liquid hair colour restorer designed to gradually reduce the appearance of grey hair and help restore a darker, more lustrous look over time. Unlike conventional instant dyes, this gradual colour restorer works over a period of around 3 to 4 weeks, allowing you to build colour slowly until you reach your preferred shade. It is suitable for normal hair, longer hair and for darkening grey areas around the temples. The formula contains Panthenol, which helps maintain the hair’s healthy appearance while adding moisture and conditioning. With regular use, Morgan’s Grey Away Liquid Colour Restorer helps improve shine, lustre and overall hair appearance in one simple spray application. Key Features Gradual hair colour restorer for grey hair Helps restore a darker, more lustrous appearance over 3 to 4 weeks Alternative to conventional instant hair dyes Suitable for normal hair, long hair and darkening temples Contains Panthenol to help moisturise and condition the hair Helps improve shine, lustre and brilliance Easy-to-use 120ml spray bottle How to Use Apply to clean, dry hair and style as usual. Use regularly over several weeks until the desired shade is achieved. Wash hands after use and avoid contact with eyes, clothing and porous surfaces. Specifications Brand: Morgan’s Type: Hair colour restorer Size: 120ml Format: Spray bottle Use: Gradual grey hair darkening Suitable For: Normal hair, long hair and grey temples Key Ingredient: Panthenol Result: Gradual colour restoration, shine and conditioning",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Color",
+        "description": "Morgan’s Grey Away Liquid Colour Restorer 120ml is a liquid hair colour restorer designed to gradually reduce the appearance of grey hair and help restore a darker, more lustrous look over time. Unlike conventional instant dyes, this gradual colour restorer works over a period of around 3 to 4 weeks, allowing you to build colour slowly until you reach your preferred shade. It is suitable for normal hair, longer hair and for darkening grey areas around the temples. The formula contains Panthenol, which helps maintain the hair’s healthy appearance while adding moisture and conditioning. With regular use, Morgan’s Grey Away Liquid Colour Restorer helps improve shine, lustre and overall hair appearance in one simple spray application. Key Features Gradual hair colour restorer for grey hair Helps restore a darker, more lustrous appearance over 3 to 4 weeks Alternative to conventional instant hair dyes Suitable for normal hair, long hair and darkening temples Contains Panthenol to help moisturise and condition the hair Helps improve shine, lustre and brilliance Easy-to-use 120ml spray bottle How to Use Apply to clean, dry hair and style as usual. Use regularly over several weeks until the desired shade is achieved. Wash hands after use and avoid contact with eyes, clothing and porous surfaces. Specifications Brand: Morgan’s Type: Hair colour restorer Size: 120ml Format: Spray bottle Use: Gradual grey hair darkening Suitable For: Normal hair, long hair and grey temples Key Ingredient: Panthenol Result: Gradual colour restoration, shine and conditioning For related grey-hair darkening options, compare Morgan's Hair Darkening Mousse with Morgan's Original Hair Darkening Pomade, or browse hair darkening products.",
         "url": "https://www.malegroomingsupplies.com/products/morgans-grey-away-liquid-colour-restorer-120ml",
         "price": "£8.00",
         "brand": "Morgan's",
@@ -23052,7 +23053,8 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
-          "Hair Styling Products"
+          "Hair Styling Products",
+          "Hair Darkening Products"
         ],
         "variants": [
           {
@@ -23112,12 +23114,12 @@
         "name": "Morgan’s Age Defying Moisturiser For Men 45ml",
         "category": "Face > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care",
-        "description": "Morgan’s Age Defying Moisturiser For Men 45ml is a daily facial moisturiser designed to hydrate, protect and support smoother-looking skin. Formulated with UV filters, Shea Butter, natural oils and Matrixyl 3000, it helps care for the skin while targeting the visible signs of ageing. The formula includes Panthenol, also known as Pro-Vitamin B5, a vitamin complex of B3, B5, C, E and B6, plus Glycerin and Aloe Vera to help moisturise and comfort the skin. Argan Oil, Wheatgerm Oil, Camellia Oil and Shea Butter add nourishment, while UVA and UVB filters help protect against daily sun exposure. Use as the final step in your daily skincare routine after cleansing and drying the face. Key Features Age-defying moisturiser for men Helps hydrate, smooth and protect the skin Contains Matrixyl 3000 with Palmitoyl Tripeptide-1 and Palmitoyl Tetrapeptide-7 Includes UVA and UVB filters for daily skin protection Enriched with Shea Butter, Argan Oil, Wheatgerm Oil and Camellia Oil Contains Panthenol, Glycerin and Aloe Vera Vitamin complex with B3, B5, C, E and B6 Suitable for daily use after cleansing How to Use For best results: Wash with Morgan’s Face Wash. Exfoliate 1 to 2 times per week with Morgan’s Exfoliating Face Scrub. Dry the face with a clean towel. Apply Morgan’s Age Defying Moisturiser For Men evenly to the face. Specifications Brand: Morgan’s Type: Men’s facial moisturiser Size: 45ml Skin Benefit: Hydrating, smoothing, protective and age-defying Key Ingredients: Matrixyl 3000, Panthenol, Glycerin, Aloe Vera, Shea Butter Oils: Argan Oil, Wheatgerm Oil, Camellia Oil Vitamins: B3, B5, C, E and B6 UV Protection: UVA and UVB filters Use: Apply after cleansing to clean, dry skin",
+        "description": "Morgan’s Age Defying Moisturiser For Men 45ml is a daily facial moisturiser designed to hydrate, protect and support smoother-looking skin. Formulated with UV filters, Shea Butter, natural oils and Matrixyl 3000, it helps care for the skin while targeting the visible signs of ageing. The formula includes Panthenol, also known as Pro-Vitamin B5, a vitamin complex of B3, B5, C, E and B6, plus Glycerin and Aloe Vera to help moisturise and comfort the skin. Argan Oil, Wheatgerm Oil, Camellia Oil and Shea Butter add nourishment, while UVA and UVB filters help protect against daily sun exposure. Use as the final step in your daily skincare routine after cleansing and drying the face. Key Features Age-defying moisturiser for men Helps hydrate, smooth and protect the skin Contains Matrixyl 3000 with Palmitoyl Tripeptide-1 and Palmitoyl Tetrapeptide-7 Includes UVA and UVB filters for daily skin protection Enriched with Shea Butter, Argan Oil, Wheatgerm Oil and Camellia Oil Contains Panthenol, Glycerin and Aloe Vera Vitamin complex with B3, B5, C, E and B6 Suitable for daily use after cleansing How to Use For best results: Wash with Morgan’s Face Wash. Exfoliate 1 to 2 times per week with Morgan’s Exfoliating Face Scrub. Dry the face with a clean towel. Apply Morgan’s Age Defying Moisturiser For Men evenly to the face. Specifications Brand: Morgan’s Type: Men’s facial moisturiser Size: 45ml Skin Benefit: Hydrating, smoothing, protective and age-defying Key Ingredients: Matrixyl 3000, Panthenol, Glycerin, Aloe Vera, Shea Butter Oils: Argan Oil, Wheatgerm Oil, Camellia Oil Vitamins: B3, B5, C, E and B6 UV Protection: UVA and UVB filters Use: Apply after cleansing to clean, dry skin For a fuller Morgan's skin-care routine, pair it with Morgan's Age Defying Serum and Morgan's Anti-Ageing After Shave Balm, or browse men's anti-ageing skin care.",
         "url": "https://www.malegroomingsupplies.com/products/morgans-age-defying-moisturiser-for-men-45ml",
         "price": "£18.00",
         "brand": "Morgan's",
         "vendor": "Morgan's",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/age-defying-moisturiser3.jpg?v=1781469085",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_sAgeDefyingMoisturiserForMen45ml_clipped_rev_1.jpg?v=1782243283",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -23127,7 +23129,8 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
-          "Face & Skin Care"
+          "Face & Skin Care",
+          "Men's Anti-Ageing & Age Defying Skin Care"
         ],
         "variants": [
           {
@@ -23140,7 +23143,7 @@
             "price": "18.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/age-defying-moisturiser3.jpg?v=1781469085",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_sAgeDefyingMoisturiserForMen45ml_clipped_rev_1.jpg?v=1782243283",
             "options": {}
           }
         ]
@@ -23149,12 +23152,12 @@
         "name": "Morgan’s Age Defying Serum 50ml",
         "category": "Face > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care",
-        "description": "Morgan’s Age Defying Serum 50ml is a facial rejuvenating serum designed to help soften the appearance of fine lines while supporting smoother, fresher-looking skin. This mild, vegan formula has a neutral pH and is enriched with Hyaluronic Acid, Aloe Vera and Vitamin C. Lightweight and easy to apply, it fits naturally into a daily facial cleansing and moisturising routine, helping the skin feel hydrated, comfortable and better prepared for moisturiser. Use after cleansing and before moisturising as part of your morning or evening skincare routine. Key Features Age-defying facial serum for daily skincare Helps soften the appearance of fine lines Mild formula with neutral pH Contains Hyaluronic Acid, Aloe Vera and Vitamin C Lightweight serum for use before moisturiser Vegan product Suitable as part of a daily cleansing and moisturising routine How to Use Apply 2 pumps onto the tips of your fingers and massage into a clean, dry face. Once absorbed, follow with Morgan’s Daily Moisturiser or Morgan’s Age Defying Moisturiser. Specifications Brand: Morgan’s Type: Facial serum Size: 50ml Formula: Mild, neutral pH Key Ingredients: Hyaluronic Acid, Aloe Vera, Vitamin C Skin Benefit: Hydrating, smoothing and age-defying Vegan: Yes Use: Apply after cleansing and before moisturiser",
+        "description": "Morgan’s Age Defying Serum 50ml is a facial rejuvenating serum designed to help soften the appearance of fine lines while supporting smoother, fresher-looking skin. This mild, vegan formula has a neutral pH and is enriched with Hyaluronic Acid, Aloe Vera and Vitamin C. Lightweight and easy to apply, it fits naturally into a daily facial cleansing and moisturising routine, helping the skin feel hydrated, comfortable and better prepared for moisturiser. Use after cleansing and before moisturising as part of your morning or evening skincare routine. Key Features Age-defying facial serum for daily skincare Helps soften the appearance of fine lines Mild formula with neutral pH Contains Hyaluronic Acid, Aloe Vera and Vitamin C Lightweight serum for use before moisturiser Vegan product Suitable as part of a daily cleansing and moisturising routine How to Use Apply 2 pumps onto the tips of your fingers and massage into a clean, dry face. Once absorbed, follow with Morgan’s Daily Moisturiser or Morgan’s Age Defying Moisturiser. Specifications Brand: Morgan’s Type: Facial serum Size: 50ml Formula: Mild, neutral pH Key Ingredients: Hyaluronic Acid, Aloe Vera, Vitamin C Skin Benefit: Hydrating, smoothing and age-defying Vegan: Yes Use: Apply after cleansing and before moisturiser For a fuller Morgan's skin-care routine, pair it with Morgan's Age Defying Moisturiser and Morgan's Anti-Ageing After Shave Balm, or browse men's anti-ageing skin care.",
         "url": "https://www.malegroomingsupplies.com/products/morgans-age-defying-serum-50ml",
         "price": "£16.00",
         "brand": "Morgan's",
         "vendor": "Morgan's",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Age-Defying-Serum-N-50ml-510x510.jpg?v=1781469085",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_sAgeDefyingSerum50ml.png?v=1782238949",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -23164,7 +23167,8 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
-          "Face & Skin Care"
+          "Face & Skin Care",
+          "Men's Anti-Ageing & Age Defying Skin Care"
         ],
         "variants": [
           {
@@ -23177,7 +23181,7 @@
             "price": "16.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Age-Defying-Serum-N-50ml-510x510.jpg?v=1781469085",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_sAgeDefyingSerum50ml.png?v=1782238949",
             "options": {}
           }
         ]
@@ -23185,13 +23189,13 @@
       {
         "name": "Morgan’s Anti-Ageing After Shave Balm 100ml",
         "category": "Post Shave > Post-Shave",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "Morgan’s Anti-Ageing After Shave Balm 100ml is a hydrating post-shave lotion designed to soothe, brighten and moisturise the skin after shaving. It helps calm irritation and razor burn while supporting a smoother, more refreshed-looking complexion. Formulated with Matrixyl®3000, an anti-ageing ingredient based on matrikine peptide technology, this balm helps care for the skin as part of a daily grooming routine. It also includes Argan Oil for added nourishment and Morgan’s signature fragrance of Bergamot, Jasmine, Sandalwood and Patchouli. Use after shaving to leave the skin feeling comfortable, conditioned and protected against everyday environmental stress. Key Features Anti-ageing post-shave balm for daily use Made with Matrixyl®3000, based on matrikine peptide technology Argan Oil helps nourish and condition the skin Soothes and moisturises after shaving Helps reduce razor burn and post-shave irritation Supports brighter, smoother-looking skin Pollution defence for everyday skin protection Signature Morgan’s fragrance of Bergamot, Jasmine, Sandalwood and Patchouli 100ml bottle How to Use After shaving, rinse away any remaining shaving cream or gel and splash the face with cold water. Pat dry with a clean towel, then apply Morgan’s Anti-Ageing After Shave Balm liberally to clean skin. Use morning and evening. For Best Results Use with Morgan’s Gentle Shaver, Morgan’s Pre-Shave Oil and Morgan’s Shaving Cream or Shaving Gel. Specifications Brand: Morgan’s Type: After shave balm Size: 100ml Skin Benefit: Soothing, moisturising, brightening and anti-ageing Key Ingredients: Matrixyl®3000, Argan Oil Fragrance: Bergamot, Jasmine, Sandalwood and Patchouli Use: Apply after shaving to clean, dry skin",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care",
+        "description": "Morgan’s Anti-Ageing After Shave Balm 100ml is a hydrating post-shave lotion designed to soothe, brighten and moisturise the skin after shaving. It helps calm irritation and razor burn while supporting a smoother, more refreshed-looking complexion. Formulated with Matrixyl®3000, an anti-ageing ingredient based on matrikine peptide technology, this balm helps care for the skin as part of a daily grooming routine. It also includes Argan Oil for added nourishment and Morgan’s signature fragrance of Bergamot, Jasmine, Sandalwood and Patchouli. Use after shaving to leave the skin feeling comfortable, conditioned and protected against everyday environmental stress. Key Features Anti-ageing post-shave balm for daily use Made with Matrixyl®3000, based on matrikine peptide technology Argan Oil helps nourish and condition the skin Soothes and moisturises after shaving Helps reduce razor burn and post-shave irritation Supports brighter, smoother-looking skin Pollution defence for everyday skin protection Signature Morgan’s fragrance of Bergamot, Jasmine, Sandalwood and Patchouli 100ml bottle How to Use After shaving, rinse away any remaining shaving cream or gel and splash the face with cold water. Pat dry with a clean towel, then apply Morgan’s Anti-Ageing After Shave Balm liberally to clean skin. Use morning and evening. For Best Results Use with Morgan’s Gentle Shaver, Morgan’s Pre-Shave Oil and Morgan’s Shaving Cream or Shaving Gel. Specifications Brand: Morgan’s Type: After shave balm Size: 100ml Skin Benefit: Soothing, moisturising, brightening and anti-ageing Key Ingredients: Matrixyl®3000, Argan Oil Fragrance: Bergamot, Jasmine, Sandalwood and Patchouli Use: Apply after shaving to clean, dry skin For related post-shave and skin-care options, pair it with Morgan's Shaving Cream, Morgan's Age Defying Serum or Morgan's Age Defying Moisturiser, or browse men's anti-ageing skin care.",
         "url": "https://www.malegroomingsupplies.com/products/morgans-anti-ageing-after-shave-balm-100ml",
         "price": "£16.00",
         "brand": "Morgan's",
         "vendor": "Morgan's",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Aftershave-balm-website-scaled_clipped_rev_1.jpg?v=1782156765",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_s_Anti-Ageing_After_Shave_Balm_100ml_MGS.png?v=1782238455",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -23202,7 +23206,9 @@
           "New Additions",
           "Morgan's",
           "Shaving Essentials",
-          "Shaving Preparations"
+          "Shaving Preparations",
+          "Face & Skin Care",
+          "Men's Anti-Ageing & Age Defying Skin Care"
         ],
         "variants": [
           {
@@ -23215,7 +23221,7 @@
             "price": "16.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Aftershave-balm-website-scaled_clipped_rev_1.jpg?v=1782156765",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_s_Anti-Ageing_After_Shave_Balm_100ml_MGS.png?v=1782238455",
             "options": {}
           }
         ]
@@ -23546,7 +23552,7 @@
         "brand": "Morgan's",
         "vendor": "Morgan's",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Large-Foldable-Comb_clipped_rev_1.jpg?v=1748434751",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -23567,7 +23573,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-foldable-moustache-comb-large",
             "price": "7.99 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Large-Foldable-Comb_clipped_rev_1.jpg?v=1748434751",
             "options": {}
           }
@@ -23700,6 +23706,7 @@
           "Hair & Body",
           "Morgan's",
           "Hair Styling Products",
+          "Men's Hair Creams & Waxes",
           "Hair Darkening Products"
         ],
         "variants": [
@@ -23722,7 +23729,7 @@
         "name": "Morgan’s Hair Darkening Mousse 150ml",
         "category": "Hair Styling > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Color",
-        "description": "Morgan’s Hair Darkening Mousse 150ml is a light, two-in-one styling mousse designed to help darken grey hair while providing daily styling control. The lightweight foam helps style the hair while gradually improving the appearance of greying areas, leaving the hair looking fuller, darker and well-groomed. It is ideal for those who want a simple daily product that combines styling with gradual colour support. Formulated with extracts of Camomile, Coltsfoot and Cornflower, this mousse helps maintain the hair’s healthy appearance while adding shape and vitality. The 150ml pump foamer uses an environmentally friendly, non-aerosol dispenser for easy application. Key Features Two-in-one hair mousse for styling and darkening grey hair Helps maintain a darker, well-groomed appearance with regular use Light formulation that does not feel heavy on the hair Supports daily styling while helping hair look healthy and full of vitality Contains extracts of Camomile, Coltsfoot and Cornflower Environmentally friendly non-aerosol pump foam dispenser 150ml pump foamer bottle How to Use Apply a small amount of mousse to the hands and work evenly through clean, towel-dried or dry hair. Style as required. Use regularly as part of your daily hair grooming routine. Wash hands after use and avoid contact with eyes, clothing and porous surfaces. Specifications Brand: Morgan’s Type: Hair darkening mousse Size: 150ml Format: Pump foamer Dispenser: Non-aerosol foam pump Use: Styling and gradual grey hair darkening Key Ingredients: Camomile, Coltsfoot, Cornflower extracts Suitable For: Daily styling and grey hair control",
+        "description": "Morgan’s Hair Darkening Mousse 150ml is a light, two-in-one styling mousse designed to help darken grey hair while providing daily styling control. The lightweight foam helps style the hair while gradually improving the appearance of greying areas, leaving the hair looking fuller, darker and well-groomed. It is ideal for those who want a simple daily product that combines styling with gradual colour support. Formulated with extracts of Camomile, Coltsfoot and Cornflower, this mousse helps maintain the hair’s healthy appearance while adding shape and vitality. The 150ml pump foamer uses an environmentally friendly, non-aerosol dispenser for easy application. Key Features Two-in-one hair mousse for styling and darkening grey hair Helps maintain a darker, well-groomed appearance with regular use Light formulation that does not feel heavy on the hair Supports daily styling while helping hair look healthy and full of vitality Contains extracts of Camomile, Coltsfoot and Cornflower Environmentally friendly non-aerosol pump foam dispenser 150ml pump foamer bottle How to Use Apply a small amount of mousse to the hands and work evenly through clean, towel-dried or dry hair. Style as required. Use regularly as part of your daily hair grooming routine. Wash hands after use and avoid contact with eyes, clothing and porous surfaces. Specifications Brand: Morgan’s Type: Hair darkening mousse Size: 150ml Format: Pump foamer Dispenser: Non-aerosol foam pump Use: Styling and gradual grey hair darkening Key Ingredients: Camomile, Coltsfoot, Cornflower extracts Suitable For: Daily styling and grey hair control For related grey-hair styling options, compare Morgan's Grey Away Liquid Colour Restorer with Morgan's Original Hair Darkening Pomade, or browse hair darkening products.",
         "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-mousse-150ml",
         "price": "£8.00",
         "brand": "Morgan's",
@@ -29499,7 +29506,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-injector-blades-20-ct-male-grooming-supplies-344614.jpg?v=1722956687",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29520,7 +29527,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-injector-blades-20-count",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-injector-blades-20-ct-male-grooming-supplies-344614.jpg?v=1722956687",
             "options": {}
           }
