@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-25",
-    "generated_at": "2026-06-25T06:09:11+00:00",
+    "last_updated": "2026-06-26",
+    "generated_at": "2026-06-26T06:12:55+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -370,7 +370,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143424_clipped_rev_1.jpg?v=1748896557",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -392,7 +392,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-shave-cream",
             "price": "14.40 GBP",
             "sale_price": "10.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143424_clipped_rev_1.jpg?v=1748896557",
             "options": {}
           }
@@ -11056,7 +11056,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-mahogany-bowlJPEG.jpg?v=1756552901",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11078,7 +11078,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-mahogany-bowl",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-mahogany-bowlJPEG.jpg?v=1756552901",
             "options": {}
           }
@@ -12240,7 +12240,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-mahogany-bowl-JPEG.jpg?v=1778106443",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -12262,7 +12262,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-windsor-shaving-mahogany-bowl",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-mahogany-bowl-JPEG.jpg?v=1778106443",
             "options": {}
           }
@@ -20557,7 +20557,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-closed-comb-travel-razor-933000-656031.jpg?v=1722957238",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20580,7 +20580,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-closed-comb-travel-razor-933000",
             "price": "34.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-closed-comb-travel-razor-933000-656031.jpg?v=1722957238",
             "options": {}
           }
@@ -22240,7 +22240,7 @@
         "price": "£45.00",
         "brand": "Morgan's",
         "vendor": "Morgan's",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Hair-Growth-Serum-150ml-510x510_clipped_rev_1.jpg?v=1766844722",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_s_Hair_Growth_Serum_150ml.png?v=1782386117",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -22264,7 +22264,7 @@
             "price": "45.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Hair-Growth-Serum-150ml-510x510_clipped_rev_1.jpg?v=1766844722",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Morgan_s_Hair_Growth_Serum_150ml.png?v=1782386117",
             "options": {}
           }
         ]
@@ -34234,7 +34234,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/730HD_clipped_rev_1.jpg?v=1744055287",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -34256,7 +34256,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-730-hd-finest-badger-black-acrylic",
             "price": "51.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/730HD_clipped_rev_1.jpg?v=1744055287",
             "options": {}
           }
