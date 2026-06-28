@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-27",
-    "generated_at": "2026-06-27T05:54:52+00:00",
+    "last_updated": "2026-06-28",
+    "generated_at": "2026-06-28T06:20:14+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -13683,7 +13683,7 @@
         "brand": "Dovo",
         "vendor": "Dovo",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-shave-ritual-set-daylight-6340512-male-grooming-supplies-729184.jpg?v=1744055692",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13705,7 +13705,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dovo-shave-ritual-set-daylight",
             "price": "85.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-shave-ritual-set-daylight-6340512-male-grooming-supplies-729184.jpg?v=1744055692",
             "options": {}
           }
@@ -18209,7 +18209,7 @@
             "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-magellan-shaving-soap?variant=56700306194697",
             "price": "34.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Magellan_50_clipped_rev_1.jpg?v=1766858535",
             "options": {
               "Size": "50g Travel Size"
@@ -26355,7 +26355,7 @@
         "brand": "Omega",
         "vendor": "Omega",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-via-barberia-pre-shave-balm-50ml-864043.jpg?v=1744055523",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -26377,7 +26377,7 @@
             "url": "https://www.malegroomingsupplies.com/products/omega-via-barberia-pre-shave-balm-50ml",
             "price": "9.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-via-barberia-pre-shave-balm-50ml-864043.jpg?v=1744055523",
             "options": {}
           }
@@ -35601,7 +35601,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBB_clipped_rev_1.jpg?v=1744055378",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -35623,7 +35623,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-pharos-c3-synthetic-black",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBB_clipped_rev_1.jpg?v=1744055378",
             "options": {}
           }
