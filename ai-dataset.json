@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-29",
-    "generated_at": "2026-06-29T06:50:13+00:00",
+    "last_updated": "2026-06-30",
+    "generated_at": "2026-06-30T06:14:03+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -5592,7 +5592,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-milkJPEG_clipped_rev_1.jpg?v=1757180075",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5614,7 +5614,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-aftershave-milk?variant=55897927811337",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-milkJPEG_clipped_rev_1.jpg?v=1757180075",
             "options": {
               "Volume": "100ml"
@@ -5807,7 +5807,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1628-Almond_Soap_Bath_3_600p.jpg?v=1778267735",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5828,7 +5828,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-oil-bath-soap-150g",
             "price": "14.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1628-Almond_Soap_Bath_3_600p.jpg?v=1778267735",
             "options": {}
           }
@@ -6287,7 +6287,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757190457",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6310,7 +6310,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-aftershave-milk?variant=55897924305161",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757190457",
             "options": {
               "Volume": "100ml"
@@ -6480,7 +6480,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1697-Arlington_Soap_2_600p.jpg_clipped_rev_1.jpg?v=1778105548",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6501,7 +6501,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-arlington-bath-soap-150g",
             "price": "14.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1697-Arlington_Soap_2_600p.jpg_clipped_rev_1.jpg?v=1778105548",
             "options": {}
           }
@@ -7755,7 +7755,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1836-C_R_Hand_Cream_2_JPEG-scaled_clipped_rev_1.jpg?v=1757162466",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7776,7 +7776,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-cucumber-and-roses-hand-cream-50ml",
             "price": "11.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1836-C_R_Hand_Cream_2_JPEG-scaled_clipped_rev_1.jpg?v=1757162466",
             "options": {}
           }
@@ -8299,7 +8299,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-golden-shampoo?variant=57040551313673",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/golden-shampoo-250ml-JPEG1.jpg?v=1778192805",
             "options": {
               "Volume": "250ml"
@@ -9706,7 +9706,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cucumber-and-roses-100mlusb-JPEG_clipped_rev_1.jpg?v=1757181021",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9727,7 +9727,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-milk-of-cucumber-and-roses?variant=55897927319817",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cucumber-and-roses-100mlusb-JPEG_clipped_rev_1.jpg?v=1757181021",
             "options": {
               "Volume": "100ml Glass Bottle"
@@ -9790,7 +9790,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/moisture-cream-50ml-usb-JPEG.jpg?v=1752743538",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9811,7 +9811,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-moisture-cream?variant=55897942098185",
             "price": "22.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/moisture-cream-50ml-usb-JPEG.jpg?v=1752743538",
             "options": {
               "Volume": "50ml"
@@ -10130,7 +10130,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Lemon-and-Vetiver-SoapJPEG.jpg?v=1778106941",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10151,7 +10151,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-naturals-lemon-vetiver-soap-200g",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Lemon-and-Vetiver-SoapJPEG.jpg?v=1778106941",
             "options": {}
           }
@@ -10480,7 +10480,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-aftershave800x_clipped_rev_1.jpg?v=1757162121",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10502,7 +10502,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-aftershave?variant=55897938231561",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-aftershave800x_clipped_rev_1.jpg?v=1757162121",
             "options": {
               "Volume": "100ml"
@@ -10621,7 +10621,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-stick-deodorant-new-usb-JPEG.jpg?v=1778243239",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10643,7 +10643,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-alcohol-free-stick-deodorant-75g-for-sensitive-skin",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-stick-deodorant-new-usb-JPEG.jpg?v=1778243239",
             "options": {}
           }
@@ -10908,7 +10908,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-head-to-toe-wash?variant=55897925878025",
             "price": "31.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-shower-gel-250ml-usb-JPEG-Copy_clipped_rev_1.jpg?v=1757187355",
             "options": {
               "Options": "250ml"
@@ -11559,7 +11559,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-aftershave-JPEG_clipped_rev_1.jpg?v=1757187752",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11581,7 +11581,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-aftershave?variant=55897925779721",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-aftershave-JPEG_clipped_rev_1.jpg?v=1757187752",
             "options": {
               "Size": "100ml Glass Bottle"
@@ -11629,7 +11629,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757182088",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11652,7 +11652,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-aftershave-milk?variant=55897926631689",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757182088",
             "options": {
               "Options": "100ml Glass Bottle"
@@ -12056,7 +12056,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-head-to-toe-wash?variant=55897929515273",
             "price": "31.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-head-to-toe-wash-250ml-JPEG_clipped_rev_1.jpg?v=1757178898",
             "options": {
               "Options": "250ml Windsor"
@@ -14531,7 +14531,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14552,7 +14552,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades?variant=49025525907721",
             "price": "3.60 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
             "options": {
               "Pack Size": "Pack of 10"
@@ -17189,7 +17189,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-steel-blue?variant=45376842662153",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-steel-blue-male-grooming-supplies-288775.jpg?v=1722956580",
             "options": {
               "Blade Gap & Exposure": "Medium Aggression"
@@ -40844,7 +40844,7 @@
         "brand": "Taylor of Old Bond Street",
         "vendor": "Taylor of Old Bond Street",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/j01051-sandalwood-herbal-shaving-soap-refill-100g.jpg?v=1742768558",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -40866,7 +40866,7 @@
             "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-sandalwood-shave-soap-refill-100g",
             "price": "12.95 GBP",
             "sale_price": "9.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/j01051-sandalwood-herbal-shaving-soap-refill-100g.jpg?v=1742768558",
             "options": {}
           }
