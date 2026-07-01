@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-06-30",
-    "generated_at": "2026-06-30T06:14:03+00:00",
+    "last_updated": "2026-07-01",
+    "generated_at": "2026-07-01T06:35:32+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -2125,7 +2125,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-eau-de-parfum-50ml?variant=55815789576457",
             "price": "75.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Nebula_EDP-5948_0242e535-fe19-428a-98eb-d26a2e358729.jpg?v=1751363964",
             "options": {
               "Size": "50ml"
