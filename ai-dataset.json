@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-01",
-    "generated_at": "2026-07-01T06:35:32+00:00",
+    "last_updated": "2026-07-02",
+    "generated_at": "2026-07-02T06:01:12+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -18639,7 +18639,7 @@
         "brand": "Marvis",
         "vendor": "Marvis",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564501-mt411158-2-3-1000.jpg?v=1777814100",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18661,7 +18661,7 @@
             "url": "https://www.malegroomingsupplies.com/products/marvis-anise-mint-mouthwash-120ml",
             "price": "9.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6564501-mt411158-2-3-1000.jpg?v=1777814100",
             "options": {}
           }
@@ -18715,7 +18715,7 @@
         "brand": "Marvis",
         "vendor": "Marvis",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926506-mt411377_2-2-3-1000.jpg?v=1778278142",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18737,7 +18737,7 @@
             "url": "https://www.malegroomingsupplies.com/products/marvis-anise-mint-toothpaste-85ml",
             "price": "7.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/7926506-mt411377_2-2-3-1000.jpg?v=1778278142",
             "options": {}
           }
@@ -25499,7 +25499,7 @@
         "brand": "Muhle",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-travel-shaving-brush-809485.jpg?v=1722956504",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -25522,7 +25522,7 @@
             "url": "https://www.malegroomingsupplies.com/products/muhle-travel-shaving-brush-silver",
             "price": "39.00 GBP",
             "sale_price": "33.20 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-travel-shaving-brush-809485.jpg?v=1722956504",
             "options": {}
           }
@@ -39677,7 +39677,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257824521",
             "price": "14.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "100ml"
