@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-02",
-    "generated_at": "2026-07-02T06:01:12+00:00",
+    "last_updated": "2026-07-03",
+    "generated_at": "2026-07-03T05:55:15+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -22905,7 +22905,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-slick-extra-firm-hold-pomade?variant=55572090159369",
             "price": "10.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8._Pomade_Slick_Extra_Firm_Hold.jpg?v=1748434763",
             "options": {
               "Size": "100g"
@@ -28970,7 +28970,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-alum-block-in-plastic-case-125g-male-grooming-supplies-856370.jpg?v=1722956656",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28992,7 +28992,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-alum-block-125g",
             "price": "9.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-alum-block-in-plastic-case-125g-male-grooming-supplies-856370.jpg?v=1722956656",
             "options": {}
           }
@@ -31782,11 +31782,11 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Personna Platinum-Chrome Super Stainless Double Edge Blades are standard DE razor blades for double edge safety razors. The stainless steel blades have platinum and chrome coatings for a smooth, efficient shave. This bulk pack contains 200 blades, supplied as 20 packs of 10. It is a practical choice for regular safety razor users who already know these blades suit their razor and beard type. For related products, browse Personna, compare more double edge razor blades, or see double edge safety razors. Key Features Double edge blades: Fit standard DE safety razors. Platinum and chrome coated: Stainless steel blades with coated edges. Bulk pack: 200 blades for regular wet shaving. Made in Germany: German-made Personna double edge blades. Specifications Blade Type: Double edge razor blades Quantity: 200 blades Pack Format: 20 packs of 10 blades Material: Stainless steel Coating: Platinum and chrome Made In: Germany",
         "url": "https://www.malegroomingsupplies.com/products/products-personna-platinum-chrome-super-stainless-double-edge-blades-200",
-        "price": "£21.95",
+        "price": "£22.50",
         "brand": "Personna",
         "vendor": "Personna",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/personna-platinum-chrome-super-stainless-double-edge-blades-pack-of-200-436496.jpg?v=1722957742",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -31805,9 +31805,9 @@
             "mpn": null,
             "title": "Personna Platinum-Chrome Super Stainless Double Edge Blades Pack of 200",
             "url": "https://www.malegroomingsupplies.com/products/products-personna-platinum-chrome-super-stainless-double-edge-blades-200",
-            "price": "21.95 GBP",
+            "price": "22.50 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/personna-platinum-chrome-super-stainless-double-edge-blades-pack-of-200-436496.jpg?v=1722957742",
             "options": {}
           }
