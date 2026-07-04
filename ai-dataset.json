@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-03",
-    "generated_at": "2026-07-03T05:55:15+00:00",
+    "last_updated": "2026-07-04",
+    "generated_at": "2026-07-04T05:47:42+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14417,7 +14417,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Straight-Razor_clipped_rev_1.jpg?v=1737225756",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14439,7 +14439,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-japanese-razor-black",
             "price": "89.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Straight-Razor_clipped_rev_1.jpg?v=1737225756",
             "options": {}
           }
