@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-04",
-    "generated_at": "2026-07-04T05:47:42+00:00",
+    "last_updated": "2026-07-05",
+    "generated_at": "2026-07-05T06:06:28+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -23696,7 +23696,7 @@
         "brand": "Morgan's",
         "vendor": "Morgan's",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/150ml-HD-Cream-Tube_clipped_rev_1.jpg?v=1781465538",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -23719,7 +23719,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-cream-150ml",
             "price": "8.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/150ml-HD-Cream-Tube_clipped_rev_1.jpg?v=1781465538",
             "options": {}
           }
@@ -28779,7 +28779,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-99r-male-grooming-supplies-431658.jpg?v=1722957169",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28801,7 +28801,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-99r-safety-razor-butterfly-open",
             "price": "18.45 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-99r-male-grooming-supplies-431658.jpg?v=1722957169",
             "options": {}
           }
