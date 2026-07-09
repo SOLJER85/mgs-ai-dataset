@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-08",
-    "generated_at": "2026-07-08T05:23:03+00:00",
+    "last_updated": "2026-07-09",
+    "generated_at": "2026-07-09T06:07:06+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -256,7 +256,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Barbican.png?v=1765233840",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -278,7 +278,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-barbican-boar-bristle",
             "price": "13.95 GBP",
             "sale_price": "11.15 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Barbican.png?v=1765233840",
             "options": {}
           }
@@ -21198,7 +21198,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-open-comb-travel-razor-985000-238149.jpg?v=1722957297",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21221,7 +21221,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-open-comb-travel-razor-985000",
             "price": "29.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-open-comb-travel-razor-985000-238149.jpg?v=1722957297",
             "options": {}
           }
@@ -42648,9 +42648,9 @@
             "mpn": null,
             "title": "Wilkinson Sword Double Edge Razor Blades - Pillar Pack - 100 Blades",
             "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-double-edge-razor-blades?variant=49073935712521",
-            "price": "16.75 GBP",
+            "price": "16.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/wilkinson-sword-double-edge-razor-blades-403983.jpg?v=1723969861",
             "options": {
               "Pack Size": "Pillar Pack - 100 Blades"
