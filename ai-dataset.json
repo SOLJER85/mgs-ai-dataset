@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-09",
-    "generated_at": "2026-07-09T06:07:06+00:00",
+    "last_updated": "2026-07-10",
+    "generated_at": "2026-07-10T06:05:37+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -41624,7 +41624,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/travelcase-2.jpg?v=1734358604",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41646,7 +41646,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-razor-case-vegan-leather",
             "price": "49.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/travelcase-2.jpg?v=1734358604",
             "options": {}
           }
