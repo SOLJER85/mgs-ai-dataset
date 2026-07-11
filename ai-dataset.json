@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-10",
-    "generated_at": "2026-07-10T06:05:37+00:00",
+    "last_updated": "2026-07-11",
+    "generated_at": "2026-07-11T05:14:44+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -36442,7 +36442,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSTAJ_clipped_rev_1.jpg?v=1744055474",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36464,7 +36464,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-soc-c5-sylver-synthetic-taj",
             "price": "40.85 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSTAJ_clipped_rev_1.jpg?v=1744055474",
             "options": {}
           }
@@ -42390,7 +42390,7 @@
         "brand": "Versace",
         "vendor": "Versace",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90_R740010-R100MLS_RNUL_20_Eros_EDT_100_ml-Accessories-Versace-online-store_1_1_clipped_rev_1.jpg?v=1778838705",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42410,7 +42410,7 @@
             "url": "https://www.malegroomingsupplies.com/products/versace-eros-eau-de-toilette-100ml",
             "price": "91.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90_R740010-R100MLS_RNUL_20_Eros_EDT_100_ml-Accessories-Versace-online-store_1_1_clipped_rev_1.jpg?v=1778838705",
             "options": {}
           }
