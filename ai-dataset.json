@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-13",
-    "generated_at": "2026-07-13T05:39:18+00:00",
+    "last_updated": "2026-07-14",
+    "generated_at": "2026-07-14T04:52:47+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -18312,7 +18312,7 @@
         "brand": "Martin De Candre",
         "vendor": "Martin De Candre",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Original_200_Closed_clipped_rev_1.jpg?v=1766858528",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18334,7 +18334,7 @@
             "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-original-shaving-soap?variant=56700305670409",
             "price": "45.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Original_200_Closed_clipped_rev_1.jpg?v=1766858528",
             "options": {
               "Size": "200g"
