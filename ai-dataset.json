@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-14",
-    "generated_at": "2026-07-14T04:52:47+00:00",
+    "last_updated": "2026-07-15",
+    "generated_at": "2026-07-15T04:53:00+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -332,7 +332,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114206_resized_clipped_rev_1.jpg?v=1748952575",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -354,7 +354,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-post-shave-balm",
             "price": "10.20 GBP",
             "sale_price": "8.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114206_resized_clipped_rev_1.jpg?v=1748952575",
             "options": {}
           }
@@ -1730,7 +1730,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com-2369_clipped_rev_1.jpg?v=1751363969",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1752,7 +1752,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-luxurious-shaving-soap-110g",
             "price": "31.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com-2369_clipped_rev_1.jpg?v=1751363969",
             "options": {}
           }
@@ -3552,7 +3552,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes28_clipped_rev_1.jpg?v=1747947473",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3574,7 +3574,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lavender-aftershave-balm-150ml",
             "price": "33.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes28_clipped_rev_1.jpg?v=1747947473",
             "options": {}
           }
@@ -5844,7 +5844,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Almond-hand-wash-JPEG.jpg?v=1757161745",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5865,7 +5865,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-oil-hand-wash",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Almond-hand-wash-JPEG.jpg?v=1757161745",
             "options": {}
           }
@@ -6217,7 +6217,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave800x_clipped_rev_1.jpg?v=1757191776",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6239,7 +6239,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-arlington-aftershave?variant=55897924043017",
             "price": "38.00 GBP",
             "sale_price": "30.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave800x_clipped_rev_1.jpg?v=1757191776",
             "options": {
               "Volume": "100ml"
@@ -6987,7 +6987,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shaving-cream-tub-JPEG.jpg?v=1757181709",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7009,7 +7009,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-cream-bowl-150g",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shaving-cream-tub-JPEG.jpg?v=1757181709",
             "options": {}
           }
@@ -20405,7 +20405,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_5007010_front2_x_clipped_rev_1_1.jpg?v=1765571141",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20427,7 +20427,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-black-leather-blade-protector",
             "price": "12.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_5007010_front2_x_clipped_rev_1_1.jpg?v=1765571141",
             "options": {}
           }
@@ -29711,7 +29711,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-razor-guard?variant=48029431628041",
             "price": "5.65 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-razor-guard-male-grooming-supplies-817882.jpg?v=1722956782",
             "options": {
               "Colour": "Black"
