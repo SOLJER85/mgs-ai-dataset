@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-15",
-    "generated_at": "2026-07-15T04:53:00+00:00",
+    "last_updated": "2026-07-16",
+    "generated_at": "2026-07-16T05:12:12+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -522,7 +522,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1127_clipped_rev_1.jpg?v=1748896556",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -544,7 +544,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-lime-pre-shave-oil",
             "price": "11.50 GBP",
             "sale_price": "7.50 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1127_clipped_rev_1.jpg?v=1748896556",
             "options": {}
           }
@@ -19555,7 +19555,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-23001-827730.jpg?v=1722957576",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19577,7 +19577,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-23c-long-handle-safety-razor-23001",
             "price": "26.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-23001-827730.jpg?v=1722957576",
             "options": {}
           }
@@ -19751,7 +19751,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-33001-206938.jpg?v=1722957387",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19773,7 +19773,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-33c-classic-double-edge-safety-razor",
             "price": "26.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-33001-206938.jpg?v=1722957387",
             "options": {}
           }
@@ -19827,7 +19827,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19849,7 +19849,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34c-heavy-duty-safety-razor",
             "price": "36.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
             "options": {}
           }
@@ -20557,7 +20557,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-closed-comb-travel-razor-933000-656031.jpg?v=1722957238",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20580,7 +20580,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-closed-comb-travel-razor-933000",
             "price": "34.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-closed-comb-travel-razor-933000-656031.jpg?v=1722957238",
             "options": {}
           }
@@ -20914,7 +20914,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-futur-satinmatt-chrome-razor-700002-180359.jpg?v=1722957641",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20937,7 +20937,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-futur-satin-razor-700-002",
             "price": "55.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-futur-satinmatt-chrome-razor-700002-180359.jpg?v=1722957641",
             "options": {}
           }
@@ -21198,7 +21198,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-open-comb-travel-razor-985000-238149.jpg?v=1722957297",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21221,7 +21221,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-open-comb-travel-razor-985000",
             "price": "29.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-open-comb-travel-razor-985000-238149.jpg?v=1722957297",
             "options": {}
           }
@@ -21314,7 +21314,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-progress-razor-500001-739244.jpg?v=1722957631",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21337,7 +21337,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-progress-500-adjustable-razor",
             "price": "46.75 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-progress-razor-500001-739244.jpg?v=1722957631",
             "options": {}
           }
@@ -21433,7 +21433,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-barber-pole-slanted-razor-39001-548918.jpg?v=1722957367",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21455,7 +21455,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-barber-pole-slant-safety-razor-39c",
             "price": "46.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-barber-pole-slanted-razor-39001-548918.jpg?v=1722957367",
             "options": {}
           }
@@ -21623,7 +21623,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4007001_701001_front_x_clipped_rev_1.jpg?v=1734214058",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21645,7 +21645,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-razor-stand-4007-bright-chrome",
             "price": "29.15 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4007001_701001_front_x_clipped_rev_1.jpg?v=1734214058",
             "options": {}
           }
@@ -21661,7 +21661,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4007002_700002_front_x_clipped_rev_1.jpg?v=1734213625",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21683,7 +21683,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-razor-stand-4007-satin-chrome",
             "price": "29.15 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4007002_700002_front_x_clipped_rev_1.jpg?v=1734213625",
             "options": {}
           }
@@ -21738,7 +21738,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-37001-894258.jpg?v=1722957473",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21760,7 +21760,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-37c-slant-bar-safety-razor",
             "price": "39.95 GBP",
             "sale_price": "34.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-37001-894258.jpg?v=1722957473",
             "options": {}
           }
@@ -21776,7 +21776,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21797,7 +21797,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-super-platinum-razor-blades?variant=48841624617225",
             "price": "6.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
             "options": {
               "Quantity": "Pack of 10"
@@ -21812,7 +21812,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-super-platinum-razor-blades?variant=48841591914761",
             "price": "58.05 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-super-platinum-razor-blades-100-pieces-908195.jpg?v=1722957308",
             "options": {
               "Quantity": "Full Pack (10 x 10)"
@@ -27866,7 +27866,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-65r-male-grooming-supplies-628952.jpg?v=1722956846",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27888,7 +27888,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-model-no-65r",
             "price": "19.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-65r-male-grooming-supplies-628952.jpg?v=1722956846",
             "options": {}
           }
@@ -38477,7 +38477,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-major-best-or-super-silvertip-badger-travel-shaving-brush?variant=56363187994889",
             "price": "129.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ManjorSuper-Open.png?v=1765233807",
             "options": {
               "Brush Type": "Super Badger"
