@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-17",
-    "generated_at": "2026-07-17T05:15:04+00:00",
+    "last_updated": "2026-07-18",
+    "generated_at": "2026-07-18T04:50:19+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14379,7 +14379,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Folding-Razor_clipped_rev_1.jpg?v=1737224659",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14401,7 +14401,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-folding-razor-acs-rb",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Folding-Razor_clipped_rev_1.jpg?v=1737224659",
             "options": {}
           }
@@ -17024,7 +17024,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-double-edge-safety-razor-aircraft-aluminium?variant=45376842957065",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
             "options": {
               "Blade Gap & Exposure": "Medium Aggression"
@@ -31435,7 +31435,7 @@
         "brand": "Pashana",
         "vendor": "Pashana",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/921-zoom_clipped_rev_1.jpg?v=1749730573",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -31456,7 +31456,7 @@
             "url": "https://www.malegroomingsupplies.com/products/pashana-american-bay-rum-250ml",
             "price": "8.20 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/921-zoom_clipped_rev_1.jpg?v=1749730573",
             "options": {}
           }
@@ -37472,7 +37472,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic?variant=56363185832201",
             "price": "75.95 GBP",
             "sale_price": "57.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-sov-front_clipped_rev_1.jpg?v=1765233592",
             "options": {
               "Size": "Chubby 2 Sovereign"
@@ -39989,7 +39989,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-toilette?variant=48849258578185",
             "price": "18.99 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
             "options": {
               "Size": "100ml"
