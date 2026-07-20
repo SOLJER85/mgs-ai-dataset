@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-19",
-    "generated_at": "2026-07-19T05:23:28+00:00",
+    "last_updated": "2026-07-20",
+    "generated_at": "2026-07-20T05:41:15+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1015,
-    "variant_count": 1271,
+    "product_count": 1029,
+    "variant_count": 1285,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -19584,6 +19584,41 @@
         ]
       },
       {
+        "name": "Merkur 23C Metallic Grey Safety Razor",
+        "category": "Safety Razor > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 23C Metallic Grey Safety Razor is a long-handled interpretation of one of Merkur's enduring classic designs. Developed from the 23C platform introduced in the 1920s, it keeps the straightforward three-piece construction and closed-comb head that make the model a dependable starting point for traditional wet shaving, while the glossy metallic-grey coating gives it a more contemporary appearance.The 97 mm handle is finished with Merkur's diamond cross-knurling, giving wet or soapy fingers a more secure hold. Its straight-cut, closed-comb head is designed as an all-rounder: controlled enough for regular facial shaving, yet practical for body shaving too. The generous blade gap helps soap, stubble and hair rinse through during the shave, keeping the cutting edge clearer between passes.At 66 g, the 23C has a balanced rather than heavy feel, with the longer handle offering useful reach and leverage. It is a sound choice for someone moving into double-edge shaving, or for an experienced shaver who wants a familiar closed-comb razor in a distinctive finish.Key Features Three-piece double-edge safety razor Straight-cut, closed-comb shaving head Long diamond-knurled handle for a secure grip Glossy metallic-grey coated finish Generous blade gap to help lather and hair rinse away Designed and made in Germany Specifications Razor type: three-piece safety razor Comb type: closed comb Cut: straight cut Finish: metallic grey coated Product dimensions: 104 x 43 x 25 mm Handle length: 97 mm Handle diameter: 9.5 mm Razor weight: 66 g Packaging: folding box, 132 x 52 x 27 mm Browse Merkur safety razors for other classic head and handle formats, and choose from our double edge razor blades to tailor the feel of the shave.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-23c-metallic-grey-safety-razor",
+        "price": "£36.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_23111_back_x-1_clipped_rev_1.jpg?v=1784120968",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razor",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306080521",
+            "sku": "23111",
+            "gtin": "4260734882020",
+            "mpn": null,
+            "title": "Merkur 23C Metallic Grey Safety Razor",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-23c-metallic-grey-safety-razor",
+            "price": "36.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_23111_back_x-1_clipped_rev_1.jpg?v=1784120968",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Merkur 24G Ladies Rose Gold Safety Razor",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
@@ -19780,6 +19815,41 @@
         ]
       },
       {
+        "name": "Merkur 34 ADJ Adjustable Safety Razor",
+        "category": "Safety Razor > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 34 ADJ Adjustable Safety Razor brings blade-gap adjustment to the compact 34-style platform. It combines the familiar, easy-to-control proportions of a short-handled closed-comb razor with a numbered adjustment scale, allowing the head to be tuned to beard growth, blade choice and personal preference rather than committing to one fixed setting.Turn the end knob to adjust the blade gap from approximately 0.6 to 1.6 mm. A more open setting can be useful for longer growth, while a gentler setting can suit regular shaving or a more cautious first pass. The closed comb and straight-cut head keep the razor grounded in the conventional 34 format, so the adjustment adds range without making the shave needlessly complicated.The bright-chrome finish, short 78 mm handle and 98 g weight give it a dense, planted feel in the hand. It is a good fit for a traditional wet shaver who wants one razor capable of covering both mild daily work and more substantial growth.Key Features Two-piece adjustable double-edge safety razor Blade gap adjustable from approximately 0.6 to 1.6 mm Numbered adjustment scale and end knob Straight-cut, closed-comb head Compact short handle with bright-chrome finish Designed and made in Germany Specifications Razor type: two-piece adjustable safety razor Comb type: closed comb Cut: straight cut Blade-gap adjustment: approximately 0.6 to 1.6 mm Finish: bright chrome Product dimensions: 88 x 41 x 25 mm Handle length: 78 mm Handle diameter: 12.5 mm Razor weight: 98 g Packaging: folding box, 120 x 47 x 27 mm Explore other Merkur safety razors or use the adjustment range to get the best from different double edge razor blades.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-34-adj-adjustable-safety-razor",
+        "price": "£65.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_back_x-1_clipped_rev_1.jpg?v=1784120969",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razor",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306113289",
+            "sku": "34501",
+            "gtin": "4260734881894",
+            "mpn": null,
+            "title": "Merkur 34 ADJ Adjustable Safety Razor",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-34-adj-adjustable-safety-razor",
+            "price": "65.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_back_x-1_clipped_rev_1.jpg?v=1784120969",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Merkur 34 INOX Special Edition 1896 Stainless Steel Safety Razor",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
@@ -19813,6 +19883,41 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34106_top_x_clipped_rev_1.jpg?v=1766005587",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 34 INOX XL Satin Safety Razor",
+        "category": "Safety Razor > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 34 INOX XL Satin Safety Razor is the extended stainless-steel edition of Merkur's celebrated 34 HD format. The original 34 earned its Heavy Duty nickname through its reassuring weight and compact, capable shaving character; this XL version keeps that familiar two-piece, closed-comb design while adding a longer handle for those who prefer a fuller grip.Its satin-finished stainless-steel construction gives the razor a quietly premium, hard-wearing appearance without the high gloss of traditional chrome. The closed comb and straight-cut head are designed to make finding a comfortable shaving angle intuitive. A generous blade gap allows lather and cut hair to flush away, helping keep the head clear during a complete shave.With an 98 mm handle, 11.5 mm grip diameter and an 87 g razor weight, the 34 INOX XL is particularly well suited to larger hands or anyone who wants more handle length than the compact 34C style. It remains an all-round classic rather than an aggressive specialist razor.Key Features Two-piece double-edge safety razor Extended XL handle for a more substantial hold Satin-finished stainless-steel construction Straight-cut, closed-comb head Generous blade gap for easier rinsing Designed and made in Germany Specifications Razor type: two-piece safety razor Comb type: closed comb Cut: straight cut Finish: satin stainless steel Product dimensions: 105 x 43 x 25 mm Handle length: 98 mm Handle diameter: 11.5 mm Razor weight: 87 g Packaging: folding box, 132 x 52 x 27 mm For a more compact Merkur 34 format, browse Merkur safety razors; pair this razor with your preferred double edge razor blades for a personalised shave.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-34-inox-xl-satin-safety-razor",
+        "price": "£112.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34206_back_x-1_clipped_rev_1.jpg?v=1784120967",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razor",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306047753",
+            "sku": "34206",
+            "gtin": "4260734881887",
+            "mpn": null,
+            "title": "Merkur 34 INOX XL Satin Safety Razor",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-34-inox-xl-satin-safety-razor",
+            "price": "112.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34206_back_x-1_clipped_rev_1.jpg?v=1784120967",
             "options": {}
           }
         ]
@@ -20082,6 +20187,123 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4000111-2-scaled_clipped_rev_1_1.jpg?v=1765565645",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 4006 Razor Stand Bright Chrome",
+        "category": "Shaving Accessories & Cases > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 4006 Bright Chrome Razor Stand gives compatible Merkur safety razors a neat, stable home between shaves. Its small circular form is often called the 'donut' stand: the stepped central bore supports the handle end while keeping the razor upright and off the bathroom surface.The two-stage opening is designed around common Merkur handle diameters. The 11.3 mm section suits models such as the 23C, while the 14.3 mm section accommodates larger-handled options such as the 34C and 37C. At 137 g with a 40 mm diameter base, the stand is deliberately weighty for its size; the nitrile rubber ring below protects the surface and helps prevent sliding.Finished in bright chrome, it is a practical match for traditional Merkur chrome razors and a simple way to keep the shaving area more orderly. Check the diameter and fit of your own razor before ordering, particularly with non-Merkur handles.Key Features Stepped central bore for compatible Merkur razor handles 11.3 mm and 14.3 mm bore diameters Solid, compact 40 mm circular base Nitrile rubber ring protects surfaces and reduces slipping Bright-chrome finish Designed and made in Germany Specifications Model: Merkur 4006 Finish: bright chrome Construction: brass with bright-chrome electroplated surface Bore diameters: 11.3 mm and 14.3 mm Product dimensions: 40 mm diameter x 16 mm high Product weight: 137 g Compatible Merkur models include 15C, 23C, 24C, 25C, 33C, 34C and 37C Packaging: folding box, 42 x 42 x 18 mm Browse Merkur safety razors to find a compatible razor, or see more shaving accessories for a complete wet-shaving setup.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-4006-razor-stand-bright-chrome",
+        "price": "£30.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-rasierstaender-4006_clipped_rev_1_85afffea-8ad1-48fa-856b-beb4bf36d633.jpg?v=1784120969",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Accessories & Cases",
+        "collections": [
+          "Merkur Safety Razors",
+          "Razor Stands & Shaving Brush Stands",
+          "Shaving Accessories & Cases",
+          "New Additions",
+          "Shaving Essentials",
+          "Shaving Sets & Accessories"
+        ],
+        "variants": [
+          {
+            "id": "57199306211593",
+            "sku": "4006001",
+            "gtin": "4260734880118",
+            "mpn": null,
+            "title": "Merkur 4006 Razor Stand Bright Chrome",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-4006-razor-stand-bright-chrome",
+            "price": "30.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-rasierstaender-4006_clipped_rev_1_85afffea-8ad1-48fa-856b-beb4bf36d633.jpg?v=1784120969",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 4006 Razor Stand Metallic Grey",
+        "category": "Shaving Accessories & Cases > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 4006 Metallic Grey Razor Stand gives selected Merkur safety razors a compact, stable place to rest between shaves. Its circular profile and central stepped opening create the familiar 4006 'donut stand' shape, keeping the razor upright and helping the shaving area look more organised.The stepped bore is made for two common Merkur handle diameters: 11.3 mm for slimmer handles such as the 23C and 14.3 mm for wider handle ends such as the 34C. The 40 mm diameter base is deliberately solid for its size, and the rubber ring on the underside protects the countertop while reducing movement.The metallic-grey finish pairs especially well with the matching Merkur 23C Metallic Grey razor. It is also a useful standalone accessory where a small footprint is more important than a large multi-item stand.Key Features Stepped central bore for selected Merkur razor handles 11.3 mm and 14.3 mm bore diameters Compact 40 mm circular base Rubber underside to protect surfaces and reduce slipping Metallic-grey finish Designed and made in Germany Specifications Model: Merkur 4006 Finish: metallic grey Bore diameters: 11.3 mm and 14.3 mm Product dimensions: 40 mm diameter x 16 mm high Product weight: 137 g Supplier-listed compatibility: Merkur 23C and 34C Packaging: folding box, 42 x 42 x 18 mm Pair it with a compatible model from Merkur safety razors, or browse more shaving accessories.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-4006-razor-stand-metallic-grey",
+        "price": "£30.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006111_front_x-1_clipped_rev_1.jpg?v=1784120971",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Accessories & Cases",
+        "collections": [
+          "Merkur Safety Razors",
+          "Razor Stands & Shaving Brush Stands",
+          "Shaving Accessories & Cases",
+          "New Additions",
+          "Shaving Essentials",
+          "Shaving Sets & Accessories"
+        ],
+        "variants": [
+          {
+            "id": "57199306244361",
+            "sku": "4006111",
+            "gtin": "4260734882044",
+            "mpn": null,
+            "title": "Merkur 4006 Razor Stand Metallic Grey",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-4006-razor-stand-metallic-grey",
+            "price": "30.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006111_front_x-1_clipped_rev_1.jpg?v=1784120971",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 4006 Razor Stand Satin Chrome",
+        "category": "Shaving Accessories & Cases > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 4006 Satin Chrome Razor Stand is the understated satin-finish version of Merkur's compact circular razor stand. It keeps a compatible safety razor upright between shaves, helping the bathroom surface stay clearer while making the razor easy to pick up for the next routine.A stepped central bore accepts two common Merkur handle diameters: 11.3 mm for slimmer handles and 14.3 mm for larger examples. The stand's 40 mm diameter and 137 g weight give it a stable footprint, while the rubber ring beneath the base protects the surface below and reduces movement on a countertop.This finish is a natural companion to satin or matt-chrome Merkur razors. The supplier lists it for a broad group of compatible models, including the 15C, 22C, 23C, 24C, 25C, 33C, 34C and 37C; it is still worth checking the handle-end diameter of any razor before purchase.Key Features Stepped central bore for compatible Merkur razor handles 11.3 mm and 14.3 mm bore diameters Compact, weighted circular base Rubber underside to protect surfaces and reduce slipping Satin-chrome finish Designed and made in Germany Specifications Model: Merkur 4006 Finish: satin chrome Bore diameters: 11.3 mm and 14.3 mm Product dimensions: 40 mm diameter x 16 mm high Product weight: 137 g Compatible Merkur models include 15C, 22C, 23C, 24C, 25C, 33C, 34C and 37C Packaging: folding box, 42 x 42 x 18 mm Browse Merkur safety razors for compatible razors, or explore our shaving accessories to complete your shaving area.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-4006-razor-stand-satin-chrome",
+        "price": "£30.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-rasierstaender-4006_clipped_rev_1.jpg?v=1784120971",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Accessories & Cases",
+        "collections": [
+          "Merkur Safety Razors",
+          "Razor Stands & Shaving Brush Stands",
+          "Shaving Accessories & Cases",
+          "New Additions",
+          "Shaving Essentials",
+          "Shaving Sets & Accessories"
+        ],
+        "variants": [
+          {
+            "id": "57199306277129",
+            "sku": "4006002",
+            "gtin": "4260734881115",
+            "mpn": null,
+            "title": "Merkur 4006 Razor Stand Satin Chrome",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-4006-razor-stand-satin-chrome",
+            "price": "30.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-rasierstaender-4006_clipped_rev_1.jpg?v=1784120971",
             "options": {}
           }
         ]
@@ -20391,6 +20613,77 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90019_front_x_clipped_rev_1.jpg?v=1765543632",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 510 Progress Bright Chrome Safety Razor",
+        "category": "Safety Razor > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 510 Progress Bright Chrome Safety Razor is the long-handled version of Merkur's adjustable Progress design, a format rooted in the 1950s. Its bright-chrome end knob, Merkur engraving and contoured handle give it a classic appearance, while the adjustable head allows it to cover a wide range of shaving preferences in one two-piece razor.The scale at the base of the handle changes the blade gap from approximately 0.6 to 1.6 mm. Use a more open setting where there is longer or denser growth, then reduce it for a gentler daily shave or a finishing pass. The long, shaped handle also gives useful reach for difficult areas and for body shaving, while the straight-cut head keeps the familiar double-edge razor technique intact.At 112 g with a 94 mm handle, the 510 Progress has a substantial, confidence-inspiring feel without becoming unwieldy. It is a particularly versatile Merkur for a shaver who wants to learn one dependable adjustable platform rather than own several fixed-gap razors.Key Features Two-piece adjustable double-edge safety razor Long contoured handle for additional reach Blade gap adjustable from approximately 0.6 to 1.6 mm Bright-chrome finish with engraved adjustment knob Straight-cut head for traditional wet shaving Designed and made in Germany Specifications Razor type: two-piece adjustable safety razor Cut: straight cut Blade-gap adjustment: approximately 0.6 to 1.6 mm Finish: bright chrome Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: folding box, 132 x 52 x 27 mm Compare the Progress with other Merkur safety razors, then select compatible double edge razor blades to refine the setting that works best for you.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-bright-chrome-safety-razor",
+        "price": "£73.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_back_x-1_clipped_rev_1.jpg?v=1784120969",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razor",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306146057",
+            "sku": "510101",
+            "gtin": "4260734881863",
+            "mpn": null,
+            "title": "Merkur 510 Progress Bright Chrome Safety Razor",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-bright-chrome-safety-razor",
+            "price": "73.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_back_x-1_clipped_rev_1.jpg?v=1784120969",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 933 INOX Travel Razor with Leather Case",
+        "category": "Safety Razor > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 933 INOX Travel Razor with Leather Case is a compact four-piece safety razor designed for shaving away from home without giving up a proper double-edge shave. Based on a Merkur travel format from the 1950s, it uses a detachable handle to create a notably small packed size, then assembles into a familiar straight-cut shaving head when you need it.The satin-finished stainless-steel razor is supplied in a black leather case, keeping the components together and protected in a wash bag, suitcase or pocket. Despite its compact dimensions, the head retains a generous blade gap to help rinse away lather and hair. A Merkur blade is included, so it is ready to pack for the next trip.At just 53 g for the razor and 73 x 43 x 25 mm assembled, the 933 INOX is a purposeful travel tool rather than a novelty. It suits frequent travellers, gym-bag users and anyone who wants a small, durable Merkur option alongside a full-size home razor.Key Features Four-piece double-edge travel safety razor Detachable handle for a small packed size Satin-finished stainless-steel construction Black leather travel case included Straight-cut head with generous blade gap One Merkur blade included Designed and made in Germany Specifications Razor type: four-piece travel safety razor Cut: straight cut Finish: satin stainless steel Case: black leather Product dimensions: 73 x 43 x 25 mm Handle length: 66 mm Handle diameter: 11 mm Razor weight: 53 g Packed dimensions: 60 x 62 x 25 mm Packed weight: 79 g For home use, browse Merkur safety razors; for travel refills, see our double edge razor blades.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-933-inox-travel-razor-with-leather-case",
+        "price": "£122.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_933006_back_x-1_clipped_rev_1.jpg?v=1784120970",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razor",
+        "collections": [
+          "Merkur Safety Razors",
+          "Travel Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306178825",
+            "sku": "933006",
+            "gtin": "4260734881924",
+            "mpn": null,
+            "title": "Merkur 933 INOX Travel Razor with Leather Case",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-933-inox-travel-razor-with-leather-case",
+            "price": "122.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_933006_back_x-1_clipped_rev_1.jpg?v=1784120970",
             "options": {}
           }
         ]
@@ -21690,6 +21983,181 @@
         ]
       },
       {
+        "name": "Merkur Replacement Bridge Futur 701 Bright Chrome",
+        "category": "Spare Parts > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur Replacement Bridge Futur 701 is the bright-chrome bridge component for the Merkur Futur 701001 safety razor. It replaces the matching section of the razor head when the original bridge has been lost or damaged, allowing the correct 701 head assembly to be restored without replacing the complete razor.This is a dedicated Futur 701 part, not a universal Merkur bridge. The bright-chrome finish matches the 701001 model, and the part should be ordered only after confirming the razor version: Futur 700, 701 and other finishes use their own corresponding components.Key Features Original Merkur replacement bridge For the Merkur Futur 701001 safety razor Bright-chrome finish Restores the matching section of the Futur 701 head assembly Ten Merkur Super Platinum blades included Designed and made in Germany Specifications Part type: replacement razor bridge Compatible model: Merkur Futur 701001 Finish: bright chrome Part weight: 12 g Included: 10 Merkur Super Platinum double edge blades For complete razor options, browse Merkur safety razors. Confirm the exact Futur finish and model number before ordering any replacement head component.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-bridge-futur-701-bright-chrome",
+        "price": "£7.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90008_front_square.jpg?v=1784492918",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Spare Parts",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306506505",
+            "sku": "90008",
+            "gtin": "4260734880248",
+            "mpn": null,
+            "title": "Merkur Replacement Bridge Futur 701 Bright Chrome",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-bridge-futur-701-bright-chrome",
+            "price": "7.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90008_front_square.jpg?v=1784492918",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur Replacement Top Plate 33 Bright Chrome Short Screw",
+        "category": "Spare Parts > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur Replacement Top Plate 33 is the bright-chrome top component for compatible Merkur safety razors that use the short M5 x 10 mm screw. A replacement top plate is the correct choice when the original cap has been lost or damaged; it restores the upper half of the shaving head while retaining the handle and comb that belong to the same razor system.This is a 41 mm part for Merkur's short-screw platform. Compatibility must be checked by razor model and screw length rather than appearance alone: the supplier lists it for 15C, 20C, 23C, 24C, 25C, 30C, 33C, 41C, 42C, 46, 47C, 933C and 985C models.Key Features Original Merkur replacement top plate Short M5 x 10 mm screw 41 mm bright-chrome component Restores the top section of a compatible Merkur shaving head Ten Merkur Super Platinum blades included Designed and made in Germany Specifications Part type: replacement top plate Finish: bright chrome Part width: 41 mm Screw: short M5 x 10 mm Part weight: 15 g Compatible models: 15C, 20C, 23C, 24C, 25C, 30C, 33C, 41C, 42C, 46, 47C, 933C and 985C Included: 10 Merkur Super Platinum double edge blades If you need a complete razor rather than a service component, browse Merkur safety razors. Always compare the screw length and model of the existing part before ordering.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-33-bright-chrome-short-screw",
+        "price": "£10.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90001.jpg?v=1784485336",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Spare Parts",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306342665",
+            "sku": "90001",
+            "gtin": "4260734880170",
+            "mpn": null,
+            "title": "Merkur Replacement Top Plate 33 Bright Chrome Short Screw",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-33-bright-chrome-short-screw",
+            "price": "10.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90001.jpg?v=1784485336",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur Replacement Top Plate 34 Bright Chrome Long Screw",
+        "category": "Spare Parts > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur Replacement Top Plate 34 is the bright-chrome cap for Merkur razors built around the long M5 x 34 mm screw. It replaces the upper part of the shaving head and is designed for models that use the longer centre screw rather than Merkur's shorter 33-style configuration.The 41 mm plate is listed for the 34C, 38C, 43, 500C and 510C. It is important to check both the existing razor model and the screw length before ordering: a top plate can look very similar across Merkur formats while still using a different fixing arrangement.Key Features Original Merkur replacement top plate Long M5 x 34 mm screw 41 mm bright-chrome component For compatible Merkur 34C, 38C, 43, 500C and 510C razors Ten Merkur Super Platinum blades included Designed and made in Germany Specifications Part type: replacement top plate Finish: bright chrome Part width: 41 mm Screw: long M5 x 34 mm Part weight: 17 g Compatible models: 34C, 38C, 43, 500C and 510C Included: 10 Merkur Super Platinum double edge blades For a complete model, browse Merkur safety razors. Compare the existing screw length before ordering any Merkur top plate.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-34-bright-chrome-long-screw",
+        "price": "£10.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90004.jpg?v=1784485338",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Spare Parts",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306440969",
+            "sku": "90004",
+            "gtin": "4260734880200",
+            "mpn": null,
+            "title": "Merkur Replacement Top Plate 34 Bright Chrome Long Screw",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-34-bright-chrome-long-screw",
+            "price": "10.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90004.jpg?v=1784485338",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur Replacement Top Plate Futur 700 Matt Chrome",
+        "category": "Spare Parts > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur Replacement Top Plate Futur 700 is the matt-chrome cap for the Merkur Futur 700002 safety razor. It restores the top portion of the matching Futur head assembly when the original plate has been lost or damaged, while retaining the razor's existing handle and compatible lower components.The plate is specific to the matt-chrome Futur 700002 finish. Futur parts should always be matched to the precise model and finish, as a bright-chrome 701 plate or another Futur component may look close but is not the correct replacement for this version.Key Features Original Merkur replacement top plate For the Merkur Futur 700002 safety razor Matt-chrome finish Restores the upper section of the Futur 700 head assembly Ten Merkur blades included Designed and made in Germany Specifications Part type: replacement top plate Compatible model: Merkur Futur 700002 Finish: matt chrome Part weight: 19 g Included: 10 Merkur double edge blades Browse Merkur safety razors for complete Merkur razors. Confirm the exact Futur model and finish before ordering a replacement top plate.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-futur-700-matt-chrome",
+        "price": "£11.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90011.jpg?v=1784485339",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Spare Parts",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306539273",
+            "sku": "90011",
+            "gtin": "4260734880255",
+            "mpn": null,
+            "title": "Merkur Replacement Top Plate Futur 700 Matt Chrome",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-futur-700-matt-chrome",
+            "price": "11.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90011.jpg?v=1784485339",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur Replacement Top Plate Futur 701 Bright Chrome",
+        "category": "Spare Parts > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur Replacement Top Plate Futur 701 is the bright-chrome cap for the Merkur Futur 701001 safety razor. It replaces the upper portion of the matching razor head, making it the correct service part when a Futur 701 top plate has been lost or damaged but the rest of the razor remains usable.This is a dedicated bright-chrome Futur 701 component. Check the exact version of your Futur before ordering, as the matt-chrome 700 and other Futur variants use their own related parts even where the head shapes appear similar.Key Features Original Merkur replacement top plate For the Merkur Futur 701001 safety razor Bright-chrome finish Restores the upper section of the Futur 701 head assembly Ten Merkur Super Platinum blades included Designed and made in Germany Specifications Part type: replacement top plate Compatible model: Merkur Futur 701001 Finish: bright chrome Part weight: 19 g Included: 10 Merkur Super Platinum double edge blades Browse Merkur safety razors for complete Merkur razors. Confirm the exact Futur model and finish before ordering a replacement top plate.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-futur-701-bright-chrome",
+        "price": "£11.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/rasierdeckel-futur-701_jpg.webp?v=1784120977",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Spare Parts",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306572041",
+            "sku": "90012",
+            "gtin": "4260734880262",
+            "mpn": null,
+            "title": "Merkur Replacement Top Plate Futur 701 Bright Chrome",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-futur-701-bright-chrome",
+            "price": "11.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/rasierdeckel-futur-701_jpg.webp?v=1784120977",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Merkur Safety Razor 22C | MERKUR – Hannemann",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
@@ -21724,6 +22192,44 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_22102_front_1_x_clipped_rev_1_9c372b9b-9189-4981-ba6e-2da50039090f.jpg?v=1765563392",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur Shaving Towel White 50 x 74 cm",
+        "category": "Shaving Accessories & Cases > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur Shaving Towel is a generously sized white cotton towel made for the small practical moments around a traditional wet-shaving routine. Its piqué honeycomb texture gives it a tactile, absorbent surface that works well for drying hands, clearing lather from the sink area or finishing a shave with a warm towel.At 50 x 74 cm, it is larger than a small washcloth but compact enough to keep with a dedicated shaving kit. The clean white finish and subtle Merkur branding make it suitable for everyday bathroom use, a guest shaving set or as an addition to a Merkur razor gift.Made from 100% cotton, this is a straightforward grooming accessory designed to be used rather than displayed. It adds a little ceremony to wet shaving without demanding extra equipment.Key Features 100% cotton shaving towel Piqué honeycomb texture Generous 50 x 74 cm format White finish with Merkur branding Useful for warm-towel preparation, drying and finishing a shave Specifications Material: 100% cotton Texture: piqué honeycomb Colour: white Towel dimensions: 500 x 740 mm Item weight: 123 g Packaging: folding box, 205 x 245 x 30 mm Browse shaving accessories for other useful additions to a traditional shaving routine.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-shaving-towel-white-40-x-70-cm",
+        "price": "£19.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/P5040222_clipped_rev_1-1_clipped_rev_1.jpg?v=1784120972",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Accessories & Cases",
+        "collections": [
+          "Merkur Safety Razors",
+          "Shaving Accessories & Cases",
+          "New Additions",
+          "Shaving Essentials",
+          "Shaving Sets & Accessories"
+        ],
+        "variants": [
+          {
+            "id": "57199306309897",
+            "sku": "4014000",
+            "gtin": "4260734881979",
+            "mpn": null,
+            "title": "Merkur Shaving Towel White 50 x 74 cm",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-shaving-towel-white-40-x-70-cm",
+            "price": "19.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/P5040222_clipped_rev_1-1_clipped_rev_1.jpg?v=1784120972",
             "options": {}
           }
         ]
