@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-20",
-    "generated_at": "2026-07-20T05:41:15+00:00",
+    "last_updated": "2026-07-21",
+    "generated_at": "2026-07-21T05:22:02+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14567,7 +14567,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades?variant=57033945710857",
             "price": "42.65 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/feather-hi-stainless-double-edge-razor-blades-952429.jpg?v=1722957263",
             "options": {
               "Pack Size": "Pillar Pack - 20 x 10 Blades (200 Blades)"
@@ -15347,7 +15347,7 @@
         "brand": "Floris London",
         "vendor": "Floris London",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-chypress-hand-wash-250ml-front.jpg?v=1752607846",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -15368,7 +15368,7 @@
             "url": "https://www.malegroomingsupplies.com/products/floris-chypress-hand-wash-250ml",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-chypress-hand-wash-250ml-front.jpg?v=1752607846",
             "options": {}
           }
@@ -19592,7 +19592,7 @@
         "price": "£36.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_23111_back_x-1_clipped_rev_1.jpg?v=1784120968",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/23111_top_x.jpg?v=1784485176",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -19613,7 +19613,7 @@
             "price": "36.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_23111_back_x-1_clipped_rev_1.jpg?v=1784120968",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/23111_top_x.jpg?v=1784485176",
             "options": {}
           }
         ]
@@ -19823,7 +19823,7 @@
         "price": "£65.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_back_x-1_clipped_rev_1.jpg?v=1784120969",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/34501_top_x.jpg?v=1784485267",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -19844,7 +19844,7 @@
             "price": "65.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_back_x-1_clipped_rev_1.jpg?v=1784120969",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/34501_top_x.jpg?v=1784485267",
             "options": {}
           }
         ]
@@ -19896,7 +19896,7 @@
         "price": "£112.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34206_back_x-1_clipped_rev_1.jpg?v=1784120967",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/34206_top_x.jpg?v=1784485266",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -19917,7 +19917,7 @@
             "price": "112.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34206_back_x-1_clipped_rev_1.jpg?v=1784120967",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/34206_top_x.jpg?v=1784485266",
             "options": {}
           }
         ]
@@ -20626,7 +20626,7 @@
         "price": "£73.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_back_x-1_clipped_rev_1.jpg?v=1784120969",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/510101_top_x.jpg?v=1784485336",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -20647,7 +20647,7 @@
             "price": "73.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_back_x-1_clipped_rev_1.jpg?v=1784120969",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/510101_top_x.jpg?v=1784485336",
             "options": {}
           }
         ]
@@ -40108,7 +40108,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/435_005_TO_ASB_75_ml_Tube_clipped_rev_1.jpg?v=1734440090",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -40130,7 +40130,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-balm-75ml",
             "price": "8.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/435_005_TO_ASB_75_ml_Tube_clipped_rev_1.jpg?v=1734440090",
             "options": {}
           }
