@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-22",
-    "generated_at": "2026-07-22T05:20:45+00:00",
+    "last_updated": "2026-07-23",
+    "generated_at": "2026-07-23T05:26:45+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -21047,7 +21047,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-futur-4-piece-polished-chrome-shaving-set-751-001-127764.jpg?v=1722957335",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21072,7 +21072,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-futur-4-piece-polished-chrome-shaving-set-751-001",
             "price": "229.70 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-futur-4-piece-polished-chrome-shaving-set-751-001-127764.jpg?v=1722957335",
             "options": {}
           }
