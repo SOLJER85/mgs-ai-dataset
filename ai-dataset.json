@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-24",
-    "generated_at": "2026-07-24T05:21:48+00:00",
+    "last_updated": "2026-07-25",
+    "generated_at": "2026-07-25T05:16:13+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1029,
-    "variant_count": 1285,
+    "product_count": 1030,
+    "variant_count": 1286,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -1505,7 +1505,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain-Fawcett_s-Expedition-Wax-01.jpg?v=1751996584",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1526,7 +1526,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-expedition-strength-moustache-wax-15ml",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain-Fawcett_s-Expedition-Wax-01.jpg?v=1751996584",
             "options": {}
           }
@@ -2438,7 +2438,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CaptainFawcettLtdRickiHallSignatureSeries-9_5125fa09-8825-41db-a24e-d863af97db76.jpg?v=1751793753",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -2459,7 +2459,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-booze-and-baccy-moustache-wax-15ml",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CaptainFawcettLtdRickiHallSignatureSeries-9_5125fa09-8825-41db-a24e-d863af97db76.jpg?v=1751793753",
             "options": {}
           }
@@ -3437,7 +3437,7 @@
         "price": "£26.00",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Castle_Forbes_Forbes_of_Forbes_Shaving_Cream_Male_Grooming_Supplies.png?v=1782160456",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Castle_Forbes_Forbes_of_Forbes_Shaving_Cream_Male_Grooming_Supplies-mgs-lossless.webp?v=1784922284",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3461,7 +3461,7 @@
             "price": "26.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Castle_Forbes_Forbes_of_Forbes_Shaving_Cream_Male_Grooming_Supplies.png?v=1782160456",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Castle_Forbes_Forbes_of_Forbes_Shaving_Cream_Male_Grooming_Supplies-mgs-lossless.webp?v=1784922284",
             "options": {}
           }
         ]
@@ -3816,7 +3816,7 @@
         "price": "£36.25",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_2.png?v=1782222570",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_2-mgs-lossless.webp?v=1784922312",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3840,7 +3840,7 @@
             "price": "36.25 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_2.png?v=1782222570",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_2-mgs-lossless.webp?v=1784922312",
             "options": {}
           }
         ]
@@ -11132,7 +11132,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-shave-stick-JPEG.jpg?v=1757182516",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11154,7 +11154,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-stick",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-shave-stick-JPEG.jpg?v=1757182516",
             "options": {}
           }
@@ -13887,7 +13887,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13909,7 +13909,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-all-stainless-safety-razor-as-d2",
             "price": "142.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
             "options": {}
           }
@@ -14454,7 +14454,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Scotch-Wood-Razor_1_clipped_rev_1.jpg?v=1737226445",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14476,7 +14476,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-scotch-wood-razor",
             "price": "104.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Scotch-Wood-Razor_1_clipped_rev_1.jpg?v=1737226445",
             "options": {}
           }
@@ -19591,7 +19591,7 @@
         "price": "£36.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/23111_top_x.jpg?v=1784485176",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_23111_top_x_clipped_rev_1.jpg?v=1784925837",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -19612,7 +19612,7 @@
             "price": "36.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/23111_top_x.jpg?v=1784485176",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_23111_top_x_clipped_rev_1.jpg?v=1784925837",
             "options": {}
           }
         ]
@@ -19822,7 +19822,7 @@
         "price": "£65.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/34501_top_x.jpg?v=1784485267",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_top_x_clipped_rev_1.jpg?v=1784925392",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -19843,7 +19843,7 @@
             "price": "65.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/34501_top_x.jpg?v=1784485267",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_top_x_clipped_rev_1.jpg?v=1784925392",
             "options": {}
           }
         ]
@@ -19895,7 +19895,7 @@
         "price": "£112.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/34206_top_x.jpg?v=1784485266",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34206_top_x_clipped_rev_1.jpg?v=1784925608",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -19916,7 +19916,7 @@
             "price": "112.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/34206_top_x.jpg?v=1784485266",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34206_top_x_clipped_rev_1.jpg?v=1784925608",
             "options": {}
           }
         ]
@@ -20199,7 +20199,7 @@
         "price": "£30.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-rasierstaender-4006_clipped_rev_1_85afffea-8ad1-48fa-856b-beb4bf36d633.jpg?v=1784120969",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006001_front_x_clipped_rev_1.jpg?v=1784924812",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -20224,7 +20224,7 @@
             "price": "30.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-rasierstaender-4006_clipped_rev_1_85afffea-8ad1-48fa-856b-beb4bf36d633.jpg?v=1784120969",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006001_front_x_clipped_rev_1.jpg?v=1784924812",
             "options": {}
           }
         ]
@@ -20238,7 +20238,7 @@
         "price": "£30.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006111_front_x-1_clipped_rev_1.jpg?v=1784120971",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006111_front_x_clipped_rev_1.jpg?v=1784924520",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -20263,7 +20263,7 @@
             "price": "30.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006111_front_x-1_clipped_rev_1.jpg?v=1784120971",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006111_front_x_clipped_rev_1.jpg?v=1784924520",
             "options": {}
           }
         ]
@@ -20272,12 +20272,12 @@
         "name": "Merkur 4006 Razor Stand Satin Chrome",
         "category": "Shaving Accessories & Cases > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Merkur 4006 Satin Chrome Razor Stand is the understated satin-finish version of Merkur's compact circular razor stand. It keeps a compatible safety razor upright between shaves, helping the bathroom surface stay clearer while making the razor easy to pick up for the next routine.A stepped central bore accepts two common Merkur handle diameters: 11.3 mm for slimmer handles and 14.3 mm for larger examples. The stand's 40 mm diameter and 137 g weight give it a stable footprint, while the rubber ring beneath the base protects the surface below and reduces movement on a countertop.This finish is a natural companion to satin or matt-chrome Merkur razors. The supplier lists it for a broad group of compatible models, including the 15C, 22C, 23C, 24C, 25C, 33C, 34C and 37C; it is still worth checking the handle-end diameter of any razor before purchase.Key Features Stepped central bore for compatible Merkur razor handles 11.3 mm and 14.3 mm bore diameters Compact, weighted circular base Rubber underside to protect surfaces and reduce slipping Satin-chrome finish Designed and made in Germany Specifications Model: Merkur 4006 Finish: satin chrome Bore diameters: 11.3 mm and 14.3 mm Product dimensions: 40 mm diameter x 16 mm high Product weight: 137 g Compatible Merkur models include 15C, 22C, 23C, 24C, 25C, 33C, 34C and 37C Packaging: folding box, 42 x 42 x 18 mm Browse Merkur safety razors for compatible razors, or explore our shaving accessories to complete your shaving area.",
+        "description": "The Merkur 4006 Satin Chrome Razor Stand is the understated satin-finish version of Merkur's compact circular razor stand. It keeps a compatible safety razor upright between shaves, helping the bathroom surface stay clearer while making the razor easy to pick up for the next routine. A stepped central bore accepts two common Merkur handle diameters: 11.3 mm for slimmer handles and 14.3 mm for larger examples. The stand's 40 mm diameter and 137 g weight give it a stable footprint, while the rubber ring beneath the base protects the surface below and reduces movement on a countertop. This finish is a natural companion to satin or matt-chrome Merkur razors. The supplier lists it for a broad group of compatible models, including the 15C, 22C, 23C, 24C, 25C, 33C, 34C and 37C; it is still worth checking the handle-end diameter of any razor before purchase. Key Features Stepped central bore for compatible Merkur razor handles 11.3 mm and 14.3 mm bore diameters Compact, weighted circular base Rubber underside to protect surfaces and reduce slipping Satin-chrome finish Designed and made in Germany Specifications Model: Merkur 4006 Finish: Satin Chrome Bore diameters: 11.3 mm and 14.3 mm Product dimensions: 40 mm diameter x 16 mm high Product weight: 137 g Compatible Merkur models include 15C, 22C, 23C, 24C, 25C, 33C, 34C and 37C Packaging: folding box, 42 x 42 x 18 mm Browse Merkur safety razors for compatible razors, or explore our shaving accessories to complete your shaving area.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-4006-razor-stand-satin-chrome",
         "price": "£30.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-rasierstaender-4006_clipped_rev_1.jpg?v=1784120971",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006002_front_x_clipped_rev_1.jpg?v=1784924328",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -20302,7 +20302,7 @@
             "price": "30.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-rasierstaender-4006_clipped_rev_1.jpg?v=1784120971",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006002_front_x_clipped_rev_1.jpg?v=1784924328",
             "options": {}
           }
         ]
@@ -20518,7 +20518,8 @@
           "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials",
-          "Shaving Sets & Accessories"
+          "Shaving Sets & Accessories",
+          "Merkur Spare Parts & Upgrade Kits"
         ],
         "variants": [
           {
@@ -20594,7 +20595,8 @@
           "Shaving Accessories & Cases",
           "New Additions",
           "Shaving Essentials",
-          "Shaving Sets & Accessories"
+          "Shaving Sets & Accessories",
+          "Merkur Spare Parts & Upgrade Kits"
         ],
         "variants": [
           {
@@ -20621,7 +20623,7 @@
         "price": "£73.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/510101_top_x.jpg?v=1784485336",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_top_x_clipped_rev_1.jpg?v=1784925048",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -20642,7 +20644,7 @@
             "price": "73.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/510101_top_x.jpg?v=1784485336",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_top_x_clipped_rev_1.jpg?v=1784925048",
             "options": {}
           }
         ]
@@ -20656,7 +20658,7 @@
         "price": "£122.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_933006_back_x-1_clipped_rev_1.jpg?v=1784120970",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_933006_top_x_clipped_rev_1.jpg?v=1784922077",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -20678,7 +20680,7 @@
             "price": "122.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_933006_back_x-1_clipped_rev_1.jpg?v=1784120970",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_933006_top_x_clipped_rev_1.jpg?v=1784922077",
             "options": {}
           }
         ]
@@ -21975,7 +21977,7 @@
         "name": "Merkur Replacement Bridge Futur 701 Bright Chrome",
         "category": "Spare Parts > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Merkur Replacement Bridge Futur 701 is the bright-chrome bridge component for the Merkur Futur 701001 safety razor. It replaces the matching section of the razor head when the original bridge has been lost or damaged, allowing the correct 701 head assembly to be restored without replacing the complete razor.This is a dedicated Futur 701 part, not a universal Merkur bridge. The bright-chrome finish matches the 701001 model, and the part should be ordered only after confirming the razor version: Futur 700, 701 and other finishes use their own corresponding components.Key Features Original Merkur replacement bridge For the Merkur Futur 701001 safety razor Bright-chrome finish Restores the matching section of the Futur 701 head assembly Designed and made in Germany Specifications Part type: replacement razor bridge Compatible model: Merkur Futur 701001 Finish: bright chrome Part weight: 12 g For complete razor options, browse Merkur safety razors. Confirm the exact Futur finish and model number before ordering any replacement head component.",
+        "description": "The Merkur Replacement Bridge Futur 701 is the bright-chrome bridge component for the Merkur Futur 701001 safety razor. It replaces the matching section of the razor head when the original bridge has been lost or damaged, allowing the correct 701 head assembly to be restored without replacing the complete razor. This is a dedicated Futur 701 part, not a universal Merkur bridge. The bright-chrome finish matches the 701001 model, and the part should be ordered only after confirming the razor version: Futur 700, 701 and other finishes use their own corresponding components. Key Features Original Merkur replacement bridge For the Merkur Futur 701001 safety razor Bright-chrome finish Restores the matching section of the Futur 701 head assembly Designed and made in Germany Specifications Part type: replacement razor bridge Compatible model: Merkur Futur 701001 Finish: bright chrome (image shown is satin chrome**) Part weight: 12 g For complete razor options, browse Merkur safety razors. Confirm the exact Futur finish and model number before ordering any replacement head component.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-bridge-futur-701-bright-chrome",
         "price": "£7.95",
         "brand": "Merkur",
@@ -21988,7 +21990,8 @@
         "product_type": "Spare Parts",
         "collections": [
           "Merkur Safety Razors",
-          "New Additions"
+          "New Additions",
+          "Merkur Spare Parts & Upgrade Kits"
         ],
         "variants": [
           {
@@ -22007,6 +22010,42 @@
         ]
       },
       {
+        "name": "Merkur Replacement Expansion Ring for Long Screw Razors",
+        "category": "Spare Parts > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur Replacement Expansion Ring is a small nickel service component for the 34C and related Merkur razors that use a long screw. It is used within the handle assembly when the original ring needs replacing during a repair, restoration or service job.This is a model-specific maintenance part rather than a general shaving accessory. Its small size makes identifying the correct assembly especially important, so compare it with the original component and confirm that your razor uses the long-screw 34C-style construction before ordering.Key Features Original Merkur replacement expansion ring For Merkur 34C long-screw razor construction Nickel finish Small service part for handle-assembly repair Model-specific component rather than a universal fitting Specifications Part type: replacement expansion ring Finish: nickel Compatible construction: Merkur 34C and razors with a long screw Part weight: 1 g For a complete razor rather than a repair component, browse Merkur safety razors. Check the original part and screw configuration before ordering.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-expansion-ring-for-long-screw-razors-2-pcs",
+        "price": "£1.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-90005-expansionring_500x_clipped_rev_1.jpg?v=1784923482",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Spare Parts",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions",
+          "Merkur Spare Parts & Upgrade Kits"
+        ],
+        "variants": [
+          {
+            "id": "57199306473737",
+            "sku": "90005",
+            "gtin": "4260734880217",
+            "mpn": null,
+            "title": "Merkur Replacement Expansion Ring for Long Screw Razors",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-expansion-ring-for-long-screw-razors-2-pcs",
+            "price": "1.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-90005-expansionring_500x_clipped_rev_1.jpg?v=1784923482",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Merkur Replacement Top Plate 33 Bright Chrome Short Screw",
         "category": "Spare Parts > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
@@ -22015,7 +22054,7 @@
         "price": "£10.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90001.jpg?v=1784485336",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90001_x_clipped_rev_1.jpg?v=1784923874",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -22023,7 +22062,8 @@
         "product_type": "Spare Parts",
         "collections": [
           "Merkur Safety Razors",
-          "New Additions"
+          "New Additions",
+          "Merkur Spare Parts & Upgrade Kits"
         ],
         "variants": [
           {
@@ -22036,7 +22076,7 @@
             "price": "10.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90001.jpg?v=1784485336",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90001_x_clipped_rev_1.jpg?v=1784923874",
             "options": {}
           }
         ]
@@ -22050,7 +22090,7 @@
         "price": "£10.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90004.jpg?v=1784485338",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90004_x_clipped_rev_1.jpg?v=1784923598",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -22058,7 +22098,8 @@
         "product_type": "Spare Parts",
         "collections": [
           "Merkur Safety Razors",
-          "New Additions"
+          "New Additions",
+          "Merkur Spare Parts & Upgrade Kits"
         ],
         "variants": [
           {
@@ -22071,7 +22112,7 @@
             "price": "10.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90004.jpg?v=1784485338",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90004_x_clipped_rev_1.jpg?v=1784923598",
             "options": {}
           }
         ]
@@ -22085,7 +22126,7 @@
         "price": "£11.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90011.jpg?v=1784485339",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/deckel-rasierer-futur-700_jpg.webp?v=1784923185",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -22093,7 +22134,8 @@
         "product_type": "Spare Parts",
         "collections": [
           "Merkur Safety Razors",
-          "New Additions"
+          "New Additions",
+          "Merkur Spare Parts & Upgrade Kits"
         ],
         "variants": [
           {
@@ -22106,7 +22148,7 @@
             "price": "11.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/90011.jpg?v=1784485339",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/deckel-rasierer-futur-700_jpg.webp?v=1784923185",
             "options": {}
           }
         ]
@@ -22115,7 +22157,7 @@
         "name": "Merkur Replacement Top Plate Futur 701 Bright Chrome",
         "category": "Spare Parts > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Merkur Replacement Top Plate Futur 701 is the bright-chrome cap for the Merkur Futur 701001 safety razor. It replaces the upper portion of the matching razor head, making it the correct service part when a Futur 701 top plate has been lost or damaged but the rest of the razor remains usable.This is a dedicated bright-chrome Futur 701 component. Check the exact version of your Futur before ordering, as the matt-chrome 700 and other Futur variants use their own related parts even where the head shapes appear similar.Key Features Original Merkur replacement top plate For the Merkur Futur 701001 safety razor Bright-chrome finish Restores the upper section of the Futur 701 head assembly Designed and made in Germany Specifications Part type: replacement top plate Compatible model: Merkur Futur 701001 Finish: bright chrome Part weight: 19 g Browse Merkur safety razors for complete Merkur razors. Confirm the exact Futur model and finish before ordering a replacement top plate.",
+        "description": "The Merkur Replacement Top Plate Futur 701 is the bright-chrome cap for the Merkur Futur 701001 safety razor. It replaces the upper portion of the matching razor head, making it the correct service part when a Futur 701 top plate has been lost or damaged but the rest of the razor remains usable. This is a dedicated bright-chrome Futur 701 component. Check the exact version of your Futur before ordering, as the matt-chrome 700 and other Futur variants use their own related parts even where the head shapes appear similar. Key Features Original Merkur replacement top plate For the Merkur Futur 701001 safety razor Bright-chrome finish Restores the upper section of the Futur 701 head assembly Designed and made in Germany Specifications Part type: replacement top plate Compatible model: Merkur Futur 701001 (Bright Chrome - image shown is Satin Chrome**) Finish: bright chrome Part weight: 19 g Browse Merkur safety razors for complete Merkur razors. Confirm the exact Futur model and finish before ordering a replacement top plate.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-futur-701-bright-chrome",
         "price": "£11.95",
         "brand": "Merkur",
@@ -22128,7 +22170,8 @@
         "product_type": "Spare Parts",
         "collections": [
           "Merkur Safety Razors",
-          "New Additions"
+          "New Additions",
+          "Merkur Spare Parts & Upgrade Kits"
         ],
         "variants": [
           {
@@ -22185,7 +22228,7 @@
         ]
       },
       {
-        "name": "Merkur Shaving Towel White 50 x 74 cm",
+        "name": "Merkur Shaving Towel White",
         "category": "Shaving Accessories & Cases > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur Shaving Towel is a generously sized white cotton towel made for the small practical moments around a traditional wet-shaving routine. Its piqué honeycomb texture gives it a tactile, absorbent surface that works well for drying hands, clearing lather from the sink area or finishing a shave with a warm towel.At 50 x 74 cm, it is larger than a small washcloth but compact enough to keep with a dedicated shaving kit. The clean white finish and subtle Merkur branding make it suitable for everyday bathroom use, a guest shaving set or as an addition to a Merkur razor gift.Made from 100% cotton, this is a straightforward grooming accessory designed to be used rather than displayed. It adds a little ceremony to wet shaving without demanding extra equipment.Key Features 100% cotton shaving towel Piqué honeycomb texture Generous 50 x 74 cm format White finish with Merkur branding Useful for warm-towel preparation, drying and finishing a shave Specifications Material: 100% cotton Texture: piqué honeycomb Colour: white Towel dimensions: 500 x 740 mm Item weight: 123 g Packaging: folding box, 205 x 245 x 30 mm Browse shaving accessories for other useful additions to a traditional shaving routine.",
@@ -22193,7 +22236,7 @@
         "price": "£19.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/P5040222_clipped_rev_1-1_clipped_rev_1.jpg?v=1784120972",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/P5040222_clipped_rev_1-1.webp?v=1784924130",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -22212,12 +22255,12 @@
             "sku": "4014000",
             "gtin": "4260734881979",
             "mpn": null,
-            "title": "Merkur Shaving Towel White 50 x 74 cm",
+            "title": "Merkur Shaving Towel White",
             "url": "https://www.malegroomingsupplies.com/products/merkur-shaving-towel-white-40-x-70-cm",
             "price": "19.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/P5040222_clipped_rev_1-1_clipped_rev_1.jpg?v=1784120972",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/P5040222_clipped_rev_1-1.webp?v=1784924130",
             "options": {}
           }
         ]
@@ -23399,7 +23442,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-slick-extra-firm-hold-pomade?variant=55572090159369",
             "price": "10.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8._Pomade_Slick_Extra_Firm_Hold.jpg?v=1748434763",
             "options": {
               "Size": "100g"
@@ -24046,7 +24089,7 @@
         "brand": "Morgan's",
         "vendor": "Morgan's",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Large-Foldable-Comb_clipped_rev_1.jpg?v=1748434751",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -24067,7 +24110,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-foldable-moustache-comb-large",
             "price": "7.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Large-Foldable-Comb_clipped_rev_1.jpg?v=1748434751",
             "options": {}
           }
@@ -31163,7 +31206,7 @@
         "price": "£6.00",
         "brand": "Parker",
         "vendor": "Parker",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SSPPARK150.png?v=1769253848",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SSPPARK150-mgs-lossless.webp?v=1784922333",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -31187,7 +31230,7 @@
             "price": "6.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SSPPARK150.png?v=1769253848",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SSPPARK150-mgs-lossless.webp?v=1784922333",
             "options": {}
           }
         ]
@@ -37303,7 +37346,7 @@
         "price": "£79.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front.png?v=1765233599",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front-mgs-lossless.webp?v=1784922244",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37327,7 +37370,7 @@
             "price": "99.95 GBP",
             "sale_price": "79.95 GBP",
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front.png?v=1765233599",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front-mgs-lossless.webp?v=1784922244",
             "options": {}
           }
         ]
@@ -37341,7 +37384,7 @@
         "price": "£42.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_8.png?v=1765233589",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_8-mgs-lossless.webp?v=1784922254",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37366,7 +37409,7 @@
             "price": "42.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_8.png?v=1765233589",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_8-mgs-lossless.webp?v=1784922254",
             "options": {}
           }
         ]
@@ -37474,7 +37517,7 @@
             "price": "84.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_29.png?v=1765233568",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_29-mgs-lossless.webp?v=1784922322",
             "options": {
               "Size": "Polo 10 Sovereign"
             }
@@ -37713,7 +37756,7 @@
         "price": "£58.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12.png?v=1765233579",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1784922293",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37737,7 +37780,7 @@
             "price": "58.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12.png?v=1765233579",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1784922293",
             "options": {}
           }
         ]
@@ -38454,7 +38497,7 @@
             "price": "48.25 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-2-sov-front.png?v=1765233577",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-2-sov-front-mgs-lossless.webp?v=1784922234",
             "options": {
               "Size": "Duke 2 Sovereign"
             }
@@ -39372,7 +39415,7 @@
         "price": "£34.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SimpsonSovereignSpecial.png?v=1765233560",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SimpsonSovereignSpecial-mgs-lossless.webp?v=1784922265",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -39396,7 +39439,7 @@
             "price": "34.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SimpsonSovereignSpecial.png?v=1765233560",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SimpsonSovereignSpecial-mgs-lossless.webp?v=1784922265",
             "options": {}
           }
         ]
@@ -40089,7 +40132,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/435_005_TO_ASB_75_ml_Tube_clipped_rev_1.jpg?v=1734440090",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -40111,7 +40154,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-balm-75ml",
             "price": "8.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/435_005_TO_ASB_75_ml_Tube_clipped_rev_1.jpg?v=1734440090",
             "options": {}
           }
@@ -40476,7 +40519,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-toilette?variant=48849258578185",
             "price": "18.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
             "options": {
               "Size": "100ml"
