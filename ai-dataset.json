@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-25",
-    "generated_at": "2026-07-25T05:16:13+00:00",
+    "last_updated": "2026-07-26",
+    "generated_at": "2026-07-26T05:33:47+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1030,
-    "variant_count": 1286,
+    "product_count": 1035,
+    "variant_count": 1291,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -14454,7 +14454,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Scotch-Wood-Razor_1_clipped_rev_1.jpg?v=1737226445",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14476,7 +14476,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-scotch-wood-razor",
             "price": "104.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Scotch-Wood-Razor_1_clipped_rev_1.jpg?v=1737226445",
             "options": {}
           }
@@ -19656,6 +19656,41 @@
         ]
       },
       {
+        "name": "Merkur 25 INOX Open Comb Safety Razor",
+        "category": "Safety Razors > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 25 INOX Open Comb Safety Razor combines a classic Merkur design from the 1920s with modern satin-finished stainless steel. Its long, diamond-knurled handle gives a secure hold with wet or soapy hands, while the three-piece construction keeps blade fitting and thorough cleaning straightforward. The traditional open-tooth comb supports the blade across 11 teeth and leaves clear channels for lather and cut hair to pass through the head. This makes the 25 INOX particularly useful for shaving longer or denser growth, while the familiar Merkur head geometry helps the correct shaving angle feel natural rather than forced. At 78 g, the razor has enough weight to work with minimal pressure. The extended 98 mm handle offers more reach than the compact Merkur 34 format and is well suited to larger hands or anyone who prefers a longer grip for face or body shaving. Key Features Open-comb head: Allows lather and longer growth to pass freely through the razor. Stainless-steel construction: Satin INOX finish with no decorative chrome plating. Long knurled handle: Diamond-pattern grip for control with wet hands. Three-piece design: Easy to dismantle for blade changes and cleaning. Standard blade fitting: Accepts widely available double-edge razor blades. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Use and Care Fit a standard double-edge blade and begin with the cap resting lightly against the skin, lowering the handle until the blade begins to cut at approximately a 30-degree angle. Use short strokes without pressing. After shaving, dismantle the three-piece head, rinse away lather and hair, and dry the components before reassembly. Specifications Razor type: Three-piece double-edge safety razor Comb type: Open tooth Cut: Straight cut Finish: Satin stainless steel Product dimensions: 105 x 43 x 24 mm Handle length: 98 mm Handle diameter: 9.5 mm Razor weight: 78 g Packaging: Folding box, 132 x 52 x 27 mm Packaged weight: 93 g Country of manufacture: Germany Compare it with the chrome-plated Merkur 25001 Open Comb Razor or the closed-comb Merkur 23 INOX. Pair it with Merkur Super Platinum Razor Blades, or browse the complete Merkur safety razor collection.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-25-inox-open-comb-safety-razor",
+        "price": "£102.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_25006_top_x_clipped_rev_1.jpg?v=1784990252",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razors",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57220864672009",
+            "sku": "25006",
+            "gtin": "4260734881900",
+            "mpn": null,
+            "title": "Merkur 25 INOX Open Comb Safety Razor",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-25-inox-open-comb-safety-razor",
+            "price": "102.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_25006_top_x_clipped_rev_1.jpg?v=1784990252",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Merkur 3-Piece Black & Chrome Shaving Set",
         "category": "Shaving Sets > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
@@ -19969,7 +20004,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34002_top_x_clipped_rev_1.jpg?v=1765562133",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19991,8 +20026,43 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34c-matt-chrome-safety-razor",
             "price": "49.95 GBP",
             "sale_price": "45.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34002_top_x_clipped_rev_1.jpg?v=1765562133",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 34C Metallic Grey Safety Razor",
+        "category": "Safety Razors > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 34C Metallic Grey Safety Razor gives one of traditional wet shaving's best-known designs a contemporary finish. Often called the 34C HD (Heavy Duty), this compact two-piece razor has earned its reputation through reassuring weight, dependable blade alignment and a controlled feel in the hand. Its straight-cut closed-comb head is a versatile choice for regular shaving. The safety bar helps guide the correct angle, while the generous channels beneath the blade allow lather and cut hair to rinse away readily. The result is a smooth, predictable shaving character suitable for newcomers and experienced double-edge users alike. The short 75 mm handle places the razor's balance close to the head for precise movement around the jawline, chin and upper lip. A broad 11.5 mm grip and 83 g razor weight allow the tool to do the work with little added pressure, while the metallic grey coating gives the classic silhouette a quieter, modern appearance. Key Features Classic 34C HD format: Compact proportions with balanced, heavy-duty handling. Closed-comb head: Forgiving, versatile geometry for regular wet shaving. Two-piece construction: Secure blade alignment and straightforward blade changes. Metallic grey finish: A contemporary alternative to bright or matt chrome. Short broad handle: Precise control around facial contours. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Use and Care Insert a standard double-edge blade by unscrewing the base knob and lifting away the top cap. Shave with light pressure at approximately a 30-degree angle, using short strokes and rinsing the head regularly. After use, loosen the head, rinse thoroughly and dry the razor before storage. Specifications Razor type: Two-piece double-edge safety razor Comb type: Closed comb Cut: Straight cut Finish: Metallic grey coating Product dimensions: 81 x 43 x 25 mm Handle length: 75 mm Handle diameter: 11.5 mm Razor weight: 83 g Packaging: Folding box, 120 x 47 x 27 mm Packaged weight: 91 g Country of manufacture: Germany Compare it with the Merkur 34C Matt Chrome or original Merkur 34C Bright Chrome. Complete the finish with the matching Merkur 4006 Metallic Grey Razor Stand and add Merkur Super Platinum Razor Blades.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-34c-metallic-grey-safety-razor",
+        "price": "£48.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34111_top_x_clipped_rev_1.jpg?v=1784989975",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razors",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57220864704777",
+            "sku": "34111",
+            "gtin": "4260734882037",
+            "mpn": null,
+            "title": "Merkur 34C Metallic Grey Safety Razor",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-34c-metallic-grey-safety-razor",
+            "price": "48.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34111_top_x_clipped_rev_1.jpg?v=1784989975",
             "options": {}
           }
         ]
@@ -20585,7 +20655,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90019_front_x_clipped_rev_1.jpg?v=1765543632",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20608,8 +20678,121 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-500-progress-bright-chrome-metal-knob-upgrade-kit",
             "price": "29.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90019_front_x_clipped_rev_1.jpg?v=1765543632",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 510 Progress Adjustable Safety Razor - Antique Brass Knob",
+        "category": "Safety Razors > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 510 Progress Antique Brass Adjustable Safety Razor is the long-handled version of Merkur's classic adjustable razor, a design with roots in the 1950s. It combines a bright chrome body with a contrasting antique brass metal adjustment knob, engraved with the Merkur name. Turning the numbered knob changes the blade gap from approximately 0.6 to 1.6 mm. Lower settings provide a gentler feel for daily shaving or more sensitive areas, while higher settings increase efficiency for denser or longer growth. The scale makes it easy to note a preferred setting or use different settings for separate passes. The extended 94 mm handle offers more reach than the standard Merkur 500 Progress while retaining the familiar two-piece head and straight-cut closed comb. At 112 g, the razor feels substantial without needing added pressure, and the contoured handle remains secure during adjustment and shaving. Key Features Adjustable blade gap: Approximately 0.6-1.6 mm for personalised shaving control. Long 510 handle: Added reach and a fuller grip than the shorter 500 Progress. Antique brass metal knob: Contrasts with the bright chrome body and carries Merkur engraving. Closed-comb head: Straight-cut geometry with good lather clearance. Two-piece construction: Secure blade positioning and straightforward changes. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Adjust and Care For the Razor With the head assembled and the blade seated evenly, turn the adjustment knob to the chosen numbered setting. Begin at a lower setting and increase gradually until the balance of comfort and efficiency suits your blade and beard. Rinse the head after each use, dry the razor and occasionally apply a small amount of mineral oil to the adjustment thread. Specifications Razor type: Two-piece adjustable double-edge safety razor Comb type: Closed comb Cut: Straight cut Blade gap: Adjustable, approximately 0.6-1.6 mm Finish: Bright chrome with antique brass metal knob Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: Folding box, 132 x 52 x 27 mm Packaged weight: 126 g Country of manufacture: Germany Compare it with the Merkur 510 Progress Bright Chrome or the shorter Merkur 500 Progress Antique Brass. For servicing, choose the matching Merkur 510 Antique Brass Replacement Upgrade Kit, and use standard Merkur double-edge blades.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-adjustable-safety-razor-antique-brass-knob",
+        "price": "£77.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510105_top_x_1__clipped_rev_1.jpg?v=1784989399",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razors",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57220864770313",
+            "sku": "510105",
+            "gtin": "4260734881870",
+            "mpn": null,
+            "title": "Merkur 510 Progress Adjustable Safety Razor - Antique Brass Knob",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-adjustable-safety-razor-antique-brass-knob",
+            "price": "77.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510105_top_x_1__clipped_rev_1.jpg?v=1784989399",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 510 Progress Antique Brass Replacement Metal Knob Upgrade Kit",
+        "category": "Shaving Accessories & Cases > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 510 Progress Antique Brass Replacement Metal Knob Upgrade Kit is a genuine, model-specific service set for compatible long-handled Merkur 510 Progress adjustable safety razors. It replaces the original adjustment assembly while adding Merkur's distinctive antique brass finish. The antique brass metal adjustment knob provides a warm contrast against the razor's bright chrome body and gives the adjustment control a more substantial feel. The accompanying top plate and expansion ring allow the connected components to be renewed together for a consistent factory-style result. Compatibility matters with Progress parts. This kit is intended for the longer Merkur 510 family and should not be confused with the separate Merkur 500 kits for the shorter Progress model. Check the article number of your razor before ordering. Key Features Genuine Merkur components: Factory replacement and upgrade parts for the Progress system. Antique brass metal knob: A contrasting finish for the compatible adjustment assembly. Model-specific fit: Designed for long-handled Merkur 510 Progress razors. Service set: Renews the knob and associated head components together. Made in Germany: Produced for Merkur's adjustable safety razor range. Contents and Compatibility Product type: Replacement and upgrade kit Compatible model: Merkur 510 Progress long-handled adjustable safety razor Contents: Antique brass metal adjustment knob, top plate and expansion ring Finish: Bright chrome and antique brass Country of manufacture: Germany For the compatible original razor, see the Merkur Progress 510 Long Handle. The corresponding complete metal-knob model is the Merkur 510 Progress Antique Brass. Compare this part with the Merkur 510 Bright Chrome Replacement Kit or browse Merkur spare parts and upgrade kits.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-antique-brass-replacement-metal-knob-upgrade-kit",
+        "price": "£34.00",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90020_front_x_clipped_rev_1_1.jpg?v=1784988396",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Accessories & Cases",
+        "collections": [
+          "Merkur Safety Razors",
+          "Shaving Accessories & Cases",
+          "New Additions",
+          "Shaving Essentials",
+          "Shaving Sets & Accessories",
+          "Merkur Spare Parts & Upgrade Kits"
+        ],
+        "variants": [
+          {
+            "id": "57220864835849",
+            "sku": "90027",
+            "gtin": "4260734882013",
+            "mpn": null,
+            "title": "Merkur 510 Progress Antique Brass Replacement Metal Knob Upgrade Kit",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-antique-brass-replacement-metal-knob-upgrade-kit",
+            "price": "34.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90020_front_x_clipped_rev_1_1.jpg?v=1784988396",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur 510 Progress Bright Chrome Replacement Metal Knob Upgrade Kit",
+        "category": "Shaving Accessories & Cases > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 510 Progress Bright Chrome Replacement Metal Knob Upgrade Kit is a genuine, model-specific service set for compatible long-handled Merkur 510 Progress adjustable safety razors. It provides the principal components needed to replace the original adjustment assembly or refresh a well-used razor. The bright chrome metal adjustment knob gives the Progress a clean factory-style finish and a more substantial adjustment control. The accompanying top plate and expansion ring allow the connected components to be renewed together rather than mixing worn and replacement parts. Compatibility matters with Progress parts. This kit is intended for the longer Merkur 510 family and should not be confused with the separate Merkur 500 kits for the shorter Progress model. Check the article number of your razor before ordering. Key Features Genuine Merkur components: Factory replacement and upgrade parts for the Progress system. Bright chrome metal knob: Replaces the compatible original adjustment assembly. Model-specific fit: Designed for long-handled Merkur 510 Progress razors. Service set: Renews the knob and associated head components together. Made in Germany: Produced for Merkur's adjustable safety razor range. Contents and Compatibility Product type: Replacement and upgrade kit Compatible model: Merkur 510 Progress long-handled adjustable safety razor Contents: Bright chrome metal adjustment knob, top plate and expansion ring Finish: Bright chrome Country of manufacture: Germany For the compatible original razor, see the Merkur Progress 510 Long Handle. The corresponding complete metal-knob model is the Merkur 510 Progress Bright Chrome. Compare this part with the Merkur 510 Antique Brass Replacement Kit or browse Merkur spare parts and upgrade kits.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-bright-chrome-replacement-metal-knob-upgrade-kit",
+        "price": "£29.00",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90019_front_x_clipped_rev_1_1.jpg?v=1784988979",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Accessories & Cases",
+        "collections": [
+          "Merkur Safety Razors",
+          "Shaving Accessories & Cases",
+          "New Additions",
+          "Shaving Essentials",
+          "Shaving Sets & Accessories",
+          "Merkur Spare Parts & Upgrade Kits"
+        ],
+        "variants": [
+          {
+            "id": "57220864803081",
+            "sku": "90026",
+            "gtin": "4260734882006",
+            "mpn": null,
+            "title": "Merkur 510 Progress Bright Chrome Replacement Metal Knob Upgrade Kit",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-bright-chrome-replacement-metal-knob-upgrade-kit",
+            "price": "29.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90019_front_x_clipped_rev_1_1.jpg?v=1784988979",
             "options": {}
           }
         ]

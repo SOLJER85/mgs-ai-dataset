@@ -10,12 +10,12 @@
     "Health & Beauty > Personal Care > Hair Care > Hair Color": 7,
     "Health & Beauty > Personal Care > Oral Care": 31,
     "Health & Beauty > Personal Care > Shaving & Grooming": 284,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 336
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 341
   },
   "currency": "GBP",
-  "generated_at": "2026-07-25T05:16:13+00:00",
+  "generated_at": "2026-07-26T05:33:47+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1030,
+  "included_products": 1035,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
   "skipped_products": 377,
@@ -142,15 +142,15 @@
     }
   ],
   "social_catalog_feed": "social-catalog-feed.csv",
-  "source_products": 1407,
+  "source_products": 1412,
   "validation": {
     "availability_counts": {
-      "in_stock": 920,
-      "out_of_stock": 366
+      "in_stock": 928,
+      "out_of_stock": 363
     },
     "checkout_eligibility_counts": {
-      "false": 366,
-      "true": 920
+      "false": 363,
+      "true": 928
     },
     "duplicate_item_id_count": 0,
     "invalid_gtin_rows": 0,
@@ -173,8 +173,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1286,
-    "rows_with_gtin": 1213,
+    "row_count": 1291,
+    "rows_with_gtin": 1218,
     "rows_with_mpn": 0,
     "target_country_count": 234
   }
