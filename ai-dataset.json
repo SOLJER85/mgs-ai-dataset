@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-28",
-    "generated_at": "2026-07-28T05:16:35+00:00",
+    "last_updated": "2026-07-29",
+    "generated_at": "2026-07-29T05:23:31+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -408,7 +408,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114503_resized_clipped_rev_1.jpg?v=1748896556",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -430,7 +430,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-lime-post-shave-balm",
             "price": "10.20 GBP",
             "sale_price": "8.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114503_resized_clipped_rev_1.jpg?v=1748896556",
             "options": {}
           }
@@ -4416,7 +4416,7 @@
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "The Cella Organic Shaving Cream Bowl 150ml is part of the CELLA EXTRA EXTRA BIO line, an AIAB/QCertificazioni certified organic shaving cream created with respect for both tradition and the environment. Developed from the original Cella 1899 protocol, it represents a perfect balance of purity, cosmetic performance, and Italian craftsmanship. Formulated with precious oils and organic ingredients, this cream produces a rich, firm foam that guarantees a deep, comfortable shave. It helps the razor glide smoothly over the skin, reducing irritation and microscopic cuts while leaving skin soft, hydrated, and refreshed. For related Cella options, compare Cella Organic Shaving Cream Tube 150ml with Cella Shave Soap 1000g Brick, or browse the Shaving Creams collection. Key Features Certified organic shaving cream by AIAB/QCertificazioni Based on the traditional Cella 1899 formula Creates a soft, firm foam for a thorough, comfortable shave Enriched with precious oils and organic ingredients Protects against irritation and leaves skin moisturised Designed for use with a shaving brush and bowl Specifications Size: 150ml bowl Formula: Organic, enriched with natural oils Certification: AIAB/QCertificazioni organic certified Application: For use with a shaving brush Packaging: Bowl presentation",
         "url": "https://www.malegroomingsupplies.com/products/cella-organic-shaving-cream-bowl-150ml",
-        "price": "£8.35",
+        "price": "£7.00",
         "brand": "Cella",
         "vendor": "Cella",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crema-da-barba-in-ciotola-bio-prodotto-scatola_clipped_rev_2_1.jpg?v=1758362832",
@@ -4440,7 +4440,7 @@
             "mpn": null,
             "title": "Cella Organic Shaving Cream Bowl 150ml",
             "url": "https://www.malegroomingsupplies.com/products/cella-organic-shaving-cream-bowl-150ml",
-            "price": "8.35 GBP",
+            "price": "7.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/crema-da-barba-in-ciotola-bio-prodotto-scatola_clipped_rev_2_1.jpg?v=1758362832",
@@ -14527,7 +14527,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Feather Hi-Stainless Double Edge Razor Blades are Japanese-made stainless steel blades known for their very sharp edge and consistent performance. They are suited to experienced wet shavers who want a close, efficient shave from a double edge safety razor. Each blade is designed for use in standard double edge razors. Because Feather blades are regarded as one of the sharper options available, they are best used with light pressure and a well-prepared lather. Pair these blades with compatible double edge razors such as the Feather Adjustable Double Edge Razor or Feather All Stainless Safety Razor AS-D2. You can also browse the Feather Safety Razor Co. collection or compare more double edge razor blades. Key Features Double edge blades: Compatible with standard double edge safety razors. Sharp stainless steel edge: Designed for a close and efficient shave. Japanese manufacture: Feather blades are made in Japan. Useful for experienced shavers: Best suited to users comfortable with sharper blades. Specifications Blade Format: Double edge Material: Stainless steel Blade Thickness: 0.1mm Blade Length: 42.7mm Blade Height: 22mm Made In: Japan",
         "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades",
-        "price": "£3.60",
+        "price": "£3.15",
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
@@ -14550,7 +14550,7 @@
             "mpn": null,
             "title": "Feather Hi-Stainless Double Edge Razor Blades - Pack of 10",
             "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades?variant=49025525907721",
-            "price": "3.60 GBP",
+            "price": "3.15 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
@@ -19855,7 +19855,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur 34 ADJ Adjustable Safety Razor brings blade-gap adjustment to the compact 34-style platform. It combines the familiar, easy-to-control proportions of a short-handled closed-comb razor with a numbered adjustment scale, allowing the head to be tuned to beard growth, blade choice and personal preference rather than committing to one fixed setting.Turn the end knob to adjust the blade gap from approximately 0.6 to 1.6 mm. A more open setting can be useful for longer growth, while a gentler setting can suit regular shaving or a more cautious first pass. The closed comb and straight-cut head keep the razor grounded in the conventional 34 format, so the adjustment adds range without making the shave needlessly complicated.The bright-chrome finish, short 78 mm handle and 98 g weight give it a dense, planted feel in the hand. It is a good fit for a traditional wet shaver who wants one razor capable of covering both mild daily work and more substantial growth.Key Features Two-piece adjustable double-edge safety razor Blade gap adjustable from approximately 0.6 to 1.6 mm Numbered adjustment scale and end knob Straight-cut, closed-comb head Compact short handle with bright-chrome finish Designed and made in Germany Specifications Razor type: two-piece adjustable safety razor Comb type: closed comb Cut: straight cut Blade-gap adjustment: approximately 0.6 to 1.6 mm Finish: bright chrome Product dimensions: 88 x 41 x 25 mm Handle length: 78 mm Handle diameter: 12.5 mm Razor weight: 98 g Packaging: folding box, 120 x 47 x 27 mm Explore other Merkur safety razors or use the adjustment range to get the best from different double edge razor blades.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-34-adj-adjustable-safety-razor",
-        "price": "£65.95",
+        "price": "£54.00",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_top_x_clipped_rev_1.jpg?v=1784925392",
@@ -19877,7 +19877,7 @@
             "mpn": null,
             "title": "Merkur 34 ADJ Adjustable Safety Razor",
             "url": "https://www.malegroomingsupplies.com/products/merkur-34-adj-adjustable-safety-razor",
-            "price": "65.95 GBP",
+            "price": "54.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_top_x_clipped_rev_1.jpg?v=1784925392",
@@ -20040,7 +20040,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur 34C Metallic Grey Safety Razor gives one of traditional wet shaving's best-known designs a contemporary finish. Often called the 34C HD (Heavy Duty), this compact two-piece razor has earned its reputation through reassuring weight, dependable blade alignment and a controlled feel in the hand. Its straight-cut closed-comb head is a versatile choice for regular shaving. The safety bar helps guide the correct angle, while the generous channels beneath the blade allow lather and cut hair to rinse away readily. The result is a smooth, predictable shaving character suitable for newcomers and experienced double-edge users alike. The short 75 mm handle places the razor's balance close to the head for precise movement around the jawline, chin and upper lip. A broad 11.5 mm grip and 83 g razor weight allow the tool to do the work with little added pressure, while the metallic grey coating gives the classic silhouette a quieter, modern appearance. Key Features Classic 34C HD format: Compact proportions with balanced, heavy-duty handling. Closed-comb head: Forgiving, versatile geometry for regular wet shaving. Two-piece construction: Secure blade alignment and straightforward blade changes. Metallic grey finish: A contemporary alternative to bright or matt chrome. Short broad handle: Precise control around facial contours. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Use and Care Insert a standard double-edge blade by unscrewing the base knob and lifting away the top cap. Shave with light pressure at approximately a 30-degree angle, using short strokes and rinsing the head regularly. After use, loosen the head, rinse thoroughly and dry the razor before storage. Specifications Razor type: Two-piece double-edge safety razor Comb type: Closed comb Cut: Straight cut Finish: Metallic grey coating Product dimensions: 81 x 43 x 25 mm Handle length: 75 mm Handle diameter: 11.5 mm Razor weight: 83 g Packaging: Folding box, 120 x 47 x 27 mm Packaged weight: 91 g Country of manufacture: Germany Compare it with the Merkur 34C Matt Chrome or original Merkur 34C Bright Chrome. Complete the finish with the matching Merkur 4006 Metallic Grey Razor Stand and add Merkur Super Platinum Razor Blades.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-34c-metallic-grey-safety-razor",
-        "price": "£48.95",
+        "price": "£38.95",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34111_top_x_clipped_rev_1.jpg?v=1784989975",
@@ -20061,7 +20061,7 @@
             "mpn": null,
             "title": "Merkur 34C Metallic Grey Safety Razor",
             "url": "https://www.malegroomingsupplies.com/products/merkur-34c-metallic-grey-safety-razor",
-            "price": "48.95 GBP",
+            "price": "38.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34111_top_x_clipped_rev_1.jpg?v=1784989975",
@@ -20655,7 +20655,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur 500 Progress Bright Chrome Adjustable Safety Razor is a classic design dating back to the 1950s, combining period styling with precise shaving adjustability. The profiled handle and bright chrome-plated adjustment knob, engraved with the Merkur name, reflect the clean, functional design language of the era. The adjustable shaving head allows you to control both the blade gap and angle of attack, making it easy to tailor the shave to your preferences. Adjustment is made via the numbered scale at the base of the handle, offering smooth and reliable control from a mild, comfortable shave to a closer, more efficient result. With a blade gap adjustable from 0.6 mm to 1.6 mm, the Progress adapts easily to different beard lengths and skin sensitivities. Lower settings are ideal for everyday shaving, while higher settings handle coarser growth with confidence. The two-piece construction ensures secure blade alignment while keeping blade changes straightforward. Finished entirely in bright chrome and designed and made in Germany, the Merkur 500 Progress remains one of the most versatile adjustable double edge safety razors for traditional wet shaving. Key Features Classic double edge safety razor design from the 1950s. Adjustable blade gap for personalised shaving control. Blade gap range from 0.6 mm to 1.6 mm. Straight cut razor head for consistent, predictable results. Two-piece construction for secure blade alignment. Bright chrome finish with engraved Merkur adjustment knob. Designed and made in Germany. Specifications Razor Type: Two-piece adjustable safety razor Cut: Straight cut Blade Gap: Adjustable, 0.6 mm to 1.6 mm Handle Material: Brass Razor Head: Die-cast zinc Finish: Bright chrome-plated, galvanised surfaces Product Dimensions: 88 × 41 × 25 mm Product Weight: 105 g Weight With Packaging: 116 g Packaging: Branded Merkur folding box Packaging Size: 120 × 47 × 27 mm Country of Manufacture: Germany For related Merkur options, compare Merkur 500 Progress Antique Brass Adjustable Safety Razor with Merkur Progress 500 Adjustable Double Edge Safety Razor, or browse the Merkur Solingen collection. This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-500-progress-bright-chrome-safety-razor",
-        "price": "£67.95",
+        "price": "£54.00",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_500101_top_x_clipped_rev_1.jpg?v=1765566942",
@@ -20680,7 +20680,7 @@
             "mpn": null,
             "title": "Merkur 500 Progress Bright Chrome Adjustable Safety Razor",
             "url": "https://www.malegroomingsupplies.com/products/merkur-500-progress-bright-chrome-safety-razor",
-            "price": "67.95 GBP",
+            "price": "54.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_500101_top_x_clipped_rev_1.jpg?v=1765566942",
@@ -20724,41 +20724,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90019_front_x_clipped_rev_1.jpg?v=1765543632",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Merkur 510 Progress Adjustable Safety Razor - Antique Brass Knob",
-        "category": "Safety Razors > Merkur Safety Razors",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Merkur 510 Progress Antique Brass Adjustable Safety Razor is the long-handled version of Merkur's classic adjustable razor, a design with roots in the 1950s. It combines a bright chrome body with a contrasting antique brass metal adjustment knob, engraved with the Merkur name. Turning the numbered knob changes the blade gap from approximately 0.6 to 1.6 mm. Lower settings provide a gentler feel for daily shaving or more sensitive areas, while higher settings increase efficiency for denser or longer growth. The scale makes it easy to note a preferred setting or use different settings for separate passes. The extended 94 mm handle offers more reach than the standard Merkur 500 Progress while retaining the familiar two-piece head and straight-cut closed comb. At 112 g, the razor feels substantial without needing added pressure, and the contoured handle remains secure during adjustment and shaving. Key Features Adjustable blade gap: Approximately 0.6-1.6 mm for personalised shaving control. Long 510 handle: Added reach and a fuller grip than the shorter 500 Progress. Antique brass metal knob: Contrasts with the bright chrome body and carries Merkur engraving. Closed-comb head: Straight-cut geometry with good lather clearance. Two-piece construction: Secure blade positioning and straightforward changes. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Adjust and Care For the Razor With the head assembled and the blade seated evenly, turn the adjustment knob to the chosen numbered setting. Begin at a lower setting and increase gradually until the balance of comfort and efficiency suits your blade and beard. Rinse the head after each use, dry the razor and occasionally apply a small amount of mineral oil to the adjustment thread. Specifications Razor type: Two-piece adjustable double-edge safety razor Comb type: Closed comb Cut: Straight cut Blade gap: Adjustable, approximately 0.6-1.6 mm Finish: Bright chrome with antique brass metal knob Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: Folding box, 132 x 52 x 27 mm Packaged weight: 126 g Country of manufacture: Germany Compare it with the Merkur 510 Progress Bright Chrome or the shorter Merkur 500 Progress Antique Brass. For servicing, choose the matching Merkur 510 Antique Brass Replacement Upgrade Kit, and use standard Merkur double-edge blades.",
-        "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-adjustable-safety-razor-antique-brass-knob",
-        "price": "£77.95",
-        "brand": "Merkur",
-        "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510105_top_x_1__clipped_rev_1.jpg?v=1784989399",
-        "availability": "in_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Safety Razors",
-        "collections": [
-          "Merkur Safety Razors",
-          "New Additions"
-        ],
-        "variants": [
-          {
-            "id": "57220864770313",
-            "sku": "510105",
-            "gtin": "4260734881870",
-            "mpn": null,
-            "title": "Merkur 510 Progress Adjustable Safety Razor - Antique Brass Knob",
-            "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-adjustable-safety-razor-antique-brass-knob",
-            "price": "77.95 GBP",
-            "sale_price": null,
-            "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510105_top_x_1__clipped_rev_1.jpg?v=1784989399",
             "options": {}
           }
         ]
@@ -20837,41 +20802,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90019_front_x_clipped_rev_1_1.jpg?v=1784988979",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Merkur 510 Progress Bright Chrome Safety Razor",
-        "category": "Safety Razor > Merkur Safety Razors",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Merkur 510 Progress Bright Chrome Safety Razor is the long-handled version of Merkur's adjustable Progress design, a format rooted in the 1950s. Its bright-chrome end knob, Merkur engraving and contoured handle give it a classic appearance, while the adjustable head allows it to cover a wide range of shaving preferences in one two-piece razor.The scale at the base of the handle changes the blade gap from approximately 0.6 to 1.6 mm. Use a more open setting where there is longer or denser growth, then reduce it for a gentler daily shave or a finishing pass. The long, shaped handle also gives useful reach for difficult areas and for body shaving, while the straight-cut head keeps the familiar double-edge razor technique intact.At 112 g with a 94 mm handle, the 510 Progress has a substantial, confidence-inspiring feel without becoming unwieldy. It is a particularly versatile Merkur for a shaver who wants to learn one dependable adjustable platform rather than own several fixed-gap razors.Key Features Two-piece adjustable double-edge safety razor Long contoured handle for additional reach Blade gap adjustable from approximately 0.6 to 1.6 mm Bright-chrome finish with engraved adjustment knob Straight-cut head for traditional wet shaving Designed and made in Germany Specifications Razor type: two-piece adjustable safety razor Cut: straight cut Blade-gap adjustment: approximately 0.6 to 1.6 mm Finish: bright chrome Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: folding box, 132 x 52 x 27 mm Compare the Progress with other Merkur safety razors, then select compatible double edge razor blades to refine the setting that works best for you.",
-        "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-bright-chrome-safety-razor",
-        "price": "£73.95",
-        "brand": "Merkur",
-        "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_top_x_clipped_rev_1.jpg?v=1784925048",
-        "availability": "in_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Safety Razor",
-        "collections": [
-          "Merkur Safety Razors",
-          "New Additions"
-        ],
-        "variants": [
-          {
-            "id": "57199306146057",
-            "sku": "510101",
-            "gtin": "4260734881863",
-            "mpn": null,
-            "title": "Merkur 510 Progress Bright Chrome Safety Razor",
-            "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-bright-chrome-safety-razor",
-            "price": "73.95 GBP",
-            "sale_price": null,
-            "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_top_x_clipped_rev_1.jpg?v=1784925048",
             "options": {}
           }
         ]
@@ -21900,6 +21830,77 @@
         ]
       },
       {
+        "name": "Merkur Progress 510 Long Handle Adjustable Safety Razor - Antique Brass Knob",
+        "category": "Safety Razors > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 510 Progress Antique Brass Adjustable Safety Razor is the long-handled version of Merkur's classic adjustable razor, a design with roots in the 1950s. It combines a bright chrome body with a contrasting antique brass metal adjustment knob, engraved with the Merkur name. Turning the numbered knob changes the blade gap from approximately 0.6 to 1.6 mm. Lower settings provide a gentler feel for daily shaving or more sensitive areas, while higher settings increase efficiency for denser or longer growth. The scale makes it easy to note a preferred setting or use different settings for separate passes. The extended 94 mm handle offers more reach than the standard Merkur 500 Progress while retaining the familiar two-piece head and straight-cut closed comb. At 112 g, the razor feels substantial without needing added pressure, and the contoured handle remains secure during adjustment and shaving. Key Features Adjustable blade gap: Approximately 0.6-1.6 mm for personalised shaving control. Long 510 handle: Added reach and a fuller grip than the shorter 500 Progress. Antique brass metal knob: Contrasts with the bright chrome body and carries Merkur engraving. Closed-comb head: Straight-cut geometry with good lather clearance. Two-piece construction: Secure blade positioning and straightforward changes. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Adjust and Care For the Razor With the head assembled and the blade seated evenly, turn the adjustment knob to the chosen numbered setting. Begin at a lower setting and increase gradually until the balance of comfort and efficiency suits your blade and beard. Rinse the head after each use, dry the razor and occasionally apply a small amount of mineral oil to the adjustment thread. Specifications Razor type: Two-piece adjustable double-edge safety razor Comb type: Closed comb Cut: Straight cut Blade gap: Adjustable, approximately 0.6-1.6 mm Finish: Bright chrome with antique brass metal knob Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: Folding box, 132 x 52 x 27 mm Packaged weight: 126 g Country of manufacture: Germany Compare it with the Merkur 510 Progress Bright Chrome or the shorter Merkur 500 Progress Antique Brass. For servicing, choose the matching Merkur 510 Antique Brass Replacement Upgrade Kit, and use standard Merkur double-edge blades.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-adjustable-safety-razor-antique-brass-knob",
+        "price": "£77.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510105_top_x_1__clipped_rev_1.jpg?v=1784989399",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razors",
+        "collections": [
+          "Merkur Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57220864770313",
+            "sku": "510105",
+            "gtin": "4260734881870",
+            "mpn": null,
+            "title": "Merkur Progress 510 Long Handle Adjustable Safety Razor - Antique Brass Knob",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-adjustable-safety-razor-antique-brass-knob",
+            "price": "77.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510105_top_x_1__clipped_rev_1.jpg?v=1784989399",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Merkur Progress 510 Long Handle Adjustable Safety Razor - Bright Chrome",
+        "category": "Safety Razor > Merkur Safety Razors",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "description": "The Merkur 510 Progress Bright Chrome Safety Razor is the long-handled version of Merkur's adjustable Progress design, a format rooted in the 1950s. Its bright-chrome end knob, Merkur engraving and contoured handle give it a classic appearance, while the adjustable head allows it to cover a wide range of shaving preferences in one two-piece razor.The scale at the base of the handle changes the blade gap from approximately 0.6 to 1.6 mm. Use a more open setting where there is longer or denser growth, then reduce it for a gentler daily shave or a finishing pass. The long, shaped handle also gives useful reach for difficult areas and for body shaving, while the straight-cut head keeps the familiar double-edge razor technique intact.At 112 g with a 94 mm handle, the 510 Progress has a substantial, confidence-inspiring feel without becoming unwieldy. It is a particularly versatile Merkur for a shaver who wants to learn one dependable adjustable platform rather than own several fixed-gap razors.Key Features Two-piece adjustable double-edge safety razor Long contoured handle for additional reach Blade gap adjustable from approximately 0.6 to 1.6 mm Bright-chrome finish with engraved adjustment knob Straight-cut head for traditional wet shaving Designed and made in Germany Specifications Razor type: two-piece adjustable safety razor Cut: straight cut Blade-gap adjustment: approximately 0.6 to 1.6 mm Finish: bright chrome Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: folding box, 132 x 52 x 27 mm Compare the Progress with other Merkur safety razors, then select compatible double edge razor blades to refine the setting that works best for you.",
+        "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-bright-chrome-safety-razor",
+        "price": "£73.95",
+        "brand": "Merkur",
+        "vendor": "Merkur",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_top_x_clipped_rev_1.jpg?v=1784925048",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Safety Razor",
+        "collections": [
+          "Merkur Safety Razors",
+          "Adjustable Safety Razors",
+          "New Additions"
+        ],
+        "variants": [
+          {
+            "id": "57199306146057",
+            "sku": "510101",
+            "gtin": "4260734881863",
+            "mpn": null,
+            "title": "Merkur Progress 510 Long Handle Adjustable Safety Razor - Bright Chrome",
+            "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-bright-chrome-safety-razor",
+            "price": "73.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_510101_top_x_clipped_rev_1.jpg?v=1784925048",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Merkur Progress Adjustable Razor in Plastic Case with 10 Double Edge Blades",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
@@ -22897,7 +22898,7 @@
         "brand": "Morgan's",
         "vendor": "Morgan's",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Gel-Wax-150ml-NEW2020-1_clipped_rev_1.jpg?v=1748604993",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22920,7 +22921,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-gel-wax",
             "price": "6.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Gel-Wax-150ml-NEW2020-1_clipped_rev_1.jpg?v=1748604993",
             "options": {}
           }
@@ -37438,7 +37439,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Simpson Shaving Brush Travel Tube is a durable faux ivory case designed to protect your shaving brush while travelling. Made from strong polyester plastic with a screw-top lid, vent hole and authentic Simpson decal, it prevents bristle damage inside wash bags and luggage. Ideal for business trips, weekends away or long holidays, the tube is available in Small, Large and Extra Large sizes to suit a wide range of Simpson shaving brushes. Small Travel TubeKey Features: Durable faux ivory tube with screw-top lid Vent hole allows airflow for drying Designed for smaller Simpson brushesSpecifications: Length with lid: 92mm Length without lid: 90mm Internal diameter: 34mmCompatible Simpson Brushes: Berkeley, Case, Classic 1, Commodore X1, Duke 1, Wee Scot, Fifty Five, Harvard 1, Beaufort 1 Large Travel TubeKey Features: Suitable for medium and full-sized brushes Lightweight and practical for travel Faux ivory finish with Simpson decalCompatible Simpson Brushes: Astor, Beaufort 2, 3, 4, 5, Chubby 1, Chubby 2, Captain, Commodore X2, X3, Classic 2, Colonel X2L, Duke 2, Duke 3, Eagle 1, 2, 3, Emperor 1, 2, 3, Fifty Series 56, 57, 58, 59, Harvard 2, 3, 4, 5, Keyhole 1, 2, 3, 4, Milk Churn, M6, M7, Persian Jar 1, 2, 3, Polo 8, Rover, Special, Tulip 1, 2, 3, Trafalgar T1, T2 Extra Large Travel TubeKey Features: Spacious tube for the largest Simpson brushes Strong faux ivory construction Designed for home storage or travelSpecifications: Length with lid: 160mm Length without lid: 153mm Internal diameter: 50mmCompatible Simpson Brushes: Chubby 3, Polo 10, 12, 14, Harvard 6, Tulip 4, Trafalgar T3 For related razor case options, browse the Shaving Accessories & Cases collection.",
         "url": "https://www.malegroomingsupplies.com/products/simpson-shaving-brush-travel-tube",
-        "price": "£7.95",
+        "price": "£5.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
@@ -37463,7 +37464,7 @@
             "title": "Simpson Shaving Brush Travel Tube - Small",
             "url": "https://www.malegroomingsupplies.com/products/simpson-shaving-brush-travel-tube?variant=56676755898633",
             "price": "7.95 GBP",
-            "sale_price": null,
+            "sale_price": "5.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
             "options": {
@@ -37478,7 +37479,7 @@
             "title": "Simpson Shaving Brush Travel Tube - Large",
             "url": "https://www.malegroomingsupplies.com/products/simpson-shaving-brush-travel-tube?variant=56676755931401",
             "price": "12.95 GBP",
-            "sale_price": null,
+            "sale_price": "7.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
             "options": {
@@ -37788,7 +37789,7 @@
             "title": "Simpsons 'The Beaufort' Shaving Brush - 95mm - B2 Pure",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-beaufort-pure-badger-shaving-brush?variant=56363188584713",
             "price": "50.40 GBP",
-            "sale_price": null,
+            "sale_price": "35.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B2-Front.png?v=1765233853",
             "options": {
@@ -37863,7 +37864,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Simpsons Berkeley 46 is a compact badger shaving brush with a faux ivory handle. It is designed for traditional wet shaving and can be used with shaving soap or shaving cream to build lather before shaving. This model is available with Best Badger or Pure Badger hair, depending on the selected variant. Its smaller knot and handle make it suitable for daily shaving, travel use or anyone who prefers a more compact brush. For related options, compare the Simpsons Berkeley 46 Sovereign Synthetic Shaving Brush, browse badger shaving brushes, or view the full Simpsons shaving brush collection. Key Features Badger shaving brush: Available in Best Badger or Pure Badger variants. Compact size: Useful for daily use, travel or smaller storage spaces. Faux ivory handle: Traditional Simpsons handle style. Soap and cream use: Suitable for lathering shaving soaps and creams. Specifications Brush Type: Badger shaving brush Hair Grade: Best Badger or Pure Badger, depending on variant Overall Height: 88mm Handle Height: 44mm Knot Loft: 44mm Knot Diameter: 19mm Weight: 50g",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-shaving-brush",
-        "price": "£43.75",
+        "price": "£34.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simspsons_Berkeley_46_-_Pure.jpg?v=1765233847",
@@ -37888,7 +37889,7 @@
             "title": "Simpsons 'The Berkeley' Shaving Brush - Pure Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-shaving-brush?variant=56363188879625",
             "price": "43.75 GBP",
-            "sale_price": null,
+            "sale_price": "34.95 GBP",
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simspsons_Berkeley_46_-_Pure.jpg?v=1765233847",
             "options": {
@@ -37956,7 +37957,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Simpsons Captain 2 Sovereign Synthetic Shaving Brush is a modern handle design introduced in 2016 and praised for its balance, comfort, and refined appearance. Hand-turned in traditional faux ivory, it is filled with Simpsons’ widely regarded Sovereign Grade synthetic fibre, designed to offer excellent lathering ability with soft, smooth face feel. The Captain 2 features a tall, ergonomically shaped handle with flowing lines, making it especially well suited to shavers who prefer bowl lathering. Its proportions allow controlled brush movement, while the dense synthetic knot produces a rich, stable lather using either soaps or creams. Each brush continues the longstanding Simpsons tradition of hand-tied knots, completed with the familiar front label stating Hand Made in Great Britain. Key Features: Filled with Sovereign Grade synthetic fibre Classic faux ivory handle with tall ergonomic shape Particularly effective for bowl lathering Dense knot for consistent, creamy lather Comfortable proportions for both new and experienced wet shavers Handcrafted in Britain, featuring the Hand Made in Great Britain label Specifications: Overall brush height: 118mm Handle height: 69mm Knot loft: 40mm Knot diameter: 24mm For related shaving brush options, browse the Shaving Brushes collection.",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-captain-2-sovereign-synthetic",
-        "price": "£58.95",
+        "price": "£52.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1784922293",
@@ -37981,7 +37982,7 @@
             "title": "Simpsons 'The Captain 2' Sovereign Synthetic Shaving Brush",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-captain-2-sovereign-synthetic",
             "price": "58.95 GBP",
-            "sale_price": null,
+            "sale_price": "52.95 GBP",
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1784922293",
             "options": {}
@@ -37994,7 +37995,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Simpsons Case Shaving Brush is a compact and practical wet shaving brush, ideal for daily use or travel. Hand-turned in a faux ivory handle and available with either Best Badger or Pure Badger hair, the Case offers reliable lathering performance in a smaller, well-controlled format. Designed to pair with a purpose-made protective travel tube (available separately), the Case is easy to pack and carry, making it a popular choice for wash bags and weekend kits. Despite its modest size, the knot is well-packed and produces a full, creamy lather with shaving soaps or creams. Each brush features the traditional Simpsons front label stating Hand Made in Great Britain, reflecting the brand’s long-standing brushmaking heritage. For related razor case options, browse the Shaving Brushes collection. Key Features: Available with Best Badger or Pure Badger hair Compact faux ivory handle ideal for travel or small-basin use Builds a rich lather with soaps or creams Designed to fit the optional Simpsons travel tube (sold separately) Handcrafted in Britain, featuring the Hand Made in Great Britain label Specifications: Case (Best or Pure Badger): Overall brush height: 79mm Handle height: 42mm Knot loft: 38mm Knot diameter: 19mm Weight: 41g",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-case-best-or-pure-badger-shaving-brush",
-        "price": "£43.80",
+        "price": "£39.00",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Pure-Front.png?v=1765233752",
@@ -38019,7 +38020,7 @@
             "title": "Simpsons 'The Case' Shaving Brush - Pure Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-case-best-or-pure-badger-shaving-brush?variant=56363187306761",
             "price": "43.80 GBP",
-            "sale_price": null,
+            "sale_price": "39.00 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Pure-Front.png?v=1765233752",
             "options": {
@@ -38613,7 +38614,7 @@
             "title": "Simpsons 'The Duke' Shaving Brush - Duke 2 Best - 90mm",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-best-or-pure-badger-shaving-brush?variant=56363188158729",
             "price": "121.90 GBP",
-            "sale_price": null,
+            "sale_price": "81.95 GBP",
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D2Best-Front.png?v=1765233836",
             "options": {
@@ -38643,7 +38644,7 @@
             "title": "Simpsons 'The Duke' Shaving Brush - Duke 3 Best - 95mm",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-best-or-pure-badger-shaving-brush?variant=56363188191497",
             "price": "151.90 GBP",
-            "sale_price": null,
+            "sale_price": "115.00 GBP",
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D3Best-Front.png?v=1765233843",
             "options": {
@@ -39560,7 +39561,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Simpsons ‘The Special’ Shaving Brush is widely known as the classic gateway into traditional wet shaving. Compact, dependable, and excellent value for money, it remains one of Simpsons’ most popular models. The handle fits comfortably in the hand, while the badger knot creates a soft, workable lather suitable for daily shaving. Whether you choose Best Badger or Pure Badger, the brush provides reliable performance that appeals to beginners and experienced shavers alike. Each brush features the iconic Simpsons front label that reads Hand Made in Great Britain, reflecting the craftsmanship behind every piece. For related Simpsons options, compare Simpsons 'The Special' Sovereign Synthetic Shaving Brush with Alexander Simpson 'Farringdon' Boar Bristle Shaving Brush, or browse the Shaving Brushes collection. Key Features Available in Best Badger or Pure Badger hair Compact design for easy daily use Ideal introductory brush for traditional wet shaving Creates a soft and consistent lather Iconic Simpsons front label stating Hand Made in Great Britain Specifications Overall height: 92 mm Handle height: 50 mm Knot loft: 42 mm Knot diameter: 18 mm Weight: 50 g Hair type options: Best Badger or Pure Badger Packaging: Branded Simpsons packaging",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-the-special-shaving-brush",
-        "price": "£52.30",
+        "price": "£38.00",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Best-Front.png?v=1765233702",
@@ -39585,7 +39586,7 @@
             "title": "Simpsons 'The Special' Shaving Brush - Best Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-the-special-shaving-brush?variant=56363186159881",
             "price": "52.30 GBP",
-            "sale_price": null,
+            "sale_price": "38.00 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Best-Front.png?v=1765233702",
             "options": {
