@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-30",
-    "generated_at": "2026-07-30T05:10:50+00:00",
+    "last_updated": "2026-07-31",
+    "generated_at": "2026-07-31T05:37:12+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -1505,7 +1505,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain-Fawcett_s-Expedition-Wax-01.jpg?v=1751996584",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1526,7 +1526,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-expedition-strength-moustache-wax-15ml",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain-Fawcett_s-Expedition-Wax-01.jpg?v=1751996584",
             "options": {}
           }
@@ -1730,7 +1730,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com-2369_clipped_rev_1.jpg?v=1751363969",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1752,7 +1752,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-luxurious-shaving-soap-110g",
             "price": "31.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com-2369_clipped_rev_1.jpg?v=1751363969",
             "options": {}
           }
@@ -1806,7 +1806,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_maharajah_BB_LowRes-1789_ce604710-ae1f-4553-bb75-7712756513b3.jpg?v=1751995731",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1827,7 +1827,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-maharajah-beard-balm-60ml",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_maharajah_BB_LowRes-1789_ce604710-ae1f-4553-bb75-7712756513b3.jpg?v=1751995731",
             "options": {}
           }
@@ -1843,7 +1843,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_maharajah_10mlBO_LowRes-1718_clipped_rev_1.jpg?v=1751363985",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1864,7 +1864,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-maharajah-beard-oil-10ml",
             "price": "17.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_maharajah_10mlBO_LowRes-1718_clipped_rev_1.jpg?v=1751363985",
             "options": {}
           }
@@ -1880,7 +1880,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/image.jpg?v=1751363964",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1902,7 +1902,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-maharajah-eau-de-parfum-50ml?variant=55815789674761",
             "price": "3.25 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/image.jpg?v=1751363964",
             "options": {
               "Size": "2ml Sample"
@@ -2125,7 +2125,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-nebula-eau-de-parfum-50ml?variant=55815789576457",
             "price": "75.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Nebula_EDP-5948_0242e535-fe19-428a-98eb-d26a2e358729.jpg?v=1751363964",
             "options": {
               "Size": "50ml"
@@ -2365,7 +2365,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Ricki_Hall_Beard_Balm_-_high_res-1_copy.jpg?v=1751997067",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -2386,7 +2386,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-booze-baccy-beard-balm-60ml",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Ricki_Hall_Beard_Balm_-_high_res-1_copy.jpg?v=1751997067",
             "options": {}
           }
@@ -14658,7 +14658,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Popular-Double-Edge-Razor_clipped_rev_1.jpg?v=1737233737",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14680,7 +14680,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-popular-double-edge-razor",
             "price": "14.35 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Popular-Double-Edge-Razor_clipped_rev_1.jpg?v=1737233737",
             "options": {}
           }
