@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-07-31",
-    "generated_at": "2026-07-31T05:37:12+00:00",
+    "last_updated": "2026-08-01",
+    "generated_at": "2026-08-01T05:29:08+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -11271,7 +11271,7 @@
         "name": "D.R. Harris Spearmint Toothpaste 75ml",
         "category": "Dental Care > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Oral Care",
-        "description": "D.R. Harris Spearmint Toothpaste offers a refreshing, fluoride-free option for daily oral care. Lightly flavoured with spearmint and enhanced with aloe vera, this gentle formula helps soothe the gums while providing a clean and invigorating finish. Ideal for those who prefer a natural approach to dental hygiene, it supports fresh breath and a pleasant brushing experience without compromising effectiveness. The classic metal tube reflects D.R. Harris's commitment to both quality and tradition. Pair it with D.R. Harris Soft Bristle Toothbrush and D.R. Harris Earthenware Toothbrush Mug. Key Features: Fluoride-free formula Enriched with soothing aloe vera Refreshing spearmint flavour Gentle on gums and ideal for daily use Elegant, traditional metal tube Specifications: Size: 75ml Packaging: Metal tube with screw cap Made in England For external use only Ingredients:Calcium Carbonate, Aqua, Sorbitol, Aloe Barbadensis Leaf Extract, Sodium Lauryl Sulfate, Aroma, Cellulose Gum, Hydrated Silica, Ocimum Basilicum Oil, Mentha Viridis Oil, Sodium Saccharin, Limonene, Linalool, Cl 75810",
+        "description": "D.R. Harris Spearmint Toothpaste offers a refreshing, fluoride-free option for daily oral care. Lightly flavoured with spearmint and enhanced with aloe vera, this gentle formula helps soothe the gums while providing a clean and invigorating finish. Ideal for those who prefer a natural approach to dental hygiene, it supports fresh breath and a pleasant brushing experience without compromising effectiveness. The classic metal tube reflects D.R. Harris's commitment to both quality and tradition. Pair it with D.R. Harris Soft Bristle Toothbrush and D.R. Harris Earthenware Toothbrush Mug. Key Features: Fluoride-free formula Enriched with soothing aloe vera Refreshing spearmint flavour Gentle on gums and ideal for daily use Elegant, traditional metal tube Specifications: Size: 75ml Packaging: Metal tube with screw cap Made in India For external use only Ingredients:Calcium Carbonate, Aqua, Sorbitol, Aloe Barbadensis Leaf Extract, Sodium Lauryl Sulfate, Aroma, Cellulose Gum, Hydrated Silica, Ocimum Basilicum Oil, Mentha Viridis Oil, Sodium Saccharin, Limonene, Linalool, Cl 75810",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-spearmint-toothpaste-75ml",
         "price": "£8.50",
         "brand": "D.R. Harris",
@@ -18452,7 +18452,7 @@
         "brand": "Martin De Candre",
         "vendor": "Martin De Candre",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Vetiver_200g_clipped_rev_1.jpg?v=1766858520",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18474,7 +18474,7 @@
             "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-vetiver-shaving-soap?variant=56700305965321",
             "price": "48.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Vetiver_200g_clipped_rev_1.jpg?v=1766858520",
             "options": {
               "Size": "200g"
@@ -36297,7 +36297,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGY_clipped_rev_1.jpg?v=1744055370",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36319,7 +36319,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-pharos-c3-pure-grey-badger-yellow",
             "price": "15.45 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGY_clipped_rev_1.jpg?v=1744055370",
             "options": {}
           }
