@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-01",
-    "generated_at": "2026-08-01T05:29:08+00:00",
+    "last_updated": "2026-08-02",
+    "generated_at": "2026-08-02T05:29:19+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -674,7 +674,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1765233562",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -696,7 +696,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-trafalgar-shaving-brush?variant=55607611195657",
             "price": "35.00 GBP",
             "sale_price": "30.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1765233562",
             "options": {
               "Size": "Trafalgar T1"
@@ -13202,7 +13202,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304892169",
             "price": "2.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-blade-holder-for-shavette-3-colours-235368.jpg?v=1723066525",
             "options": {
               "Colour": "Black"
