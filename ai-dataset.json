@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-03",
-    "generated_at": "2026-08-03T05:43:21+00:00",
+    "last_updated": "2026-08-04",
+    "generated_at": "2026-08-04T05:16:19+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14147,7 +14147,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Adjustable-Double-Edge-Razor_clipped_rev_1.jpg?v=1737235691",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14170,7 +14170,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-adjustable-double-edge-razor",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Adjustable-Double-Edge-Razor_clipped_rev_1.jpg?v=1737235691",
             "options": {}
           }
@@ -41952,7 +41952,7 @@
         "brand": "Taylor of Old Bond Street",
         "vendor": "Taylor of Old Bond Street",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07155-Sandalwood-Talcum-Powder-100g-100ml-1200x1200px_2048x_eb2a6a36-3dd5-453f-b84d-5b76ffe01ea6.jpg?v=1743337519",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41973,7 +41973,7 @@
             "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-sandalwood-talcum-powder-100g",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07155-Sandalwood-Talcum-Powder-100g-100ml-1200x1200px_2048x_eb2a6a36-3dd5-453f-b84d-5b76ffe01ea6.jpg?v=1743337519",
             "options": {}
           }
@@ -42731,7 +42731,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-leather-razor-cover-al13-ti22?variant=48836804444425",
             "price": "16.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cropped-browncover02.jpg?v=1734116417",
             "options": {
               "Colour": "Brown Leather"
