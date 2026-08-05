@@ -13,12 +13,12 @@
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 341
   },
   "currency": "GBP",
-  "generated_at": "2026-08-04T05:16:19+00:00",
+  "generated_at": "2026-08-05T05:16:01+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1043,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 377,
+  "skipped_products": 295,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15367113998601",
@@ -87,70 +87,70 @@
       "title": "4711 Original Eau de Cologne Vapo 90ml (Discontinued)"
     },
     {
-      "id": "gid://shopify/Product/9368732270857",
+      "id": "gid://shopify/Product/15224272748809",
       "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "American Crew 2 in 1 Skin Moist & Beard Conditioner 100ml"
+      "status": "ARCHIVED",
+      "title": "Captain Fawcett Booze & Baccy Moisturiser"
     },
     {
-      "id": "gid://shopify/Product/9368732172553",
+      "id": "gid://shopify/Product/15224272650505",
       "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "American Crew 24-Hour Deodorant Body Wash 450ml"
+      "status": "ARCHIVED",
+      "title": "Captain Fawcett's Physician Menthol Moustache Wax 15ml"
     },
     {
-      "id": "gid://shopify/Product/9368732303625",
+      "id": "gid://shopify/Product/15224269897993",
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
-      "title": "American Crew 3 in 1 Energizing 250ML"
+      "title": "Captain Fawcett's Sandalwood Moustache Wax 15ml"
     },
     {
-      "id": "gid://shopify/Product/9368732205321",
+      "id": "gid://shopify/Product/15224269799689",
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
-      "title": "American Crew 3 in 1 Energizing 450ML"
+      "title": "Captain Fawcett's Ylang Ylang Moustache Wax 15ml"
     },
     {
-      "id": "gid://shopify/Product/9368732238089",
+      "id": "gid://shopify/Product/9336162320649",
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
-      "title": "American Crew 3 in 1 Relaxing 250ML"
+      "title": "Colonel Conk\u2019s Natural After Shave Lotion - High Desert Breeze 180ml"
     },
     {
-      "id": "gid://shopify/Product/9368732369161",
+      "id": "gid://shopify/Product/9336162418953",
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
-      "title": "American Crew 3 in 1 Relaxing 450ML"
+      "title": "Colonel Conk\u2019s Natural After Shave Lotion - Rio Grande Lavender 180ml"
     },
     {
-      "id": "gid://shopify/Product/9368732401929",
+      "id": "gid://shopify/Product/9336162353417",
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
-      "title": "American Crew 3 in 1 Tea Tree 100ml"
+      "title": "Colonel Conk\u2019s Natural After Shave Lotion - Santa Fe Cedar 180ml"
     },
     {
-      "id": "gid://shopify/Product/9368732500233",
+      "id": "gid://shopify/Product/9336162287881",
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
-      "title": "American Crew 3 in 1 Tea Tree 250ml"
+      "title": "Colonel Conk\u2019s Natural After Shave Lotion - Southwestern Sun 180ml"
     },
     {
-      "id": "gid://shopify/Product/9368732467465",
+      "id": "gid://shopify/Product/9336162615561",
       "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "American Crew 3 in 1 Tea Tree 450ml"
+      "status": "ARCHIVED",
+      "title": "Colonel Conk\u2019s Natural Pre-Shave Oil 59ml"
     }
   ],
   "social_catalog_feed": "social-catalog-feed.csv",
-  "source_products": 1420,
+  "source_products": 1338,
   "validation": {
     "availability_counts": {
-      "in_stock": 928,
-      "out_of_stock": 371
+      "in_stock": 924,
+      "out_of_stock": 375
     },
     "checkout_eligibility_counts": {
-      "false": 371,
-      "true": 928
+      "false": 375,
+      "true": 924
     },
     "duplicate_item_id_count": 0,
     "invalid_gtin_rows": 0,
