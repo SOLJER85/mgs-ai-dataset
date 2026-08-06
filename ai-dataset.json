@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-05",
-    "generated_at": "2026-08-05T05:16:01+00:00",
+    "last_updated": "2026-08-06",
+    "generated_at": "2026-08-06T05:18:11+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14264,7 +14264,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Black-Straight-Razor.jpg?v=1777798779",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14286,7 +14286,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-black-sr-straight-razor-acsr-nb",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Black-Straight-Razor.jpg?v=1777798779",
             "options": {}
           }
@@ -14829,7 +14829,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14850,7 +14850,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades?variant=49025525907721",
             "price": "3.15 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
             "options": {
               "Pack Size": "Pack of 10"
@@ -15072,7 +15072,7 @@
         "brand": "Féret Parfumeur",
         "vendor": "Féret Parfumeur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/feret-bloc-hyalin-metal-storage-tin-12348550905965_1536x_clipped_rev_1.jpg?v=1757267359",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -15094,7 +15094,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feret-parfumeur-bloc-hyalin-alum-bloc-tin",
             "price": "2.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/feret-bloc-hyalin-metal-storage-tin-12348550905965_1536x_clipped_rev_1.jpg?v=1757267359",
             "options": {}
           }
