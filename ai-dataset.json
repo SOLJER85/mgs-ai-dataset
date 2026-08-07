@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-06",
-    "generated_at": "2026-08-06T05:18:11+00:00",
+    "last_updated": "2026-08-07",
+    "generated_at": "2026-08-07T04:26:20+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14093,7 +14093,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dovo-super-platinum-de-razor-blades?variant=48744999026953",
             "price": "46.85 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-super-platinum-de-razor-blades-10-x-10-150512.jpg?v=1723066526",
             "options": {
               "Quantity": "100 Blades"
