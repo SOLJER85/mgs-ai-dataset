@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-07",
-    "generated_at": "2026-08-07T04:26:20+00:00",
+    "last_updated": "2026-08-08",
+    "generated_at": "2026-08-08T03:27:11+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -17285,7 +17285,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17307,7 +17307,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-double-edge-safety-razor-aircraft-aluminium?variant=45376842924297",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
             "options": {
               "Blade Gap & Exposure": "Mild Aggression"
@@ -17322,7 +17322,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-double-edge-safety-razor-aircraft-aluminium?variant=45376842957065",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
             "options": {
               "Blade Gap & Exposure": "Medium Aggression"
@@ -17395,7 +17395,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-jet-black-male-grooming-supplies-255999.jpg?v=1722956619",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17417,7 +17417,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-jet-black?variant=45376842989833",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-jet-black-male-grooming-supplies-255999.jpg?v=1722956619",
             "options": {
               "Blade Gap & Exposure": "Mild Aggression"
@@ -17432,7 +17432,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-jet-black?variant=45376843022601",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-jet-black-male-grooming-supplies-255999.jpg?v=1722956619",
             "options": {
               "Blade Gap & Exposure": "Medium Aggression"
@@ -17450,7 +17450,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-steel-blue-male-grooming-supplies-288775.jpg?v=1722956580",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17472,7 +17472,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-steel-blue?variant=45376842629385",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-steel-blue-male-grooming-supplies-288775.jpg?v=1722956580",
             "options": {
               "Blade Gap & Exposure": "Mild Aggression"
@@ -17487,7 +17487,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-steel-blue?variant=45376842662153",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-steel-blue-male-grooming-supplies-288775.jpg?v=1722956580",
             "options": {
               "Blade Gap & Exposure": "Medium Aggression"
@@ -17560,7 +17560,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HensonBoxSet1_clipped_rev_1.jpg?v=1734179700",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17583,7 +17583,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-shaving-box-set-al13-razor-stand-100-blades",
             "price": "119.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HensonBoxSet1_clipped_rev_1.jpg?v=1734179700",
             "options": {}
           }
@@ -17636,7 +17636,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-rk-shaving-stainless-de-razor-blades-pack-of-5-male-grooming-supplies-460894.jpg?v=1722956565",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17657,7 +17657,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-rk-shaving-stainless-de-razor-blades-5-pack",
             "price": "1.25 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-rk-shaving-stainless-de-razor-blades-pack-of-5-male-grooming-supplies-460894.jpg?v=1722956565",
             "options": {}
           }
@@ -17673,7 +17673,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-rk-shaving-stainless-de-razor-blades-100-pack-male-grooming-supplies-906892.jpg?v=1722956564",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17694,7 +17694,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-rk-shaving-stainless-de-razor-blades-100-pack",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-rk-shaving-stainless-de-razor-blades-100-pack-male-grooming-supplies-906892.jpg?v=1722956564",
             "options": {}
           }
@@ -17710,7 +17710,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-ti22-titanium-safety-razor-male-grooming-supplies-581218.jpg?v=1722956549",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17732,7 +17732,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-ti22-titanium-safety-razor?variant=45376842727689",
             "price": "275.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-ti22-titanium-safety-razor-male-grooming-supplies-581218.jpg?v=1722956549",
             "options": {
               "Blade Gap & Exposure": "Mild Aggression"
@@ -42656,7 +42656,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/travelcase-2.jpg?v=1734358604",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42678,7 +42678,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-razor-case-vegan-leather",
             "price": "49.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/travelcase-2.jpg?v=1734358604",
             "options": {}
           }
@@ -42731,7 +42731,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-leather-razor-cover-al13-ti22?variant=48836804444425",
             "price": "16.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cropped-browncover02.jpg?v=1734116417",
             "options": {
               "Colour": "Brown Leather"
