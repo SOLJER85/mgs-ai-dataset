@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-08",
-    "generated_at": "2026-08-08T03:27:11+00:00",
+    "last_updated": "2026-08-09",
+    "generated_at": "2026-08-09T03:44:04+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14829,7 +14829,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14850,7 +14850,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades?variant=49025525907721",
             "price": "3.15 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Double-Edge-Blades-10pk_clipped_rev_1.jpg?v=1737232797",
             "options": {
               "Pack Size": "Pack of 10"
@@ -14865,7 +14865,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-new-hi-stainless-blades?variant=57033945710857",
             "price": "42.65 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/feather-hi-stainless-double-edge-razor-blades-952429.jpg?v=1722957263",
             "options": {
               "Pack Size": "Pillar Pack - 20 x 10 Blades (200 Blades)"
@@ -34134,7 +34134,7 @@
         "brand": "Proraso",
         "vendor": "Proraso",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9448078-pr400512-2-3-1000_clipped_rev_1.jpg?v=1777885271",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -34156,7 +34156,7 @@
             "url": "https://www.malegroomingsupplies.com/products/proraso-red-shaving-cream-tube-150ml",
             "price": "6.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9448078-pr400512-2-3-1000_clipped_rev_1.jpg?v=1777885271",
             "options": {}
           }
@@ -41683,7 +41683,7 @@
         "brand": "Taylor of Old Bond Street",
         "vendor": "Taylor of Old Bond Street",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07142-Platinum-Collection-Handwash-150ml-1200x1200px_clipped_rev_1.jpg?v=1743371895",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41704,7 +41704,7 @@
             "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-platinum-collection-handwash-150ml",
             "price": "10.95 GBP",
             "sale_price": "8.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07142-Platinum-Collection-Handwash-150ml-1200x1200px_clipped_rev_1.jpg?v=1743371895",
             "options": {}
           }
