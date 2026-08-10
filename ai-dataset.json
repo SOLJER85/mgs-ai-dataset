@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-09",
-    "generated_at": "2026-08-09T03:44:04+00:00",
+    "last_updated": "2026-08-10",
+    "generated_at": "2026-08-10T03:57:29+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14753,7 +14753,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Scotch-Wood-Razor_1_clipped_rev_1.jpg?v=1737226445",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14775,7 +14775,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-scotch-wood-razor",
             "price": "104.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Scotch-Wood-Razor_1_clipped_rev_1.jpg?v=1737226445",
             "options": {}
           }
@@ -31704,7 +31704,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SSPPARK150-mgs-lossless.webp?v=1784922333",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -31726,7 +31726,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-sandalwood-shea-butter-travel-shave-soap-50g",
             "price": "6.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SSPPARK150-mgs-lossless.webp?v=1784922333",
             "options": {}
           }
