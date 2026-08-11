@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-10",
-    "generated_at": "2026-08-10T03:57:29+00:00",
+    "last_updated": "2026-08-11",
+    "generated_at": "2026-08-11T03:45:37+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -33828,7 +33828,7 @@
         "brand": "Proraso",
         "vendor": "Proraso",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/pennello-rasatura_0b7e0585-b357-4b37-a775-65a5dfa86dc8_clipped_rev_1.jpg?v=1777924793",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -33850,7 +33850,7 @@
             "url": "https://www.malegroomingsupplies.com/products/proraso-professional-shaving-brush",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/pennello-rasatura_0b7e0585-b357-4b37-a775-65a5dfa86dc8_clipped_rev_1.jpg?v=1777924793",
             "options": {}
           }
@@ -36329,7 +36329,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBOG_clipped_rev_1.jpg?v=1744055357",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36351,7 +36351,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-pharos-c3-pure-black-badger-ocean-green",
             "price": "18.35 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBOG_clipped_rev_1.jpg?v=1744055357",
             "options": {}
           }
