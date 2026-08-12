@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-11",
-    "generated_at": "2026-08-11T03:45:37+00:00",
+    "last_updated": "2026-08-12",
+    "generated_at": "2026-08-12T04:08:51+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -1691,7 +1691,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Combs-1524_clipped_rev_1.jpg?v=1751363981",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1714,7 +1714,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-folding-pocket-moustache-comb-cf-87t",
             "price": "12.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Captain_Fawcett_Combs-1524_clipped_rev_1.jpg?v=1751363981",
             "options": {}
           }
@@ -24620,7 +24620,7 @@
         "price": "£5.99",
         "brand": "Morgan's",
         "vendor": "Morgan's",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Small-Foldable-Comb_clipped_rev_1.jpg?v=1748434751",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Photoroom_20260527_100259.jpg?v=1786455611",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -24643,7 +24643,7 @@
             "price": "5.99 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Small-Foldable-Comb_clipped_rev_1.jpg?v=1748434751",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Photoroom_20260527_100259.jpg?v=1786455611",
             "options": {}
           }
         ]
@@ -34734,7 +34734,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/red-black-strop-paste-861784.jpg?v=1723326040",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -34756,7 +34756,7 @@
             "url": "https://www.malegroomingsupplies.com/products/red-black-strop-paste",
             "price": "10.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/red-black-strop-paste-861784.jpg?v=1723326040",
             "options": {}
           }
