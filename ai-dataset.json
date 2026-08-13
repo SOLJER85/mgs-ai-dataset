@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-12",
-    "generated_at": "2026-08-12T04:08:51+00:00",
+    "last_updated": "2026-08-13",
+    "generated_at": "2026-08-13T04:12:59+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -12177,7 +12177,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-eau-de-toilette?variant=55897926205705",
             "price": "63.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-eau-de-toilette-100ml-usb-JPEG_clipped_rev_1.jpg?v=1757182890",
             "options": {
               "Volume": "100ml Glass Bottle"
