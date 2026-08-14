@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-13",
-    "generated_at": "2026-08-13T04:12:59+00:00",
+    "last_updated": "2026-08-14",
+    "generated_at": "2026-08-14T04:10:17+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -20266,7 +20266,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20288,7 +20288,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34c-heavy-duty-safety-razor",
             "price": "36.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
             "options": {}
           }
@@ -37741,7 +37741,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -37763,7 +37763,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpson-shaving-brush-travel-tube?variant=56676755898633",
             "price": "7.95 GBP",
             "sale_price": "5.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
             "options": {
               "Size": "Small"
