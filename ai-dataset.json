@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-15",
-    "generated_at": "2026-08-15T02:52:33+00:00",
+    "last_updated": "2026-08-16",
+    "generated_at": "2026-08-16T03:01:10+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -18330,7 +18330,7 @@
         "brand": "Martin De Candre",
         "vendor": "Martin De Candre",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Citrus_200_clipped_rev_1.jpg?v=1766858527",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18352,7 +18352,7 @@
             "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-agrumes-shaving-soap?variant=56700306063625",
             "price": "48.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Citrus_200_clipped_rev_1.jpg?v=1766858527",
             "options": {
               "Size": "200g"
@@ -36976,7 +36976,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFBTS_clipped_rev_1.jpg?v=1744055413",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36999,7 +36999,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-soc-c5-finest-mistura-butterscotch",
             "price": "49.75 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFBTS_clipped_rev_1.jpg?v=1744055413",
             "options": {}
           }
