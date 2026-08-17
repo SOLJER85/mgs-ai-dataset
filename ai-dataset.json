@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-16",
-    "generated_at": "2026-08-16T03:01:10+00:00",
+    "last_updated": "2026-08-17",
+    "generated_at": "2026-08-17T03:00:41+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -598,7 +598,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114407_resized_clipped_rev_1.jpg?v=1748952854",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -620,7 +620,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-sandalwood-post-shave-balm",
             "price": "10.20 GBP",
             "sale_price": "8.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114407_resized_clipped_rev_1.jpg?v=1748952854",
             "options": {}
           }
