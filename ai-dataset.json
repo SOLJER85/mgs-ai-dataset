@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-17",
-    "generated_at": "2026-08-17T03:00:41+00:00",
+    "last_updated": "2026-08-18",
+    "generated_at": "2026-08-18T02:56:22+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14147,7 +14147,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Adjustable-Double-Edge-Razor_clipped_rev_1.jpg?v=1737235691",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14170,7 +14170,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-adjustable-double-edge-razor",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Adjustable-Double-Edge-Razor_clipped_rev_1.jpg?v=1737235691",
             "options": {}
           }
@@ -14186,7 +14186,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14208,7 +14208,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-all-stainless-safety-razor-as-d2",
             "price": "142.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
             "options": {}
           }
@@ -14264,7 +14264,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Black-Straight-Razor.jpg?v=1777798779",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14286,7 +14286,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-black-sr-straight-razor-acsr-nb",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Black-Straight-Razor.jpg?v=1777798779",
             "options": {}
           }
@@ -14677,7 +14677,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Folding-Razor_clipped_rev_1.jpg?v=1737224659",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14699,7 +14699,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-folding-razor-acs-rb",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Folding-Razor_clipped_rev_1.jpg?v=1737224659",
             "options": {}
           }
@@ -14715,7 +14715,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Straight-Razor_clipped_rev_1.jpg?v=1737225756",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14737,7 +14737,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-japanese-razor-black",
             "price": "89.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Straight-Razor_clipped_rev_1.jpg?v=1737225756",
             "options": {}
           }
@@ -14956,7 +14956,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Popular-Double-Edge-Razor_clipped_rev_1.jpg?v=1737233737",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14978,7 +14978,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-popular-double-edge-razor",
             "price": "14.35 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Popular-Double-Edge-Razor_clipped_rev_1.jpg?v=1737233737",
             "options": {}
           }
