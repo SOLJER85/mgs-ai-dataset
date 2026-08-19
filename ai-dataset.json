@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-18",
-    "generated_at": "2026-08-18T02:56:22+00:00",
+    "last_updated": "2026-08-19",
+    "generated_at": "2026-08-19T02:58:01+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -7361,7 +7361,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-mahogany-bowl-JPEG.jpg?v=1757169818",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7383,7 +7383,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-mahogany-bowl-100g",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-mahogany-bowl-JPEG.jpg?v=1757169818",
             "options": {}
           }
@@ -9783,7 +9783,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-mahogony-bowl-JPEG.jpg?v=1757170100",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9805,7 +9805,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-mahogany-bowl-100g",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-mahogony-bowl-JPEG.jpg?v=1757170100",
             "options": {}
           }
@@ -11575,7 +11575,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/toothpaste-75ml-JPEG-scaled.jpg?v=1756554693",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11597,7 +11597,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-spearmint-toothpaste-75ml",
             "price": "8.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/toothpaste-75ml-JPEG-scaled.jpg?v=1756554693",
             "options": {}
           }
@@ -12538,7 +12538,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-mahogany-bowl-JPEG.jpg?v=1778106443",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -12560,7 +12560,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-windsor-shaving-mahogany-bowl",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-mahogany-bowl-JPEG.jpg?v=1778106443",
             "options": {}
           }
@@ -34285,7 +34285,7 @@
         "brand": "Proraso",
         "vendor": "Proraso",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176713-pr400501-2-3-1000_clipped_rev_1.jpg?v=1777909736",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -34308,7 +34308,7 @@
             "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-pre-shave-cream-100ml",
             "price": "9.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176713-pr400501-2-3-1000_clipped_rev_1.jpg?v=1777909736",
             "options": {}
           }
@@ -38630,7 +38630,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LBest-Front.png?v=1765233746",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -38652,7 +38652,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-colonel-x2l-best-badger-shaving-brush",
             "price": "77.50 GBP",
             "sale_price": "59.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LBest-Front.png?v=1765233746",
             "options": {}
           }
@@ -41039,7 +41039,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41061,7 +41061,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-125g",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
             "options": {}
           }
