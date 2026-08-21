@@ -4,7 +4,7 @@
     "Health & Beauty > Personal Care": 16,
     "Health & Beauty > Personal Care > Bath & Body": 65,
     "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne": 111,
-    "Health & Beauty > Personal Care > Cosmetics > Skin Care": 32,
+    "Health & Beauty > Personal Care > Cosmetics > Skin Care": 30,
     "Health & Beauty > Personal Care > Hair Care": 312,
     "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care": 98,
     "Health & Beauty > Personal Care > Hair Care > Hair Color": 7,
@@ -13,12 +13,12 @@
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 341
   },
   "currency": "GBP",
-  "generated_at": "2026-08-20T02:57:38+00:00",
+  "generated_at": "2026-08-21T03:03:43+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1043,
+  "included_products": 1041,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 295,
+  "skipped_products": 297,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15367113998601",
@@ -93,6 +93,18 @@
       "title": "Captain Fawcett Booze & Baccy Moisturiser"
     },
     {
+      "id": "gid://shopify/Product/15224271962377",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ARCHIVED",
+      "title": "Captain Fawcett's Exfoliating Salt Scrub 100ml"
+    },
+    {
+      "id": "gid://shopify/Product/15224273076489",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ARCHIVED",
+      "title": "Captain Fawcett's Exfoliating Scrub & Moisturiser Set"
+    },
+    {
       "id": "gid://shopify/Product/15224272650505",
       "reason": "not_active_or_no_online_store_url",
       "status": "ARCHIVED",
@@ -127,30 +139,18 @@
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
       "title": "Colonel Conk\u2019s Natural After Shave Lotion - Santa Fe Cedar 180ml"
-    },
-    {
-      "id": "gid://shopify/Product/9336162287881",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "Colonel Conk\u2019s Natural After Shave Lotion - Southwestern Sun 180ml"
-    },
-    {
-      "id": "gid://shopify/Product/9336162615561",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "ARCHIVED",
-      "title": "Colonel Conk\u2019s Natural Pre-Shave Oil 59ml"
     }
   ],
   "social_catalog_feed": "social-catalog-feed.csv",
   "source_products": 1338,
   "validation": {
     "availability_counts": {
-      "in_stock": 913,
-      "out_of_stock": 386
+      "in_stock": 906,
+      "out_of_stock": 391
     },
     "checkout_eligibility_counts": {
-      "false": 386,
-      "true": 913
+      "false": 391,
+      "true": 906
     },
     "duplicate_item_id_count": 0,
     "invalid_gtin_rows": 0,
@@ -173,8 +173,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1299,
-    "rows_with_gtin": 1226,
+    "row_count": 1297,
+    "rows_with_gtin": 1225,
     "rows_with_mpn": 0,
     "target_country_count": 234
   }
