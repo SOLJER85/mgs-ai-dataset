@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-22",
-    "generated_at": "2026-08-22T02:55:04+00:00",
+    "last_updated": "2026-08-23",
+    "generated_at": "2026-08-23T03:03:39+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1041,
-    "variant_count": 1297,
+    "product_count": 1040,
+    "variant_count": 1296,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -35799,7 +35799,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1800_clipped_rev_1.jpg?v=1744055253",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -35821,7 +35821,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-hereditas-1800-extra-boar-ash",
             "price": "13.35 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1800_clipped_rev_1.jpg?v=1744055253",
             "options": {}
           }
@@ -42204,44 +42204,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Tenax_Pomade_-_Strong_clipped_rev_1.jpg?v=1777848390",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "The Bluebeards Revenge Body Kit",
-        "category": "Gift Sets > Shaving Sets",
-        "product_category": "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care",
-        "description": "The Bluebeards Revenge Body Kit is a men's grooming gift set with wash bag and body-care essentials. It is suited to travel, gym use or keeping daily grooming items together. The set includes a travel washbag, flannel, Cooling Moisturiser sample, Big Blue Bar of Soap for Blokes, anti-perspirant deodorant and comb. For related options, browse The Bluebeards Revenge, compare more men's grooming gift sets, or see bath, body and hand care. Key Features Body grooming kit: Wash bag and body-care essentials. Travel washbag: Keeps the set together for travel or gym use. Soap and deodorant: Daily wash and underarm products included. Moisturiser sample: Cooling Moisturiser sample included. Comb included: Grooming comb supplied in the set. Specifications Set Type: Men's body grooming kit Included: Travel washbag, flannel, Cooling Moisturiser sample 20ml, Big Blue Bar of Soap for Blokes 175g, anti-perspirant deodorant 50ml and comb Best For: Travel, gym bags and daily body grooming",
-        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-body-kit-1",
-        "price": "£12.60",
-        "brand": "The Bluebeards Revenge",
-        "vendor": "The Bluebeards Revenge",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRBODYKIT_preview_clipped_rev_1.jpg?v=1735926055",
-        "availability": "in_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Gift Sets",
-        "collections": [
-          "Shaving Sets",
-          "The Bluebeards Revenge",
-          "Hair & Body",
-          "Gift Sets",
-          "Bath, Body & Hand Care"
-        ],
-        "variants": [
-          {
-            "id": "48936182186249",
-            "sku": "BBRBODYK",
-            "gtin": "5060297001581",
-            "mpn": null,
-            "title": "The Bluebeards Revenge Body Kit",
-            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-body-kit-1",
-            "price": "12.60 GBP",
-            "sale_price": null,
-            "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BBRBODYKIT_preview_clipped_rev_1.jpg?v=1735926055",
             "options": {}
           }
         ]
