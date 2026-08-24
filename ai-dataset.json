@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-23",
-    "generated_at": "2026-08-23T03:03:39+00:00",
+    "last_updated": "2026-08-24",
+    "generated_at": "2026-08-24T03:04:17+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -14642,7 +14642,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Straight-Razor_clipped_rev_1.jpg?v=1737225756",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14664,7 +14664,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-japanese-razor-black",
             "price": "89.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Straight-Razor_clipped_rev_1.jpg?v=1737225756",
             "options": {}
           }
@@ -25498,7 +25498,7 @@
         "brand": "Muhle",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-kosmo-fine-badger-olive-wood-shaving-brush-male-grooming-supplies-197436.jpg?v=1722956277",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -25520,7 +25520,7 @@
             "url": "https://www.malegroomingsupplies.com/products/muhle-kosmo-fine-badger-olive-wood-shaving-brush",
             "price": "60.00 GBP",
             "sale_price": "55.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-kosmo-fine-badger-olive-wood-shaving-brush-male-grooming-supplies-197436.jpg?v=1722956277",
             "options": {}
           }
@@ -26380,7 +26380,7 @@
         "brand": "Muhle",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-travel-shaving-brush-143978.jpg?v=1722956510",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -26403,7 +26403,7 @@
             "url": "https://www.malegroomingsupplies.com/products/muhle-travel-shaving-brush-black",
             "price": "39.00 GBP",
             "sale_price": "34.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-travel-shaving-brush-143978.jpg?v=1722956510",
             "options": {}
           }
@@ -31593,7 +31593,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-and-brush-stand-male-grooming-supplies-314662.jpg?v=1722957145",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -31615,7 +31615,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-safety-razor-and-brush-stand",
             "price": "22.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-and-brush-stand-male-grooming-supplies-314662.jpg?v=1722957145",
             "options": {}
           }
