@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-24",
-    "generated_at": "2026-08-24T03:04:17+00:00",
+    "last_updated": "2026-08-25",
+    "generated_at": "2026-08-25T02:59:25+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -3473,7 +3473,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes15_clipped_rev_1.jpg?v=1748201094",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3495,7 +3495,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-1445-eau-de-parfum-100ml",
             "price": "68.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes15_clipped_rev_1.jpg?v=1748201094",
             "options": {}
           }
@@ -3511,7 +3511,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes38_clipped_rev_1.jpg?v=1747949947",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3533,7 +3533,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-1445-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes38_clipped_rev_1.jpg?v=1747949947",
             "options": {}
           }
@@ -3815,7 +3815,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes34_clipped_rev_1.jpg?v=1747949325",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3837,7 +3837,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lavender-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes34_clipped_rev_1.jpg?v=1747949325",
             "options": {}
           }
@@ -3891,7 +3891,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes1_clipped_rev_1.jpg?v=1747948924",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3913,7 +3913,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lime-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes1_clipped_rev_1.jpg?v=1747948924",
             "options": {}
           }
