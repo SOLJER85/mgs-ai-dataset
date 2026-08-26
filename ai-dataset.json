@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-25",
-    "generated_at": "2026-08-25T02:59:25+00:00",
+    "last_updated": "2026-08-26",
+    "generated_at": "2026-08-26T03:05:59+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -23864,7 +23864,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-slick-extra-firm-hold-pomade?variant=55572090159369",
             "price": "10.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/8._Pomade_Slick_Extra_Firm_Hold.jpg?v=1748434763",
             "options": {
               "Size": "100g"
@@ -25078,7 +25078,7 @@
         "brand": "Muhle",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-alum-block-male-grooming-supplies-241577.jpg?v=1722956345",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -25100,7 +25100,7 @@
             "url": "https://www.malegroomingsupplies.com/products/muhle-alum-block",
             "price": "14.35 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-alum-block-male-grooming-supplies-241577.jpg?v=1722956345",
             "options": {}
           }
