@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-26",
-    "generated_at": "2026-08-26T03:05:59+00:00",
+    "last_updated": "2026-08-27",
+    "generated_at": "2026-08-27T12:26:11+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -243,8 +243,8 @@
       "ZM",
       "ZW"
     ],
-    "product_count": 1040,
-    "variant_count": 1296,
+    "product_count": 1039,
+    "variant_count": 1295,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -14029,42 +14029,6 @@
         ]
       },
       {
-        "name": "Erasmic Shaving Cream 75ml (Original Formula)",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
-        "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Erasmic Shaving Cream is a 75ml shaving cream with chamomile and glycerin. It can be used with or without a shaving brush and is made to soften beard growth before shaving. The cream produces a smooth lather for razor glide and is suitable for all skin types. This listing is for the Original EU Formula. For related products, compare more shaving creams, browse shaving preparations, or see shaving brushes. Key Features Shaving cream: 75ml tube for daily wet shaving. Chamomile: Included for skin comfort. Glycerin: Helps support lather and glide. Brush or hand use: Suitable with or without a shaving brush. Specifications Size: 75ml Format: Shaving cream tube Key Ingredients: Chamomile and glycerin Formula: Original EU Formula",
-        "url": "https://www.malegroomingsupplies.com/products/erasmic-shaving-cream-75ml",
-        "price": "£4.95",
-        "brand": "Erasmic",
-        "vendor": "Erasmic",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/s-l1600_clipped_rev_1_a1cb23f3-2f61-4171-904a-f57afe35e8c0.jpg?v=1750677790",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Cream, Gels & Soaps",
-        "collections": [
-          "Men's Shaving Creams",
-          "Shaving Essentials",
-          "Shaving Preparations"
-        ],
-        "variants": [
-          {
-            "id": "50133496955145",
-            "sku": "ER98185",
-            "gtin": "5012008520508",
-            "mpn": null,
-            "title": "Erasmic Shaving Cream 75ml (Original Formula)",
-            "url": "https://www.malegroomingsupplies.com/products/erasmic-shaving-cream-75ml",
-            "price": "4.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/s-l1600_clipped_rev_1_a1cb23f3-2f61-4171-904a-f57afe35e8c0.jpg?v=1750677790",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Feather Adjustable Double Edge Razor DER-A",
         "category": "Razors > Feather Safety Razor Co.",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
@@ -20497,7 +20461,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006001_front_x_clipped_rev_1.jpg?v=1784924812",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20520,7 +20484,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-4006-razor-stand-bright-chrome",
             "price": "30.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006001_front_x_clipped_rev_1.jpg?v=1784924812",
             "options": {}
           }
@@ -40599,7 +40563,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -40621,7 +40585,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257758985",
             "price": "9.55 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "50ml"
@@ -40651,7 +40615,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257922825",
             "price": "20.65 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "150ml"
@@ -40745,7 +40709,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/415_403_TO_DG_400_ml_clipped_rev_1.jpg?v=1734440091",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -40766,7 +40730,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shower-gel-400ml",
             "price": "10.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/415_403_TO_DG_400_ml_clipped_rev_1.jpg?v=1734440091",
             "options": {}
           }
@@ -40856,7 +40820,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -40878,7 +40842,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-cologne?variant=48849258348809",
             "price": "14.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
             "options": {
               "Size": "100ml"
@@ -40893,7 +40857,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-cologne?variant=48849258381577",
             "price": "21.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
             "options": {
               "Size": "150ml"
@@ -40929,14 +40893,14 @@
             "sku": "415045",
             "gtin": "4011700415045",
             "mpn": null,
-            "title": "Tabac Original Eau de Toilette Natural Spray - 50ml",
+            "title": "Tabac Original Eau de Toilette Natural Spray - 50ml (Discontinued)",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-toilette?variant=48849258610953",
             "price": "11.25 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
             "options": {
-              "Size": "50ml"
+              "Size": "50ml (Discontinued)"
             }
           },
           {
@@ -40948,7 +40912,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-toilette?variant=48849258578185",
             "price": "18.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
             "options": {
               "Size": "100ml"
@@ -40966,7 +40930,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -40988,7 +40952,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-125g",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
             "options": {}
           }
@@ -42703,7 +42667,7 @@
         ]
       },
       {
-        "name": "The Scottish Fine Soaps Company Vetiver & Sandalwood Cleansing Body Bar 220g",
+        "name": "The Scottish Fine Soaps Company Vetiver & Sandalwood Cleansing Body Bar 220g (Discontinued)",
         "category": "Bath Soap and Shower Gels > The Scottish Fine Soaps Company",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Refine your grooming routine with The Scottish Fine Soaps Company Vetiver & Sandalwood Cleansing Body Bar, an aromatic triple-milled soap designed for a luxurious cleansing experience. Infused with the earthy and sophisticated notes of vetiver and sandalwood, this body bar leaves your skin feeling refreshed, moisturised, and lightly fragranced. Fortified with hemp oil, it hydrates your skin without causing dryness or irritation, making it perfect for daily use. Dermatologically tested and enriched with powerful active ingredients, this cleansing bar offers a unique blend of detoxifying charcoal, calming hemp oil, and soothing Epsom salts for complete top-to-toe cleansing. How to Use:Lather the bar onto wet skin, cleanse gently, and rinse thoroughly with warm water. Suitable for daily use. Key Features: Triple-Milled Formula: Provides a rich, creamy lather for an indulgent cleansing experience. Infused With Hemp Oil: Moisturises and calms the skin while preventing dryness. Earthy Fragrance: A masculine blend of vetiver and sandalwood for a refreshing scent. Active Ingredients: Includes detoxifying charcoal, calming hemp oil, and Epsom salts. Specifications: Size: 220g Packaging: Stylish and vintage-inspired box. Scent Profile: Rich, earthy vetiver and sandalwood fragrance. For related bath and body options, browse the Hair & Body collection.",
@@ -42729,7 +42693,7 @@
             "sku": "A03210",
             "gtin": "5016365032100",
             "mpn": null,
-            "title": "The Scottish Fine Soaps Company Vetiver & Sandalwood Cleansing Body Bar 220g",
+            "title": "The Scottish Fine Soaps Company Vetiver & Sandalwood Cleansing Body Bar 220g (Discontinued)",
             "url": "https://www.malegroomingsupplies.com/products/scottish-fine-soaps-vetiver-sandalwood-body-bar-220g",
             "price": "7.15 GBP",
             "sale_price": null,
@@ -43084,7 +43048,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-chrome-safety-razor-in-display-case-with-pack-of-blades-724346.jpg?v=1723326042",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -43107,7 +43071,7 @@
             "url": "https://www.malegroomingsupplies.com/products/timor-chrome-safety-razor-display-case",
             "price": "30.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-chrome-safety-razor-in-display-case-with-pack-of-blades-724346.jpg?v=1723326042",
             "options": {}
           }
