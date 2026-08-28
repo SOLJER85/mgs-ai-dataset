@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-27",
-    "generated_at": "2026-08-27T12:26:11+00:00",
+    "last_updated": "2026-08-28",
+    "generated_at": "2026-08-28T13:55:25+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -3777,7 +3777,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes28_clipped_rev_1.jpg?v=1747947473",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3799,7 +3799,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lavender-aftershave-balm-150ml",
             "price": "33.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes28_clipped_rev_1.jpg?v=1747947473",
             "options": {}
           }
@@ -8301,7 +8301,7 @@
         "name": "D.R. Harris Eucalyptus Shaving Cream Bowl 150g",
         "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": ".R. Harris Eucalyptus Shaving Cream Bowl is a rich, traditional shaving cream designed to create a luxurious lather for a smooth and comfortable wet shave. Formulated with a high proportion of glycerin, it helps support razor glide while leaving the skin feeling soothed and moisturised. The cream produces a generous, creamy lather that softens the beard, helping the razor move more easily for a close and comfortable shave. The refreshing eucalyptus fragrance gives the shave a clean, invigorating feel, while menthol provides a cooling sensation on the skin. With aloe vera included in the formula, this shaving cream is a good option for those with sensitive skin or anyone who prefers a fresh, soothing shaving experience. Apply to a damp face and lather with a shaving brush dipped in warm water, or apply by hand for a quick and easy shave. For related D.R. Harris options, compare D.R. Harris Marlborough Shaving Cream Bowl 150g with D.R. Harris Rose Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features: Rich Shaving Cream: Creates a generous, creamy lather for traditional wet shaving. Eucalyptus Fragrance: Fresh, clean and invigorating scent. Menthol: Provides a cooling, refreshing sensation during shaving. Aloe Vera: Helps soothe and comfort the skin. High Glycerin Formula: Supports smooth razor glide and moisturising comfort. Sensitive Skin Option: Well suited to those who prefer a soothing shaving cream. Specifications: Product Type: Shaving cream Size: 150g Fragrance: Eucalyptus Key Ingredients: Glycerin, eucalyptus oil, menthol and aloe vera Use: Apply to a damp face and lather with a warm, wet shaving brush or by hand Suitable For: Traditional wet shaving and sensitive skin Also Available: 75g travel tube",
+        "description": "D.R. Harris Eucalyptus Shaving Cream Bowl is a rich, traditional shaving cream designed to create a luxurious lather for a smooth and comfortable wet shave. Formulated with a high proportion of glycerin, it helps support razor glide while leaving the skin feeling soothed and moisturised. The cream produces a generous, creamy lather that softens the beard, helping the razor move more easily for a close and comfortable shave. The refreshing eucalyptus fragrance gives the shave a clean, invigorating feel, while menthol provides a cooling sensation on the skin. With aloe vera included in the formula, this shaving cream is a good option for those with sensitive skin or anyone who prefers a fresh, soothing shaving experience. Apply to a damp face and lather with a shaving brush dipped in warm water, or apply by hand for a quick and easy shave. For related D.R. Harris options, compare D.R. Harris Marlborough Shaving Cream Bowl 150g with D.R. Harris Rose Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features: Rich Shaving Cream: Creates a generous, creamy lather for traditional wet shaving. Eucalyptus Fragrance: Fresh, clean and invigorating scent. Menthol: Provides a cooling, refreshing sensation during shaving. Aloe Vera: Helps soothe and comfort the skin. High Glycerin Formula: Supports smooth razor glide and moisturising comfort. Sensitive Skin Option: Well suited to those who prefer a soothing shaving cream. Specifications: Product Type: Shaving cream Size: 150g Fragrance: Eucalyptus Key Ingredients: Glycerin, eucalyptus oil, menthol and aloe vera Use: Apply to a damp face and lather with a warm, wet shaving brush or by hand Suitable For: Traditional wet shaving and sensitive skin Also Available: 75g travel tube",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-eucalyptus-shaving-cream-bowl-150g",
         "price": "£25.00",
         "brand": "D.R. Harris",
