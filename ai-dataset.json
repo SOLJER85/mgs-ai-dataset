@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-29",
-    "generated_at": "2026-08-29T08:43:00+00:00",
+    "last_updated": "2026-08-30",
+    "generated_at": "2026-08-30T08:00:03+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -3035,7 +3035,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/untitled-2157_clipped_rev_1.jpg?v=1751363991",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3057,7 +3057,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-traditional-alum-bar-90g",
             "price": "11.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/untitled-2157_clipped_rev_1.jpg?v=1751363991",
             "options": {}
           }
@@ -14231,7 +14231,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Blue-Straight-Razor.jpg?v=1777801729",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14253,7 +14253,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-blue-sr-straight-razor-acsr-nbl",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Blue-Straight-Razor.jpg?v=1777801729",
             "options": {}
           }
@@ -16250,7 +16250,7 @@
         "brand": "Floris London",
         "vendor": "Floris London",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-violet-mouthwash-100ml-front.jpg?v=1752602884",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16272,7 +16272,7 @@
             "url": "https://www.malegroomingsupplies.com/products/floris-violet-concentrated-mouthwash-100ml",
             "price": "45.00 GBP",
             "sale_price": "29.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-violet-mouthwash-100ml-front.jpg?v=1752602884",
             "options": {}
           }
@@ -18291,7 +18291,7 @@
         "brand": "Martin De Candre",
         "vendor": "Martin De Candre",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Fougere_200_clipped_rev_1.jpg?v=1766858519",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18313,7 +18313,7 @@
             "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-fougere-shaving-soap?variant=56700305768713",
             "price": "48.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MDC_Fougere_200_clipped_rev_1.jpg?v=1766858519",
             "options": {
               "Size": "200g"
@@ -34588,7 +34588,7 @@
         "brand": "Proraso",
         "vendor": "Proraso",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WOOD_SPICE_cera-2021_2c2c3c23-c87b-41ff-bd4e-a60f4595cfb3.png?v=1777921324",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -34609,7 +34609,7 @@
             "url": "https://www.malegroomingsupplies.com/products/proraso-wood-spice-moustache-wax-15ml",
             "price": "9.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WOOD_SPICE_cera-2021_2c2c3c23-c87b-41ff-bd4e-a60f4595cfb3.png?v=1777921324",
             "options": {}
           }
@@ -35991,7 +35991,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7TFTTS_clipped_rev_1.jpg?v=1744055322",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36013,7 +36013,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-pegasus-c7-finest-badger-tortoiseshell",
             "price": "91.65 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7TFTTS_clipped_rev_1.jpg?v=1744055322",
             "options": {}
           }
@@ -36068,7 +36068,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7CSPTTS_clipped_rev_1.jpg?v=1744055323",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36090,7 +36090,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-pegasus-c7-selected-premium-boar-tortoiseshell",
             "price": "41.65 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7CSPTTS_clipped_rev_1.jpg?v=1744055323",
             "options": {}
           }
@@ -36334,7 +36334,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBY_clipped_rev_1.jpg?v=1744055371",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36356,7 +36356,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-pharos-c3-pure-black-horse-yellow",
             "price": "11.65 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBY_clipped_rev_1.jpg?v=1744055371",
             "options": {}
           }
