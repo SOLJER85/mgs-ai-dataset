@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-08-30",
-    "generated_at": "2026-08-30T08:00:03+00:00",
+    "last_updated": "2026-08-31",
+    "generated_at": "2026-08-31T08:14:41+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -362,7 +362,7 @@
       },
       {
         "name": "Alexander Simpson Est. 1919 Bay Rum Ultra-Glide Shave Cream",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Simpsons Shaving Brushes",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Alexander Simpson Est. 1919 Bay Rum Ultra-Glide Shave Cream is a brush or hand-lather shaving cream made on the Isle of Man. It is designed to soften facial hair and provide a cushioned surface for a comfortable wet shave. The Bay Rum fragrance has a warm, spicy profile, with bergamot, orange, nutmeg and vetyver notes. Use a small amount with a damp shaving brush, or apply by hand, then build the lather before shaving. For the same routine, pair it with Alexander Simpson Bay Rum Pre-Shave Oil, browse more shaving creams, or compare Simpson shaving brushes. Key Features Shaving cream: Builds a protective lather for traditional wet shaving. Bay Rum scent: Warm spice with bergamot, orange, nutmeg and vetyver notes. Brush or hand use: Suitable for lathering with a shaving brush or applying by hand. Made on the Isle of Man: From the Alexander Simpson Est. 1919 range. Specifications Size: 180ml Format: Shaving cream Fragrance Notes: Bay Rum, bergamot, orange, nutmeg and vetyver Made In: Isle of Man, UK",
         "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-shave-cream",
@@ -376,7 +376,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Simpsons Shaving Brushes",
           "Shaving Essentials",
@@ -438,7 +437,7 @@
       },
       {
         "name": "Alexander Simpson Est. 1919 Lime Ultra-Glide Shave Cream",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Simpsons Shaving Brushes",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Alexander Simpson Est. 1919 Lime Ultra-Glide Shave Cream is a traditional shaving cream for brush or hand application. It softens facial hair and helps create a cushioned lather for a smoother wet shave. The scent is a bright citrus profile built around West Indian lime, Jamaican ginger and lemongrass. It suits shavers who prefer a cleaner, fresher shaving cream fragrance without a heavy finish. For the same routine, pair it with Alexander Simpson Lime Pre-Shave Oil and Alexander Simpson Lime Post Shave Balm, or browse more shaving creams. Key Features Shaving cream: Creates a protective lather for wet shaving. Lime scent: West Indian lime with ginger and lemongrass notes. Brush or hand use: Suitable for traditional brush lathering or direct application. Made on the Isle of Man: From the Alexander Simpson Est. 1919 range. Specifications Size: 180ml Format: Shaving cream Fragrance Notes: West Indian lime, Jamaican ginger and lemongrass Made In: Isle of Man, UK",
         "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-lime-shave-cream",
@@ -452,7 +451,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Simpsons Shaving Brushes",
           "Shaving Essentials",
@@ -628,7 +626,7 @@
       },
       {
         "name": "Alexander Simpson Est. 1919 Sandalwood Ultra-Glide Shave Cream 180ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Simpsons Shaving Brushes",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Alexander Simpson Est. 1919 Sandalwood Ultra-Glide Shave Cream is a traditional shaving cream made for brush or hand lathering. It softens facial hair and helps create a cushioned surface between razor and skin. The fragrance is a warm sandalwood accord supported by geranium, patchouli, musk and tonka bean. The 180ml tub is suited to regular wet shaving and works well with a shaving brush. For the same fragrance, pair it with Alexander Simpson Sandalwood Post Shave Balm, browse more shaving creams, or compare Simpson shaving brushes. Key Features Shaving cream: Builds a protective lather for wet shaving. Sandalwood scent: Warm woody fragrance with geranium, patchouli, musk and tonka bean. Brush or hand use: Suitable for traditional brush lathering or direct application. Made on the Isle of Man: From the Alexander Simpson Est. 1919 range. Specifications Size: 180ml Format: Shaving cream Fragrance Notes: Sandalwood, geranium, patchouli, musk and tonka bean Made In: Isle of Man, UK",
         "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-sandalwood-shave-cream",
@@ -642,7 +640,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Simpsons Shaving Brushes",
           "Shaving Essentials",
@@ -1549,6 +1546,7 @@
         "product_type": "Shaving Brushes",
         "collections": [
           "Shaving Brushes",
+          "Synthetic Shaving Brushes",
           "New Additions",
           "Captain Fawcett",
           "Shaving Essentials"
@@ -2877,7 +2875,7 @@
       },
       {
         "name": "Captain Fawcett's Shaving Cream 150ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Captain Fawcett",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Infused with natural emollients, this superb Expedition Reserve Shaving Cream is designed to provide a smooth, irritation-free shave. The rich formula helps the razor glide effortlessly across the skin, minimising the risk of nicks and razor burn while ensuring a close, precise shave every time. Enjoy a sophisticated fragrance journey with fresh top notes of Pine Needle, Elemi, Cumin and Coriander, evolving into an exotic heart of Frankincense, Patchouli and Tobacco, and settling on a warm base of Sandalwood and Amber. Housed in a generous 150ml jar, this cream is ideal for wet shaving enthusiasts who appreciate both performance and luxury. For related Captain Fawcett options, compare Captain Fawcett's Luxurious Shaving Soap 110g with Captain Fawcett's Luxurious Shaving Soap Refill 110g, or browse the Shaving Creams collection. Key Features: Enriched with natural emollients for superior razor glide Reduces irritation and razor burn for a comfortable shave Features the signature Expedition Reserve fragrance Designed for use with a shaving brush and bowl Generous 150ml size for long-lasting use Specifications: Quantity: 150ml / 5.07 fl.oz Fragrance Family: Woody, Spicy Formulation: Cream Made in the UK How to Use:For best results, use with a traditional shaving brush and bowl. Soak the brush in warm water, then apply a small amount of shaving cream to your bowl or palm. Work into a rich lather using circular motions and apply thoroughly to your stubble before shaving.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-shaving-cream-150ml",
@@ -2891,7 +2889,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Captain Fawcett",
           "Shaving Essentials",
@@ -3065,7 +3062,7 @@
       },
       {
         "name": "Captain Fawcett's Travel Size Shaving Cream 90ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Captain Fawcett",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Captain Fawcett Travel Shaving Cream 90ml brings the Expedition Reserve shaving cream formula to a compact, under-100ml format. It works into a rich lather that helps prepare stubble and support smooth razor glide, making it a practical choice for wet shaving at home, in a gym bag or while travelling. The Expedition Reserve fragrance combines pine needle, elemi, cumin and coriander with frankincense, patchouli and tobacco, resting on a warm base of sandalwood and amber. The 90ml pot offers the same fragrance profile as the full-size cream while taking up less room in a wash bag. Compare the Captain Fawcett Shaving Cream 150ml, browse more shaving creams, or explore the Captain Fawcett collection. Key Features Travel-size shaving cream: Compact 90ml pot for grooming away from home. Rich lather: Helps soften stubble and cushion the skin during wet shaving. Brush or hand application: Can be lathered with a shaving brush or worked between the palms. Expedition Reserve fragrance: Green, spicy, woody and amber notes. Under-100ml format: Convenient for a wash bag and hand luggage, subject to local travel rules. Specifications Size: 90ml / 3.04 fl oz Format: Shaving cream Fragrance Family: Green, woody and spicy Application: Shaving brush or hands Range: Expedition Reserve How to Use Apply a small amount to a damp shaving brush, bowl or palm and work into a creamy lather with warm water. Massage the lather into wet stubble, shave using light strokes, then rinse thoroughly.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-travel-shaving-cream-90ml",
@@ -3079,7 +3076,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Captain Fawcett",
           "Shaving Essentials",
@@ -3503,7 +3499,7 @@
       },
       {
         "name": "Castle Forbes 1445 Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Castle Forbes",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "The Castle Forbes 1445 Shaving Cream delivers a luxurious shaving experience with its pure essential oil fragrance, inspired by the spirit of the Highlands. Formulated without parabens, colourants, or animal-derived ingredients, it is suitable for all skin types, including sensitive skin. This cream produces a rich, creamy and fine-textured lather with only a small amount, providing excellent razor glide and post-shave comfort. The elegant 1445 fragrance is clean, fresh, and subtle, making it a refined option for everyday use. Thanks to its concentrated formulation, one jar offers several months of use. Presented in a 200ml recyclable PET jar, it combines performance, heritage, and sustainability. Key Features: Inspired by the original Castle Forbes 1445 fragrance Rich, cushioning lather from a small amount of product Free from parabens, added colour, and animal products No animal testing Ideal for sensitive and all skin types Long-lasting concentrated formula Presented in a 200ml recyclable PET jar Made in Scotland Specifications: Type: Shaving Cream Size: 200ml Scent: 1445 (Essential Oil Blend) Skin Type: All skin types, especially sensitive Free From: Parabens, added colour, animal products Packaging: Recyclable PET jar Made in: Scotland",
         "url": "https://www.malegroomingsupplies.com/products/castle-forbes-1445-shaving-cream-200ml",
@@ -3517,7 +3513,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Castle Forbes",
           "Shaving Essentials",
@@ -3579,7 +3574,7 @@
       },
       {
         "name": "Castle Forbes Cedarwood and Sandalwood Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Castle Forbes",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Castle Forbes Cedarwood and Sandalwood Shaving Cream is a concentrated shaving cream made with cedarwood and sandalwood essential oils. It produces a dense shaving lather from a small amount of cream when worked with a damp shaving brush. The scent is smoky and woody rather than sweet, with no added synthetic fragrance. The formula is free from parabens, added colour and artificial fragrance, and is suitable for all skin types, including sensitive skin. For related products, browse the Castle Forbes range. Key Features Shaving cream: Concentrated cream for brush lathering. Essential oils: Cedarwood and sandalwood fragrance from essential oils. Free-from formula: No parabens, added colour or artificial fragrance. Sensitive skin: Suitable for all skin types, including sensitive skin. Specifications Size: 200ml Format: Shaving cream Scent: Cedarwood and sandalwood essential oils Packaging: Recyclable PET jar Made In: Scotland",
         "url": "https://www.malegroomingsupplies.com/products/castle-forbes-cedarwood-sandalwood-shaving-cream-200ml",
@@ -3593,7 +3588,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Castle Forbes",
           "Shaving Essentials",
@@ -3655,7 +3649,7 @@
       },
       {
         "name": "Castle Forbes Forbes of Forbes Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Castle Forbes",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Castle Forbes Forbes of Forbes Shaving Cream 200ml is a distinguished traditional shaving cream created to accompany the Forbes of Forbes Eau de Parfum. Celebrating the heritage of the House of Forbes, it offers a refined shaving experience with a rich, cushioning lather and a polished fragrance character. Only a small amount of cream is needed. Blended with water and worked with a shaving brush, it produces a dense, velvety foam that helps cushion the blade, improve glide and leave the skin feeling soft, calm and refreshed after shaving. In keeping with the Castle Forbes approach to classic British grooming, the formula is free from parabens, artificial colourants and animal-derived ingredients, and is not tested on animals. The concentrated formula gives excellent longevity, making the 200ml jar an economical choice for regular wet shaving. Key Features Traditional shaving cream from Castle Forbes Forbes of Forbes fragrance, designed to accompany the Eau de Parfum Produces a rich, velvety lather with only a small amount Helps cushion the razor for a smooth, comfortable shave Leaves skin feeling soft, calm and refreshed Free from parabens, artificial colourants and animal-derived ingredients Not tested on animals Concentrated formula designed to last for months Supplied in a 200ml recyclable PET jar How to Use Apply a small amount of shaving cream to a damp shaving brush or bowl. Add water gradually and work into a rich lather before applying to the beard area. Shave as usual, then rinse thoroughly. Specifications Brand: Castle Forbes Type: Shaving cream Size: 200ml Format: Concentrated cream Fragrance: Forbes of Forbes Packaging: Recyclable PET jar Formula: Free from parabens, artificial colourants and animal-derived ingredients Use: Brush-built shaving lather",
         "url": "https://www.malegroomingsupplies.com/products/castle-forbes-forbes-of-forbes-shaving-cream-200ml",
@@ -3669,7 +3663,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Castle Forbes",
           "Shaving Essentials",
@@ -3807,7 +3800,7 @@
       },
       {
         "name": "Castle Forbes Lavender Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Castle Forbes",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "The Castle Forbes Lavender Shaving Cream is expertly formulated for sensitive skin, using only the purest lavender essential oil to provide a calming and soothing shave. Free from parabens, added colours, and animal products, this cream also carries no synthetic fragrance, relying solely on the natural aromatic properties of lavender. Known for its anti-inflammatory and healing qualities, lavender essential oil helps to reduce razor rash and irritation, making this cream ideal for those prone to post-shave discomfort. A small amount of product combined with water creates a luxuriously rich, fine lather that cushions and protects the skin throughout your shave. Packaged in a 200ml recyclable PET jar, the concentrated formula offers long-lasting value, typically lasting several months of daily use. Key Features: Scented with pure lavender essential oil Designed for sensitive skin and those prone to razor rash Creates a thick, protective lather using only a small amount Free from parabens, colourants, and animal ingredients No synthetic fragrance Long-lasting concentrated formula Packaged in a 200ml recyclable PET jar Made in Scotland Specifications: Type: Shaving Cream Size: 200ml Scent: Lavender Essential Oil Skin Type: Sensitive and all skin types Free From: Parabens, added colour, synthetic fragrance, animal products Packaging: Recyclable PET jar Made in: Scotland",
         "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lavender-shaving-cream-200ml",
@@ -3821,7 +3814,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Castle Forbes",
           "Shaving Essentials",
@@ -3883,7 +3875,7 @@
       },
       {
         "name": "Castle Forbes Lime Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Castle Forbes",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "The Castle Forbes Lime Shaving Cream is crafted using pure lime essential oil and is completely free from parabens and artificial fragrance. This premium formulation produces a rich, creamy lather with only a small amount of product, delivering a smooth, close shave that protects and soothes the skin. Well-regarded across shaving communities and forums, this cream is praised for its bright, zesty lime fragrance and high performance. The natural lime oil is not only refreshing but also beneficial for those prone to nicks or cuts, helping to minimise irritation and assist the skin’s recovery. Packaged in a 200ml recyclable PET jar, this cream reflects Castle Forbes’ commitment to traditional craftsmanship and pure ingredients. Key Features: Fragranced with pure lime essential oil Rich, fine lather for a close and comfortable shave Helps staunch minor nicks and cuts Paraben-free, no artificial colours or synthetic fragrance Suitable for all skin types Only a small amount required per shave Packaged in a 200ml recyclable PET jar Made in Scotland Specifications: Type: Shaving Cream Size: 200ml Scent: Lime Essential Oil Skin Type: All skin types Free From: Parabens, added colour, synthetic fragrance Packaging: Recyclable PET jar Made in: Scotland",
         "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lime-shaving-cream-200ml",
@@ -3897,7 +3889,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Castle Forbes",
           "Shaving Essentials",
@@ -4637,7 +4628,7 @@
       },
       {
         "name": "Cella Organic Shaving Cream Bowl 150ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cella Milano",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "The Cella Organic Shaving Cream Bowl 150ml is part of the CELLA EXTRA EXTRA BIO line, an AIAB/QCertificazioni certified organic shaving cream created with respect for both tradition and the environment. Developed from the original Cella 1899 protocol, it represents a perfect balance of purity, cosmetic performance, and Italian craftsmanship. Formulated with precious oils and organic ingredients, this cream produces a rich, firm foam that guarantees a deep, comfortable shave. It helps the razor glide smoothly over the skin, reducing irritation and microscopic cuts while leaving skin soft, hydrated, and refreshed. For related Cella options, compare Cella Organic Shaving Cream Tube 150ml with Cella Shave Soap 1000g Brick, or browse the Shaving Creams collection. Key Features Certified organic shaving cream by AIAB/QCertificazioni Based on the traditional Cella 1899 formula Creates a soft, firm foam for a thorough, comfortable shave Enriched with precious oils and organic ingredients Protects against irritation and leaves skin moisturised Designed for use with a shaving brush and bowl Specifications Size: 150ml bowl Formula: Organic, enriched with natural oils Certification: AIAB/QCertificazioni organic certified Application: For use with a shaving brush Packaging: Bowl presentation",
         "url": "https://www.malegroomingsupplies.com/products/cella-organic-shaving-cream-bowl-150ml",
@@ -4651,7 +4642,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Cella Milano",
           "Shaving Essentials",
@@ -4675,7 +4665,7 @@
       },
       {
         "name": "Cella Organic Shaving Cream Tube 150ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cella Milano",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "The Cella Organic Shaving Cream Tube 150ml is part of the CELLA EXTRA EXTRA BIO line, an AIAB/QCertificazioni certified organic shaving cream crafted with respect for both tradition and the environment. Based on the original Cella 1899 manufacturing protocol, it offers a unique balance of purity, cosmetic performance, and classic Italian expertise. Formulated with precious oils and organic ingredients, the cream produces a rich, firm foam that ensures a deep, comfortable shave. Its soft texture allows the razor to glide effortlessly, reducing irritation and microscopic cuts while leaving skin hydrated, smooth, and refreshed. For related Cella options, compare Cella Organic Shaving Cream Bowl 150ml with Cella Rapid Shaving Cream with Almond Oil 150ml, or browse the Shaving Creams collection. Key Features Certified organic shaving cream by AIAB/QCertificazioni Based on the traditional Cella 1899 formula Creates a rich, firm foam for a thorough, comfortable shave Enriched with precious oils and organic ingredients Protects against irritation and leaves skin soft and moisturised Specially formulated for face lathering with a shaving brush Specifications Size: 150ml tube Formula: Organic, enriched with natural oils Certification: AIAB/QCertificazioni organic certified Application: Designed for use with a shaving brush Packaging: Tube presentation",
         "url": "https://www.malegroomingsupplies.com/products/cella-organic-shaving-cream-tube-150ml",
@@ -4689,7 +4679,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Cella Milano",
           "Shaving Essentials",
@@ -4713,7 +4702,7 @@
       },
       {
         "name": "Cella Organic Shaving Cream Tube and Aftershave Balm Gift Set",
-        "category": "Gift Sets > Men's Shaving Creams",
+        "category": "Gift Sets > Gift Sets",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Cella Organic Shaving Cream Tube and Aftershave Balm Gift Set is a two-piece set from the Cella Extra Extra Bio line. It includes a 150ml organic shaving cream tube and a 100ml organic aftershave balm. The shaving cream is designed to build lather for a wet shave, while the aftershave balm has a light texture for use after shaving. The range is AIAB/QCertificazioni certified organic and has a pink pepper and precious woods fragrance. For related options, browse Cella Milano, shaving creams, or post-shave care. Key Features Two-piece shaving set: Shaving cream and aftershave balm. Organic certification: AIAB/QCertificazioni certified organic range. Brush lathering: Shaving cream is suitable for use with a shaving brush. Aftershave balm: Light balm for post-shave use. Cella Extra Extra Bio: Organic Cella shaving range. Specifications Set Contents: Organic Shaving Cream 150ml and Organic Aftershave Balm 100ml Certification: AIAB/QCertificazioni organic certified Scent: Pink pepper and precious woods Skin Type: Suitable for sensitive skin",
         "url": "https://www.malegroomingsupplies.com/products/cella-organic-shaving-cream-tube-balm-gift-set",
@@ -4727,7 +4716,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Gift Sets",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Gift Sets",
           "Cella Milano",
@@ -4789,7 +4777,7 @@
       },
       {
         "name": "Cella Rapid Shaving Cream and Balm Luxury Gift Set",
-        "category": "Gift Sets > Men's Shaving Creams",
+        "category": "Gift Sets > Gift Sets",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Cella Rapid Shaving Cream and Balm Luxury Gift Set combines two essentials for a fast, precise and comfortable shave. The Rapid Shaving Cream is designed for speed and accuracy without the need for a brush. Its transparent texture makes it easy to see the contours of your face, perfect for shaping beards, moustaches, sideburns or a goatee. Enriched with almond oil, it provides a smooth glide and leaves the skin nourished and hydrated. The After Shave Balm completes the set with gentle, alcohol-free care. Formulated with shea butter, it calms irritation, reduces redness, and helps skin feel soft, refreshed and protected after shaving. Key Features Transparent shaving cream texture for visible precision Brush-free application for a quick and easy shave Almond oil nourishes and hydrates the skin Shea butter calms redness and irritation Alcohol-free balm with fast absorption Complete shaving care set ideal for sensitive skin Specifications Shaving Cream: 150ml After Shave Balm: 100ml Packaging: Luxury gift set presentation Skin Type: Suitable for sensitive skin For related grooming options, browse the Shaving Creams collection.",
         "url": "https://www.malegroomingsupplies.com/products/cella-rapid-shaving-cream-balm-gift-set",
@@ -4803,7 +4791,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Gift Sets",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Gift Sets",
           "Cella Milano",
@@ -4827,7 +4814,7 @@
       },
       {
         "name": "Cella Rapid Shaving Cream with Almond Oil 150ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cella Milano",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "The Cella Rapid Shaving Cream with Almond Oil 150ml is a fast, brush-free formula designed for precision shaving. Its transparent texture clearly outlines the areas to be shaved, making it ideal for shaping beards, moustaches, sideburns, or goatees with accuracy. Inspired by the advice of a famous Italian barber, this cream is also highly effective for a second shave against the natural hair growth. Enriched with almond oil, it provides nourishment while ensuring the razor glides smoothly for an ultra-rapid, irritation-free shave. Key Features Brush-free shaving cream designed for speed and precision Transparent texture outlines areas for accurate shaping Enriched with almond oil for skin nourishment and hydration Effective for a second shave against the grain Ideal for beards, moustaches, sideburns, and goatees Specifications Size: 150ml Formula: Transparent shaving cream enriched with almond oil Application: Brush-free formula, apply directly to the skin Packaging: Tube presentation",
         "url": "https://www.malegroomingsupplies.com/products/cella-rapid-shaving-cream-almond-oil-150ml",
@@ -4841,7 +4828,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Cella Milano",
           "Shaving Essentials",
@@ -4904,7 +4890,7 @@
       },
       {
         "name": "Cella Shaving Cream with Almond Oil 150ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cella Milano",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "The Cella Shaving Cream with Almond Oil 150ml is a timeless classic in traditional Italian wet shaving. Produced using the original 1899 recipe, it is still made with the hot-mix saponification method in steam boilers and matured in temperature-controlled tanks to achieve its signature quality. The result is a frothy, compact foam that softens the beard and moisturises the skin, ensuring a smooth, irritation-free shave. Enriched with almond oil, it leaves the skin feeling incredibly soft and nourished, while its distinctive almond fragrance has made it a favourite among wet shavers for generations. For related Cella options, compare Cella Rapid Shaving Cream with Almond Oil 150ml with Cella Organic Shaving Cream Tube 150ml, or browse the Shaving Creams collection. Key Features Traditional shaving cream crafted with the 1899 recipe Produced using the hot-mix saponification process and slow maturation Creates a frothy, compact lather for a close, comfortable shave Enriched with almond oil to moisturise and protect the skin Distinctive almond fragrance for a classic shaving experience Specifications Size: 150ml Formula: Enriched with almond oil Application: Designed for use with a shaving brush Packaging: Tub presentation",
         "url": "https://www.malegroomingsupplies.com/products/cella-shaving-cream-almond-oil-150ml",
@@ -4918,7 +4904,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Cella Milano",
           "Shaving Essentials",
@@ -5182,7 +5167,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Colonel Conk",
-          "Men's Shaving Creams",
           "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -5220,7 +5204,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Colonel Conk",
-          "Men's Shaving Creams",
           "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -5258,7 +5241,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Colonel Conk",
-          "Men's Shaving Creams",
           "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -5296,7 +5278,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Colonel Conk",
-          "Men's Shaving Creams",
           "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -5393,7 +5374,7 @@
       },
       {
         "name": "Cyril R. Salter Classic Almond Shaving Cream",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cyril R. Salter",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Cyril R. Salter Classic Almond Shaving Cream is a 200ml traditional shaving cream made in England. It is designed to be worked with a shaving brush to create a cushioning lather before safety razor, straight razor or cartridge shaving. The fragrance is soft almond, suited to customers who prefer a traditional shaving cream scent. The formula includes glycerin and aloe vera to help the lather feel comfortable on the skin during shaving. For related options, browse Cyril R. Salter, compare more shaving creams, or pair with a shaving brush and post-shave care. Key Features Traditional shaving cream: Designed for brush lathering. Classic Almond scent: Soft almond, suited to customers who prefer a traditional shaving cream scent. Cushioning lather: Helps prepare the beard and support razor glide. With glycerin and aloe vera: Helps the lather feel comfortable during shaving. 200ml tub: Suitable for regular wet shaving use. Specifications Size: 200ml / 165g / 5.8oz Format: Shaving cream Scent: Classic Almond Use With: Shaving brush recommended Made In: England How to Use Apply a small amount to a damp shaving brush, build lather in a bowl or directly on the face, then shave as normal.",
         "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-classic-almond-shaving-cream",
@@ -5407,7 +5388,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "Cyril R. Salter",
           "New Additions",
           "Shaving Essentials",
@@ -5431,7 +5411,7 @@
       },
       {
         "name": "Cyril R. Salter French Vetiver Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cyril R. Salter",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Cyril R. Salter French Vetiver Shaving Cream is a 200ml traditional shaving cream made in England. It is designed to be worked with a shaving brush to create a cushioning lather before safety razor, straight razor or cartridge shaving. The fragrance is earthy vetiver, with dry, green and smoky facets. The formula includes glycerin and aloe vera to help the lather feel comfortable on the skin during shaving. For related options, browse Cyril R. Salter, compare more shaving creams, or pair with a shaving brush and post-shave care. Key Features Traditional shaving cream: Designed for brush lathering. French Vetiver scent: Earthy vetiver, with dry, green and smoky facets. Cushioning lather: Helps prepare the beard and support razor glide. With glycerin and aloe vera: Helps the lather feel comfortable during shaving. 200ml tub: Suitable for regular wet shaving use. Specifications Size: 200ml / 165g / 5.8oz Format: Shaving cream Scent: French Vetiver Use With: Shaving brush recommended Made In: England How to Use Apply a small amount to a damp shaving brush, build lather in a bowl or directly on the face, then shave as normal.",
         "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-vetiver-shaving-cream",
@@ -5445,7 +5425,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "Cyril R. Salter",
           "New Additions",
           "Shaving Essentials",
@@ -5469,7 +5448,7 @@
       },
       {
         "name": "Cyril R. Salter Fresh Mint Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cyril R. Salter",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Cyril R. Salter Fresh Mint Shaving Cream is a 200ml traditional shaving cream made in England. It is designed to be worked with a shaving brush to create a cushioning lather before safety razor, straight razor or cartridge shaving. The fragrance is cool peppermint-style, with a fresh finish. The formula includes glycerin and aloe vera to help the lather feel comfortable on the skin during shaving. For related options, browse Cyril R. Salter, compare more shaving creams, or pair with a shaving brush and post-shave care. Key Features Traditional shaving cream: Designed for brush lathering. Fresh Mint scent: Cool peppermint-style, with a fresh finish. Cushioning lather: Helps prepare the beard and support razor glide. With glycerin and aloe vera: Helps the lather feel comfortable during shaving. 200ml tub: Suitable for regular wet shaving use. Specifications Size: 200ml / 165g / 5.8oz Format: Shaving cream Scent: Fresh Mint Use With: Shaving brush recommended Made In: England How to Use Apply a small amount to a damp shaving brush, build lather in a bowl or directly on the face, then shave as normal.",
         "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-fresh-mint-shaving-cream",
@@ -5483,7 +5462,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "Cyril R. Salter",
           "New Additions",
           "Shaving Essentials",
@@ -5507,7 +5485,7 @@
       },
       {
         "name": "Cyril R. Salter Indian Sandalwood Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cyril R. Salter",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Cyril R. Salter Indian Sandalwood Shaving Cream is a 200ml traditional shaving cream made in England. It is designed to be worked with a shaving brush to create a cushioning lather before safety razor, straight razor or cartridge shaving. The fragrance is warm and woody, with sandalwood character and subtle citrus and floral facets. The formula includes glycerin and aloe vera to help the lather feel comfortable on the skin during shaving. For related options, browse Cyril R. Salter, compare more shaving creams, or pair with a shaving brush and post-shave care. Key Features Traditional shaving cream: Designed for brush lathering. Indian Sandalwood scent: Warm and woody, with sandalwood character and subtle citrus and floral facets. Cushioning lather: Helps prepare the beard and support razor glide. With glycerin and aloe vera: Helps the lather feel comfortable during shaving. 200ml tub: Suitable for regular wet shaving use. Specifications Size: 200ml / 165g / 5.8oz Format: Shaving cream Scent: Indian Sandalwood Use With: Shaving brush recommended Made In: England How to Use Apply a small amount to a damp shaving brush, build lather in a bowl or directly on the face, then shave as normal.",
         "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-indian-sandalwood-shaving-cream",
@@ -5521,7 +5499,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "Cyril R. Salter",
           "New Additions",
           "Shaving Essentials",
@@ -5695,7 +5672,7 @@
       },
       {
         "name": "Cyril R. Salter Sublime Citrus Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cyril R. Salter",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Cyril R. Salter Sublime Citrus Shaving Cream is a 200ml traditional shaving cream made in England. It is designed to be worked with a shaving brush to create a cushioning lather before safety razor, straight razor or cartridge shaving. The fragrance is bright citrus, with grapefruit and lemon peel character. The formula includes glycerin and aloe vera to help the lather feel comfortable on the skin during shaving. For related options, browse Cyril R. Salter, compare more shaving creams, or pair with a shaving brush and post-shave care. Key Features Traditional shaving cream: Designed for brush lathering. Sublime Citrus scent: Bright citrus, with grapefruit and lemon peel character. Cushioning lather: Helps prepare the beard and support razor glide. With glycerin and aloe vera: Helps the lather feel comfortable during shaving. 200ml tub: Suitable for regular wet shaving use. Specifications Size: 200ml / 165g / 5.8oz Format: Shaving cream Scent: Sublime Citrus Use With: Shaving brush recommended Made In: England How to Use Apply a small amount to a damp shaving brush, build lather in a bowl or directly on the face, then shave as normal.",
         "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-sublime-citrus-shaving-cream",
@@ -5709,7 +5686,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "Cyril R. Salter",
           "New Additions",
           "Shaving Essentials",
@@ -5771,7 +5747,7 @@
       },
       {
         "name": "Cyril R. Salter Wild Rose Shaving Cream 200ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Cyril R. Salter",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Cyril R. Salter Wild Rose Shaving Cream is a 200ml traditional shaving cream made in England. It is designed to be worked with a shaving brush to create a cushioning lather before safety razor, straight razor or cartridge shaving. The fragrance is floral rose, with fresh green and light citrus facets. The formula includes glycerin and aloe vera to help the lather feel comfortable on the skin during shaving. For related options, browse Cyril R. Salter, compare more shaving creams, or pair with a shaving brush and post-shave care. Key Features Traditional shaving cream: Designed for brush lathering. Wild Rose scent: Floral rose, with fresh green and light citrus facets. Cushioning lather: Helps prepare the beard and support razor glide. With glycerin and aloe vera: Helps the lather feel comfortable during shaving. 200ml tub: Suitable for regular wet shaving use. Specifications Size: 200ml / 165g / 5.8oz Format: Shaving cream Scent: Wild Rose Use With: Shaving brush recommended Made In: England How to Use Apply a small amount to a damp shaving brush, build lather in a bowl or directly on the face, then shave as normal.",
         "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-wild-rose-shaving-cream",
@@ -5785,7 +5761,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "Cyril R. Salter",
           "New Additions",
           "Shaving Essentials",
@@ -6206,7 +6181,7 @@
       },
       {
         "name": "D.R. Harris Almond Shaving Cream 75g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Almond Shaving Cream 75g is a rich, concentrated shaving cream designed to create a smooth, protective lather for a comfortable traditional wet shave. Scented with a classic almond fragrance, this shaving cream offers a soft, refined scent with a traditional grooming feel. The formula contains a high proportion of glycerin, helping to support razor glide while leaving the skin feeling soothed and moisturised. When used with a shaving brush dipped in warm water, it produces a generous lather that helps soften the beard for a closer and more comfortable shave. It can also be applied by hand, making the 75g tube a practical choice for travel, gym bags or everyday use at home. For related D.R. Harris options, compare D.R. Harris Almond Shaving Cream Bowl 150g with D.R. Harris Lavender Shaving Cream Tube 75g, or browse the Shaving Creams collection. Key Features: Luxury Lather Formula: Creates a rich, creamy lather for traditional wet shaving. Classic Almond Fragrance: Soft, traditional scent with a refined shaving character. High Glycerin Content: Helps soothe and moisturise the skin during shaving. Smooth Razor Glide: Softens beard hair for a closer, more comfortable shave. Brush Or Hand Application: Can be used with a shaving brush or applied by hand. Travel-Friendly Tube: Convenient 75g format for home use or travel. Specifications: Product Type: Shaving cream Size: 75g Fragrance: Almond Format: Tube Key Ingredient: Glycerin Use: Apply to a damp face and lather with a warm, wet shaving brush or by hand Suitable For: Traditional wet shaving and travel",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-shaving-cream-tube-75g",
@@ -6220,7 +6195,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -6244,7 +6218,7 @@
       },
       {
         "name": "D.R. Harris Almond Shaving Cream Bowl 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Almond Shaving Cream Bowl 150g is a traditional shaving cream with a light almond fragrance. The concentrated formula contains glycerine and is designed to build a creamy lather for wet shaving. It can be used with or without a shaving brush, although a brush gives the most traditional lathering method. Work a small amount with water, apply to the beard, then shave and rinse. For related options, browse D.R. Harris, shaving creams, or pair with a shaving brush. Key Features Shaving cream bowl: 150g bowl for traditional wet shaving. Almond fragrance: Light almond scent. Glycerine formula: Helps build a cushioning lather. Brush lathering: Suitable for use with a shaving brush. D.R. Harris range: Part of the Almond shaving line. Specifications Size: 150g Format: Shaving cream bowl Scent: Almond Key Ingredient: Glycerine Packaging: D.R. Harris shaving bowl",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-almond-shaving-cream-bowl-150g",
@@ -6258,7 +6232,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -7204,7 +7177,7 @@
       },
       {
         "name": "D.R. Harris Arlington Shaving Cream Bowl 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Arlington Shaving Cream Bowl is a 150g shaving cream with the Arlington citrus and fern fragrance. The concentrated cream contains glycerin and builds a dense lather to soften beard growth before shaving. Use with a damp shaving brush for a traditional wet shave, or apply by hand when preferred. The Arlington shaving cream is also available in tube sizes for travel or lighter use. For related products, browse D.R. Harris, compare more shaving creams, or see shaving brushes. Key Features Shaving cream bowl: 150g tub for regular wet shaving. Glycerin-rich cream: Helps build a protective lather. Arlington fragrance: Citrus and fern scent profile. Brush or hand use: Suitable for lathering with a brush or applying by hand. Specifications Size: 150g Format: Shaving cream bowl Fragrance: Arlington, citrus and fern Packaging: Plastic tub Made In: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-cream-bowl-150g",
@@ -7218,7 +7191,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -7242,7 +7214,7 @@
       },
       {
         "name": "D.R. Harris Arlington Shaving Cream Tube 75g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Arlington Shaving Cream Tube 75g is a rich, concentrated shaving cream designed to create a smooth, protective lather for a comfortable traditional wet shave. Lightly fragranced with Arlington, one of D.R. Harris’s most classic scents, it combines fresh citrus notes with a clean fern character. Refined and understated, it gives the shaving routine a crisp, traditional finish. The formula contains a high proportion of glycerin, helping to support razor glide while leaving the skin feeling soothed and moisturised. When used with a shaving brush dipped in warm water, it produces a generous lather that helps soften the beard for a closer and more comfortable shave. It can also be applied by hand when preferred. Presented in a convenient 75g tube, it is ideal for travel, gym bags or everyday use at home. Also available in a 150g bowl and 15g trial size. For related D.R. Harris options, compare D.R. Harris Eucalyptus Shaving Cream Bowl 150g with D.R. Harris Rose Shaving Cream Tube 75g, or browse the Shaving Creams collection. Key Features Arlington Fragrance: Classic citrus and fern scent with a fresh, refined finish. Rich Shaving Cream: Creates a smooth, protective lather for wet shaving. High Glycerin Formula: Helps soothe and moisturise the skin during shaving. Smooth Razor Glide: Softens beard hair for a closer, more comfortable shave. Brush Or Hand Application: Can be used with a shaving brush or applied by hand. Travel-Friendly Tube: Convenient 75g format for home use, travel or gym bags. Specifications Product Type: Shaving cream Size: 75g Fragrance: Arlington Fragrance Profile: Citrus and fern Format: Tube Key Ingredient: Glycerin Use: Apply to a damp face and lather with a warm, wet shaving brush or by hand Suitable For: Traditional wet shaving and travel Also Available: 150g bowl and 15g trial size",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-arlington-shaving-cream-tube-75g",
@@ -7256,7 +7228,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -8299,7 +8270,7 @@
       },
       {
         "name": "D.R. Harris Eucalyptus Shaving Cream Bowl 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Eucalyptus Shaving Cream Bowl is a rich, traditional shaving cream designed to create a luxurious lather for a smooth and comfortable wet shave. Formulated with a high proportion of glycerin, it helps support razor glide while leaving the skin feeling soothed and moisturised. The cream produces a generous, creamy lather that softens the beard, helping the razor move more easily for a close and comfortable shave. The refreshing eucalyptus fragrance gives the shave a clean, invigorating feel, while menthol provides a cooling sensation on the skin. With aloe vera included in the formula, this shaving cream is a good option for those with sensitive skin or anyone who prefers a fresh, soothing shaving experience. Apply to a damp face and lather with a shaving brush dipped in warm water, or apply by hand for a quick and easy shave. For related D.R. Harris options, compare D.R. Harris Marlborough Shaving Cream Bowl 150g with D.R. Harris Rose Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features: Rich Shaving Cream: Creates a generous, creamy lather for traditional wet shaving. Eucalyptus Fragrance: Fresh, clean and invigorating scent. Menthol: Provides a cooling, refreshing sensation during shaving. Aloe Vera: Helps soothe and comfort the skin. High Glycerin Formula: Supports smooth razor glide and moisturising comfort. Sensitive Skin Option: Well suited to those who prefer a soothing shaving cream. Specifications: Product Type: Shaving cream Size: 150g Fragrance: Eucalyptus Key Ingredients: Glycerin, eucalyptus oil, menthol and aloe vera Use: Apply to a damp face and lather with a warm, wet shaving brush or by hand Suitable For: Traditional wet shaving and sensitive skin Also Available: 75g travel tube",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-eucalyptus-shaving-cream-bowl-150g",
@@ -8313,7 +8284,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -8808,7 +8778,7 @@
       },
       {
         "name": "D.R. Harris Lavender Shaving Cream Bowl 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A luxurious, traditional shaving cream designed to create a rich, creamy lather that softens the beard and protects the skin. Lightly fragranced with the calming scent of lavender, this mauve-coloured cream contains a high proportion of glycerine for a soothing and moisturising shave. To use, apply to damp skin and lather using a shaving brush dipped in warm water, or apply by hand. The cream produces a generous lather that prepares the beard for a smoother, more comfortable shave. For related D.R. Harris options, compare D.R. Harris Almond Shaving Cream Bowl 150g with D.R. Harris Arlington Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features Richly concentrated shaving cream for a luxurious lather Calming lavender fragrance for a classic shave High glycerine content to hydrate and protect the skin Suitable for use with or without a shaving brush Also available in a 75g tube for travel Specifications Size: 150g bowl Packaging: Plastic screw-top jar with D.R. Harris branding",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-cream-bowl-150g",
@@ -8822,7 +8792,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -8846,7 +8815,7 @@
       },
       {
         "name": "D.R. Harris Lavender Shaving Cream Tube 75g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "This luxurious Lavender Shaving Cream offers the refined experience of traditional wet shaving in a convenient travel-ready tube. Lavender’s calming aroma, blended into a richly concentrated, mauve-coloured cream with high glycerine content, ensures an extra-soothing, moisturising shave. Apply to a damp face and lather either with a quality shaving brush or by hand. The profuse lather softens the beard for a comfortable and close shave, without requiring a brush. For related D.R. Harris options, compare D.R. Harris Almond Shaving Cream Bowl 150g with D.R. Harris Arlington Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features Traditional wet shaving cream in a portable tube Calming lavender fragrance for a classic shaving aroma High glycerine content for enhanced moisturization Creates a rich, protective lather for improved razor glide Specifications Size: 75 g tube Packaging: Plastic travel-sized tube with flip-top cap Skin Type: Suitable for all skin types Made in: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-cream-tube-75g",
@@ -8860,7 +8829,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -9626,7 +9594,7 @@
       },
       {
         "name": "D.R. Harris Marlborough Shaving Cream Bowl 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Experience a luxurious traditional wet shave with this richly concentrated shaving cream from the D.R. Harris Marlborough range. Lightly fragranced with a refined blend of cedarwood and sandalwood, it produces a profuse lather that softens the beard for a closer, more comfortable shave. Formulated with a high proportion of glycerine, it soothes and moisturises the skin throughout the shaving process. Best applied with a quality shaving brush for optimal results, though it can also be used by hand. Also available in a convenient 75g tube, ideal for travel. For related D.R. Harris options, compare D.R. Harris Marlborough Shaving Cream Tube 75g with D.R. Harris Rose Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features Premium shaving cream for a traditional wet shave Light cedarwood and sandalwood fragrance from the Marlborough range Rich, concentrated formula with high glycerine content for moisturising and soothing Produces a thick lather for a closer, more comfortable shave Suitable for use with or without a shaving brush Specifications Size: 150g bowl (also available in 75g travel tube) Fragrance: Subtle woody notes of cedarwood and sandalwood Packaging: Traditional D.R. Harris branded shaving bowl",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-cream-bowl-150g",
@@ -9640,7 +9608,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -9664,7 +9631,7 @@
       },
       {
         "name": "D.R. Harris Marlborough Shaving Cream Tube 75g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A luxurious traditional shaving cream from the Marlborough range, designed for a rich, creamy lather that softens the beard and protects the skin. Lightly fragranced with a refined blend of cedarwood, sandalwood, and subtle spice notes, this concentrated formula contains a high proportion of glycerine for extra moisturising and soothing. Presented in a convenient 75g tube, it’s perfect for travel and can be applied with a shaving brush or directly by hand. For related D.R. Harris options, compare D.R. Harris Almond Shaving Cream Bowl 150g with D.R. Harris Arlington Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features Traditional wet shaving cream in a travel-friendly tube Light woody fragrance with cedarwood, sandalwood, and subtle spice notes Richly concentrated formula for a luxurious lather High glycerine content for added moisture and skin protection Suitable for use with or without a shaving brush Specifications Size: 75g tube Fragrance: Warm woody blend with subtle spice undertones Packaging: Compact tube with D.R. Harris branding",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-cream-tube-75g",
@@ -9678,7 +9645,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -10584,7 +10550,7 @@
       },
       {
         "name": "D.R. Harris Rose Shaving Cream Bowl 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A luxurious shaving cream that creates a rich, creamy lather to soften the beard and protect the skin. Lightly fragranced with rose essential oil and rose geranium essential oil, and enriched with rosehip oil, known for its soothing and healing properties. This concentrated formula contains a high proportion of glycerine for extra moisturising care. To use, apply to damp skin and lather using a shaving brush dipped in warm water, or apply by hand. The cream produces a generous lather that prepares the beard for a smoother, more comfortable shave. For related D.R. Harris options, compare D.R. Harris Lavender Shaving Cream Bowl 150g with D.R. Harris Lavender Shaving Cream Tube 75g, or browse the Shaving Creams collection. Key Features Concentrated shaving cream for a rich, protective lather Fragranced with rose and rose geranium essential oils Enriched with rosehip oil for its soothing and healing properties High glycerine content to moisturise and protect the skin Suitable for use with or without a shaving brush Specifications Size: 150g plastic screw-top jar Packaging: Plastic jar with D.R. Harris branding",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-rose-shaving-cream-bowl-150g",
@@ -10598,7 +10564,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -10622,7 +10587,7 @@
       },
       {
         "name": "D.R. Harris Rose Shaving Cream Tube 75g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Rose Shaving Cream Tube 75g is a rich, concentrated shaving cream designed to create a smooth, protective lather for a comfortable traditional wet shave. Pink in colour and delicately fragranced with rose, this shaving cream combines rose essential oil, rose geranium essential oil and rosehip oil. Rosehip oil is valued for its soothing and conditioning qualities, making this cream a pleasant choice for those who prefer a gentle, refined shaving product. The formula contains a high proportion of glycerin, helping to support razor glide while leaving the skin feeling soft and moisturised. When used with a shaving brush dipped in warm water, it produces a generous lather that helps soften the beard for a closer and more comfortable shave. It can also be applied by hand when preferred. Presented in a practical 75g tube, it is ideal for travel, gym bags or everyday use at home. For related D.R. Harris options, compare D.R. Harris Arlington Shaving Cream Bowl 150g with D.R. Harris Lavender Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features: Rose Fragrance: Delicately scented with rose and rose geranium essential oils. Rosehip Oil: Helps soothe and condition the skin during shaving. Rich Shaving Cream: Produces a generous, protective lather. High Glycerin Formula: Supports smooth razor glide and moisturising comfort. Brush Or Hand Application: Can be used with a shaving brush or applied by hand. Travel-Friendly Tube: Practical 75g format for home use or travel. Specifications: Product Type: Shaving cream Size: 75g Fragrance: Rose Colour: Pink Format: Tube Key Ingredients: Glycerin, rose essential oil, rose geranium essential oil and rosehip oil Use: Apply to a damp face and lather with a warm, wet shaving brush or by hand Suitable For: Traditional wet shaving and travel Also Available: 150g bowl and trial size pot",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-rose-shaving-cream-tube-75g",
@@ -10636,7 +10601,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -11196,7 +11160,7 @@
       },
       {
         "name": "D.R. Harris Sandalwood Shaving Cream Tube 15ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Gift Sets",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Sandalwood Trial Size Shaving Cream is a compact 15ml travel tube, ideal for trying the fragrance before choosing a full-size product or for keeping in a wash bag when travelling. The rich shaving cream formula works into a smooth, protective lather, helping to soften beard hair and support comfortable razor glide. Its practical trial size provides enough cream for approximately 7 to 10 shaves, making it well suited to long weekends, business trips or fragrance testing. Scented with the warm, classic Sandalwood fragrance, this shaving cream offers a refined traditional shaving experience in a convenient smaller format. Use with a shaving brush for best results, or apply by hand when travelling. For related D.R. Harris options, compare D.R. Harris Sandalwood Shaving Cream Tube 75g with D.R. Harris Marlborough Shaving Cream Tube 75g, or browse the Shaving Creams collection. Key Features: Trial Size Tube: Convenient 15ml format for travel or fragrance testing. Sandalwood Fragrance: Warm, traditional scent with classic shaving character. Rich Shaving Cream: Creates a smooth lather for comfortable razor glide. Travel Friendly: Ideal for weekends away, business trips or wash bags. 7 To 10 Shaves: Provides several uses despite its compact size. Brush Or Hand Application: Suitable for traditional wet shaving or quick travel use. Specifications: Product Type: Shaving cream Size: 15ml Fragrance: Sandalwood Format: Travel tube Estimated Uses: Approximately 7 to 10 shaves Key Ingredients: Glycerin and fragrance Use: Apply with a shaving brush or by hand, lather onto damp skin, then shave as normal Suitable For: Travel, trial use and traditional wet shaving",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-sandalwood-shaving-cream-tube-15ml",
@@ -11210,7 +11174,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Gift Sets",
           "D.R. Harris",
@@ -11235,7 +11198,7 @@
       },
       {
         "name": "D.R. Harris Sandalwood Shaving Cream Tube 75g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A luxurious men’s wet shaving cream, enriched with moisturising glycerin for a smooth, comfortable shave. Lightly scented with the refined Sandalwood fragrance, this cream delivers an exotic blend of Eucalyptus, Bergamot, Camphor, Clove, and Vetiver, all derived from natural oils. Its rich, concentrated formula produces a creamy, protective lather whether applied with a shaving brush or by hand, and is perfect for travel in a convenient 75g tube. For related D.R. Harris options, compare D.R. Harris Almond Shaving Cream Bowl 150g with D.R. Harris Arlington Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features: Classic Sandalwood fragrance with exotic spice and wood notes High glycerin content for a moisturising, smooth shave Rich lather softens facial hair for close shaving Convenient travel-sized tube Suitable for brush or hand application Specifications: Size: 75 g Packaging: Travel-friendly plastic tube Made in: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-cream-tube-75g",
@@ -11249,7 +11212,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -12381,7 +12343,7 @@
       },
       {
         "name": "D.R. Harris Windsor Shaving Cream Bowl 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A luxurious traditional shaving cream for men, D.R. Harris Windsor Shaving Cream offers a rich, concentrated formula that delivers a superior wet shaving experience. Lightly fragranced with Windsor, a fresh and complex blend that opens with notes of Citrus and Grapefruit and matures into Black Pepper and Vetiver, this cream provides an aromatic yet subtle shave. Formulated with a high proportion of glycerine, it softens the beard and moisturises the skin for a soothing, close shave. Designed for use with a shaving brush, simply apply to damp skin and lather for excellent results. Ideal for daily use and suitable for all skin types. Also available in a 75g tube for convenient travel use. For related D.R. Harris options, compare D.R. Harris Almond Shaving Cream Bowl 150g with D.R. Harris Arlington Shaving Cream Bowl 150g, or browse the Shaving Creams collection. Key Features: Classic Windsor fragrance with citrus, black pepper and vetiver Creates a rich, moisturising lather Glycerine-based formula for a comfortable shave Ideal for use with a shaving brush Made in the United Kingdom Specifications: Size: 150g bowl Fragrance: Windsor Format: Shaving cream in plastic bowl Made In: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-shaving-cream-bowl",
@@ -12395,7 +12357,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -12419,7 +12380,7 @@
       },
       {
         "name": "D.R. Harris Windsor Shaving Cream Tube 75g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Windsor Shaving Cream Tube is a 75g shaving cream with the Windsor fragrance. The glycerin-rich cream builds a protective lather and helps soften beard growth before shaving. Use with a damp shaving brush for a traditional lather, or apply by hand when preferred. The tube format is practical for travel or for customers who prefer shaving cream in a smaller pack. For related products, browse D.R. Harris, compare more shaving creams, or see shaving brushes. Key Features Shaving cream tube: 75g tube format. Glycerin-rich cream: Helps build a protective lather. Brush or hand use: Suitable for lathering with a brush or applying by hand. Windsor fragrance: Citrus and spice with vetiver notes. Specifications Size: 75g Format: Shaving cream tube Fragrance: Windsor Packaging: Plastic tube Made In: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-shaving-cream-tube",
@@ -12433,7 +12394,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -13451,7 +13411,7 @@
         ]
       },
       {
-        "name": "Dovo Blue Alumunium Shavette",
+        "name": "Dovo Blue Aluminium Shavette",
         "category": "Straight Razors > DOVO Solingen Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Dovo Blue Shavette 201 0140 is a replaceable-blade shavette with a blue anodised aluminium body and black plastic handle. It gives the handling style of a straight razor without the maintenance required for a fixed straight razor blade. The shavette is compatible with standard single edge barber blades and snapped half double edge blades. It is not compatible with Artist Club blades. Use a fresh blade as required and dispose of used blades safely. For compatible blades, see Derby Professional Single Edge Blades and Parker Premium Single Edge Blades. You can also browse DOVO Solingen and straight razors and shavettes. Key Features Replaceable-blade shavette: Straight razor handling with disposable blades. Aluminium body: Blue anodised aluminium with black plastic handle. Blade holders included: Supplied with two blade holders. Blade compatibility: Standard single edge barber blades or snapped half double edge blades. Not Artist Club: This shavette does not use Artist Club blades. Specifications Razor Type: Shavette / replaceable-blade straight razor Body Material: Blue anodised aluminium Handle Material: Black plastic Blade Compatibility: Standard single edge barber blades or half double edge blades Included: Two blade holders and disposable blades Dovo Blue Shavette FAQs What blades fit the Dovo Blue Shavette? The Dovo Blue Shavette uses standard single edge barber blades or snapped half double edge blades. It does not take Artist Club style blades. Is a shavette the same as a straight razor? A shavette feels similar in the hand to a straight razor, but it uses replaceable blades. That means there is no honing or stropping routine for the blade edge. Is the Dovo Blue Shavette suitable for beginners? It can be used by careful beginners, but it needs a steady angle, light pressure and short strokes. Many buyers choose it for edging, detailing and learning open-blade technique. Can you use half double edge blades in this shavette? Yes. A double edge blade can be carefully snapped in half while still wrapped, then loaded into the correct blade holder. Used blades should be disposed of safely.",
@@ -13478,7 +13438,7 @@
             "sku": "2010140",
             "gtin": "4045284010143",
             "mpn": null,
-            "title": "Dovo Blue Alumunium Shavette",
+            "title": "Dovo Blue Aluminium Shavette",
             "url": "https://www.malegroomingsupplies.com/products/dovo-blue-shavette-201-0140",
             "price": "30.95 GBP",
             "sale_price": null,
@@ -13720,7 +13680,7 @@
         "name": "Dovo Klipette Nose Hair Trimmer",
         "category": "Scissors & Tools > DOVO Solingen Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "Experience fast, painless nose and ear hair trimming with the Dovo Klipette. This sleek trimmer is crafted from matte-finished stainless steel, offering durability and an easy-to-clean surface. Its contoured handle provides a secure grip for effortless use. Designed with precision concentric blades, the Dovo Klipette ensures gentle trimming for sensitive areas. To use, simply rotate the handle for quick and effective removal of unwanted hair. With its compact design, this trimmer is perfect for travel or daily grooming routines. For related hair care options, browse the Hair & Body collection. Key Features: Effortless, gentle nose and ear hair trimming Durable, matte-finished stainless steel construction Precision concentric blades for safe trimming Contoured handle for secure grip and ease of use Compact design, ideal for travel and storage Specifications: Material: Stainless steel (matte finish) Blades: Machine-ground concentric blades Dimensions: 6.6 cm x 1.1 cm x 1.1 cm Packaging: Protective plastic packaging",
+        "description": "The DOVO Klipette is a compact manual nose and ear hair trimmer made from matt-finished stainless steel. It requires no batteries: hold the cutting head and rotate the lower handle in short movements to operate the concentric, machine-ground blades.The contoured handle provides a secure grip, while the 6.6cm body is convenient for storage and travel. Dry the Klipette thoroughly after cleaning, check the screw occasionally and use a small amount of suitable fine oil when required, following DOVO care guidance.Compare it with the Merkur Nose Hair Trimmer, or browse DOVO grooming and shaving tools and the wider Hair & Body collection.Key Features Manual operation: Battery-free trimming using a rotating lower handle. Concentric blades: Machine-ground cutting mechanism for nose and ear hair. Stainless steel: Matt-finished body with a contoured grip. Compact size: Suitable for a grooming kit or travel bag. Specifications Material: Matt-finished stainless steel Blade Design: Concentric, machine-ground blades Dimensions: 6.6cm x 1.1cm x 1.1cm Power: Manual",
         "url": "https://www.malegroomingsupplies.com/products/dovo-klipette-nose-and-ear-hair-trimmer",
         "price": "£39.85",
         "brand": "Dovo",
@@ -14115,7 +14075,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-with-Stand-AS-D2S_clipped_rev_1.jpg?v=1737212246",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14139,7 +14099,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-as-d2s-razor-and-stand",
             "price": "180.00 GBP",
             "sale_price": "169.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-with-Stand-AS-D2S_clipped_rev_1.jpg?v=1737212246",
             "options": {}
           }
@@ -16090,7 +16050,7 @@
       },
       {
         "name": "Floris No.89 Shaving Cream 100ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Floris London",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Floris No.89 Shaving Cream is a smooth, luxurious cream formulated with aloe vera and chamomile extract to calm, hydrate, and protect the skin during shaving. Designed for use with or without a brush, it delivers a rich lather for a clean, comfortable shave and an expert finish. This shaving cream is lightly fragranced with the iconic No.89 scent, a refined blend of bergamot, orange, and lavender, accented by nutmeg and floral heart notes of geranium, rose, and ylang ylang. A warm base of sandalwood, cedarwood, vetiver, and musk gives this fragrance its enduring English elegance. Part of the Gentleman Floris range, this cream reflects a commitment to tradition, quality, and impeccable daily grooming, all hallmarks of the Floris legacy. For related Floris London options, compare Floris No.89 Shaving Bowl Refill 100g with Floris No.89 Shaving Soap In A Wooden Bowl 100g, or browse the Shaving Creams collection. Key Features: Cream-based formula with aloe vera and chamomile Can be used with or without a shaving brush Provides a close shave and protects sensitive skin Lightly scented with the classic No.89 fragrance Suitable for daily use Specifications: Volume: 100ml Texture: Smooth shaving cream Skin benefits: Soothing, hydrating, protective Fragrance family: Citrus, floral, woody Made in the United Kingdom Floris No.89 Shaving Cream blends skincare and fragrance into a daily ritual worthy of British grooming heritage.",
         "url": "https://www.malegroomingsupplies.com/products/floris-no89-shaving-cream-100ml",
@@ -16104,7 +16064,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Floris London",
           "Shaving Essentials",
@@ -18070,7 +18029,7 @@
       },
       {
         "name": "LEA Clear Definer Shaving Cream 75ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > LEA Classic",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "LEA Clear Definer Shaving Cream is a 75ml foam-free shaving cream for beard shaping, edging and visible-line shaving. The transparent format lets you see the area being shaved. The formula includes argan oil, Abyssinian oil, panthenol, glycerin and calendula. It is dermatologically tested and free from silicones, parabens and PEGs. For related products, browse LEA Classic, compare more shaving creams, or see shaving preparations. Key Features Clear shaving cream: Foam-free formula for visible shaving lines. Beard shaping: Useful for outlining cheeks, neck and beard edges. Skin care ingredients: Argan oil, Abyssinian oil, panthenol, glycerin and calendula. Dermatologically tested: Free from silicones, parabens and PEGs. Specifications Size: 75ml Format: Clear shaving cream Application: Apply directly to the shaving area Free From: Silicones, parabens and PEGs",
         "url": "https://www.malegroomingsupplies.com/products/lea-clear-definer-beard-shaving-cream-75ml",
@@ -18084,7 +18043,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "LEA Classic",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -18720,7 +18678,7 @@
           "New Additions",
           "Hair & Body",
           "Gift Sets",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -18759,7 +18717,7 @@
           "New Additions",
           "Hair & Body",
           "Gift Sets",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -18798,7 +18756,7 @@
           "New Additions",
           "Hair & Body",
           "Gift Sets",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -18836,7 +18794,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Mouthwash"
         ],
@@ -18874,7 +18832,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -18912,7 +18870,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -18950,7 +18908,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -18988,7 +18946,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -19026,7 +18984,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Mouthwash"
         ],
@@ -19064,7 +19022,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -19102,7 +19060,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -19140,7 +19098,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -19178,7 +19136,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -19216,7 +19174,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -19254,7 +19212,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -19292,7 +19250,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -19330,7 +19288,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets"
         ],
@@ -19368,7 +19326,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets",
           "Teeth Whitening Toothpaste"
@@ -19407,7 +19365,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets",
           "Teeth Whitening Toothpaste"
@@ -19446,7 +19404,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Mouthwash"
         ],
@@ -19484,7 +19442,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Mouthwash"
         ],
@@ -19522,7 +19480,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothbrushes & Holders"
         ],
@@ -19560,7 +19518,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets",
           "Teeth Whitening Toothpaste"
@@ -19599,7 +19557,7 @@
         "collections": [
           "New Additions",
           "Hair & Body",
-          "Marvis",
+          "Marvis Toothpaste & Mouthwash",
           "Dental Care",
           "Toothpaste & Toothpaste Sets",
           "Teeth Whitening Toothpaste"
@@ -19789,6 +19747,8 @@
         "product_type": "Safety Razor",
         "collections": [
           "Merkur Safety Razors",
+          "Safety Razors, Straight Razors & Shavettes",
+          "Men's Safety Razors & Double Edge Razors",
           "New Additions"
         ],
         "variants": [
@@ -19862,6 +19822,8 @@
         "product_type": "Safety Razors",
         "collections": [
           "Merkur Safety Razors",
+          "Safety Razors, Straight Razors & Shavettes",
+          "Men's Safety Razors & Double Edge Razors",
           "New Additions"
         ],
         "variants": [
@@ -20055,6 +20017,8 @@
         "product_type": "Safety Razor",
         "collections": [
           "Merkur Safety Razors",
+          "Safety Razors, Straight Razors & Shavettes",
+          "Men's Safety Razors & Double Edge Razors",
           "Adjustable Safety Razors",
           "New Additions"
         ],
@@ -20129,6 +20093,8 @@
         "product_type": "Safety Razor",
         "collections": [
           "Merkur Safety Razors",
+          "Safety Razors, Straight Razors & Shavettes",
+          "Men's Safety Razors & Double Edge Razors",
           "New Additions"
         ],
         "variants": [
@@ -20240,6 +20206,8 @@
         "product_type": "Safety Razors",
         "collections": [
           "Merkur Safety Razors",
+          "Safety Razors, Straight Razors & Shavettes",
+          "Men's Safety Razors & Double Edge Razors",
           "New Additions"
         ],
         "variants": [
@@ -22035,6 +22003,8 @@
         "product_type": "Safety Razors",
         "collections": [
           "Merkur Safety Razors",
+          "Safety Razors, Straight Razors & Shavettes",
+          "Men's Safety Razors & Double Edge Razors",
           "New Additions"
         ],
         "variants": [
@@ -22070,6 +22040,8 @@
         "product_type": "Safety Razor",
         "collections": [
           "Merkur Safety Razors",
+          "Safety Razors, Straight Razors & Shavettes",
+          "Men's Safety Razors & Double Edge Razors",
           "Adjustable Safety Razors",
           "New Additions"
         ],
@@ -24727,7 +24699,7 @@
         "name": "Morgan’s Original Hair Darkening Pomade",
         "category": "Hair Styling > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Color",
-        "description": "Morgan's Original Hair Darkening Pomade is a classic styling pomade made to gradually darken grey hair with regular use. It is not a conventional hair dye and is applied like a pomade while helping control and style the hair. Results develop gradually, with regular use commonly described over a period of around 3 to 4 weeks. The formula includes wheatgerm oil and natural beeswax for hold, conditioning and manageability. For related products, browse Morgan's, compare more hair darkening products, or see men's hair pomades. Key Features Hair darkening pomade: Gradually darkens grey hair with regular use. Not a conventional dye: Applied as a styling pomade. Styling control: Adds shape, shine and manageability. Wheatgerm oil and beeswax: Included for conditioning and hold. Specifications Size Options: 50g, 100g and 200g Format: Hair darkening pomade Hold: Light to medium styling control Finish: Natural shine Key Ingredients: Wheatgerm oil and beeswax Made In: United Kingdom",
+        "description": "Morgan's Original Hair Darkening Pomade is a classic styling pomade made to gradually darken grey hair with regular use. It is not a conventional hair dye and is applied like a pomade while helping control and style the hair.Results develop gradually, with regular use commonly described over a period of around 3 to 4 weeks. The formula includes wheatgerm oil and natural beeswax for hold, conditioning and manageability.Compare the different formats: Hair Darkening Mousse, Hair Darkening Cream and Grey Away Liquid Colour Restorer. You can also browse Morgan's, hair darkening products or men's hair pomades.Key Features Hair darkening pomade: Gradually darkens grey hair with regular use. Not a conventional dye: Applied as a styling pomade. Styling control: Adds shape, shine and manageability. Wheatgerm oil and beeswax: Included for conditioning and hold. Specifications Size Options: 50g, 100g and 200g Format: Hair darkening pomade Hold: Light to medium styling control Finish: Natural shine Key Ingredients: Wheatgerm oil and beeswax Made In: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/morgans-hair-darkening-pomade",
         "price": "£5.50",
         "brand": "Morgan's",
@@ -24979,7 +24951,7 @@
       },
       {
         "name": "Morgan’s Vegan Shaving Cream for Men",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Morgan's",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Morgan's Shaving Cream is a vegan-friendly shaving cream for daily wet shaving. It helps soften facial hair and gives the razor a cushioned surface as it moves over the skin. The cream contains aloe vera and wheatgerm oil, which is naturally rich in vitamin E. Massage into damp skin before shaving, then rinse with warm water followed by cool water. For related products, browse Morgan's, compare more shaving creams, or see shaving brushes. Key Features Shaving cream: Cream texture for daily wet shaving. Vegan-friendly: Morgan's vegan shaving cream formula. Aloe vera: Included for post-application skin feel. Wheatgerm oil: Naturally rich in vitamin E. Specifications Format: Shaving cream Formula: Vegan-friendly Key Ingredients: Aloe vera and wheatgerm oil Use: Apply to damp skin before shaving Made In: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/morgans-shaving-cream",
@@ -24993,7 +24965,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Morgan's",
           "Shaving Essentials",
@@ -29773,7 +29744,7 @@
         "name": "Parker Adjustable Injector Razor Version 3",
         "category": "Razors > Parker Shaving",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "Parker Adjustable Injector Razor Version 3 is an adjustable single-blade razor that uses standard injector-style razor blades. It does not take double edge blades or Artist Club blades. The adjustable safety bar runs from setting 1 to 5, allowing the blade gap to be changed for a milder or more efficient shave. The razor has a stainless steel handle with a ridged plastic grip. Includes one injector blade. Replacement injector blade packs are sold separately. For related products, browse Parker Shaving, compare more all razors, or see razor blades. Key Features Injector razor: Uses standard injector-style razor blades. Adjustable safety bar: Settings 1 to 5 for different blade gaps. Single-blade shaving: Injector format, not DE or Artist Club compatible. Ridged grip: Stainless steel handle with ridged plastic grip. Specifications Razor Type: Adjustable injector razor Blade Compatibility: Standard injector-style razor blades Adjustment Range: Settings 1 to 5 Weight: 35g Length: 126mm Blade Included: One injector blade",
+        "description": "Parker Adjustable Injector Razor Version 3 is an adjustable single-blade razor that uses standard injector-style razor blades. It does not take double edge blades or Artist Club blades. The adjustable safety bar runs from setting 1 to 5, allowing the blade gap to be changed for a milder or more efficient shave. The razor has a stainless steel handle with a ridged plastic grip. Includes one injector blade. Replacement injector blade packs are sold separately.Buyer note: At 35g, this is deliberately lightweight rather than a heavy safety razor. Blade feel varies; if the first shave is not satisfactory, try a fresh compatible injector blade before changing the razor setting. For related products, browse Parker Shaving, compare more all razors, or see Parker Injector Blades. Key Features Injector razor: Uses standard injector-style razor blades. Adjustable safety bar: Settings 1 to 5 for different blade gaps. Single-blade shaving: Injector format, not DE or Artist Club compatible. Ridged grip: Stainless steel handle with ridged plastic grip. Specifications Razor Type: Adjustable injector razor Blade Compatibility: Standard injector-style razor blades Adjustment Range: Settings 1 to 5 Weight: 35g Length: 126mm Blade Included: One injector blade",
         "url": "https://www.malegroomingsupplies.com/products/parker-adjustable-injector-razor-version-3",
         "price": "£41.50",
         "brand": "Parker",
@@ -32975,7 +32946,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -32999,7 +32969,7 @@
       },
       {
         "name": "Proraso Blue Shaving Cream Tube 150ml",
-        "category": "Shaving Creams Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Creams Gels & Soaps > Proraso",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Proraso Blue Shaving Cream Tube is a traditional shaving cream designed to create a smooth, comfortable shave with a rich, protective lather. Enriched with aloe vera and vitamin E, it helps soften the beard, support razor glide, and leave the skin feeling cared for after shaving. The classic tube format is practical, easy to control, and suitable for daily wet shaving at home or while travelling. It can be worked into a lather with a shaving brush for a more traditional shave, or applied with fingertips for a quicker routine. Key Features: Traditional Shaving Cream in a practical tube format Enriched with Aloe Vera and Vitamin E Produces a rich, dense lather for smooth razor glide Helps soften beard hair before shaving Supports skin protection during a close shave Can be used with a shaving brush or fingertips Suitable for regular wet shaving routines Specifications: Size: 150ml Format: Shaving cream tube Usage: Work into a lather with a brush or fingertips and apply to the beard before shaving Key ingredients: aloe vera and vitamin E Skin feel: Comfortable, smooth, and cared for",
         "url": "https://www.malegroomingsupplies.com/products/proraso-blue-shaving-cream-tube-150ml",
@@ -33013,7 +32983,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -33314,7 +33283,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -33338,7 +33306,7 @@
       },
       {
         "name": "Proraso Green Shaving Cream Tube 150ml",
-        "category": "Shaving Creams Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Creams Gels & Soaps > Proraso",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Proraso Green Shaving Cream Tube is a traditional shaving cream designed to create a fresh, comfortable shave with a rich, protective lather. Enriched with eucalyptus oil and menthol, it helps soften the beard, support razor glide, and leave the skin feeling clean and refreshed after shaving. The classic tube format is practical, easy to control, and suitable for daily wet shaving at home or while travelling. It can be worked into a lather with a shaving brush for a traditional shave, or applied with fingertips for a quicker routine. For related Proraso options, compare Proraso Blue Shaving Cream Tube 150ml with Proraso White Sensitive Shaving Cream Tube 150ml, or browse the Shaving Creams collection. Key Features: Traditional Shaving Cream in a practical tube format Enriched with Eucalyptus Oil and Menthol Produces a rich, dense lather for smooth razor glide Helps soften beard hair before shaving Supports skin protection during a close shave Can be used with a shaving brush or fingertips Suitable for regular wet shaving routines Specifications: Size: 150ml Format: Shaving cream tube Usage: Work into a lather with a brush or fingertips and apply to the beard before shaving Key ingredients: eucalyptus oil and menthol Skin feel: Fresh, smooth, and comfortable",
         "url": "https://www.malegroomingsupplies.com/products/proraso-green-shaving-cream-tube-150ml",
@@ -33352,7 +33320,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -33764,7 +33731,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -33788,7 +33754,7 @@
       },
       {
         "name": "Proraso Professional Shaving Cream Tube 500ml",
-        "category": "Shaving Creams Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Creams Gels & Soaps > Proraso",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Professional Shaving Cream Tube Refreshing 500ml is a generous shaving cream designed for barbers, professional use and regular traditional wet shaving. Its rich, creamy formula works into a dense lather that helps soften beard hair and prepare the skin for a close, comfortable shave. The lather supports smooth razor glide, helping to reduce drag while improving control during each pass. Enriched with eucalyptus oil and menthol, this shaving cream delivers a fresh, cooling sensation on the skin. Eucalyptus oil helps purify and tone, while menthol provides Proraso’s signature refreshing feel, leaving the face clean, revived and comfortable after shaving. The large 500ml professional size makes it ideal for high-frequency use, barbershop settings or customers who prefer a long-lasting supply of their favourite shaving cream. Key Features: Professional Size: 500ml tube, ideal for barbershop or frequent home use. Rich Creamy Lather: Helps soften beard hair and prepare the skin for shaving. Smooth Razor Glide: Reduces drag for a closer, more comfortable shave. Eucalyptus Oil: Helps purify and tone the skin. Menthol: Provides a cooling, refreshing sensation during and after shaving. Traditional Wet Shaving: Suitable for use with a shaving brush or by hand. Specifications: Product Type: Shaving cream Size: 500ml Range: Refreshing Eucalyptus & Menthol Key Ingredients: Eucalyptus oil and menthol Use: Apply with a shaving brush or by hand to create a rich lather before shaving Suitable For: Frequent shaving, traditional wet shaving and professional barbershop use Packaging: Professional tube",
         "url": "https://www.malegroomingsupplies.com/products/professional-shaving-cream-tube-refreshing-500ml",
@@ -33802,7 +33768,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -33955,7 +33920,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -34017,7 +33981,7 @@
       },
       {
         "name": "Proraso Red Shaving Cream Tube 150ml",
-        "category": "Shaving Creams Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Creams Gels & Soaps > Proraso",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Proraso Red Shaving Cream Tube is a traditional shaving cream designed to soften coarse beard hair and support a smooth, comfortable shave. Enriched with sandalwood oil and shea butter, it creates a rich, dense lather that helps protect the skin and improve razor glide. The tube format is practical and easy to control, making it suitable for daily wet shaving at home or while travelling. It can be worked into a lather with a shaving brush for a more traditional shave, or applied with fingertips for a quicker routine. For the same Red shaving routine, pair it with Proraso Red Shaving Soap in Bowl 150ml or Proraso Red After Shave Balm 100ml. Key Features: Traditional Shaving Cream in a practical tube format Enriched with Sandalwood Oil and Shea Butter Produces a rich, dense lather for smooth razor glide Helps soften coarse beard hair before shaving Supports skin protection during a close shave Can be used with a shaving brush or fingertips Suitable for regular wet shaving routines Specifications: Size: 150ml Format: Shaving cream tube Usage: Work into a lather with a brush or fingertips and apply to the beard before shaving Key ingredients: Sandalwood oil and shea butter Beard type: Suitable for coarse beard hair and regular shaving routines",
         "url": "https://www.malegroomingsupplies.com/products/proraso-red-shaving-cream-tube-150ml",
@@ -34031,7 +33995,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -34183,7 +34146,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -34207,7 +34169,7 @@
       },
       {
         "name": "Proraso White Sensitive Shaving Cream Tube 150ml",
-        "category": "Shaving Creams Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Creams Gels & Soaps > Proraso",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Proraso White Sensitive Shaving Cream Tube is a traditional shaving cream developed for sensitive skin. Enriched with green tea and oat extract, it creates a rich, dense lather that helps soften the beard, protect the skin, and support smooth razor glide. The classic tube format is practical, easy to control, and suitable for daily wet shaving at home or while travelling. It can be worked into a lather with a shaving brush for a traditional shave, or applied with fingertips for a quicker routine. Key Features: Traditional Shaving Cream developed for sensitive skin Enriched with Green Tea and Oat Extract Produces a rich, dense lather for smooth razor glide Helps soften beard hair before shaving Supports skin protection during a close shave Can be used with a shaving brush or fingertips Suitable for regular wet shaving routines Specifications: Size: 150ml Format: Shaving cream tube Usage: Work into a lather with a brush or fingertips and apply to the beard before shaving Skin type: Sensitive skin Key ingredients: green tea and oat extract",
         "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-shaving-cream-tube-150ml",
@@ -34221,7 +34183,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -38237,7 +38198,7 @@
         "name": "Simpsons 'The Chubby' Shaving Brush",
         "category": "Shaving Brushes > Shaving Brushes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "Simpsons 'The Chubby' Shaving Brush is a dense badger shaving brush made in Britain. It is available in Chubby 1, Chubby 2 and Chubby 3 sizes, with Best Badger or Super Silvertip Badger hair depending on the selected variant. The short handle and dense knot make the Chubby range well suited to face lathering, while the larger sizes provide more lather capacity. Use with shaving soap or shaving cream, then rinse and dry the brush after use. For related options, browse Simpson shaving brushes, badger shaving brushes, or compare more shaving brushes. Key Features Dense badger knot: Compact Simpsons brush with strong lathering capacity. Best or Super Silvertip: Choose the badger grade by variant. Three sizes: Chubby 1, Chubby 2 and Chubby 3. Faux ivory handle: Classic Simpsons handle shape. Made in Britain: Handcrafted Simpsons shaving brush. Specifications Chubby 1: 85mm height, 39mm handle, 46mm loft, 22mm knot, 59g Chubby 2: 94mm height, 44mm handle, 50mm loft, 27mm knot, 82g Chubby 3: 105mm height, 48mm handle, 57mm loft, 29mm knot, 108g Fibre Type: Badger Available Grades: Best Badger or Super Silvertip Badger Handle Colour: Faux ivory Made In: Britain",
+        "description": "Simpsons 'The Chubby' Shaving Brush is a dense badger shaving brush made in Britain. It is available in Chubby 1, Chubby 2 and Chubby 3 sizes, with Best Badger or Super Silvertip Badger hair depending on the selected variant. The short handle and dense knot make the Chubby range well suited to face lathering, while the larger sizes provide more lather capacity. Use with shaving soap or shaving cream, then rinse and dry the brush after use. For related options, browse Simpson shaving brushes, badger shaving brushes, or compare more shaving brushes. Which Simpsons Chubby size should I choose? Chubby 1: The most compact option, with a 22mm knot and 85mm overall height. Chubby 2: The middle size, with a broader 27mm knot and 94mm overall height. Chubby 3: The largest option, with a 29mm knot and 105mm overall height for the fullest lathering footprint. Best Badger: Choose this grade for a firmer brush feel and the lower-priced route into the Chubby range. Super Silvertip Badger: Choose this grade for softer tips and a more luxurious face feel. All Chubby knots are densely packed, so the larger sizes can hold and use more shaving cream or soap. Chubby 1 suits buyers wanting a compact brush, Chubby 2 is the balanced middle option, and Chubby 3 is for those who specifically want the largest knot. Key Features Dense badger knot: Compact Simpsons brush with strong lathering capacity. Best or Super Silvertip: Choose the badger grade by variant. Three sizes: Chubby 1, Chubby 2 and Chubby 3. Faux ivory handle: Classic Simpsons handle shape. Made in Britain: Handcrafted Simpsons shaving brush. Specifications Chubby 1: 85mm height, 39mm handle, 46mm loft, 22mm knot, 59g Chubby 2: 94mm height, 44mm handle, 50mm loft, 27mm knot, 82g Chubby 3: 105mm height, 48mm handle, 57mm loft, 29mm knot, 108g Fibre Type: Badger Available Grades: Best Badger or Super Silvertip Badger Handle Colour: Faux ivory Made In: Britain",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-best-or-super-silvertip-badger-shaving-brush",
         "price": "£99.95",
         "brand": "Simpsons",
@@ -40922,7 +40883,7 @@
       },
       {
         "name": "Tabac Original Shaving Bowl & Soap 125g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Shaving Bowls & Mugs",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Tabac Original Shaving Bowl & Soap is a 125g shaving soap supplied in a reusable shaving bowl. The non-tallow formula is made for brush lathering and helps soften beard hair before shaving. The soap carries the Tabac Original fragrance, with spicy, woody and floral notes. Load with a damp shaving brush, then build the lather in the bowl or on the beard before shaving. For matching products, see Tabac Original Shaving Bowl Soap Refill, browse the Tabac Original collection, or compare more shaving soaps. Key Features Shaving soap and bowl: 125g soap supplied in a reusable bowl. Brush lathering: Designed for use with a shaving brush. Non-tallow formula: Current non-tallow Tabac shaving soap formula. Tabac Original scent: Spicy, woody and floral notes. Refill option: Matching bowl refill available separately. Specifications Size: 125g Format: Shaving soap with bowl Formula: Non-tallow based Fragrance Family: Spicy, woody and floral Dermatologically Tested: Yes",
         "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-125g",
@@ -40936,6 +40897,7 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
+          "Shaving Bowls & Mugs",
           "Shaving Soap",
           "New Additions",
           "Tabac Original",
@@ -41111,7 +41073,7 @@
       },
       {
         "name": "Taylor of Old Bond Street Almond Shaving Cream 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Taylor of Old Bond Street",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Taylor of Old Bond Street Almond Shaving Cream delivers a rich, creamy lather and a comforting sweet almond fragrance, perfect for a smooth and traditional wet shaving experience. This nourishing formula softens the beard and cushions the skin, helping to reduce irritation and promote a closer, more comfortable shave. The warm, nutty scent adds a touch of indulgence to your daily grooming ritual. Key Features: Produces a luxurious, protective lather Scented with a sweet, classic almond fragrance Ideal for use with a shaving brush Supplied in a 150g bowl for long-lasting use Made in the UK Specifications: Product Type: Shaving Cream Bowl Fragrance: Almond Size: 150g / 5.3 oz Use: Traditional wet shaving Made in: England",
         "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-almond-shaving-cream-150g",
@@ -41125,7 +41087,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Taylor of Old Bond Street",
           "Shaving Essentials",
@@ -41263,7 +41224,7 @@
       },
       {
         "name": "Taylor of Old Bond Street Jermyn Street Collection Aftershave Cream 75ml",
-        "category": "Post Shave > Men's Shaving Creams",
+        "category": "Post Shave > Post-Shave",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "Taylor of Old Bond Street Jermyn Street Collection Aftershave Cream is expertly crafted for individuals with sensitive skin, offering an allergen-free formula that soothes and nourishes the skin post-shave and throughout the day. This luxurious cream helps to reduce irritation and moisturise, leaving the skin feeling refreshed and comfortable. Fragrance Profile: Top Notes: A modern, fresh fougère opening with bergamot, lemon, lime, and lavender.​ Heart Notes: A harmonious blend of geranium, neroli, and amber.​ Base Notes: A substantive foundation of musk, patchouli, and vanilla.​ This allergen-free fragrance contains patchouli oil, providing a subtle yet distinctive scent that complements the aftershave's soothing properties.​ Key Features: Allergen-Free Formula: Ideal for sensitive skin, minimising the risk of irritation.​ Soothing and Nourishing: Provides relief after shaving, promoting skin comfort.​ Moisturising: Keeps the skin hydrated throughout the day.​ Signature Fragrance: Features the distinguished Jermyn Street scent with citrus, floral, and woody notes.​ Convenient Size: 75ml tube, perfect for both home use and travel.​ Made in the UK: Upholding the quality and craftsmanship associated with British grooming products.​ Specifications: Product Type: Aftershave Cream​ Collection: Jermyn Street​ Size: 75ml​ Skin Type: Sensitive​ Fragrance: Modern fresh fougère with citrus, floral, and woody notes",
         "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-jermyn-street-collection-aftershave-cream-75ml",
@@ -41277,7 +41238,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Post Shave",
         "collections": [
-          "Men's Shaving Creams",
           "Post-Shave",
           "New Additions",
           "Taylor of Old Bond Street",
@@ -41528,7 +41488,7 @@
       },
       {
         "name": "Taylor of Old Bond Street Oudh Shaving Cream Bowl 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Taylor of Old Bond Street",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Taylor of Old Bond Street Oudh Shaving Cream Bowl offers a luxurious shaving experience with a rich, exotic scent. This premium cream produces a creamy, protective lather, softening facial hair and cushioning the skin for a smooth, close shave. The fragrance opens with vibrant quince, followed by a warm, spicy heart of rose and saffron. It settles into a deep, opulent base of oudh and dry amber, delivering an aromatic and sophisticated finish. Key Features: Creates a rich, moisturising lather for superior comfort Infused with an elegant oudh-based fragrance Scent profile: Quince, rose, saffron, oud, amber Supplied in a 150g bowl, ideal for brush lathering Made in the UK Specifications: Product Type: Shaving Cream Bowl Fragrance: Oudh Size: 150g Use: For traditional wet shaving Made in: England",
         "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-oudh-shaving-cream-bowl-150g",
@@ -41542,7 +41502,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Taylor of Old Bond Street",
           "Shaving Essentials",
@@ -41683,7 +41642,7 @@
       },
       {
         "name": "Taylor of Old Bond Street Rose Shaving Cream 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Taylor of Old Bond Street",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Taylor of Old Bond Street Rose Shaving Cream offers a classic floral shaving experience, delivering a rich, creamy lather that cushions the skin and softens the beard for a smooth, comfortable shave. Perfect for traditional wet shaving, it moisturises and nourishes the skin, leaving it feeling refreshed and lightly scented. The fragrance is a refined blend of rose and geranium, with warm, spicy hints of clove and cinnamon. Infused with geranium oil, this elegant cream brings a touch of timeless sophistication to your daily grooming routine. Key Features: Creates a luxurious lather for enhanced razor glide Floral fragrance with rose, geranium, clove, and cinnamon Enriched with geranium oil for skin conditioning Leaves skin soft, moisturised, and delicately scented Made in the UK Specifications: Product Type: Shaving Cream Bowl Fragrance: Rose Size: 150g / 5.3 oz Use: Traditional wet shaving Product Code: 01004 Made in: England",
         "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-rose-shaving-cream-bowl-150g",
@@ -41697,7 +41656,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Taylor of Old Bond Street",
           "Shaving Essentials",
@@ -41797,7 +41755,7 @@
       },
       {
         "name": "Taylor of Old Bond Street Sandalwood Shaving Cream 150g",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "category": "Shaving Cream, Gels & Soaps > Taylor of Old Bond Street",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Taylor of Old Bond Street Sandalwood Shaving Cream 150g is a traditional shaving cream made in England. It can be lathered with a shaving brush or applied by hand, although a brush gives the most traditional lathering method. The sandalwood fragrance is warm and woody with supporting notes of lavender, rosemary, geranium and patchouli. The cream softens the beard and provides a cushioning lather for safety razor, straight razor or cartridge shaving. For related options, browse Taylor of Old Bond Street, compare more shaving creams, or pair with a shaving brush. Key Features Shaving cream: 150g bowl for wet shaving. Sandalwood scent: Warm woody fragrance with aromatic notes. Brush or hand lather: Best used with a shaving brush for a traditional lather. Beard preparation: Helps soften the beard before shaving. Made in England: Taylor of Old Bond Street shaving cream. Specifications Size: 150g / 5.3oz Format: Shaving cream bowl Scent: Sandalwood Scent Notes: Sandalwood, lavender, rosemary, geranium and patchouli Use With: Shaving brush recommended Made In: England How to Use Apply a small amount to a damp shaving brush, build lather in a bowl or directly on the face, then shave as usual and rinse.",
         "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-sandalwood-shaving-cream-150g",
@@ -41811,7 +41769,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Men's Shaving Creams",
           "New Additions",
           "Taylor of Old Bond Street",
           "Shaving Essentials",
@@ -43493,7 +43450,7 @@
         "name": "Wilkinson Sword Double Edge Razor Blades",
         "category": "Blades > Wilkinson Sword",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "Achieve a consistently smooth and close shave with the Wilkinson Sword Double Edge Razor Blades. This pack includes 100 premium blades conveniently packaged in 20 packs of 5, making them perfect for safety razors and shavettes. Each blade can also be snapped in half for use in cutthroat razors. Crafted with precision and durability, these blades undergo a triple coating process: Chromium for corrosion resistance. Ceramic for enhanced durability. PTFE to reduce irritation and ensure a comfortable shave. Designed to provide exceptional sharpness and longevity, these blades are a reliable choice for traditional wet shavers. How to Use:Insert the blade into your razor or snap it in half for shavettes. Shave with light pressure and rinse frequently for a smooth, irritation-free experience. Key Features: Versatile Fit: Suitable for double-edged safety razors and cutthroat razors/shavettes. Triple Coated: Chromium for corrosion resistance, ceramic for durability, and PTFE for reduced irritation. Long-Lasting: Each blade provides multiple close and comfortable shaves. Value Pack: Includes 100 blades in 20 convenient packs of 5. Specifications: Blade Count: 100 blades (20 x 5 packs). Coating: Triple-coated for enhanced performance and comfort. Packaging: Compact pillar pack for easy storage. For related blade options, browse the Wilkinson Sword collection.",
+        "description": "Wilkinson Sword Double Edge Razor Blades are available as a 5-blade tuck or a 100-blade pillar pack. Choose the smaller pack to try the blade, or the pillar pack for bulk value; the 100 pack contains 20 individual tucks of five blades.Each stainless steel blade uses a triple coating: chromium for corrosion resistance, ceramic for durability and PTFE to reduce friction. The standard double edge format fits conventional double edge safety razors. A blade can also be carefully snapped in half, while still wrapped, for compatible shavettes that accept half double edge blades.Pair them with the Wilkinson Sword Premium Classic Razor, browse the Wilkinson Sword range, compare more double edge razor blades, or see shavettes and straight razors. Always confirm the blade format stated on the individual razor page.Key Features Two pack sizes: Choose five blades or a 100-blade pillar pack. Standard double edge fit: Made for conventional double edge safety razors. Shavette option: Can be halved for compatible shavettes that accept half DE blades. Triple coated: Chromium, ceramic and PTFE layers support durability and glide. Specifications Pack Options: 5 blades or 100 blades Pillar Pack: 20 tucks of 5 blades Blade Format: Standard double edge Coating: Chromium, ceramic and PTFE",
         "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-double-edge-razor-blades",
         "price": "£1.50",
         "brand": "Wilkinson Sword",
@@ -43547,7 +43504,7 @@
         "name": "Wilkinson Sword Premium Classic Razor + 5 Blades",
         "category": "Razors > Wilkinson Sword",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "Experience precision and durability with the Wilkinson Sword Premium Classic Razor, a timeless shaving tool designed for comfort and style. Featuring a premium chromed double-edged design and a butterfly opening mechanism, this razor ensures effortless blade replacement and a smooth, close shave every time. The set includes 5 stainless steel blades, crafted for superior sharpness and durability. Ideal for daily use or precise trimming, this razor is a cost-effective option for traditional wet shavers, offering long-term value without compromising on quality. How to Use:Turn the handle to open the butterfly mechanism, insert the blade, and secure it by closing the razor. Use gentle strokes for a precise shave, rinsing the razor frequently during use. Key Features: Premium Build: Chromed double-edged razor for a sleek and durable finish. Effortless Blade Replacement: Butterfly opening mechanism for quick and easy blade changes. Stainless Steel Blades: Includes 5 blades made from 100% stainless steel for sharpness and longevity. Versatile Use: Perfect for daily shaving or detailed trimming. Cost-Effective: Offers excellent long-term value with affordable blade refills. Specifications: Razor Material: Chromed finish. Blade Material: Stainless steel. Included Blades: 5 double-edged blades. Packaging: Compact and convenient.",
+        "description": "The Wilkinson Sword Premium Classic Razor is a butterfly-opening double edge safety razor supplied with five blades. It offers a straightforward introduction to traditional wet shaving: twist the handle to open the head, place a standard double edge blade on the centre post, then close and tighten it before shaving.The chromed finish and simple twist-to-open mechanism make blade changes easy. Because the razor accepts widely available standard double edge blades, you are not tied to a cartridge system. Use short strokes with light pressure and rinse the head regularly while shaving.When the included blades are finished, add Wilkinson Sword Double Edge Razor Blades or compare more double edge razor blades. Browse shaving creams and soaps for lather, or view the wider double edge safety razor collection.Key Features Butterfly opening: Twist-to-open head for straightforward blade changes. Double edge format: Accepts standard double edge safety razor blades. Five blades included: Ready to begin shaving without buying a separate first pack. Chromed finish: A classic metal safety razor appearance. Specifications Razor Type: Butterfly-opening double edge safety razor Blade Compatibility: Standard double edge razor blades Included Blades: Five Finish: Chrome",
         "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-premium-classic-razor-5-blades",
         "price": "£14.95",
         "brand": "Wilkinson Sword",
