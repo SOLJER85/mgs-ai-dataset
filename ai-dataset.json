@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-02",
-    "generated_at": "2026-09-02T06:53:47+00:00",
+    "last_updated": "2026-09-03",
+    "generated_at": "2026-09-03T06:57:20+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -1136,7 +1136,8 @@
           "New Additions",
           "Hair & Body",
           "Captain Fawcett",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -1791,7 +1792,7 @@
       },
       {
         "name": "Captain Fawcett's Luxurious Shaving Soap 110g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Captain Fawcett",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Experience the heritage of a classic wet shave with Captain Fawcett’s Luxurious Shaving Soap. Originally created over a century ago and now lovingly recreated, this premium soap produces a rich, creamy lather for an exceptionally smooth shave. The fragrance opens with fresh Pine Needle, Elemi, Cumin, and Coriander, leading to a heart of Frankincense, Patchouli, and Tobacco, and settles into an exotic base of Sandalwood and Amber. Supplied in a reusable wooden bowl, this British-made soap combines tradition and performance for the modern gentleman. Key Features: Produces a luxurious, thick lather for a smooth shave Classic scent with woody, spicy, and resinous notes Supplied in a reusable wooden bowl Crafted in the UK with premium ingredients Perfect for traditional wet shaving enthusiasts Specifications: Quantity: 110g / 3.8oz Fragrance Notes: Top: Pine Needle, Elemi, Cumin, Coriander Heart: Frankincense, Patchouli, Tobacco Base: Sandalwood, Amber Packaging: Wooden bowl handcrafted in India Made in the UK How to Use:Wet a traditional shaving brush with warm water and swirl over the soap using circular motions to create a thick, creamy lather. Apply to the beard area to lift and soften the hair before shaving.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-luxurious-shaving-soap-110g",
@@ -1805,7 +1806,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Captain Fawcett",
           "Shaving Essentials",
@@ -1829,7 +1829,7 @@
       },
       {
         "name": "Captain Fawcett's Luxurious Shaving Soap Refill 110g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Captain Fawcett",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Never be without the Captain’s preferred Shaving Soap with this eco-friendly refill, designed to fit perfectly into the Luxurious Shaving Soap Wooden Bowl. Blending refreshing top notes of Pine Needle, Elemi, Cumin, and Coriander with an exotic heart of Frankincense, Patchouli, and Tobacco, the fragrance is anchored by a rich base of Sandalwood and Amber. A truly luxurious shaving experience. British made and ideal for maintaining your grooming routine with sophistication and style. Key Features Eco-friendly refill for the Luxurious Shaving Soap Wooden Bowl Rich, warm fragrance with Pine, Tobacco, Sandalwood & Amber notes Creates a thick, creamy lather for a superior wet shave British made using premium ingredients Wooden bowl not included Specifications Size: 110g ℮ 3.8oz Fragrance: Pine, Frankincense, Patchouli, Sandalwood, Amber Packaging: Refill soap puck only How To ApplyUse a traditional shaving brush. Wet the brush with warm water and swirl over the soap in a stirring motion to create a rich, creamy lather. Apply lather to beard to lift and soften hair before shaving.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-luxurious-shaving-soap-refill-110g",
@@ -1843,7 +1843,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Captain Fawcett",
           "Shaving Essentials",
@@ -2755,7 +2754,7 @@
       },
       {
         "name": "Captain Fawcett's Scapicchio's Fig, Olive and Bay Rum Shaving Soap 110g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Captain Fawcett",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Experience a masterful fusion of tradition and innovation with Captain Fawcett’s Scapicchio Shaving Soap, crafted in collaboration with Luigi Scapicchio of the world-renowned Italian barbering family. This Signature Series features a luxuriously scented soap inspired by the abundant Fig and Olive groves of Puglia, Italy, accented with a hint of classic West Indian Bay Rum for an invigorating, sophisticated fragrance. Expertly formulated to create a rich, creamy lather, this triple-milled shaving soap ensures the closest, most comfortable wet shave while nourishing the skin. Key Features: Signature scent with Fig, Olive, and Bay Rum notes Triple-milled for a long-lasting, luxurious lather Perfect for use with a traditional shaving brush Inspired by over 200 years of Scapicchio family barbering heritage Handmade in small batches in the UK Specifications: Quantity: 110g / 3.8oz Fragrance Notes: Fig, Olive, West Indian Bay Rum Packaging: Elegant wooden shaving bowl (refills available separately) Made in the UK How to Use:Wet your shaving brush with warm water and swirl it over the soap using circular motions to create a rich, creamy lather. Apply to the beard area to lift and soften hairs before shaving. Rinse thoroughly after use and allow the soap to dry naturally.",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-scapicchio-shaving-soap-110g",
@@ -2769,7 +2768,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Captain Fawcett",
           "Shaving Essentials",
@@ -2793,7 +2791,7 @@
       },
       {
         "name": "Captain Fawcett's Scapicchio's Fig, Olive and Bay Rum Shaving Soap Refill 110g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Captain Fawcett",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Captain Fawcett's Scapicchio Fig, Olive and Bay Rum Shaving Soap Refill is a 110g shaving soap refill for the matching wooden bowl. The bowl is not included with the refill. The soap has a fig, olive and West Indian Bay Rum fragrance profile. Use with a damp shaving brush, loading the brush from the soap before building lather on the face or in a shaving bowl. For related wet shaving products, browse shaving soap, compare shaving brushes, or see the Captain Fawcett range. Key Features Soap refill: Designed for the matching Captain Fawcett wooden bowl. Brush lather: Use with a shaving brush for best results. Fig, olive and Bay Rum scent: Warm aromatic fragrance profile. Refill only: Wooden bowl is not included. Specifications Size: 110g Format: Shaving soap refill Fragrance: Fig, olive and Bay Rum Made In: England",
         "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-scapicchio-shaving-soap-refill",
@@ -2807,7 +2805,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Captain Fawcett",
           "Shaving Essentials",
@@ -3424,7 +3421,7 @@
         "price": "£33.75",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes27_clipped_rev_2_1.jpg?v=1748203341",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-1445-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389601",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3448,7 +3445,7 @@
             "price": "33.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes27_clipped_rev_2_1.jpg?v=1748203341",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-1445-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389601",
             "options": {}
           }
         ]
@@ -3462,7 +3459,7 @@
         "price": "£72.00",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes15_clipped_rev_1.jpg?v=1748201094",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-1445-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389611",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3486,7 +3483,7 @@
             "price": "72.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes15_clipped_rev_1.jpg?v=1748201094",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-1445-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389611",
             "options": {}
           }
         ]
@@ -3500,7 +3497,7 @@
         "price": "£26.00",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes38_clipped_rev_1.jpg?v=1747949947",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-1445-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389622",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3523,7 +3520,7 @@
             "price": "26.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes38_clipped_rev_1.jpg?v=1747949947",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-1445-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389622",
             "options": {}
           }
         ]
@@ -3537,7 +3534,7 @@
         "price": "£33.75",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes30_clipped_rev_1.jpg?v=1747947372",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-cedarwood-sandalwood-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389643",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3561,7 +3558,7 @@
             "price": "33.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes30_clipped_rev_1.jpg?v=1747947372",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-cedarwood-sandalwood-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389643",
             "options": {}
           }
         ]
@@ -3575,7 +3572,7 @@
         "price": "£26.75",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes36_clipped_rev_1.jpg?v=1747948374",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-cedarwood-sandalwood-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389669",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3598,7 +3595,7 @@
             "price": "26.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes36_clipped_rev_1.jpg?v=1747948374",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-cedarwood-sandalwood-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389669",
             "options": {}
           }
         ]
@@ -3612,7 +3609,7 @@
         "price": "£72.00",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes13_clipped_rev_1.jpg?v=1748262314",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-forbes-of-forbes-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389680",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3636,7 +3633,7 @@
             "price": "72.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes13_clipped_rev_1.jpg?v=1748262314",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-forbes-of-forbes-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389680",
             "options": {}
           }
         ]
@@ -3650,7 +3647,7 @@
         "price": "£26.75",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Castle_Forbes_Forbes_of_Forbes_Shaving_Cream_Male_Grooming_Supplies-mgs-lossless.webp?v=1784922284",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-forbes-of-forbes-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389688",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3673,7 +3670,7 @@
             "price": "26.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Castle_Forbes_Forbes_of_Forbes_Shaving_Cream_Male_Grooming_Supplies-mgs-lossless.webp?v=1784922284",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-forbes-of-forbes-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389688",
             "options": {}
           }
         ]
@@ -3687,7 +3684,7 @@
         "price": "£72.00",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes11_clipped_rev_1.jpg?v=1748282112",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-gentlemans-cologne-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389696",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3711,7 +3708,7 @@
             "price": "72.00 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes11_clipped_rev_1.jpg?v=1748282112",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-gentlemans-cologne-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389696",
             "options": {}
           }
         ]
@@ -3725,7 +3722,7 @@
         "price": "£72.00",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes9_clipped_rev_1.jpg?v=1748202594",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-keig-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389705",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3749,7 +3746,7 @@
             "price": "72.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes9_clipped_rev_1.jpg?v=1748202594",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-keig-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389705",
             "options": {}
           }
         ]
@@ -3763,7 +3760,7 @@
         "price": "£33.75",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes28_clipped_rev_1.jpg?v=1747947473",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389716",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3787,7 +3784,7 @@
             "price": "33.75 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes28_clipped_rev_1.jpg?v=1747947473",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389716",
             "options": {}
           }
         ]
@@ -3801,7 +3798,7 @@
         "price": "£26.75",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes34_clipped_rev_1.jpg?v=1747949325",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389737",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3824,7 +3821,7 @@
             "price": "26.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes34_clipped_rev_1.jpg?v=1747949325",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389737",
             "options": {}
           }
         ]
@@ -3838,7 +3835,7 @@
         "price": "£33.75",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes24_clipped_rev_1_1.jpg?v=1747947391",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389747",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3862,7 +3859,7 @@
             "price": "33.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes24_clipped_rev_1_1.jpg?v=1747947391",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389747",
             "options": {}
           }
         ]
@@ -3876,7 +3873,7 @@
         "price": "£26.75",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes1_clipped_rev_1.jpg?v=1747948924",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389759",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3899,7 +3896,7 @@
             "price": "26.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes1_clipped_rev_1.jpg?v=1747948924",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389759",
             "options": {}
           }
         ]
@@ -3913,7 +3910,7 @@
         "price": "£98.00",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes3_clipped_rev_1.jpg?v=1748263868",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-special-reserve-neroli-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389768",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3937,7 +3934,7 @@
             "price": "98.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes3_clipped_rev_1.jpg?v=1748263868",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-special-reserve-neroli-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389768",
             "options": {}
           }
         ]
@@ -3951,7 +3948,7 @@
         "price": "£98.00",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes5_clipped_rev_1.jpg?v=1748367167",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-special-reserve-vetiver-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389791",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3975,7 +3972,7 @@
             "price": "98.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes5_clipped_rev_1.jpg?v=1748367167",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-special-reserve-vetiver-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389791",
             "options": {}
           }
         ]
@@ -3989,7 +3986,7 @@
         "price": "£29.00",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes19_preview_rev_1.jpg?v=1745528528",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-fragrance-collection-discovery-box-01-pure-white-male-grooming-supplies.png?v=1788389799",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -4012,7 +4009,7 @@
             "price": "29.00 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CastleForbes19_preview_rev_1.jpg?v=1745528528",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-fragrance-collection-discovery-box-01-pure-white-male-grooming-supplies.png?v=1788389799",
             "options": {}
           }
         ]
@@ -4026,7 +4023,7 @@
         "price": "£36.25",
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_2-mgs-lossless.webp?v=1784922312",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-pre-shave-150ml-01-pure-white-male-grooming-supplies.png?v=1788389807",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -4050,7 +4047,7 @@
             "price": "36.25 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_2-mgs-lossless.webp?v=1784922312",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-pre-shave-150ml-01-pure-white-male-grooming-supplies.png?v=1788389807",
             "options": {}
           }
         ]
@@ -4841,7 +4838,7 @@
       },
       {
         "name": "Cella Shave Soap 1000g Brick",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Cella Milano",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Cella Shave Soap 1000g Brick is a large Italian shaving soap for traditional wet shaving. It has Cella's almond fragrance and is designed to be used with a shaving brush to build a cushioning lather. The 1000g brick format is suited to high-use settings or customers who want a larger quantity of Cella shaving soap. Cut or scoop a suitable amount into a shaving bowl before lathering. For related options, browse Cella Milano, shaving soap, or pair with a shaving brush. Key Features Large shaving soap: 1000g brick format. Almond scent: Classic Cella almond fragrance. Brush lathering: Designed for use with a shaving brush. Italian shaving soap: Traditional Cella Milano shaving product. For repeated use: Suitable for high-use shaving setups. Specifications Size: 1000g Format: Shaving soap brick Scent: Almond Use With: Shaving brush and shaving bowl Made In: Italy",
         "url": "https://www.malegroomingsupplies.com/products/cella-shave-soap-1000g-brick",
@@ -4855,7 +4852,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Cella Milano",
           "Shaving Essentials",
@@ -5585,7 +5581,7 @@
       },
       {
         "name": "Cyril R. Salter Solid Shaving Soap 70g Refill",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Cyril R. Salter",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Cyril R. Salter Solid Shaving Soap 70g Refill is a tallow-based lavender shaving soap made in England. The 70g size is designed for the Cyril R. Salter scuttle and can also be used from a suitable shaving bowl. Worked with a damp shaving brush, the soap builds a dense lather for safety razor or straight razor shaving. The lavender fragrance has soft herbal, citrus and musky facets, while the formula includes glycerin, aloe vera and vitamin E. For related options, browse Cyril R. Salter, compare more shaving soaps, or pair with a shaving brush and shaving bowl or mug. Key Features Tallow-based shaving soap: Traditional solid soap for brush lathering. Lavender fragrance: Herbal lavender with subtle citrus and musk facets. 70g refill: Sized for the Cyril R. Salter scuttle. Brush lather: Builds lather in a bowl, scuttle or directly on the face. Made in England: Traditional shaving soap format. Specifications Size: 70g / 2.5oz Format: Solid shaving soap refill Fragrance: Lavender Use With: Shaving brush recommended Made In: England How to Use Wet the shaving brush, load soap from the puck, then build lather in a bowl, scuttle or directly on the face before shaving.",
         "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-lavender-shaving-soap-70g",
@@ -5599,7 +5595,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "Cyril R. Salter",
           "New Additions",
           "Shaving Essentials",
@@ -5698,7 +5693,7 @@
       },
       {
         "name": "Cyril R. Salter Tallow Based Lavender Shaving Soap 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Cyril R. Salter",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Cyril R. Salter Tallow Based Lavender Shaving Soap 100g is a solid shaving soap refill made in England. It is designed to be loaded with a damp shaving brush and worked into lather before traditional wet shaving. The lavender fragrance has soft herbal, citrus and musky facets. The formula includes glycerin, aloe vera and vitamin E to help the lather feel comfortable during safety razor or straight razor shaving. For related options, browse Cyril R. Salter, compare more shaving soaps, or pair with a shaving brush and shaving bowl or mug. Key Features Tallow-based shaving soap: Traditional solid soap for brush lathering. Lavender fragrance: Herbal lavender with subtle citrus and musk facets. 100g refill: Suitable for use in a shaving bowl or mug. Brush lather: Builds lather before safety razor or straight razor shaving. Made in England: Traditional shaving soap format. Specifications Size: 100g / 3.5oz Format: Solid shaving soap refill Fragrance: Lavender Use With: Shaving brush recommended Made In: England How to Use Wet the shaving brush, load soap from the puck, then build lather in a bowl or directly on the face before shaving.",
         "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-lavender-shaving-soap-100g",
@@ -5712,7 +5707,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "Cyril R. Salter",
           "New Additions",
           "Shaving Essentials",
@@ -6131,7 +6125,7 @@
       },
       {
         "name": "D.R. Harris Almond Shaving Beech Bowl",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Almond Shaving Soap In Beech Bowl is a traditional triple-milled shaving soap designed to create a rich, creamy lather for a smooth and comfortable wet shave. Made to the fine standards associated with D.R. Harris, this solid white shaving soap has a classic almond fragrance and produces a dense, protective lather when used with a shaving brush. The triple-milled process helps improve the soap’s richness, longevity and lathering performance, making it both effective and economical. Presented in a hand-turned beech wood bowl, it adds a traditional touch to the bathroom while providing a practical home for the shaving soap. The wooden bowl is treated for long-term use and will develop its own character over time. Refill soaps are available, allowing the bowl to be reused for many years. For the matching bowl, see D.R. Harris Almond Shaving Cream 75g and D.R. Harris Almond Shaving Mahogany Bowl 100g. Key Features: Triple-Milled Shaving Soap: Produces a rich, creamy and long-lasting lather. Classic Almond Fragrance: Traditional almond scent for a refined wet shaving experience. Beech Wood Bowl: Hand-turned wooden bowl with an old-fashioned bathroom appeal. Economical Use: Each soap can last for several months with regular use. Refillable Design: Compatible refill soaps are available separately. Brush-Lathering Formula: Designed for use with a shaving brush. Specifications: Product Type: Shaving soap in wooden bowl Fragrance: Almond Soap Type: Solid triple-milled shaving soap Bowl Material: Beech wood Key Ingredients: Sodium tallowate, glycerin and sweet almond oil Use: Wet the beard with warm water, load a wet shaving brush with soap, lather in a bowl or directly on the face, then shave as normal Suitable For: Traditional wet shaving Refills Available: Yes",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-shaving-soap-beech-bowl",
@@ -6145,7 +6139,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -6243,7 +6236,7 @@
       },
       {
         "name": "D.R. Harris Almond Shaving Mahogany Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Almond Shaving Soap In Mahogany Bowl 100g is a traditional triple-milled shaving soap designed to create a rich, creamy lather for a smooth and comfortable wet shave. This solid white shaving soap is scented with a classic almond fragrance, giving the shaving routine a soft, traditional character. The triple-milled formula helps improve the richness, density and longevity of the lather, making it both luxurious and economical. When used with a shaving brush, the soap helps soften the beard and create a protective layer to support smooth razor glide. Each 100g soap can last for several months with regular use, making it a practical choice for traditional wet shaving. Presented in a sustainably sourced mahogany effect sheesham wood bowl, it adds a timeless feature to the bathroom while providing a practical home for the soap. Refill soaps are available, allowing the treated wooden bowl to be reused for many years as it develops its own character. For the matching bowl, see D.R. Harris Almond Shaving Soap Refill 100g and D.R. Harris Almond Shaving Beech Bowl. Key Features: Triple-Milled Shaving Soap: Produces a rich, creamy and long-lasting lather. Almond Fragrance: Classic almond scent with a soft, traditional shaving character. Mahogany Effect Bowl: Made from sustainably sourced sheesham wood. Economical Use: Each 100g soap can last for several months with regular shaving. Refillable Design: Compatible refill soaps are available separately. Brush-Lathering Formula: Designed for use with a shaving brush. Specifications: Product Type: Shaving soap in wooden bowl Size: 100g Fragrance: Almond Soap Type: Solid triple-milled shaving soap Bowl Material: Sustainably sourced mahogany effect sheesham wood Key Ingredients: Sodium tallowate, glycerin and sweet almond oil Use: Wet the beard with warm water, load a wet shaving brush with soap, lather in a bowl or directly on the face, then shave as normal Suitable For: Traditional wet shaving Refills Available: Yes",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-shaving-soap-mahogany-bowl-100g",
@@ -6257,7 +6250,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -6281,7 +6273,7 @@
       },
       {
         "name": "D.R. Harris Almond Shaving Soap Refill 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "This high-quality solid shaving soap is triple-milled in the UK to produce a rich, creamy lather that softens the beard and protects the skin during shaving. Lightly fragranced with a classic almond scent, it provides a traditional and luxurious wet shaving experience. Designed to fit D.R. Harris beech, mahogany, and porcelain shaving bowls, this economical refill will last for several months of regular use. For the matching bowl, see D.R. Harris Almond Shaving Cream 75g and D.R. Harris Almond Shaving Mahogany Bowl 100g. Key Features Triple-milled shaving soap for a rich, long-lasting lather Classic almond fragrance for a warm, comforting shave Fits D.R. Harris beech, mahogany, and porcelain shaving bowls Economical option with each soap lasting several months Made in the UK using traditional methods Specifications Size: 100g refill Fragrance: Soft, sweet almond scent Packaging: Wrapped refill with D.R. Harris branding",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-almond-shaving-soap-refill-100g",
@@ -6295,7 +6287,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -6319,7 +6310,7 @@
       },
       {
         "name": "D.R. Harris Almond Shaving Stick 40g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Almond Shaving Stick 40g is a traditional solid shaving soap in a convenient stick format, ideal for travel and everyday wet shaving. Made using the same high-quality shaving soap found in D.R. Harris wooden shaving bowls, this compact stick produces a rich, creamy lather when worked with water and a shaving brush. The lather helps soften the beard and support smooth razor glide for a comfortable, close shave. Scented with a classic almond fragrance, it offers a soft, traditional grooming character. The practical plastic container makes it easy to store, carry and use when travelling, without needing to pack a full shaving bowl. Apply directly to the damp beard, then build the lather with a wet shaving brush before shaving as normal. For the same almond shaving range, pair it with D.R. Harris Almond Shaving Cream 75g or D.R. Harris Almond Shaving Soap Refill 100g. Key Features: Solid Shaving Stick: Traditional shaving soap in a compact travel format. Almond Fragrance: Classic almond scent with a soft, traditional character. Rich Lather: Helps soften the beard and support comfortable razor glide. Travel Friendly: Practical plastic container for wash bags and trips. Same Soap As Bowl Format: Made using D.R. Harris’s high-quality shaving soap. Brush-Lathering Formula: Designed to be worked into the beard with a wet shaving brush. Specifications: Product Type: Shaving stick Size: 40g Fragrance: Almond Format: Solid shaving soap stick Container: Plastic travel container Key Ingredients: Sodium tallowate, glycerin and sweet almond oil Use: Apply to a damp beard, then lather with a wet shaving brush before shaving Suitable For: Traditional wet shaving and travel",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-shaving-stick-40g",
@@ -6333,7 +6324,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -7122,7 +7112,7 @@
       },
       {
         "name": "D.R. Harris Arlington Shaving Beech Bowl",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "This elegant beech wood bowl contains a solid white shaving soap of exceptional quality, triple-milled in the UK to produce a rich, luxurious lather. Designed to soften the beard and protect the skin, this gentle soap is lightly fragranced with a fresh blend of citrus notes and fern undertones. The hand-turned beech wood bowl adds a traditional touch to any bathroom and is treated to last for many years, developing a unique character over time. Refill soaps are available in all D.R. Harris fragrances. For the matching bowl, see D.R. Harris Arlington Shaving Mahogany Bowl 100g and D.R. Harris Arlington Shaving Soap Refill 100g. Key Features Triple-milled shaving soap for a rich, protective lather Light fragrance with citrus and fern notes Hand-turned beech wood bowl treated for long-lasting use Refill soaps available in multiple fragrances Each soap lasts several months with regular use Specifications Size: 100g soap in beech wood bowl Fragrance: Fresh blend of citrus and fern Packaging: Hand-turned beech wood bowl with D.R. Harris branded soap",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-beech-bowl",
@@ -7136,7 +7126,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -7234,7 +7223,7 @@
       },
       {
         "name": "D.R. Harris Arlington Shaving Mahogany Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A traditional shaving soap presented in a hand-turned mahogany-effect sheesham wood bowl. Triple-milled for a denser, longer-lasting bar, it produces a rich, luxurious lather to soften the beard and protect the skin during shaving. Lightly fragranced with Arlington, a classic blend of citrus and fern. The wooden bowl is designed to last for years and will develop its own unique character with use. Refill soaps are available in all fragrances. To use, wet the beard with warm water, then apply a wet shaving brush to the soap. Lather in a bowl or directly on the face and apply to the beard. For the matching bowl, see D.R. Harris Arlington Shaving Soap Refill 100g and D.R. Harris Arlington Shaving Beech Bowl. Key Features Triple-milled shaving soap for a rich, protective lather Fragranced with citrus and fern for a classic scent Presented in a sustainably sourced mahogany-effect sheesham wood bowl Wooden bowl designed for long-term use and refillable Specifications Size: 100g soap in reusable wooden bowl Packaging: Hand-turned wooden bowl with D.R. Harris branding Made in: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-mahogany-bowl-100g",
@@ -7248,7 +7237,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -7272,7 +7260,7 @@
       },
       {
         "name": "D.R. Harris Arlington Shaving Soap Refill 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Arlington Shaving Soap Refill is a 100g triple-milled solid shaving soap refill with the Arlington citrus and fern fragrance. It is made for D.R. Harris wooden shaving bowls, but can also be used on its own. Work the soap with a damp shaving brush to build lather before shaving. Refill options are also available in Almond, Lavender, Marlborough, Sandalwood and Windsor fragrances. For related products, browse D.R. Harris, compare more shaving soap, or see shaving brushes. Refill only. Key Features Shaving soap refill: 100g replacement puck for D.R. Harris bowls. Triple-milled soap: Dense solid soap for brush lathering. Arlington fragrance: Citrus and fern scent profile. Refill format: Supplied as a soap refill, bowl not included. Specifications Size: 100g Format: Shaving soap refill Fragrance: Arlington, citrus and fern Use With: Shaving brush and compatible D.R. Harris shaving bowl Made In: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-soap-refill-100g",
@@ -7286,7 +7274,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -7310,7 +7297,7 @@
       },
       {
         "name": "D.R. Harris Arlington Shaving Stick",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A convenient and economical shaving soap stick, ideal for travel or daily use. The solid white soap is triple-milled in the UK to create a rich, luxurious lather that softens the beard and protects the skin during shaving. Lightly fragranced with a fresh blend of citrus notes and fern undertones, it provides a clean, classic shaving experience. To use, wet the beard with warm water and apply a wet shaving brush to the stick. Lather directly on the face or in a shaving bowl before applying. Each stick is designed to last for several months with regular use. For the same Arlington range, pair it with D.R. Harris Arlington Cologne or D.R. Harris Arlington Aftershave Milk. Key Features Triple-milled shaving soap for a rich, protective lather Compact stick format, ideal for travel or home use Light fragrance with citrus top notes and subtle fern undertones Long-lasting and economical, with each stick lasting several months Designed for use with a shaving brush Specifications Size: 40g Fragrance: Fresh citrus and fern blend Packaging: Stick format with D.R. Harris branded wrap",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-stick",
@@ -7324,7 +7311,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -7531,7 +7517,8 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -7869,8 +7856,7 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
-          "Hair Styling Products",
-          "Men's Hair Creams & Waxes"
+          "Hair Styling Products"
         ],
         "variants": [
           {
@@ -8087,7 +8073,8 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -8141,7 +8128,8 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -8552,8 +8540,7 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
-          "Hair Styling Products",
-          "Men's Hair Creams & Waxes"
+          "Hair Styling Products"
         ],
         "variants": [
           {
@@ -8716,7 +8703,7 @@
       },
       {
         "name": "D.R. Harris Lavender Shaving Beech Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Lavender Shaving Soap In Beech Bowl 100g is a traditional triple-milled shaving soap designed to create a rich, creamy lather for a smooth and comfortable wet shave. This solid white shaving soap is fragranced with calming lavender, giving the shaving routine a clean, classic and soothing character. The triple-milled formula helps improve the richness, density and longevity of the lather, making it both luxurious and economical. When used with a shaving brush, the soap helps soften the beard and create a protective layer to support smooth razor glide. Each 100g soap can last for several months with regular use, making it a practical choice for traditional wet shaving. Presented in a hand-turned beech wood bowl, it adds a timeless feature to the bathroom while providing a practical home for the soap. Refill soaps are available, allowing the treated wooden bowl to be reused for many years as it develops its own character. For the matching bowl, see D.R. Harris Lavender Shaving Mahogany Bowl 100g and D.R. Harris Lavender Shaving Soap Refill 100g. Key Features: Triple-Milled Shaving Soap: Produces a rich, creamy and long-lasting lather. Lavender Fragrance: Calming, classic scent for a soothing shaving experience. Beech Wood Bowl: Hand-turned wooden bowl with a traditional bathroom look. Economical Use: Each 100g soap can last for several months with regular shaving. Refillable Design: Compatible refill soaps are available separately. Brush-Lathering Formula: Designed for use with a shaving brush. Specifications: Product Type: Shaving soap in wooden bowl Size: 100g Fragrance: Lavender Soap Type: Solid triple-milled shaving soap Bowl Material: Beech wood Key Ingredients: Sodium tallowate, glycerin and fragrance Use: Wet the beard with warm water, load a wet shaving brush with soap, lather in a bowl or directly on the face, then shave as normal Suitable For: Traditional wet shaving Refills Available: Yes",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-lavender-shaving-soap-beech-bowl-100g",
@@ -8730,7 +8717,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -8828,7 +8814,7 @@
       },
       {
         "name": "D.R. Harris Lavender Shaving Mahogany Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A traditional triple-milled shaving soap presented in a hand-turned mahogany-effect sheesham wood bowl. The dense formula creates a rich, luxurious lather that softens the beard and protects the skin during shaving. Lightly fragranced with calming lavender for a soothing, classic shaving experience. The refillable wooden bowl is designed for long-term use and will develop its own unique character over time. Refill soaps are available in all six D.R. Harris fragrances. To use, wet the beard with warm water, apply a damp shaving brush to the soap, and lather in a bowl or directly on the face before shaving. For the matching bowl, see D.R. Harris Lavender Shaving Soap Refill 100g and D.R. Harris Lavender Shaving Beech Bowl 100g. Key Features Triple-milled formula for a dense, protective lather Lightly fragranced with lavender for a calming shave Presented in a sustainable mahogany-effect sheesham wood bowl Wooden bowl designed for long-term use and refillable Specifications Size: 100g soap in reusable wooden bowl Packaging: Hand-turned wooden bowl with D.R. Harris branding Made in: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-mahogany-bowl-100g",
@@ -8842,7 +8828,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -8866,7 +8851,7 @@
       },
       {
         "name": "D.R. Harris Lavender Shaving Soap Refill 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "This triple-milled shaving soap is fragranced with calming lavender and produces a rich, luxurious lather for a smooth and traditional wet shave. Specially crafted for use with a shaving brush, the refill fits perfectly into D.R. Harris Beech, Mahogany, or Ceramic shaving bowls. The high-quality formula is both gentle on the skin and extremely economical, lasting for several months with regular use. A staple for the wet shaving enthusiast. Shaving soap refills are available in six classic fragrances: Almond, Arlington, Lavender, Marlborough, Sandalwood, and Windsor. For the matching bowl, see D.R. Harris Lavender Shaving Beech Bowl 100g and D.R. Harris Lavender Shaving Mahogany Bowl 100g. Key Features: Triple-milled for long-lasting use and rich lather Fragranced with soothing lavender Designed for use with a shaving brush Compatible with all D.R. Harris shaving bowls Made in the UK using traditional methods Specifications: Size: 100g Fragrance: Lavender Fit: Beech, Mahogany or Ceramic Shaving Bowls Made In: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-soap-refill",
@@ -8880,7 +8865,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -8904,7 +8888,7 @@
       },
       {
         "name": "D.R. Harris Lavender Shaving Stick 40g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A convenient shaving stick made with the same high-quality solid shaving soap found in the D.R. Harris wooden bowls. Triple-milled for a dense, long-lasting lather that softens the beard and protects the skin during shaving. Lightly fragranced with a classic lavender scent for a calming and traditional shaving experience. The compact plastic container makes this shaving stick ideal for travel or gym use. For the same Lavender range, pair it with D.R. Harris Lavender Water or D.R. Harris Lavender Shaving Cream Tube 75g. Key Features Triple-milled solid shaving soap in a travel-friendly stick format Lightly fragranced with lavender for a soothing shave Produces a rich, protective lather for wet shaving Perfect for travel or on-the-go grooming Specifications Size: 40g stick Packaging: Plastic twist-up container with D.R. Harris branding Made in: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-stick-40g",
@@ -8918,7 +8902,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -9197,7 +9180,8 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -9532,7 +9516,7 @@
       },
       {
         "name": "D.R. Harris Marlborough Shaving Beech Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A traditional triple-milled shaving soap presented in a hand-turned beech wood bowl, ideal for those who appreciate classic wet shaving. The dense, white soap produces a rich, luxurious lather that softens the beard and cushions the skin for a smooth and comfortable shave. Fragranced with Marlborough, a subtle blend of cedar, sandalwood, and soft woody notes, this soap offers a refined and understated scent. Incredibly economical, each soap lasts for several months of daily use. The reusable wooden bowl is crafted to last for years and develops a character of its own with regular use. Refill soaps are available in all D.R. Harris fragrances. DirectionsWet the beard with warm water. Apply a damp shaving brush to the soap and work into a rich lather in the bowl or directly on the face. For the matching bowl, see D.R. Harris Marlborough Shaving Mahogany Bowl 100g and D.R. Harris Marlborough Shaving Soap Refill 100g. Key Features Triple-milled for a rich, long-lasting lather Subtly fragranced with Marlborough: cedar, sandalwood, and woody notes Presented in a hand-turned beech wood bowl Economical and refillable Specifications Size: 100g shaving soap Packaging: Beech wood bowl with branded lid Skin Type: Suitable for all skin types Made in: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-beech-bowl-100g",
@@ -9546,7 +9530,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -9644,7 +9627,7 @@
       },
       {
         "name": "D.R. Harris Marlborough Shaving Mahogany Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A traditional triple-milled shaving soap presented in a hand-turned mahogany-effect sheesham wood bowl. The dense, high-quality formula produces a rich, luxurious lather that softens the beard and protects the skin during shaving. Lightly fragranced with Marlborough, a subtle blend of woods including cedar and sandalwood. The wooden bowl is designed for long-term use and will develop a unique character over time. Refill soaps are available in all fragrances. To use, wet the beard with warm water, apply a wet shaving brush to the soap, then lather in a bowl or directly on the face before shaving. For the matching bowl, see D.R. Harris Marlborough Shaving Beech Bowl 100g and D.R. Harris Marlborough Shaving Soap Refill 100g. Key Features Triple-milled soap for a rich, protective lather Fragranced with Marlborough: a subtle blend of cedar and sandalwood Presented in a refillable mahogany-effect sheesham wood bowl Wooden bowl designed to last for many years Specifications Size: 100g soap in reusable wooden bowl Packaging: Hand-turned wooden bowl with D.R. Harris branding Made in: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-mahogany-bowl-100g",
@@ -9658,7 +9641,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -9682,7 +9664,7 @@
       },
       {
         "name": "D.R. Harris Marlborough Shaving Soap Refill 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Marlborough Shaving Soap Refill is a 100g triple-milled shaving soap designed to fit D.R. Harris wooden shaving bowls. It produces a dense lather when worked with a shaving brush and is suited to traditional wet shaving. The Marlborough fragrance is a woody D.R. Harris scent with cedar, sandalwood and subtle spice notes. The refill format is useful when replacing a finished soap puck while keeping the original bowl. For the matching bowl, see the D.R. Harris Marlborough Shaving Beech Bowl. You can also browse D.R. Harris, shaving soaps and shaving creams. Key Features Shaving soap refill: Made to fit D.R. Harris wooden shaving bowls. Triple-milled soap: Produces a dense lather with a shaving brush. Marlborough fragrance: Woody cedar, sandalwood and spice notes. Traditional wet shaving: Suitable for use before safety razor or straight razor shaving. Specifications Size: 100g Format: Solid shaving soap refill puck Fragrance: Marlborough Compatibility: D.R. Harris wooden shaving bowls Made In: United Kingdom How to Use Wet the brush with warm water, load the soap from the puck, then build lather in a bowl or directly on the face before shaving.",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-soap-refill-100g",
@@ -9696,7 +9678,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -9720,7 +9701,7 @@
       },
       {
         "name": "D.R. Harris Marlborough Shaving Stick",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Marlborough Shaving Stick is a 40g solid shaving soap in a plastic twist-up container. It uses the same style of soap found in D.R. Harris shaving bowls, with the Marlborough cedar and sandalwood fragrance. Rub the stick onto damp beard growth, then work with a damp shaving brush to build lather. The compact format is practical for travel or for customers who prefer to lather directly on the face. For the same fragrance family, pair it with D.R. Harris Marlborough Aftershave or D.R. Harris Marlborough Cologne, or browse shaving soap. Key Features Shaving stick: 40g solid shaving soap in a twist-up container. Brush lather: Designed for use with a damp shaving brush. Marlborough fragrance: Cedar and sandalwood scent profile. Travel format: Compact container for lathering directly on the face. Specifications Size: 40g Format: Solid shaving soap stick Fragrance: Marlborough, cedar and sandalwood Packaging: Plastic twist-up container Made In: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-stick",
@@ -9734,7 +9715,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -9775,7 +9755,8 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
-          "Shampoo & Conditioner"
+          "Shampoo & Conditioner",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -11094,7 +11075,7 @@
       },
       {
         "name": "D.R. Harris Sandalwood Shaving Beech Bowl",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Sandalwood Shaving Soap In Beech Bowl is a traditional triple-milled shaving soap designed to create a rich, creamy lather for a smooth and comfortable wet shave. Made to the fine standards associated with D.R. Harris, this solid white shaving soap is fragranced with Sandalwood, a classic gentleman’s scent with warm, exotic and spicy notes. The fragrance includes notes of eucalyptus, bergamot, camphor, clove and vetiver, creating a refined shaving experience with a traditional character. The triple-milled soap produces a dense, protective lather when used with a shaving brush, helping to soften the beard and support comfortable razor glide. It is also highly economical, with each soap lasting for several months with regular use. Presented in a hand-turned beech wood bowl, it adds a classic feature to the bathroom while providing a practical home for the soap. Refill soaps are available, and the treated wooden bowl is designed to last for many years, developing its own character over time. For the matching bowl, see D.R. Harris Sandalwood Shaving Cream Tube 75g and D.R. Harris Sandalwood Shaving Mahogany Bowl. Key Features: Triple-Milled Shaving Soap: Creates a rich, creamy and long-lasting lather. Sandalwood Fragrance: Classic gentleman’s scent with warm, spicy and aromatic notes. Beech Wood Bowl: Hand-turned wooden bowl with a traditional bathroom look. Economical Use: Each soap can last for several months with regular shaving. Refillable Design: Compatible refill soaps are available separately. Brush-Lathering Formula: Designed for use with a shaving brush. Specifications: Product Type: Shaving soap in wooden bowl Fragrance: Sandalwood Fragrance Notes: Eucalyptus, bergamot, camphor, clove and vetiver Soap Type: Solid triple-milled shaving soap Bowl Material: Beech wood Key Ingredients: Sodium tallowate, glycerin and fragrance Use: Wet the beard with warm water, load a wet shaving brush with soap, lather in a bowl or directly on the face, then shave as normal Suitable For: Traditional wet shaving Refills Available: Yes",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-sandalwood-shaving-soap-beech-bowl",
@@ -11108,7 +11089,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -11206,7 +11186,7 @@
       },
       {
         "name": "D.R. Harris Sandalwood Shaving Mahogany Bowl",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A traditional shaving essential featuring a high-quality triple-milled sandalwood shaving soap presented in a handcrafted mahogany-effect sheesham wood bowl. This luxurious soap creates a rich, creamy lather and is fragranced with Sandalwood, a classic Gentleman's scent with warm, exotic notes of eucalyptus, bergamot, camphor, clove and vetiver, all derived from natural oils. Economical and long-lasting, each 100g soap bar is designed to provide months of excellent shaving performance. The durable wooden bowl adds a timeless touch to your grooming setup and is designed to age beautifully with continued use. Refill soaps are available in all six D.R. Harris fragrances. For the matching bowl, see D.R. Harris Sandalwood Shaving Beech Bowl and D.R. Harris Sandalwood Shaving Cream Tube 15ml. Key Features: Triple-milled soap for dense, luxurious lather Classic sandalwood scent with natural aromatic oils Mahogany-effect wooden bowl for traditional presentation Long-lasting and refillable Ideal for use with a quality shaving brush Specifications: Soap Size: 100g Bowl Material: Mahogany-effect sheesham wood Product Format: Solid soap in refillable bowl Country of Origin: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-mahogany-bowl",
@@ -11220,7 +11200,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -11244,7 +11223,7 @@
       },
       {
         "name": "D.R. Harris Sandalwood Shaving Soap Refill 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Sandalwood Shaving Soap Refill 100g is a traditional solid shaving soap, triple-milled to create a rich, creamy lather with excellent cushioning for a close and comfortable wet shave. This economical 100g shaving soap refill is designed to fit D.R. Harris beech and mahogany shaving bowls, making it ideal for replacing a finished puck without needing to buy a new bowl. The classic Sandalwood fragrance gives the shave a warm, refined character, with a traditional scent profile suited to daily use. Use with a quality shaving brush to build a dense lather before shaving. Key Features Triple-milled shaving soap for a rich, creamy lather Warm Sandalwood fragrance with a traditional masculine character 100g refill puck designed for D.R. Harris beech and mahogany bowls Economical format that lasts for several months with regular use Best used with a shaving brush for proper lather building Specifications Brand: D.R. Harris Type: Shaving soap refill Size: 100g Format: Solid shaving soap puck Fragrance: Sandalwood Compatibility: Fits D.R. Harris beech and mahogany shaving bowls",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-soap-refill-100g",
@@ -11258,7 +11237,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -11282,7 +11260,7 @@
       },
       {
         "name": "D.R. Harris Sandalwood Shaving Stick 40g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Sandalwood Shaving Stick is a 40g solid shaving soap in a plastic twist-up container. It uses the same style of soap found in D.R. Harris wooden shaving bowls, with the Sandalwood woody and spicy fragrance. Rub the stick onto damp beard growth, then work with a damp shaving brush to build lather. It can also be loaded directly from the stick onto a brush when preferred. For the same fragrance family, browse D.R. Harris, compare more shaving soap, or see shaving brushes. Key Features Shaving stick: 40g solid shaving soap in a twist-up container. Brush lather: Designed for use with a damp shaving brush. Sandalwood fragrance: Warm woody and spicy scent profile. Travel format: Compact container for direct face lathering. Specifications Size: 40g Format: Solid shaving soap stick Fragrance: Sandalwood Packaging: Plastic twist-up stick Made In: United Kingdom",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-stick",
@@ -11296,7 +11274,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -11482,7 +11459,8 @@
           "New Additions",
           "Hair & Body",
           "D.R. Harris",
-          "Shampoo & Conditioner"
+          "Shampoo & Conditioner",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -12273,7 +12251,7 @@
       },
       {
         "name": "D.R. Harris Windsor Shaving Beech Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Windsor Shaving Soap In Beech Bowl 100g is a traditional triple-milled shaving soap designed to create a rich, creamy lather for a smooth and comfortable wet shave. This solid white shaving soap is fragranced with Windsor, a fresh and complex scent that opens with bright citrus and grapefruit notes before developing into warmer tones of black pepper and vetiver. Refined and distinctive, it brings a classic yet modern character to the shaving routine. The triple-milled formula helps improve the richness, density and longevity of the lather. When used with a shaving brush, it softens the beard and creates a protective layer to support smooth razor glide. Incredibly economical, each soap can last for several months with regular use. Presented in a hand-turned beech wood bowl, it adds a traditional feature to the bathroom while providing a practical home for the soap. Refill soaps are available, allowing the treated wooden bowl to be reused for many years as it develops its own character. For the matching bowl, see D.R. Harris Windsor Shaving Cream Bowl 150g and D.R. Harris Windsor Shaving Cream Tube 75g. Key Features: Triple-Milled Shaving Soap: Produces a rich, creamy and long-lasting lather. Windsor Fragrance: Fresh citrus and grapefruit opening with black pepper and vetiver. Beech Wood Bowl: Hand-turned wooden bowl with a traditional bathroom look. Economical Use: Each 100g soap can last for several months with regular shaving. Refillable Design: Compatible refill soaps are available separately. Brush-Lathering Formula: Designed for use with a shaving brush. Specifications: Product Type: Shaving soap in wooden bowl Size: 100g Fragrance: Windsor Fragrance Notes: Citrus, grapefruit, black pepper and vetiver Soap Type: Solid triple-milled shaving soap Bowl Material: Beech wood Key Ingredients: Sodium tallowate, glycerin and fragrance Use: Wet the beard with warm water, load a wet shaving brush with soap, lather in a bowl or directly on the face, then shave as normal Suitable For: Traditional wet shaving Refills Available: Yes",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-shaving-soap-100g-in-beech-wood-bowl-for-wet-shaving",
@@ -12287,7 +12265,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -12385,7 +12362,7 @@
       },
       {
         "name": "D.R. Harris Windsor Shaving Mahogany Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Windsor Shaving Soap In Mahogany Bowl 100g is a traditional triple-milled shaving soap designed to create a rich, creamy lather for a smooth and comfortable wet shave. This solid white shaving soap is fragranced with Windsor, a fresh and complex scent that opens with bright citrus and grapefruit notes before developing into warmer tones of black pepper and vetiver. Refined and distinctive, it gives the shaving routine a classic yet modern character. The triple-milled formula helps improve the richness, density and longevity of the lather. When used with a shaving brush, it softens the beard and creates a protective layer to support smooth razor glide. Incredibly economical, each soap can last for several months with regular use. Presented in a sustainably sourced mahogany effect sheesham wood bowl, it adds a traditional feature to the bathroom while providing a practical home for the soap. Refill soaps are available, allowing the treated wooden bowl to be reused for many years as it develops its own character. For the matching bowl, see D.R. Harris Windsor Shaving Beech Bowl 100g and D.R. Harris Windsor Shaving Soap Refill 100g. Key Features: Triple-Milled Shaving Soap: Produces a rich, creamy and long-lasting lather. Windsor Fragrance: Fresh citrus and grapefruit opening with black pepper and vetiver. Mahogany Effect Bowl: Made from sustainably sourced sheesham wood. Economical Use: Each 100g soap can last for several months with regular shaving. Refillable Design: Compatible refill soaps are available separately. Brush-Lathering Formula: Designed for use with a shaving brush. Specifications: Product Type: Shaving soap in wooden bowl Size: 100g Fragrance: Windsor Fragrance Notes: Citrus, grapefruit, black pepper and vetiver Soap Type: Solid triple-milled shaving soap Bowl Material: Sustainably sourced mahogany effect sheesham wood Key Ingredients: Sodium tallowate, glycerin and fragrance Use: Wet the beard with warm water, load a wet shaving brush with soap, lather in a bowl or directly on the face, then shave as normal Suitable For: Traditional wet shaving",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-windsor-shaving-mahogany-bowl",
@@ -12399,7 +12376,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -12423,7 +12399,7 @@
       },
       {
         "name": "D.R. Harris Windsor Shaving Soap Refill 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "D.R. Harris Windsor Shaving Soap Refill 100g is a traditional triple-milled shaving soap designed to create a rich, creamy lather for a smooth and comfortable wet shave. This solid white refill soap is fragranced with Windsor, a refined blend of citrus, vetyver and black pepper. Fresh, warm and quietly sophisticated, it gives the shaving routine a classic yet modern character. The triple-milled formula helps improve the richness, density and longevity of the lather. When used with a shaving brush, it softens the beard and creates a protective layer to support smooth razor glide. Incredibly economical, each soap can last for several months with regular use. Designed to fit D.R. Harris Beech, Mahogany or Ceramic Shaving Bowls, this 100g refill is ideal for replacing a finished soap while continuing to use your existing bowl. For the matching bowl, see D.R. Harris Windsor Shaving Mahogany Bowl 100g and D.R. Harris Windsor Shaving Beech Bowl 100g. Key Features: Triple-Milled Shaving Soap: Produces a rich, creamy and long-lasting lather. Windsor Fragrance: Classic blend of citrus, vetyver and black pepper. Refill Format: Designed for use in D.R. Harris shaving bowls. Economical Use: Each soap can last for several months with regular shaving. Brush-Lathering Formula: Works best with a wet shaving brush. Traditional Wet Shaving: Helps soften the beard for a smoother, more comfortable shave. Specifications: Product Type: Shaving soap refill Size: 100g Fragrance: Windsor Fragrance Notes: Citrus, vetyver and black pepper Soap Type: Solid triple-milled shaving soap Compatible With: D.R. Harris Beech, Mahogany and Ceramic Shaving Bowls Key Ingredients: Sodium tallowate, glycerin and fragrance Use: Wet the beard with warm water, load a wet shaving brush with soap, lather in a bowl or directly on the face, then shave as normal Suitable For: Traditional wet shaving Other Fragrances Available: Almond, Arlington, Lavender, Marlborough and Sandalwood",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-windsor-shaving-soap-refill-100g",
@@ -12437,7 +12413,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -12461,7 +12436,7 @@
       },
       {
         "name": "D.R. Harris Windsor Shaving Stick 40g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > D.R. Harris",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "A compact and convenient shaving stick crafted from the same high-quality solid shaving soap used in D.R. Harris’s wooden shaving bowls. Perfect for travel or daily use, this triple-milled soap produces a rich, protective lather to soften the beard and ensure a smooth, comfortable shave. Lightly fragranced with Windsor, a sophisticated blend that opens with fresh citrus and evolves into warm leathery notes with hints of black pepper and vetiver. For the same Windsor range, pair it with D.R. Harris Windsor Aftershave Milk or D.R. Harris Windsor Eau de Toilette. Key Features Triple-milled formula for a luxurious lather Compact design ideal for travel Scented with the refined Windsor fragrance Long-lasting and economical Specifications Size: 40g solid shaving stick Packaging: Plastic twist-up container with D.R. Harris branding Skin Type: Suitable for all skin types",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-shaving-stick-40g",
@@ -12475,7 +12450,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
@@ -13880,7 +13854,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "DOVO Solingen Razors & Shavettes",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -15677,7 +15650,7 @@
       },
       {
         "name": "Floris Elite Shaving Bowl Refill 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Floris London",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Floris Elite Shaving Soap Refill is a triple-milled shaving soap designed for use with the Floris wooden shaving bowl. Enriched with shea butter, this formulation creates a rich, creamy lather that cushions the skin and allows for a smooth, close shave. Crafted to minimise nicks and irritation, this soap provides a refined shaving experience and ensures your grooming routine remains both effective and elegant. Lightly scented with Elite, the fragrance opens with bergamot, lemon, and orange, accented by juniper berry and cedar leaf, and warms into a heart of lavender, bay, and fir balsam. A deep base of moss, patchouli, leather, amber, and musk gives the scent lasting character. Introduced in 1979, Elite remains a signature of British sophistication. Key Features: Triple-milled soap refill for shaving bowls Enriched with shea butter for a rich lather Lightly scented with the classic Elite fragrance Designed to soften hair and protect skin while shaving Compatible with all Floris wooden shaving bowls Specifications: Weight: 100g Application: Lather with shaving brush and apply to clean, damp skin Skin benefits: Softens, cushions, and protects Fragrance family: Woody, green, citrus Made in the United Kingdom Floris Elite Shaving Soap Refill is the perfect way to maintain a traditional shaving ritual without compromising on performance or scent.",
         "url": "https://www.malegroomingsupplies.com/products/floris-elite-shaving-bowl-refill-100g",
@@ -15691,7 +15664,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Floris London",
           "Shaving Essentials",
@@ -15715,7 +15687,7 @@
       },
       {
         "name": "Floris Elite Shaving Soap In Wooden Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Floris London",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Floris Elite Shaving Soap is a triple-milled, shea butter-infused soap that produces a rich, creamy lather to cushion and protect the skin during shaving. Designed to soften facial hair and prepare the skin, this formulation allows the blade to glide smoothly, reducing the risk of nicks, cuts, and irritation. Presented in a reusable wooden shaving bowl crafted from renewable sources, it offers both practicality and elegance at the sink. Lightly fragranced with the signature Elite scent, the experience is as refined as the result. Elite opens with bergamot, lemon, orange, and cedar leaf, warmed by juniper berry, bay, lavender, and fir balsam, and settles into a rich base of moss, amber, patchouli, leather, and musk. Created in 1979, Elite has since become a signature in the Floris collection, blending green, woody, and citrus notes with timeless character. Key Features: Triple-milled shaving soap with shea butter Creates a rich lather for a smooth, close shave Lightly scented with the classic Elite fragrance Presented in a polished wooden bowl Bowl crafted from renewable sources Specifications: Weight: 100g Use: Lather with brush and apply to wet skin Skin benefits: Cushions, softens, and protects Fragrance family: Woody, green, citrus Made in the United Kingdom A traditional grooming staple with a refined finish, Floris Elite Shaving Soap delivers performance, scent, and presentation in one.",
         "url": "https://www.malegroomingsupplies.com/products/floris-elite-shaving-soap-wooden-bowl-100g",
@@ -15729,7 +15701,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Floris London",
           "Shaving Essentials",
@@ -15977,7 +15948,7 @@
       },
       {
         "name": "Floris No.89 Shaving Bowl Refill 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Floris London",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Floris No.89 Shaving Soap Refill is a triple-milled shaving soap enriched with shea butter to create a rich, creamy lather that cushions the skin and enhances razor glide. Designed to fit into the Floris wooden shaving bowl, this refill provides a smooth, close shave while maintaining the elegance of a classic grooming routine. Lightly scented with the iconic No.89 fragrance, it blends bergamot, orange, lavender, and neroli, followed by warming nutmeg and a floral heart of geranium, rose, and ylang ylang. The scent settles into a sophisticated base of sandalwood, cedarwood, vetiver, musk, and oakmoss. Known for its refined British character, No.89 was famously used by Daniel Craig as James Bond in Skyfall. Key Features: Triple-milled shaving soap with shea butter Refill for Floris wooden shaving bowl Produces a protective lather for a clean, precise shave Lightly scented with the classic No.89 cologne Inspired by Floris heritage and featured in James Bond Specifications: Weight: 100g Application: Lather with a brush on damp skin Skin benefits: Softens hair, reduces irritation, smooths skin Fragrance family: Citrus, floral, woody Made in the United Kingdom Floris No.89 Shaving Bowl Refill is a heritage grooming staple with timeless appeal and cinematic style.",
         "url": "https://www.malegroomingsupplies.com/products/floris-no89-shaving-bowl-refill-100g",
@@ -15991,7 +15962,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Floris London",
           "Shaving Essentials",
@@ -16052,7 +16022,7 @@
       },
       {
         "name": "Floris No.89 Shaving Soap In A Wooden Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Floris London",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Floris No.89 Shaving Soap is a triple-milled formula enriched with shea butter, designed to produce a rich, creamy lather for a smooth and comfortable shave. This shaving soap allows the razor to glide effortlessly across the skin, helping to minimise nicks and irritation. Housed in a reusable wooden shaving bowl crafted from renewable sources, this grooming essential combines traditional form with modern functionality. Lightly fragranced with the signature No.89 scent, it brings both performance and polish to your routine. The fragrance opens with bergamot, orange, lavender, and neroli, warmed by nutmeg, and followed by a heart of geranium, rose, and ylang ylang. The base settles into classic notes of sandalwood, cedarwood, vetiver, musk, and oakmoss. Introduced in 1951, No.89 is steeped in Floris heritage and was famously featured in the film Skyfall, used by Daniel Craig as James Bond. Key Features: Triple-milled shaving soap with moisturising shea butter Creates a rich lather for a clean, comfortable shave Lightly scented with the iconic No.89 fragrance Presented in a handcrafted wooden bowl Bowl made from renewable wood sources Specifications: Weight: 100g Application: Lather with brush and apply to damp skin Skin benefits: Softens, protects, reduces irritation Fragrance family: Citrus, floral, woody Made in the United Kingdom Floris No.89 Shaving Soap is a refined grooming classic, favoured by gentlemen for generations and recognised by Bond himself.",
         "url": "https://www.malegroomingsupplies.com/products/floris-no89-shaving-soap-wooden-bowl-100g",
@@ -16066,7 +16036,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Floris London",
           "Shaving Essentials",
@@ -18065,7 +18034,7 @@
       },
       {
         "name": "Martin De Candre Absinthe Shaving Soap",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Martin De Candre",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Martin De Candre Absinthe Shaving Soap is a traditional French shaving soap created to mark the brand’s 500th anniversary. Made using vegetable oils and traditional cauldron methods, it produces a dense, creamy lather that delivers excellent glide, cushion, and control for a close, comfortable shave. The Absinthe fragrance is fresh, cool, and herbaceous, with distinctive aniseed character. Green notes lead into star anise and fennel, balanced by subtle mint and a gentle bitterness that recalls the classic absinthe profile. When used with a shaving brush, the soap prepares and protects the skin throughout shaving, leaving it smooth, refreshed, and well conditioned. Available in multiple formats, the 200g Classic jar is designed for long-term daily use, the 50g Travel size offers convenience away from home, and the Sample Envelope allows users to experience both the fragrance and lather performance before selecting a full size. Key Features: Traditional Shaving Soap made using vegetable oils Rich, Creamy Lather providing excellent glide and cushion Absinthe Fragrance with green, aniseed, and herbaceous notes Highly Economical with minimal product required per shave Vegan And Natural formulation Handmade In France using traditional cauldron methods Shaving Brush Required to achieve optimal lather Specifications: Formats: 200g Classic jar, 50g Travel size, Sample Envelope Sample Envelope: Single-use soap-infused sheet providing approximately 8 to 12 shaves Packaging (200g): PETG cosmetic-grade plastic jar with aluminium lid Usage: Lather with a damp shaving brush on wet skin, then shave as normal Longevity: 200g size typically lasts at least one year with daily shaving; 50g size approximately 4 to 6 months Country of manufacture: France Formula: Vegan, vegetable oil based Blade note: Not recommended for use with blades featuring lubricating strips",
         "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-absinthe-shaving-soap",
@@ -18079,7 +18048,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Martin De Candre",
           "Shaving Essentials",
@@ -18135,7 +18103,7 @@
       },
       {
         "name": "Martin De Candre Agrumes (Citrus) Shaving Soap",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Martin De Candre",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Martin De Candre Agrumes Shaving Soap is a traditional French shaving soap featuring a bright, fresh citrus fragrance built around grapefruit, bergamot, and lemon. Crafted using vegetable oils and matured over several months, it produces a dense, creamy lather that delivers excellent glide, cushion, and control for a close, comfortable shave. The Agrumes scent is lively and clean, combining zesty citrus notes with subtle green freshness for an energising yet refined shave. When used with a shaving brush, the soap prepares and protects the skin throughout shaving, leaving it smooth, refreshed, and well conditioned. Available in multiple formats, the 200g Classic jar is designed for long-term daily use, the 50g Travel size offers convenience away from home, and the Sample Envelope allows users to experience the fragrance and lather performance before selecting a full size. Key Features: Traditional Shaving Soap made using vegetable oils Rich, Creamy Lather providing excellent glide and cushion Citrus Fragrance with grapefruit, bergamot, and lemon notes Highly Economical with minimal product required per shave Vegan And Natural formulation Handmade In France using traditional cauldron methods Shaving Brush Required to achieve optimal lather Specifications: Formats: 200g Classic jar, 50g Travel size, Sample Envelope Sample Envelope: Single-use soap-infused sheet providing approximately 8 to 12 shaves Packaging (200g): PETG cosmetic-grade plastic jar with aluminium lid Usage: Lather with a damp shaving brush on wet skin, then shave as normal Longevity: 200g size typically lasts at least one year with daily shaving Country of manufacture: France Formula: Vegan, vegetable oil based Blade note: Not recommended for use with blades featuring lubricating strips",
         "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-agrumes-shaving-soap",
@@ -18149,7 +18117,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Martin De Candre",
           "Shaving Essentials",
@@ -18205,7 +18172,7 @@
       },
       {
         "name": "Martin De Candre Fougere (Fern) Shaving Soap",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Martin De Candre",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Martin De Candre Fougère Shaving Soap is a traditional French shaving soap offering a classic barbershop-style fragrance with green, aromatic, and lightly woody character. Crafted using vegetable oils and matured over several months, it produces a dense, creamy lather that provides excellent glide, cushioning, and control for a close, comfortable shave. The Fougère fragrance is built around a balanced blend of essential oils, opening fresh and aromatic before settling into a refined woody base. When used with a shaving brush, the soap prepares and protects the skin throughout shaving, leaving it feeling smooth and well conditioned. Available in several formats, the Classic 200g jar is designed for long-term daily use, the 50g Travel size offers convenience when away from home, and the Sample Envelope allows users to experience the fragrance and lather performance before selecting a full size. Key Features: Traditional Shaving Soap made using vegetable oils Rich, Creamy Lather providing excellent glide and cushion Fougère Fragrance with fresh aromatic notes and a woody base Highly Economical with minimal product required per shave Vegan And Natural formulation Handmade In France using traditional cauldron methods Shaving Brush Required to achieve optimal lather Specifications: Formats: 200g Classic jar, 50g Travel size, Sample Envelope Sample Envelope: Single-use soap-infused sheet providing approximately 8 to 12 shaves Packaging (200g): PETG cosmetic-grade plastic jar with aluminium lid Usage: Lather with a damp shaving brush on wet skin, then shave as normal Longevity: 200g size typically lasts at least one year with daily shaving Country of manufacture: France Formula: Vegan, vegetable oil based Blade note: Not recommended for use with blades featuring lubricating strips",
         "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-fougere-shaving-soap",
@@ -18219,7 +18186,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Martin De Candre",
           "Shaving Essentials",
@@ -18275,7 +18241,7 @@
       },
       {
         "name": "Martin De Candre Magellan Shaving Soap",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Martin De Candre",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Martin De Candre Magellan Shaving Soap is a traditional French shaving soap created to mark the brand’s 500th anniversary. Crafted using vegetable oils and traditional cauldron methods, it produces a dense, creamy lather that delivers excellent glide, cushion, and control for a close, comfortable shave. The Magellan fragrance is warm, spiced, and aromatic, inspired by historic spice routes. Fresh herbal notes lead into a rich heart of clove and cinnamon, before settling into a smooth, woody, and ambery base. When used with a shaving brush, the soap prepares and protects the skin throughout shaving, leaving it smooth, calm, and well conditioned. Available in several formats, the 200g Classic jar is designed for long-term daily use, the 50g Travel size offers convenience away from home, and the Sample Envelope allows users to experience the fragrance and lather performance before selecting a full size. Key Features: Traditional Shaving Soap made using vegetable oils Rich, Creamy Lather providing excellent glide and cushion Warm Spiced Fragrance with herbal, woody, and ambery notes Highly Economical with minimal product required per shave Vegan And Natural formulation Handmade In France using traditional cauldron methods Shaving Brush Required to achieve optimal lather Specifications: Formats: 200g Classic jar, 50g Travel size, Sample Envelope Sample Envelope: Single-use soap-infused sheet providing approximately 8 to 12 shaves Packaging (200g): PETG cosmetic-grade plastic jar with aluminium lid Usage: Lather with a damp shaving brush on wet skin, then shave as normal Longevity: 200g size typically lasts at least one year with daily shaving Country of manufacture: France Formula: Vegan, vegetable oil based Blade note: Not recommended for use with blades featuring lubricating strips",
         "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-magellan-shaving-soap",
@@ -18289,7 +18255,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Martin De Candre",
           "Shaving Essentials",
@@ -18345,7 +18310,7 @@
       },
       {
         "name": "Martin De Candre Natural Unscented Shaving Soap",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Martin De Candre",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Martin De Candre Natural Shaving Soap is a fragrance-free shaving soap developed for sensitive skin while delivering a close, comfortable, and precise shave. Crafted using only vegetable oils, it produces a dense, creamy lather that provides excellent glide and protection throughout shaving. The Nature formula focuses on purity and performance, using a minimal ingredient composition to create a soft, cushioning lather without added fragrance. When used with a shaving brush, it helps prepare, soften, and protect the skin, leaving it calm and comfortable after shaving. Available in multiple formats, the Classic 200g jar is designed for long-term daily use, the 50g Travel size offers convenience when away from home, and the Sample Envelope allows users to experience the soap’s lather and performance before choosing a full size. Key Features: Fragrance Free Shaving Soap suitable for sensitive skin Vegetable Oil Based Formula producing a rich, creamy lather Excellent Glide And Cushion for a close, controlled shave Highly Economical with minimal product required per use Vegan And Natural formulation Handmade In France using traditional cauldron methods Shaving Brush Required to create optimal lather Specifications: Formats: 200g Classic jar, 50g Travel size, Sample Envelope Sample Envelope: Single-use soap-infused sheet providing approximately 8 to 12 shaves Packaging (200g): PETG cosmetic-grade plastic jar with aluminium lid Usage: Lather with a damp shaving brush and apply to pre-moistened skin Longevity: 200g size typically lasts at least one year with daily shaving Country of manufacture: France Formula: Vegan, vegetable oil based, fragrance free Blade note: Not recommended for use with blades featuring lubricating strips",
         "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-natural-shaving-soap",
@@ -18359,7 +18324,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Martin De Candre",
           "Shaving Essentials",
@@ -18415,7 +18379,7 @@
       },
       {
         "name": "Martin De Candre Original Shaving Soap",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Martin De Candre",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Martin De Candre Original Shaving Soap is a traditional hard shaving soap crafted using time-honoured methods in France. Made exclusively from vegetable oils, it produces a dense, creamy lather that provides excellent glide and protection for a close, controlled shave. The Original fragrance combines aromatic notes of lavender, mint, and rosemary, creating a clean, fresh scent profile that remains subtle during use. The soap is highly economical, requiring only a small amount to generate a rich lather when used with a shaving brush, helping prepare and protect the skin throughout the shave. Available in multiple formats, the Classic 200g jar is designed for long-term daily use, while the 50g travel size offers convenience without compromising performance. A sample envelope option allows users to experience the lather and fragrance before committing to a full size. Key Features: Traditional Shaving Soap made using vegetable oils Rich Protective Lather for a close and precise shave Original Fragrance with lavender, mint, and rosemary notes Highly Economical Formula requiring minimal product per shave Vegan And Natural formulation Handmade In France using traditional cauldron production Shaving Brush Required to create optimal lather Specifications: Formats: 200g Classic jar, 50g Travel size, Sample Envelope Sample Envelope: Soap-impregnated sheet providing approximately 8 to 12 shaves Packaging (200g): PETG cosmetic-grade plastic jar with aluminium lid Usage: Lather with a shaving brush on wet skin, then shave as normal Longevity: 200g size typically lasts at least one year with daily shaving Country of manufacture: France Formula: Vegetable oil based, vegan Blade note: Not recommended for use with blades featuring lubricating strips",
         "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-original-shaving-soap",
@@ -18429,7 +18393,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Martin De Candre",
           "Shaving Essentials",
@@ -18485,7 +18448,7 @@
       },
       {
         "name": "Martin De Candre Rose Shaving Soap",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Martin De Candre",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Martin De Candre Rose Shaving Soap is a traditional French shaving soap offering a refined floral profile built around the freshness and softness of rose. Crafted using vegetable oils and matured over several months, it produces a dense, creamy lather that provides excellent glide, cushion, and protection for a close, comfortable shave. The Rose fragrance is luminous and balanced, combining fresh floral notes with gentle warmth and subtle depth. It remains elegant and controlled during use, complementing the shave without overpowering it. When used with a shaving brush, the soap helps prepare and protect the skin, leaving it smooth, calm, and well conditioned after shaving. Available in multiple formats, the 200g Classic jar is designed for long-term daily use, while the 50g Travel size offers convenience away from home. Key Features: Traditional Shaving Soap made using vegetable oils Rich, Creamy Lather delivering excellent glide and cushion Rose Fragrance with fresh floral notes and gentle warmth Highly Economical with minimal product required per shave Vegan And Natural formulation Handmade In France using traditional cauldron methods Shaving Brush Required to achieve optimal lather Specifications: Formats: 200g Classic jar, 50g Travel size Packaging (200g): PETG cosmetic-grade plastic jar with aluminium lid Usage: Lather with a damp shaving brush on wet skin, then shave as normal Longevity: 200g size typically lasts at least one year with daily shaving Country of manufacture: France Formula: Vegan, vegetable oil based Blade note: Not recommended for use with blades featuring lubricating strips",
         "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-rose-shaving-soap",
@@ -18499,7 +18462,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Martin De Candre",
           "Shaving Essentials",
@@ -18555,7 +18517,7 @@
       },
       {
         "name": "Martin De Candre Vetiver Shaving Soap",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Martin De Candre",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Martin De Candre Vetiver Shaving Soap is a traditional French shaving soap defined by a refined vetiver fragrance with fresh, green, and woody character. Crafted using vegetable oils and matured over several months, it produces a dense, creamy lather that delivers excellent glide, cushion, and control for a close, comfortable shave. The Vetiver scent balances natural freshness with earthy depth, creating an elegant profile that remains present without overpowering the shave. When used with a shaving brush, the soap prepares and protects the skin throughout shaving, leaving it smooth, calm, and well conditioned. Available in multiple formats, the 200g Classic jar is designed for long-term daily use, the 50g Travel size offers convenience away from home, and the Sample Envelope allows users to experience both the fragrance and lather performance before selecting a full size. Key Features: Traditional Shaving Soap made using vegetable oils Rich, Creamy Lather providing excellent glide and cushion Vetiver Fragrance with fresh green notes and earthy depth Highly Economical with minimal product required per shave Vegan And Natural formulation Handmade In France using traditional cauldron methods Shaving Brush Required to achieve optimal lather Specifications: Formats: 200g Classic jar, 50g Travel size, Sample Envelope Sample Envelope: Single-use soap-infused sheet providing approximately 8 to 12 shaves Packaging (200g): PETG cosmetic-grade plastic jar with aluminium lid Usage: Lather with a damp shaving brush on wet skin, then shave as normal Longevity: 200g size typically lasts at least one year with daily shaving; 50g size approximately 4 to 6 months Country of manufacture: France Formula: Vegan, vegetable oil based Blade note: Not recommended for use with blades featuring lubricating strips",
         "url": "https://www.malegroomingsupplies.com/products/martin-de-candre-vetiver-shaving-soap",
@@ -18569,7 +18531,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Martin De Candre",
           "Shaving Essentials",
@@ -19663,7 +19624,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-23001-827730.jpg?v=1722957576",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19685,7 +19646,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-23c-long-handle-safety-razor-23001",
             "price": "26.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-23001-827730.jpg?v=1722957576",
             "options": {}
           }
@@ -20007,7 +19968,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34106_top_x_clipped_rev_1.jpg?v=1766005587",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20029,7 +19990,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34-inox-special-edition-1896-safety-razor",
             "price": "128.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34106_top_x_clipped_rev_1.jpg?v=1766005587",
             "options": {}
           }
@@ -20082,7 +20043,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20104,7 +20065,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34c-heavy-duty-safety-razor",
             "price": "36.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
             "options": {}
           }
@@ -20340,7 +20301,7 @@
       {
         "name": "Merkur 4000 Anodised Black Aluminium Shaving Bowl",
         "category": "Shaving Bowls & Scuttles > Merkur Safety Razors",
-        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur 4000 Anodised Black Aluminium Shaving Bowl is a precision-made soap bowl designed to support classic wet shaving with stability, control, and understated style. CNC-turned from aluminium, it is shaped to sit comfortably in the hand while building lather, offering excellent balance during use. The matte, non-slip anodised surface provides a secure grip and a refined appearance, making it practical for daily shaving while remaining visually discreet. With a diameter suited to standard shaving soaps, the bowl keeps soap firmly in place while lathering. Inside the base, the Merkur logo is laser-engraved, adding a subtle finishing detail. A nitrile rubber ring fitted underneath protects bathroom surfaces and prevents slipping, ensuring stable use on sinks or countertops. Designed and manufactured in Germany, the Merkur 4000 shaving bowl is a functional and durable accessory for traditional wet shavers who value quality materials and thoughtful design. Key Features CNC-turned aluminium shaving bowl for traditional wet shaving. Matte black anodised finish with non-slip touch. Comfortable hand-held design for controlled lathering. Laser-engraved Merkur logo inside the base. Nitrile rubber ring underneath to protect surfaces and prevent slipping. Suitable for standard shaving soap bars. Designed and made in Germany. Specifications Product Type: Shaving bowl Material: Aluminium, black anodised Surface Finish: Matte, non-slip anodised coating Base Protection: Nitrile rubber ring Product Dimensions: Ø84 × 45 mm Product Weight: 115 g Weight With Packaging: 150 g Packaging: Branded corrugated cardboard box Packaging Size: 110 × 110 × 50 mm Country of Manufacture: Germany For related Merkur options, compare Merkur Crystal Glass Shaving Soap Bowl with Merkur 4010 White & Blue Enamel Shaving Bowl, or browse the Shaving Bowls & Mugs collection.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-4000-anodised-black-aluminium-shaving-bowl",
         "price": "£69.00",
@@ -20355,7 +20316,6 @@
         "collections": [
           "Merkur Safety Razors",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories"
@@ -20386,7 +20346,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006001_front_x_clipped_rev_1.jpg?v=1784924812",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20409,7 +20369,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-4006-razor-stand-bright-chrome",
             "price": "30.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_4006001_front_x_clipped_rev_1.jpg?v=1784924812",
             "options": {}
           }
@@ -20496,7 +20456,7 @@
       {
         "name": "Merkur 4010 White & Blue Enamel Shaving Bowl",
         "category": "Shaving Bowls & Scuttles > Merkur Safety Razors",
-        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur 4010 White And Blue Enamel Shaving Bowl is a traditionally styled shaving bowl designed for classic wet shaving. Made from enamelled steel, it offers a durable, smooth surface that is well suited to building rich lather with a shaving brush. With a 140 mm diameter, the bowl sits comfortably in the hand while lathering, providing ample space for working shaving soap without spillage. The enamel finish is easy to clean and resistant to everyday wear, making it suitable for regular use. Decorative yet practical, the bowl features the Merkur logo printed on the inside of the base, adding a subtle brand detail. Its weight and shape help keep it stable during use, whether held in the hand or placed on a surface. Designed and made in Germany, the Merkur 4010 reflects traditional materials and straightforward design for dependable wet shaving preparation. Key Features Traditional enamel shaving bowl for wet shaving. Large diameter suitable for comfortable brush lathering. Smooth enamel surface for easy cleaning. Printed Merkur logo inside the base. Suitable for use with shaving soaps. Classic white and blue finish. Designed and made in Germany. Specifications Product Type: Shaving bowl Material: Enamelled steel Finish: White and blue enamel Product Dimensions: Ø140 × 40 mm Product Weight: 124 g Weight With Packaging: 130 g Packaging: Corrugated cardboard box Packaging Size: 165 × 155 × 65 mm Country of Manufacture: Germany For related Merkur options, compare Merkur 4000 Anodised Black Aluminium Shaving Bowl with Merkur Crystal Glass Shaving Soap Bowl, or browse the Shaving Bowls & Mugs collection.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-4010-white-blue-enamel-shaving-bowl",
         "price": "£39.00",
@@ -20511,7 +20471,6 @@
         "collections": [
           "Merkur Safety Razors",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories"
@@ -20966,7 +20925,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_5007010_front2_x_clipped_rev_1_1.jpg?v=1765571141",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20988,7 +20947,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-black-leather-blade-protector",
             "price": "12.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_5007010_front2_x_clipped_rev_1_1.jpg?v=1765571141",
             "options": {}
           }
@@ -21204,7 +21163,6 @@
         "collections": [
           "Merkur Safety Razors",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories",
@@ -21432,7 +21390,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-futur-satinmatt-4-piece-shaving-set-750002-283197.jpg?v=1722957291",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21456,7 +21414,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-futur-satin-matt-4-piece-shaving-set-750002",
             "price": "229.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-futur-satinmatt-4-piece-shaving-set-750002-283197.jpg?v=1722957291",
             "options": {}
           }
@@ -21594,7 +21552,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Merkur Safety Razors",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -22400,7 +22357,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90004_x_clipped_rev_1.jpg?v=1784923598",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22420,7 +22377,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-34-bright-chrome-long-screw",
             "price": "10.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90004_x_clipped_rev_1.jpg?v=1784923598",
             "options": {}
           }
@@ -22760,7 +22717,7 @@
       },
       {
         "name": "Mitchell's Wool Fat Shaving Soap in Ceramic Bowl 125g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Mitchells Wool Fat Soap",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Mitchell's Wool Fat Shaving Soap in Ceramic Bowl is a 125g shaving soap supplied in the signature ceramic bowl. The current formula is tallow-free and contains lanolin from sheep's wool. Use with a damp shaving brush to build lather before shaving. Mitchell's Wool Fat production has ended, so availability is limited to remaining stock. For related products, browse Mitchells Wool Fat Soap, compare more shaving soap, or see shaving brushes. Key Features Shaving soap bowl: 125g shaving soap in a ceramic bowl. Tallow-free formula: Current formula contains lanolin. Brush lather: Designed for use with a damp shaving brush. Remaining stock: Discontinued range with limited availability. Specifications Size: 125g Format: Shaving soap in ceramic bowl Key Ingredient: Lanolin Formula: Tallow-free",
         "url": "https://www.malegroomingsupplies.com/products/mitchells-wool-fat-shaving-soap-ceramic-bowl-125g",
@@ -22774,7 +22731,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "Mitchells Wool Fat Soap",
           "New Additions",
           "Shaving Essentials",
@@ -23020,8 +22976,7 @@
           "Hair & Body",
           "Morgan's",
           "Hair Styling Products",
-          "Men's Hair Sprays & Gels",
-          "Men's Hair Creams & Waxes"
+          "Men's Hair Sprays & Gels"
         ],
         "variants": [
           {
@@ -23058,8 +23013,7 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
-          "Hair Styling Products",
-          "Men's Hair Creams & Waxes"
+          "Hair Styling Products"
         ],
         "variants": [
           {
@@ -23228,7 +23182,6 @@
           "Hair & Body",
           "Morgan's",
           "Hair Styling Products",
-          "Men's Hair Creams & Waxes",
           "Hair Darkening Products",
           "Beard Colour & Darkening"
         ],
@@ -24124,7 +24077,8 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -24328,7 +24282,8 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -24365,7 +24320,8 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -24547,7 +24503,6 @@
           "Hair & Body",
           "Morgan's",
           "Hair Styling Products",
-          "Men's Hair Creams & Waxes",
           "Hair Darkening Products"
         ],
         "variants": [
@@ -24807,7 +24762,8 @@
           "New Additions",
           "Hair & Body",
           "Morgan's",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -24990,7 +24946,7 @@
       {
         "name": "Muhle Black Porcelain Shaving Bowl Platinum Rim",
         "category": "Shaving Bowls & Scuttles > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Muhle Black Porcelain Shaving Bowl with Platinum Rim is a refined and practical shaving bowl designed for traditional wet shaving with solid soaps. Made from fine black porcelain, it features a deep, glossy finish created through a double-firing process and is finished with a subtle platinum rim for a clean, understated contrast. Inside the bowl, a small raised section allows shaving soap to dry properly between uses, helping to keep it in good condition over time. Shaped, glazed, and fired by hand, each bowl reflects Muhle’s focus on functional craftsmanship while fitting neatly into both modern and traditional shaving setups. For related Muhle options, compare Muhle Porcelain Black Shaving Mug RN46 with Muhle Porcelain White Shaving Bowl with Platinum Rim, or browse the Shaving Bowls & Mugs collection. Key Features: Fine black porcelain shaving bowl with platinum rim detail. Double-fired finish for durability and a smooth surface. Raised base to help shaving soap dry between uses. Clean, practical shape suitable for everyday use. Compatible with all solid shaving soaps. Specifications: Material: Black porcelain with platinum rim Dimensions: 12 cm diameter x 5.6 cm height",
         "url": "https://www.malegroomingsupplies.com/products/muhle-black-porcelain-shaving-bowl-platinum-rim",
         "price": "£30.00",
@@ -25005,7 +24961,6 @@
         "collections": [
           "MUHLE Shaving",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories"
@@ -25219,7 +25174,7 @@
       {
         "name": "Muhle Chrome Stainless Steel Shaving Bowl",
         "category": "Shaving Bowls & Scuttles > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Muhle Shaving Bowl in chrome-plated stainless steel is a clean, practical choice for building lather or holding solid shaving soap. Its smooth, minimalist design pairs naturally with the chrome accents found across the Muhle SOPHIST, STYLO, KOSMO, and RYTMO ranges, making it an easy addition to an existing shaving setup. Made from stainless steel and finished with durable chrome plating, the bowl is corrosion resistant and well suited to regular use. Simple in form and easy to maintain, it offers a dependable solution for wet shavers who value function over unnecessary decoration. For related Muhle options, compare Muhle Black Porcelain Shaving Bowl Platinum Rim with Muhle Porcelain Black Shaving Mug RN46, or browse the Shaving Bowls & Mugs collection. Key Features: Stainless steel shaving bowl with durable chrome-plated finish. Smooth interior suitable for building lather or holding shaving soap. Corrosion-resistant construction for long-term use. Clean, understated design that complements multiple Muhle ranges. Specifications: Material: Chrome-plated stainless steel Colour: Chrome Dimensions: 12 cm diameter x 5.6 cm height",
         "url": "https://www.malegroomingsupplies.com/products/muhle-chrome-stainless-steel-shaving-bowl",
         "price": "£18.00",
@@ -25234,7 +25189,6 @@
         "collections": [
           "MUHLE Shaving",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories"
@@ -25524,7 +25478,7 @@
       {
         "name": "Muhle Porcelain White Shaving Bowl with Platinum Rim",
         "category": "Shaving Bowls & Scuttles > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Muhle Porcelain White Shaving Bowl RN11 is a traditional shaving bowl made from fine white porcelain and finished with a platinum rim for a clean, understated look. Designed for practical everyday use, it supports easy lathering while keeping solid shaving soap in good condition between shaves. A subtle raised section at the base allows soap to dry properly after use, helping to extend its lifespan. Each bowl is shaped, glazed, and fired by hand, reflecting Muhle’s long-standing approach to functional craftsmanship. Suitable for all solid shaving soaps, it fits neatly into both modern and traditional shaving setups. For related Muhle options, compare Muhle Black Porcelain Shaving Bowl Platinum Rim with Muhle Porcelain Black Shaving Mug RN46, or browse the Shaving Bowls & Mugs collection. Key Features: Porcelain shaving bowl designed for traditional wet shaving. Platinum rim finish for a refined, durable edge. Raised base to help solid shaving soap dry between uses. Hand-finished porcelain with subtle variation between pieces. Suitable for all solid shaving soaps. Specifications: Material: Porcelain with platinum rim Colour: White Dimensions: 12 cm diameter x 5.6 cm height",
         "url": "https://www.malegroomingsupplies.com/products/muhle-porcelain-white-shaving-bowl-platinum-rim-rn11",
         "price": "£24.00",
@@ -25539,7 +25493,6 @@
         "collections": [
           "MUHLE Shaving",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories"
@@ -27269,7 +27222,7 @@
       },
       {
         "name": "Osma Shaving Soap in Glass Jar 130g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Osma",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Osma Shaving Soap in Glass Jar 130g is a traditional shaving soap made with over 99% natural-origin ingredients. It is housed in a reusable glass jar with a black lid and is designed for brush lathering. The formula includes coconut oil, sunflower oil and shea butter to help the lather feel comfortable during shaving. The soap creates a compact foam when loaded with a damp shaving brush. For related options, browse Osma, compare more shaving soaps, or pair with a shaving brush. The matching Osma Shaving Soap Refill 130g is available separately when in stock. Key Features Shaving soap in glass jar: 130g soap supplied in a reusable jar. Brush lathering: Designed for use with a shaving brush. Natural-origin ingredients: Made with over 99% natural-origin ingredients. With shea butter: Formula also includes coconut and sunflower oils. Refill option: Matching refill available separately when in stock. Specifications Size: 130g Format: Shaving soap in glass jar Key Ingredients: Coconut oil, sunflower oil and shea butter Packaging: Reusable glass jar with black lid Use With: Shaving brush recommended",
         "url": "https://www.malegroomingsupplies.com/products/osma-tradition-shaving-soap-glass-jar-130g",
@@ -27283,7 +27236,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "Osma",
           "New Additions",
           "Shaving Essentials",
@@ -27307,7 +27259,7 @@
       },
       {
         "name": "Osma Shaving Soap in Plastic Jar 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Osma",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Osma Shaving Soap in Plastic Jar is a 100g shaving soap made for brush lathering. The formula includes kaolin and shea butter, helping the brush build a creamy lather for shaving. The soap is supplied in a plastic jar with an aluminium twist cap, making it practical for storage at home or travel. Load with a damp shaving brush, build the lather, then rinse the soap surface and leave it to dry between uses. For related options, browse Osma, compare Osma Shaving Soap Refill 100g, or see more shaving soaps. Key Features Shaving soap: 100g soap for brush lathering. Kaolin and shea butter: Key ingredients in the formula. Jar format: Plastic jar with aluminium twist cap. Brush lathering: Use with a shaving brush for best lather. Refill option: Matching 100g refill available separately. Specifications Size: 100g Format: Shaving soap in plastic jar Key Ingredients: Kaolin and shea butter Cap Material: Aluminium Use: Brush lathering",
         "url": "https://www.malegroomingsupplies.com/products/osma-shaving-soap-plastic-jar-100g",
@@ -27321,7 +27273,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "Osma",
           "New Additions",
           "Shaving Essentials",
@@ -27345,7 +27296,7 @@
       },
       {
         "name": "Osma Shaving Soap Refill 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Osma",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Osma Shaving Soap Refill is a 100g shaving soap refill made in France. The formula is based on kaolin and shea butter and is designed to be lathered with a shaving brush. Use the refill in a suitable shaving bowl or container. Load with a damp brush, build the lather on the face or in a bowl, then rinse the soap after use and allow it to dry. For related products, browse Osma, compare more shaving soap, or see shaving brushes. Key Features Shaving soap refill: 100g refill for a suitable shaving bowl. Brush lather: Designed to be worked with a damp shaving brush. Kaolin and shea butter: Key ingredients in the formula. Made in France: Osma wet shaving product. Specifications Size: 100g Format: Shaving soap refill Key Ingredients: Kaolin and shea butter Use: Lather with a shaving brush Made In: France",
         "url": "https://www.malegroomingsupplies.com/products/osma-shaving-soap-refill-100g",
@@ -27359,7 +27310,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "Osma",
           "New Additions",
           "Shaving Essentials",
@@ -27383,7 +27333,7 @@
       },
       {
         "name": "Osma Shaving Soap Refill 130g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Osma",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Contains coconut and sunflower oils, and enriched with Shea Butter to nourish the skin and provide a smooth shave Made in France by Laboratoires OSMA who since 1957 have been manufacturing superior quality shaving products using natural ingredients where possible For related Osma options, compare Osma Shaving Soap in Glass Jar 130g with Osma Shaving Soap Refill 100g, or browse the Shaving Soap collection.",
         "url": "https://www.malegroomingsupplies.com/products/osma-shaving-soap-refill-130g",
@@ -27397,7 +27347,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "Osma",
           "New Additions",
           "Shaving Essentials",
@@ -29692,7 +29641,6 @@
         "collections": [
           "Parker Shaving",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories",
@@ -29845,7 +29793,6 @@
         "collections": [
           "Parker Shaving",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories",
@@ -30150,7 +30097,6 @@
         "collections": [
           "Parker Shaving",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories",
@@ -30620,7 +30566,6 @@
         "collections": [
           "Parker Shaving",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories",
@@ -30798,7 +30743,7 @@
       {
         "name": "Parker Ox Horn Shaving Bowl",
         "category": "Shaving Bowls & Scuttles > Parker Shaving",
-        "product_category": "Health & Beauty > Personal Care > Bath & Body",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "Parker Safety Razor’s genuine ox horn shaving bowl is a perfect blend of craftsmanship and functionality, designed to enhance your daily shave. Handcrafted and polished to perfection, this bowl is tailored to fit comfortably in the palm of your hand, making lathering your shaving cream or soap effortless. Each bowl boasts a unique appearance, thanks to the natural variations in ox horn colour and shape, ensuring no two bowls are identical. Its size is ideal for use with a quality shave brush, making it a luxurious addition to your grooming routine. Key Features Handcrafted Design: Made from genuine ox horn for a one-of-a-kind look. Durable Finish: Polished for a smooth, lasting surface. Unique Variations: Natural horn patterns ensure each bowl is distinctive in colour and shape. Perfect Size: Ergonomically designed to fit comfortably in your palm, simplifying the lathering process. Dimensions: Approximately 12.7 cm (5 in.) wide x 5 cm (2 in.) high. Specifications Material: Genuine Ox Horn Dimensions: 12.7 cm x 5 cm (5 in. x 2 in.) Finish: Hand-polished For related Parker options, compare Parker Black Mango Wood Shaving Soap Bowl with Parker Classic Style Mango Wood Shaving Soap Bowl, or browse the Shaving Bowls & Mugs collection.",
         "url": "https://www.malegroomingsupplies.com/products/parker-ox-horn-shaving-bowl",
         "price": "£13.95",
@@ -30813,7 +30758,6 @@
         "collections": [
           "Parker Shaving",
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories"
@@ -31355,7 +31299,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Parker Shaving",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -31393,7 +31336,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Parker Shaving",
-          "Shaving Soap",
           "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32120,7 +32062,8 @@
           "New Additions",
           "Pashana",
           "Hair & Body",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -32157,7 +32100,8 @@
           "New Additions",
           "Pashana",
           "Hair & Body",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -32194,7 +32138,8 @@
           "New Additions",
           "Pashana",
           "Hair & Body",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -32231,7 +32176,8 @@
           "New Additions",
           "Pashana",
           "Hair & Body",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -32268,7 +32214,8 @@
           "New Additions",
           "Pashana",
           "Hair & Body",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -32305,7 +32252,8 @@
           "New Additions",
           "Pashana",
           "Hair & Body",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -32342,7 +32290,8 @@
           "New Additions",
           "Pashana",
           "Hair & Body",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -32417,7 +32366,8 @@
           "New Additions",
           "Pashana",
           "Hair & Body",
-          "Hair Lotions, Oils & Tonics"
+          "Hair Lotions, Oils & Tonics",
+          "Hair Growth Products & Scalp Care"
         ],
         "variants": [
           {
@@ -33199,7 +33149,7 @@
       },
       {
         "name": "Proraso Green Shaving Soap in Bowl 150ml",
-        "category": "Shaving Creams Gels & Soaps > Shaving Soap",
+        "category": "Shaving Creams Gels & Soaps > Proraso",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Proraso Green Shaving Soap In Bowl is a traditional shaving soap designed for a fresh, comfortable wet shave. Enriched with eucalyptus oil and menthol, it creates a rich, dense lather that helps soften the beard, protect the skin, and support smooth razor glide. Used with a damp shaving brush, the soap works into a creamy lather suitable for classic shaving routines. Its cooling feel and traditional Italian barber-style formula make it a reliable choice for wet shavers who prefer a refreshing shave with a clean finish. For brush lathering, pair it with Proraso Professional Boar Bristle Shaving Brush or Proraso Green After Shave Lotion 100ml. Key Features: Traditional Shaving Soap supplied in a bowl Enriched with Eucalyptus Oil and Menthol Produces a rich, dense lather for smooth razor glide Helps soften beard hair before shaving Supports skin protection during a close shave Shaving Brush Required for best lathering results Suitable for classic wet shaving routines Specifications: Size: 150ml Format: Shaving soap in bowl Usage: Use with a damp shaving brush to create lather, then apply to the beard before shaving Key ingredients: Eucalyptus oil and menthol Skin and beard type: Suitable for regular wet shaving routines Country style: Traditional Italian shaving formula",
         "url": "https://www.malegroomingsupplies.com/products/proraso-green-shaving-soap-in-bowl-150ml",
@@ -33213,7 +33163,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -33835,7 +33784,7 @@
       },
       {
         "name": "Proraso Red Shaving Soap in Bowl 150ml",
-        "category": "Shaving Creams Gels & Soaps > Shaving Soap",
+        "category": "Shaving Creams Gels & Soaps > Proraso",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Proraso Red Shaving Soap In Bowl is a traditional shaving soap designed to soften coarse beard hair and support a smooth, close shave. Enriched with sandalwood oil and shea butter, it creates a rich, dense lather that helps protect the skin while improving razor glide. Used with a damp shaving brush, the soap works into a creamy lather suitable for classic wet shaving. Its warm sandalwood character and proven Italian barber-style formula make it a reliable choice for men who prefer a more traditional shaving routine. For brush lathering, pair it with Proraso Professional Boar Bristle Shaving Brush or Proraso Red After Shave Balm 100ml. Key Features: Traditional Shaving Soap supplied in a bowl Enriched with Sandalwood Oil and Shea Butter Produces a rich, dense lather for smooth razor glide Helps soften coarse beard hair before shaving Supports skin protection during a close shave Shaving Brush Required for best lathering results Suitable for classic wet shaving routines Specifications: Size: 150ml Format: Shaving soap in bowl Usage: Use with a damp shaving brush to create lather, then apply to the beard before shaving Key ingredients: Sandalwood oil and shea butter Skin and beard type: Suitable for coarse beard hair and traditional wet shaving routines Country style: Traditional Italian shaving formula",
         "url": "https://www.malegroomingsupplies.com/products/proraso-red-shaving-soap-in-bowl-150ml",
@@ -33849,7 +33798,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -34060,7 +34008,7 @@
       },
       {
         "name": "Proraso White Sensitive Shaving Soap in Bowl 150ml",
-        "category": "Shaving Creams Gels & Soaps > Shaving Soap",
+        "category": "Shaving Creams Gels & Soaps > Proraso",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Proraso White Sensitive Shaving Soap In Bowl is a traditional shaving soap developed for sensitive skin. Enriched with green tea and oat extract, it creates a rich, dense lather that helps soften the beard, protect the skin, and support smooth razor glide. Used with a damp shaving brush, the soap works into a creamy lather suitable for classic wet shaving. Its gentle formula makes it a good choice for shavers who want traditional lathering performance with a more comfortable feel on sensitive skin. For brush lathering, pair it with Proraso Professional Boar Bristle Shaving Brush or Proraso White Sensitive After Shave Balm 100ml. Key Features: Traditional Shaving Soap supplied in a bowl Developed for sensitive skin Enriched with Green Tea and Oat Extract Produces a rich, dense lather for smooth razor glide Helps soften beard hair before shaving Supports skin protection during a close shave Shaving Brush Required for best lathering results Specifications: Size: 150ml Format: Shaving soap in bowl Usage: Use with a damp shaving brush to create lather, then apply to the beard before shaving Skin type: Sensitive skin Key ingredients: Green tea and oat extract Country style: Traditional Italian shaving formula",
         "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-shaving-soap-in-bowl-150ml",
@@ -34074,7 +34022,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Proraso",
           "Shaving Essentials",
@@ -39889,8 +39836,7 @@
           "New Additions",
           "Slick Gorilla",
           "Hair & Body",
-          "Hair Styling Products",
-          "Men's Hair Creams & Waxes"
+          "Hair Styling Products"
         ],
         "variants": [
           {
@@ -40675,7 +40621,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Shaving Bowls & Mugs",
-          "Shaving Soap",
           "New Additions",
           "Tabac Original",
           "Shaving Essentials",
@@ -40699,7 +40644,7 @@
       },
       {
         "name": "Tabac Original Shaving Bowl Soap Refill 125g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Tabac Original",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Tabac Original Shaving Bowl Soap Refill 125g is the replacement soap puck for a Tabac Original shaving-soap bowl. It is supplied as the refill only; the reusable bowl is not included.Worked with warm water and a shaving brush, the soap helps soften beard hair and produces a creamy lather for smooth blade glide. It carries the distinctive Tabac Original fragrance and is made in Germany.Browse the full Tabac Original range, compare more shaving soaps and sticks, or choose the Tabac Original Shaving Soap Stick Refill 100g for a stick-format refill.Key Features Bowl refill: Replacement 125g soap puck supplied without the reusable bowl. Beard preparation: Helps soften beard hair before shaving. Brush lather: Builds a creamy lather with water and a shaving brush. Tabac Original fragrance: The brand's distinctive classic scent. Made in Germany: Manufactured to Tabac Original specifications. How to Use Place the refill in a suitable shaving-soap bowl. Load a damp shaving brush from the soap, adding water gradually. Build a dense lather in the bowl or directly on the beard, then shave as usual. Allow the soap to dry between uses. Specifications Size: 125g Format: Shaving soap bowl refill Bowl Included: No Fragrance: Tabac Original Made In: Germany",
         "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-refill-125g",
@@ -40713,7 +40658,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Tabac Original",
           "Shaving Essentials",
@@ -40737,7 +40681,7 @@
       },
       {
         "name": "Tabac Original Shaving Soap Stick REFILL 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
+        "category": "Shaving Cream, Gels & Soaps > Tabac Original",
         "product_category": "Health & Beauty > Personal Care > Hair Care",
         "description": "Discontinued 100g refill format - final MGS stock. Maximum 4 per order. The Tabac Original shaving soap bowl remains available separately.Tabac Original Shaving Soap Stick Refill 100g is a replacement shaving-soap stick supplied without a reusable sleeve or dispenser. The current non-tallow formula helps soften beard hair and build a protective lather for traditional wet shaving.The soap carries the distinctive Tabac Original fragrance, with pepper, bergamot and petitgrain over clove, lavender and geranium, followed by sandalwood, musk and vetiver. It is made in Germany.Browse the full Tabac Original range, compare more shaving soaps and sticks, or choose the Tabac Original Shaving Bowl Soap Refill 125g for a bowl-format refill.Key Features Refill format: Replacement 100g soap stick supplied without a sleeve or dispenser. Beard preparation: Helps soften beard hair before shaving. Brush lather: Builds a creamy lather with water and a shaving brush. Tabac Original fragrance: Spicy, aromatic and woody scent profile. Made in Germany: Manufactured to Tabac Original specifications. How to Use Wet the beard area and the exposed end of the soap. Rub the stick lightly over the beard, or load soap directly onto a damp shaving brush. Work into a dense lather on the face or in a shaving bowl, adding water gradually. Rinse the soap after use and allow it to dry before storing. Specifications Size: 100g Format: Shaving soap stick refill Formula: Current non-tallow formulation Holder Included: No Fragrance: Tabac Original Made In: Germany For a stocked solid shaving soap refill, consider the Cyril R. Salter Solid Shaving Soap 70g Refill.",
         "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-soap-stick-refill-100g",
@@ -40751,7 +40695,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
-          "Shaving Soap",
           "New Additions",
           "Tabac Original",
           "Shaving Essentials",

@@ -2,18 +2,18 @@
   "api_version": "2026-04",
   "category_counts": {
     "Health & Beauty > Personal Care": 16,
-    "Health & Beauty > Personal Care > Bath & Body": 63,
+    "Health & Beauty > Personal Care > Bath & Body": 57,
     "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne": 111,
     "Health & Beauty > Personal Care > Cosmetics > Skin Care": 30,
     "Health & Beauty > Personal Care > Hair Care": 308,
     "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care": 96,
     "Health & Beauty > Personal Care > Hair Care > Hair Color": 7,
     "Health & Beauty > Personal Care > Oral Care": 31,
-    "Health & Beauty > Personal Care > Shaving & Grooming": 282,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 341
+    "Health & Beauty > Personal Care > Shaving & Grooming": 286,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 343
   },
   "currency": "GBP",
-  "generated_at": "2026-09-02T06:53:47+00:00",
+  "generated_at": "2026-09-03T06:57:20+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1029,
   "openai_feed": "openai-products-feed.csv.gz",
@@ -145,12 +145,12 @@
   "source_products": 1338,
   "validation": {
     "availability_counts": {
-      "in_stock": 898,
-      "out_of_stock": 387
+      "in_stock": 905,
+      "out_of_stock": 380
     },
     "checkout_eligibility_counts": {
-      "false": 387,
-      "true": 898
+      "false": 380,
+      "true": 905
     },
     "duplicate_item_id_count": 0,
     "invalid_gtin_rows": 0,
