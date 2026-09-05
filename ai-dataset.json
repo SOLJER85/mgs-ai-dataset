@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-04",
-    "generated_at": "2026-09-04T07:01:26+00:00",
+    "last_updated": "2026-09-05",
+    "generated_at": "2026-09-05T06:45:38+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -255,7 +255,7 @@
         "price": "£11.15",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Barbican.png?v=1765233840",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Barbican.png?v=1788530964",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -278,7 +278,7 @@
             "price": "13.95 GBP",
             "sale_price": "11.15 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Barbican.png?v=1765233840",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Barbican.png?v=1788530964",
             "options": {}
           }
         ]
@@ -292,7 +292,7 @@
         "price": "£12.50",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/FarringdonBoar.png?v=1765233847",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/FarringdonBoar.png?v=1788530964",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -315,7 +315,7 @@
             "price": "12.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/FarringdonBoar.png?v=1765233847",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/FarringdonBoar.png?v=1788530964",
             "options": {}
           }
         ]
@@ -659,7 +659,7 @@
         "price": "£30.00",
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1765233562",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1788530963",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -682,7 +682,7 @@
             "price": "35.00 GBP",
             "sale_price": "30.00 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1765233562",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1788530963",
             "options": {
               "Size": "Trafalgar T1"
             }
@@ -697,7 +697,7 @@
             "price": "40.00 GBP",
             "sale_price": "35.00 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1765233562",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1788530963",
             "options": {
               "Size": "Trafalgar T2"
             }
@@ -712,7 +712,7 @@
             "price": "41.50 GBP",
             "sale_price": "38.00 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1765233562",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1788530963",
             "options": {
               "Size": "Trafalgar T3"
             }
@@ -19206,7 +19206,8 @@
           "Merkur Safety Razors",
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
-          "Shaving Essentials"
+          "Shaving Essentials",
+          "Merkur INOX Stainless Steel Safety Razors"
         ],
         "variants": [
           {
@@ -19230,7 +19231,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Originally crafted in the 1920s, the MERKUR 23C Long Handle Safety Razor remains a timeless choice for wet shaving enthusiasts. Featuring a sleek long handle and a straight foam edge, it delivers a smooth, comfortable shave every time. Its spacious blade gap ensures high soap flow, minimizing clogs and making post-shave cleaning effortless. This closed-comb razor is the perfect all-rounder for those seeking precision and reliability. For related Merkur options, compare Merkur 34C SG/650 Limited Edition Safety Razor Set with Merkur 23 INOX Stainless Steel Safety Razor, or browse the Merkur Solingen collection. Key Features: Three-piece design for easy blade replacement and cleaning Closed comb ensures a smooth and protective shave Generous blade gap for high soap flow and reduced clogging Long handle for improved grip and control Bright chrome finish adds a touch of elegance Product Specifications: Material Surface: Bright chrome Packaging: Folding box Packaging Size: 132x52x27 mm Product Weight (with Packaging): 75 g Product Measurements: 104x41x25 mm Product Weight: 61 g This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-23c-long-handle-safety-razor-23001",
-        "price": "£26.95",
+        "price": "£28.50",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-23001-827730.jpg?v=1722957576",
@@ -19253,7 +19254,7 @@
             "mpn": null,
             "title": "Merkur 23C Long Handle Safety Razor 23001",
             "url": "https://www.malegroomingsupplies.com/products/merkur-23c-long-handle-safety-razor-23001",
-            "price": "26.95 GBP",
+            "price": "28.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-23001-827730.jpg?v=1722957576",
@@ -19354,7 +19355,8 @@
           "Merkur Safety Razors",
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
-          "New Additions"
+          "New Additions",
+          "Merkur INOX Stainless Steel Safety Razors"
         ],
         "variants": [
           {
@@ -19581,7 +19583,8 @@
           "Merkur Safety Razors",
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
-          "Shaving Essentials"
+          "Shaving Essentials",
+          "Merkur INOX Stainless Steel Safety Razors"
         ],
         "variants": [
           {
@@ -19618,7 +19621,8 @@
           "Merkur Safety Razors",
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
-          "New Additions"
+          "New Additions",
+          "Merkur INOX Stainless Steel Safety Razors"
         ],
         "variants": [
           {
@@ -20105,7 +20109,8 @@
           "Merkur Safety Razors",
           "Razor Stands & Shaving Brush Stands",
           "Shaving Essentials",
-          "Shaving Sets & Accessories"
+          "Shaving Sets & Accessories",
+          "Merkur INOX Stainless Steel Safety Razors"
         ],
         "variants": [
           {
@@ -20484,7 +20489,8 @@
         "collections": [
           "Merkur Safety Razors",
           "Travel Razors",
-          "New Additions"
+          "New Additions",
+          "Merkur INOX Stainless Steel Safety Razors"
         ],
         "variants": [
           {
@@ -24683,7 +24689,7 @@
         "brand": "Muhle",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-shaving-bowl-340842.jpg?v=1768053949",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -24704,7 +24710,7 @@
             "url": "https://www.malegroomingsupplies.com/products/muhle-chrome-stainless-steel-shaving-bowl",
             "price": "23.00 GBP",
             "sale_price": "18.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-shaving-bowl-340842.jpg?v=1768053949",
             "options": {}
           }
@@ -33967,7 +33973,7 @@
         "price": "£20.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1305_cf416f63-b313-41c5-b86e-01466b19e9bf.jpg?v=1788469650",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/semogue-1305-optimised.png?v=1788527274",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -33991,7 +33997,7 @@
             "price": "20.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1305_cf416f63-b313-41c5-b86e-01466b19e9bf.jpg?v=1788469650",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/semogue-1305-optimised.png?v=1788527274",
             "options": {}
           }
         ]
@@ -34005,7 +34011,7 @@
         "price": "£15.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1460_01c7c544-a1a4-451d-91db-cdd10037d0d9.jpg?v=1788469713",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/semogue-1460-optimised.png?v=1788526559",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34029,7 +34035,7 @@
             "price": "15.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1460_01c7c544-a1a4-451d-91db-cdd10037d0d9.jpg?v=1788469713",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/semogue-1460-optimised.png?v=1788526559",
             "options": {}
           }
         ]
@@ -34043,7 +34049,7 @@
         "price": "£16.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1520_c3fc886d-ac70-4c6c-8590-d8a2f56bed6e.jpg?v=1788469580",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1520_c3fc886d-ac70-4c6c-8590-d8a2f56bed6e.jpg?v=1788527273",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34067,7 +34073,7 @@
             "price": "16.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1520_c3fc886d-ac70-4c6c-8590-d8a2f56bed6e.jpg?v=1788469580",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1520_c3fc886d-ac70-4c6c-8590-d8a2f56bed6e.jpg?v=1788527273",
             "options": {}
           }
         ]
@@ -34081,7 +34087,7 @@
         "price": "£55.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2015HD_clipped_rev_1.jpg?v=1744055271",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2015HD_clipped_rev_1.jpg?v=1788527379",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34104,7 +34110,7 @@
             "price": "55.00 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2015HD_clipped_rev_1.jpg?v=1744055271",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2015HD_clipped_rev_1.jpg?v=1788527379",
             "options": {}
           }
         ]
@@ -34118,7 +34124,7 @@
         "price": "£64.95",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2040HD_clipped_rev_1.jpg?v=1744055274",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2040HD_clipped_rev_1.jpg?v=1788527365",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34141,7 +34147,7 @@
             "price": "64.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2040HD_clipped_rev_1.jpg?v=1744055274",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2040HD_clipped_rev_1.jpg?v=1788527365",
             "options": {}
           }
         ]
@@ -34155,7 +34161,7 @@
         "price": "£17.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/610Black_clipped_rev_1.jpg?v=1744055278",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/610Black_clipped_rev_1.jpg?v=1788527365",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34178,7 +34184,7 @@
             "price": "17.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/610Black_clipped_rev_1.jpg?v=1744055278",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/610Black_clipped_rev_1.jpg?v=1788527365",
             "options": {}
           }
         ]
@@ -34192,7 +34198,7 @@
         "price": "£17.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/610Red_clipped_rev_1.jpg?v=1744055280",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/610Red_clipped_rev_1.jpg?v=1788527365",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34215,7 +34221,7 @@
             "price": "17.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/610Red_clipped_rev_1.jpg?v=1744055280",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/610Red_clipped_rev_1.jpg?v=1788527365",
             "options": {}
           }
         ]
@@ -34229,7 +34235,7 @@
         "price": "£19.15",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/620_clipped_rev_1.jpg?v=1744055285",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/620_clipped_rev_1.jpg?v=1788527365",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34252,7 +34258,7 @@
             "price": "19.15 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/620_clipped_rev_1.jpg?v=1744055285",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/620_clipped_rev_1.jpg?v=1788527365",
             "options": {}
           }
         ]
@@ -34266,7 +34272,7 @@
         "price": "£51.95",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/730HD_clipped_rev_1.jpg?v=1744055287",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/730HD_clipped_rev_1.jpg?v=1788527293",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34289,7 +34295,7 @@
             "price": "51.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/730HD_clipped_rev_1.jpg?v=1744055287",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/730HD_clipped_rev_1.jpg?v=1788527293",
             "options": {}
           }
         ]
@@ -34303,7 +34309,7 @@
         "price": "£27.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/740_clipped_rev_1.jpg?v=1744055293",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/740_clipped_rev_1.jpg?v=1788527366",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34326,7 +34332,7 @@
             "price": "34.15 GBP",
             "sale_price": "27.50 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/740_clipped_rev_1.jpg?v=1744055293",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/740_clipped_rev_1.jpg?v=1788527366",
             "options": {}
           }
         ]
@@ -34340,7 +34346,7 @@
         "price": "£32.95",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/750_clipped_rev_1.jpg?v=1744055295",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/750_clipped_rev_1.jpg?v=1788527366",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34363,7 +34369,7 @@
             "price": "39.15 GBP",
             "sale_price": "32.95 GBP",
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/750_clipped_rev_1.jpg?v=1744055295",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/750_clipped_rev_1.jpg?v=1788527366",
             "options": {}
           }
         ]
@@ -34377,7 +34383,7 @@
         "price": "£18.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/820Black_clipped_rev_1.jpg?v=1744055302",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/820Black_clipped_rev_1.jpg?v=1788527366",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34400,7 +34406,7 @@
             "price": "18.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/820Black_clipped_rev_1.jpg?v=1744055302",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/820Black_clipped_rev_1.jpg?v=1788527366",
             "options": {}
           }
         ]
@@ -34414,7 +34420,7 @@
         "price": "£18.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/820Red_clipped_rev_1.jpg?v=1744055299",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/820Red_clipped_rev_1.jpg?v=1788527365",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34437,7 +34443,7 @@
             "price": "18.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/820Red_clipped_rev_1.jpg?v=1744055299",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/820Red_clipped_rev_1.jpg?v=1788527365",
             "options": {}
           }
         ]
@@ -34451,7 +34457,7 @@
         "price": "£16.95",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/830_clipped_rev_1.jpg?v=1744055307",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/830_clipped_rev_1.jpg?v=1788527293",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34474,7 +34480,7 @@
             "price": "16.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/830_clipped_rev_1.jpg?v=1744055307",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/830_clipped_rev_1.jpg?v=1788527293",
             "options": {}
           }
         ]
@@ -34523,7 +34529,7 @@
         "price": "£54.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3TFIR_clipped_rev_1.jpg?v=1744055335",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3TFIR_clipped_rev_1.jpg?v=1788527293",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34546,7 +34552,7 @@
             "price": "54.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3TFIR_clipped_rev_1.jpg?v=1744055335",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3TFIR_clipped_rev_1.jpg?v=1788527293",
             "options": {}
           }
         ]
@@ -34560,7 +34566,7 @@
         "price": "£19.55",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3CPITIR_clipped_rev_1.jpg?v=1744055336",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3CPITIR_clipped_rev_1.jpg?v=1788527311",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34583,7 +34589,7 @@
             "price": "19.55 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3CPITIR_clipped_rev_1.jpg?v=1744055336",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3CPITIR_clipped_rev_1.jpg?v=1788527311",
             "options": {}
           }
         ]
@@ -34597,7 +34603,7 @@
         "price": "£25.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3HPRBIR_clipped_rev_1.jpg?v=1744055309",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3HPRBIR_clipped_rev_1.jpg?v=1788527293",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34620,7 +34626,7 @@
             "price": "25.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3HPRBIR_clipped_rev_1.jpg?v=1744055309",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3HPRBIR_clipped_rev_1.jpg?v=1788527293",
             "options": {}
           }
         ]
@@ -34634,7 +34640,7 @@
         "price": "£18.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3CPIR_clipped_rev_1.jpg?v=1744055315",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3CPIR_clipped_rev_1.jpg?v=1788527311",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34657,7 +34663,7 @@
             "price": "18.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3CPIR_clipped_rev_1.jpg?v=1744055315",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/GalC3CPIR_clipped_rev_1.jpg?v=1788527311",
             "options": {}
           }
         ]
@@ -34671,7 +34677,7 @@
         "price": "£12.10",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1250_clipped_rev_1.jpg?v=1744055231",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1250_clipped_rev_1.jpg?v=1788527275",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34694,7 +34700,7 @@
             "price": "12.10 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1250_clipped_rev_1.jpg?v=1744055231",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1250_clipped_rev_1.jpg?v=1788527275",
             "options": {}
           }
         ]
@@ -34782,7 +34788,7 @@
         "price": "£9.55",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1470_clipped_rev_1.jpg?v=1744055245",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1470_clipped_rev_1.jpg?v=1788527379",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34805,7 +34811,7 @@
             "price": "9.55 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1470_clipped_rev_1.jpg?v=1744055245",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1470_clipped_rev_1.jpg?v=1788527379",
             "options": {}
           }
         ]
@@ -34856,7 +34862,7 @@
         "price": "£13.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1800_clipped_rev_1.jpg?v=1744055253",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1800_clipped_rev_1.jpg?v=1788527379",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34879,7 +34885,7 @@
             "price": "13.35 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1800_clipped_rev_1.jpg?v=1744055253",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1800_clipped_rev_1.jpg?v=1788527379",
             "options": {}
           }
         ]
@@ -34893,7 +34899,7 @@
         "price": "£15.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2000_clipped_rev_1.jpg?v=1744055259",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2000_clipped_rev_1.jpg?v=1788527293",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34916,7 +34922,7 @@
             "price": "15.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2000_clipped_rev_1.jpg?v=1744055259",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2000_clipped_rev_1.jpg?v=1788527293",
             "options": {}
           }
         ]
@@ -34930,7 +34936,7 @@
         "price": "£23.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2010_clipped_rev_1.jpg?v=1744055260",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2010_clipped_rev_1.jpg?v=1788527380",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34953,7 +34959,7 @@
             "price": "23.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2010_clipped_rev_1.jpg?v=1744055260",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2010_clipped_rev_1.jpg?v=1788527380",
             "options": {}
           }
         ]
@@ -34967,7 +34973,7 @@
         "price": "£43.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2015_clipped_rev_1.jpg?v=1744055265",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2015_clipped_rev_1.jpg?v=1788527380",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -34990,7 +34996,7 @@
             "price": "43.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2015_clipped_rev_1.jpg?v=1744055265",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2015_clipped_rev_1.jpg?v=1788527380",
             "options": {}
           }
         ]
@@ -35004,7 +35010,7 @@
         "price": "£27.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2020_clipped_rev_1.jpg?v=1744055267",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2020_clipped_rev_1.jpg?v=1788527380",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35027,7 +35033,7 @@
             "price": "27.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2020_clipped_rev_1.jpg?v=1744055267",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2020_clipped_rev_1.jpg?v=1788527380",
             "options": {}
           }
         ]
@@ -35041,7 +35047,7 @@
         "price": "£45.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7SA1TTS_clipped_rev_1.jpg?v=1744055316",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7SA1TTS_clipped_rev_1.jpg?v=1788527365",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35064,7 +35070,7 @@
             "price": "45.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7SA1TTS_clipped_rev_1.jpg?v=1744055316",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7SA1TTS_clipped_rev_1.jpg?v=1788527365",
             "options": {}
           }
         ]
@@ -35078,7 +35084,7 @@
         "price": "£91.65",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7TFTTS_clipped_rev_1.jpg?v=1744055322",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7TFTTS_clipped_rev_1.jpg?v=1788527365",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35101,7 +35107,7 @@
             "price": "91.65 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7TFTTS_clipped_rev_1.jpg?v=1744055322",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7TFTTS_clipped_rev_1.jpg?v=1788527365",
             "options": {}
           }
         ]
@@ -35115,7 +35121,7 @@
         "price": "£64.75",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7MFTTS_clipped_rev_1.jpg?v=1744055357",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7MFTTS_clipped_rev_1.jpg?v=1788527274",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35139,7 +35145,7 @@
             "price": "64.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7MFTTS_clipped_rev_1.jpg?v=1744055357",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7MFTTS_clipped_rev_1.jpg?v=1788527274",
             "options": {}
           }
         ]
@@ -35153,7 +35159,7 @@
         "price": "£41.65",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7CSPTTS_clipped_rev_1.jpg?v=1744055323",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7CSPTTS_clipped_rev_1.jpg?v=1788527346",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35176,7 +35182,7 @@
             "price": "41.65 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7CSPTTS_clipped_rev_1.jpg?v=1744055323",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PegC7CSPTTS_clipped_rev_1.jpg?v=1788527346",
             "options": {}
           }
         ]
@@ -35190,7 +35196,7 @@
         "price": "£11.65",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBB_clipped_rev_1.jpg?v=1744055376",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBB_clipped_rev_1.jpg?v=1788527275",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35213,7 +35219,7 @@
             "price": "11.65 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBB_clipped_rev_1.jpg?v=1744055376",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBB_clipped_rev_1.jpg?v=1788527275",
             "options": {}
           }
         ]
@@ -35227,7 +35233,7 @@
         "price": "£25.85",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBAW_clipped_rev_1_485229e3-940c-4e3c-88e0-9434e1fdfb1e.jpg?v=1744055342",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBAW_clipped_rev_1_485229e3-940c-4e3c-88e0-9434e1fdfb1e.jpg?v=1788527347",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35250,7 +35256,7 @@
             "price": "25.85 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBAW_clipped_rev_1_485229e3-940c-4e3c-88e0-9434e1fdfb1e.jpg?v=1744055342",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBAW_clipped_rev_1_485229e3-940c-4e3c-88e0-9434e1fdfb1e.jpg?v=1788527347",
             "options": {}
           }
         ]
@@ -35264,7 +35270,7 @@
         "price": "£18.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBB_clipped_rev_1.jpg?v=1744055330",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBB_clipped_rev_1.jpg?v=1788527177",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35287,7 +35293,7 @@
             "price": "18.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBB_clipped_rev_1.jpg?v=1744055330",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBB_clipped_rev_1.jpg?v=1788527177",
             "options": {}
           }
         ]
@@ -35301,7 +35307,7 @@
         "price": "£18.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBOG_clipped_rev_1.jpg?v=1744055357",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBOG_clipped_rev_1.jpg?v=1788527347",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35324,7 +35330,7 @@
             "price": "18.35 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBOG_clipped_rev_1.jpg?v=1744055357",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBOG_clipped_rev_1.jpg?v=1788527347",
             "options": {}
           }
         ]
@@ -35338,7 +35344,7 @@
         "price": "£18.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBY_clipped_rev_1.jpg?v=1744055350",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBY_clipped_rev_1.jpg?v=1788527312",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35361,7 +35367,7 @@
             "price": "18.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBY_clipped_rev_1.jpg?v=1744055350",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBY_clipped_rev_1.jpg?v=1788527312",
             "options": {}
           }
         ]
@@ -35375,7 +35381,7 @@
         "price": "£11.65",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBOG_clipped_rev_1.jpg?v=1744055344",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBOG_clipped_rev_1.jpg?v=1788527312",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35398,7 +35404,7 @@
             "price": "11.65 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBOG_clipped_rev_1.jpg?v=1744055344",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBOG_clipped_rev_1.jpg?v=1788527312",
             "options": {}
           }
         ]
@@ -35412,7 +35418,7 @@
         "price": "£11.65",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBY_clipped_rev_1.jpg?v=1744055371",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBY_clipped_rev_1.jpg?v=1788527347",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35435,7 +35441,7 @@
             "price": "11.65 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBY_clipped_rev_1.jpg?v=1744055371",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3HPUBY_clipped_rev_1.jpg?v=1788527347",
             "options": {}
           }
         ]
@@ -35449,7 +35455,7 @@
         "price": "£23.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBAW_clipped_rev_1.jpg?v=1744055351",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBAW_clipped_rev_1.jpg?v=1788527347",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35472,7 +35478,7 @@
             "price": "23.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBAW_clipped_rev_1.jpg?v=1744055351",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPBAW_clipped_rev_1.jpg?v=1788527347",
             "options": {}
           }
         ]
@@ -35486,7 +35492,7 @@
         "price": "£15.45",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGB_clipped_rev_1.jpg?v=1744055363",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGB_clipped_rev_1.jpg?v=1788527275",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35509,7 +35515,7 @@
             "price": "15.45 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGB_clipped_rev_1.jpg?v=1744055363",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGB_clipped_rev_1.jpg?v=1788527275",
             "options": {}
           }
         ]
@@ -35523,7 +35529,7 @@
         "price": "£15.45",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGOG_clipped_rev_1.jpg?v=1744055364",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGOG_clipped_rev_1.jpg?v=1788527275",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35546,7 +35552,7 @@
             "price": "15.45 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGOG_clipped_rev_1.jpg?v=1744055364",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGOG_clipped_rev_1.jpg?v=1788527275",
             "options": {}
           }
         ]
@@ -35560,7 +35566,7 @@
         "price": "£15.45",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGY_clipped_rev_1.jpg?v=1744055370",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGY_clipped_rev_1.jpg?v=1788527347",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35583,7 +35589,7 @@
             "price": "15.45 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGY_clipped_rev_1.jpg?v=1744055370",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3TPGY_clipped_rev_1.jpg?v=1788527347",
             "options": {}
           }
         ]
@@ -35597,7 +35603,7 @@
         "price": "£15.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBB_clipped_rev_1.jpg?v=1744055378",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBB_clipped_rev_1.jpg?v=1788527275",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35620,7 +35626,7 @@
             "price": "15.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBB_clipped_rev_1.jpg?v=1744055378",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBB_clipped_rev_1.jpg?v=1788527275",
             "options": {}
           }
         ]
@@ -35634,7 +35640,7 @@
         "price": "£15.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBOG_clipped_rev_1.jpg?v=1744055383",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBOG_clipped_rev_1.jpg?v=1788527348",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35657,7 +35663,7 @@
             "price": "15.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBOG_clipped_rev_1.jpg?v=1744055383",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBOG_clipped_rev_1.jpg?v=1788527348",
             "options": {}
           }
         ]
@@ -35671,7 +35677,7 @@
         "price": "£15.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBY_clipped_rev_1.jpg?v=1744055391",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBY_clipped_rev_1.jpg?v=1788527347",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35694,7 +35700,7 @@
             "price": "15.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBY_clipped_rev_1.jpg?v=1744055391",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PhaC3SBY_clipped_rev_1.jpg?v=1788527347",
             "options": {}
           }
         ]
@@ -35708,7 +35714,7 @@
         "price": "£64.15",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFFRE_clipped_rev_1.jpg?v=1744055384",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFFRE_clipped_rev_1.jpg?v=1788527346",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35731,7 +35737,7 @@
             "price": "64.15 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFFRE_clipped_rev_1.jpg?v=1744055384",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFFRE_clipped_rev_1.jpg?v=1788527346",
             "options": {}
           }
         ]
@@ -35745,7 +35751,7 @@
         "price": "£64.75",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFBTS_clipped_rev_1.jpg?v=1744055392",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFBTS_clipped_rev_1.jpg?v=1788527346",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35768,7 +35774,7 @@
             "price": "64.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFBTS_clipped_rev_1.jpg?v=1744055392",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFBTS_clipped_rev_1.jpg?v=1788527346",
             "options": {}
           }
         ]
@@ -35782,7 +35788,7 @@
         "price": "£51.95",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFCER_clipped_rev_1.jpg?v=1744055398",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9238845980937-SOC-C5TF-CER-optimised.png?v=1788526761",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35805,7 +35811,7 @@
             "price": "64.15 GBP",
             "sale_price": "51.95 GBP",
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFCER_clipped_rev_1.jpg?v=1744055398",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9238845980937-SOC-C5TF-CER-optimised.png?v=1788526761",
             "options": {}
           }
         ]
@@ -35819,7 +35825,7 @@
         "price": "£73.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFJB_clipped_rev_1.jpg?v=1744055398",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFJB_clipped_rev_1.jpg?v=1788527330",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35842,7 +35848,7 @@
             "price": "73.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFJB_clipped_rev_1.jpg?v=1744055398",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFJB_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
         ]
@@ -35856,7 +35862,7 @@
         "price": "£73.35",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFTAJ_clipped_rev_1.jpg?v=1744055405",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFTAJ_clipped_rev_1.jpg?v=1788527330",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35879,7 +35885,7 @@
             "price": "73.35 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFTAJ_clipped_rev_1.jpg?v=1744055405",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFTAJ_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
         ]
@@ -35893,7 +35899,7 @@
         "price": "£45.85",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFFRE_clipped_rev_1.jpg?v=1744055407",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFFRE_clipped_rev_1.jpg?v=1788527329",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35917,7 +35923,7 @@
             "price": "45.85 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFFRE_clipped_rev_1.jpg?v=1744055407",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFFRE_clipped_rev_1.jpg?v=1788527329",
             "options": {}
           }
         ]
@@ -35931,7 +35937,7 @@
         "price": "£49.75",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFBTS_clipped_rev_1.jpg?v=1744055413",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFBTS_clipped_rev_1.jpg?v=1788527330",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35955,7 +35961,7 @@
             "price": "49.75 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFBTS_clipped_rev_1.jpg?v=1744055413",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFBTS_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
         ]
@@ -35969,7 +35975,7 @@
         "price": "£45.85",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFCER_clipped_rev_1.jpg?v=1744055415",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFCER_clipped_rev_1.jpg?v=1788527330",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -35993,7 +35999,7 @@
             "price": "45.85 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFCER_clipped_rev_1.jpg?v=1744055415",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFCER_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
         ]
@@ -36007,7 +36013,7 @@
         "price": "£49.75",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFJB_clipped_rev_1.jpg?v=1744055419",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFJB_clipped_rev_1.jpg?v=1788527311",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36031,7 +36037,7 @@
             "price": "49.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFJB_clipped_rev_1.jpg?v=1744055419",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFJB_clipped_rev_1.jpg?v=1788527311",
             "options": {}
           }
         ]
@@ -36045,7 +36051,7 @@
         "price": "£49.75",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFTAJ_clipped_rev_1.jpg?v=1744055426",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFTAJ_clipped_rev_1.jpg?v=1788527330",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36069,7 +36075,7 @@
             "price": "49.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFTAJ_clipped_rev_1.jpg?v=1744055426",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5MFTAJ_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
         ]
@@ -36083,7 +36089,7 @@
         "price": "£34.75",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPBTS_clipped_rev_1.jpg?v=1744055428",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPBTS_clipped_rev_1.jpg?v=1788527294",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36106,7 +36112,7 @@
             "price": "34.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPBTS_clipped_rev_1.jpg?v=1744055428",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPBTS_clipped_rev_1.jpg?v=1788527294",
             "options": {}
           }
         ]
@@ -36120,7 +36126,7 @@
         "price": "£27.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPFRE_clipped_rev_1.jpg?v=1744055422",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPFRE_clipped_rev_1.jpg?v=1788527330",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36143,7 +36149,7 @@
             "price": "27.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPFRE_clipped_rev_1.jpg?v=1744055422",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPFRE_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
         ]
@@ -36157,7 +36163,7 @@
         "price": "£27.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPCER_clipped_rev_1.jpg?v=1744055432",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPCER_clipped_rev_1.jpg?v=1788527293",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36180,7 +36186,7 @@
             "price": "27.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPCER_clipped_rev_1.jpg?v=1744055432",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPCER_clipped_rev_1.jpg?v=1788527293",
             "options": {}
           }
         ]
@@ -36194,7 +36200,7 @@
         "price": "£34.75",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPJB_clipped_rev_1.jpg?v=1744055435",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPJB_clipped_rev_1.jpg?v=1788527330",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36217,7 +36223,7 @@
             "price": "34.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPJB_clipped_rev_1.jpg?v=1744055435",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPJB_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
         ]
@@ -36231,7 +36237,7 @@
         "price": "£34.75",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPTAJ_clipped_rev_1.jpg?v=1744055439",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPTAJ_clipped_rev_1.jpg?v=1788527330",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36254,7 +36260,7 @@
             "price": "34.75 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPTAJ_clipped_rev_1.jpg?v=1744055439",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPTAJ_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
         ]
@@ -36268,7 +36274,7 @@
         "price": "£32.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSFRE_clipped_rev_1.jpg?v=1744055442",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSFRE_clipped_rev_1.jpg?v=1788527330",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36291,7 +36297,7 @@
             "price": "32.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSFRE_clipped_rev_1.jpg?v=1744055442",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSFRE_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
         ]
@@ -36305,7 +36311,7 @@
         "price": "£40.85",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSBTS_clipped_rev_1.jpg?v=1744055446",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSBTS_clipped_rev_1.jpg?v=1788527293",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36328,7 +36334,7 @@
             "price": "40.85 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSBTS_clipped_rev_1.jpg?v=1744055446",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSBTS_clipped_rev_1.jpg?v=1788527293",
             "options": {}
           }
         ]
@@ -36342,7 +36348,7 @@
         "price": "£31.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSCER_clipped_rev_1.jpg?v=1744055462",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSCER_clipped_rev_1.jpg?v=1788527312",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36365,7 +36371,7 @@
             "price": "31.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSCER_clipped_rev_1.jpg?v=1744055462",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSCER_clipped_rev_1.jpg?v=1788527312",
             "options": {}
           }
         ]
@@ -36379,7 +36385,7 @@
         "price": "£40.85",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSJB_clipped_rev_1.jpg?v=1744055449",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSJB_clipped_rev_1.jpg?v=1788527311",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36402,7 +36408,7 @@
             "price": "40.85 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSJB_clipped_rev_1.jpg?v=1744055449",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSJB_clipped_rev_1.jpg?v=1788527311",
             "options": {}
           }
         ]
@@ -36416,7 +36422,7 @@
         "price": "£40.85",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSTAJ_clipped_rev_1.jpg?v=1744055474",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSTAJ_clipped_rev_1.jpg?v=1788527274",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36439,7 +36445,7 @@
             "price": "40.85 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSTAJ_clipped_rev_1.jpg?v=1744055474",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5SSTAJ_clipped_rev_1.jpg?v=1788527274",
             "options": {}
           }
         ]
@@ -36453,7 +36459,7 @@
         "price": "£65.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC3CEITJB_clipped_rev_1.jpg?v=1744055460",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC3CEITJB_clipped_rev_1.jpg?v=1788527312",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36476,7 +36482,7 @@
             "price": "65.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC3CEITJB_clipped_rev_1.jpg?v=1744055460",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC3CEITJB_clipped_rev_1.jpg?v=1788527312",
             "options": {}
           }
         ]
@@ -36490,7 +36496,7 @@
         "price": "£72.50",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5TFJB_clipped_rev_1.jpg?v=1744055467",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5TFJB_clipped_rev_1.jpg?v=1788527312",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36513,7 +36519,7 @@
             "price": "72.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5TFJB_clipped_rev_1.jpg?v=1744055467",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5TFJB_clipped_rev_1.jpg?v=1788527312",
             "options": {}
           }
         ]
@@ -36527,7 +36533,7 @@
         "price": "£54.15",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5MFJB_clipped_rev_1.jpg?v=1744055453",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5MFJB_clipped_rev_1.jpg?v=1788527311",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36551,7 +36557,7 @@
             "price": "54.15 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5MFJB_clipped_rev_1.jpg?v=1744055453",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5MFJB_clipped_rev_1.jpg?v=1788527311",
             "options": {}
           }
         ]
@@ -36565,7 +36571,7 @@
         "price": "£21.00",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5SOJB_clipped_rev_1.jpg?v=1744055456",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5SOJB_clipped_rev_1.jpg?v=1788527293",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36588,7 +36594,7 @@
             "price": "21.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5SOJB_clipped_rev_1.jpg?v=1744055456",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5SOJB_clipped_rev_1.jpg?v=1788527293",
             "options": {}
           }
         ]
@@ -36602,7 +36608,7 @@
         "price": "£20.85",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5CPJB_clipped_rev_1.jpg?v=1744055476",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5CPJB_clipped_rev_1.jpg?v=1788527292",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36625,7 +36631,7 @@
             "price": "20.85 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5CPJB_clipped_rev_1.jpg?v=1744055476",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5CPJB_clipped_rev_1.jpg?v=1788527292",
             "options": {}
           }
         ]
@@ -36639,7 +36645,7 @@
         "price": "£72.95",
         "brand": "Semogue",
         "vendor": "Semogue",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5TSJB_clipped_rev_1.jpg?v=1744055470",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5TSJB_clipped_rev_1.jpg?v=1788527275",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36662,7 +36668,7 @@
             "price": "72.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5TSJB_clipped_rev_1.jpg?v=1744055470",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TorC5TSJB_clipped_rev_1.jpg?v=1788527275",
             "options": {}
           }
         ]
@@ -36745,7 +36751,7 @@
         "price": "£44.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_10__clipped_rev_1.jpg?v=1765233587",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_10__clipped_rev_1.jpg?v=1788530963",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36768,7 +36774,7 @@
             "price": "44.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_10__clipped_rev_1.jpg?v=1765233587",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_10__clipped_rev_1.jpg?v=1788530963",
             "options": {}
           }
         ]
@@ -36782,7 +36788,7 @@
         "price": "£79.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front-mgs-lossless.webp?v=1784922244",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front-mgs-lossless.webp?v=1788530965",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36805,7 +36811,7 @@
             "price": "99.95 GBP",
             "sale_price": "79.95 GBP",
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front-mgs-lossless.webp?v=1784922244",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front-mgs-lossless.webp?v=1788530965",
             "options": {}
           }
         ]
@@ -36819,7 +36825,7 @@
         "price": "£42.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_8-mgs-lossless.webp?v=1784922254",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_8-mgs-lossless.webp?v=1788530965",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36843,7 +36849,7 @@
             "price": "42.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_8-mgs-lossless.webp?v=1784922254",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_8-mgs-lossless.webp?v=1788530965",
             "options": {}
           }
         ]
@@ -36857,7 +36863,7 @@
         "price": "£49.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_25__clipped_rev_1.jpg?v=1765233569",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_25__clipped_rev_1.jpg?v=1788530963",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36880,7 +36886,7 @@
             "price": "49.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_25__clipped_rev_1.jpg?v=1765233569",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_25__clipped_rev_1.jpg?v=1788530963",
             "options": {
               "Size": "M6 Sovereign"
             }
@@ -36895,7 +36901,7 @@
             "price": "54.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_27__clipped_rev_1.jpg?v=1765233569",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_27__clipped_rev_1.jpg?v=1788539132",
             "options": {
               "Size": "M7 Sovereign"
             }
@@ -36911,7 +36917,7 @@
         "price": "£65.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_28__clipped_rev_1.jpg?v=1765233567",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_28__clipped_rev_1.jpg?v=1788530963",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -36934,7 +36940,7 @@
             "price": "65.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_28__clipped_rev_1.jpg?v=1765233567",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_28__clipped_rev_1.jpg?v=1788530963",
             "options": {
               "Size": "Polo 8 Sovereign"
             }
@@ -36949,7 +36955,7 @@
             "price": "84.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_29-mgs-lossless.webp?v=1784922322",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_29-mgs-lossless.webp?v=1788539134",
             "options": {
               "Size": "Polo 10 Sovereign"
             }
@@ -36964,7 +36970,7 @@
             "price": "139.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson-Polo-12-Soveriegn-Fibre-Synthetic-Fiber-Shaving-Brush-28mm_1000x1000_clipped_rev_1.jpg?v=1765233566",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson-Polo-12-Soveriegn-Fibre-Synthetic-Fiber-Shaving-Brush-28mm_1000x1000_clipped_rev_1.jpg?v=1788539132",
             "options": {
               "Size": "Polo 12 Sovereign"
             }
@@ -36980,7 +36986,7 @@
         "price": "£39.60",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B1-Front.png?v=1765233853",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B1-Front.png?v=1788531061",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37003,7 +37009,7 @@
             "price": "39.60 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B1-Front.png?v=1765233853",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B1-Front.png?v=1788531061",
             "options": {
               "Size": "90mm - B1 Pure"
             }
@@ -37018,7 +37024,7 @@
             "price": "50.40 GBP",
             "sale_price": "35.95 GBP",
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B2-Front.png?v=1765233853",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B2-Front.png?v=1788539133",
             "options": {
               "Size": "95mm - B2 Pure"
             }
@@ -37033,7 +37039,7 @@
             "price": "67.20 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B3.png?v=1765233857",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B3.png?v=1788539140",
             "options": {
               "Size": "100mm - B3 Pure"
             }
@@ -37048,7 +37054,7 @@
             "price": "78.45 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B4-Front.png?v=1765233857",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B4-Front.png?v=1788539140",
             "options": {
               "Size": "105mm - B4 Pure"
             }
@@ -37063,7 +37069,7 @@
             "price": "95.60 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B5-Front.png?v=1765233862",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B5-Front.png?v=1788539140",
             "options": {
               "Size": "110mm - B5 Pure"
             }
@@ -37078,7 +37084,7 @@
             "price": "106.80 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B6-Front.png?v=1765233864",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B6-Front.png?v=1788539140",
             "options": {
               "Size": "115mm - B6 Pure"
             }
@@ -37094,7 +37100,7 @@
         "price": "£34.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simspsons_Berkeley_46_-_Pure.jpg?v=1765233847",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simspsons_Berkeley_46_-_Pure.jpg?v=1788531060",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37117,7 +37123,7 @@
             "price": "43.75 GBP",
             "sale_price": "34.95 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simspsons_Berkeley_46_-_Pure.jpg?v=1765233847",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simspsons_Berkeley_46_-_Pure.jpg?v=1788531060",
             "options": {
               "Brush Type": "Pure Badger"
             }
@@ -37132,7 +37138,7 @@
             "price": "48.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpsons_Berkeley_46_-_Best.png?v=1765233847",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpsons_Berkeley_46_-_Best.png?v=1788539140",
             "options": {
               "Brush Type": "Best Badger"
             }
@@ -37148,7 +37154,7 @@
         "price": "£104.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_6__clipped_rev_1.jpg?v=1765233686",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_6__clipped_rev_1.jpg?v=1788531060",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37171,7 +37177,7 @@
             "price": "104.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_6__clipped_rev_1.jpg?v=1765233686",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_6__clipped_rev_1.jpg?v=1788531060",
             "options": {}
           }
         ]
@@ -37185,7 +37191,7 @@
         "price": "£52.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1784922293",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1788531062",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37208,7 +37214,7 @@
             "price": "58.95 GBP",
             "sale_price": "52.95 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1784922293",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1788531062",
             "options": {}
           }
         ]
@@ -37222,7 +37228,7 @@
         "price": "£39.00",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Pure-Front.png?v=1765233752",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Pure-Front.png?v=1788531061",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37245,7 +37251,7 @@
             "price": "43.80 GBP",
             "sale_price": "39.00 GBP",
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Pure-Front.png?v=1765233752",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Pure-Front.png?v=1788531061",
             "options": {
               "Brush Hair Type": "Pure Badger"
             }
@@ -37260,7 +37266,7 @@
             "price": "51.40 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Best-Front.png?v=1765233752",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Best-Front.png?v=1788539148",
             "options": {
               "Brush Hair Type": "Best Badger"
             }
@@ -37276,7 +37282,7 @@
         "price": "£99.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH1-Best-Front.png?v=1765233804",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH1-Best-Front.png?v=1788531061",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37299,7 +37305,7 @@
             "price": "99.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH1-Best-Front.png?v=1765233804",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH1-Best-Front.png?v=1788531061",
             "options": {
               "Size & Brush Type": "Chubby Best 85mm - CH1 Best"
             }
@@ -37314,7 +37320,7 @@
             "price": "165.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Best-Front.png?v=1765233804",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Best-Front.png?v=1788539148",
             "options": {
               "Size & Brush Type": "Chubby Best 95mm - CH2 Best"
             }
@@ -37329,7 +37335,7 @@
             "price": "205.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH3-Best-Front.png?v=1765233808",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH3-Best-Front.png?v=1788539148",
             "options": {
               "Size & Brush Type": "Chubby Best 105mm - CH3 Best"
             }
@@ -37344,7 +37350,7 @@
             "price": "139.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Super-Front.png?v=1765233808",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Super-Front.png?v=1788539148",
             "options": {
               "Size & Brush Type": "Super Chubby 85mm - CH1 Super"
             }
@@ -37359,7 +37365,7 @@
             "price": "195.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Super-Front.png?v=1765233808",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Super-Front.png?v=1788539148",
             "options": {
               "Size & Brush Type": "Super Chubby 95mm - CH2 Super"
             }
@@ -37374,7 +37380,7 @@
             "price": "235.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH3-Super-Front.png?v=1765233808",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH3-Super-Front.png?v=1788539148",
             "options": {
               "Size & Brush Type": "Super Chubby 105mm - CH3 Super"
             }
@@ -37390,7 +37396,7 @@
         "price": "£56.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_14__clipped_rev_1_1121586d-e5b4-447c-b319-84deda5b588b.jpg?v=1765233592",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_14__clipped_rev_1_1121586d-e5b4-447c-b319-84deda5b588b.jpg?v=1788531060",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37413,7 +37419,7 @@
             "price": "56.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_14__clipped_rev_1_1121586d-e5b4-447c-b319-84deda5b588b.jpg?v=1765233592",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_14__clipped_rev_1_1121586d-e5b4-447c-b319-84deda5b588b.jpg?v=1788531060",
             "options": {
               "Size": "Chubby 1 Sovereign"
             }
@@ -37428,7 +37434,7 @@
             "price": "75.95 GBP",
             "sale_price": "57.95 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-sov-front_clipped_rev_1.jpg?v=1765233592",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-sov-front_clipped_rev_1.jpg?v=1788539148",
             "options": {
               "Size": "Chubby 2 Sovereign"
             }
@@ -37443,7 +37449,7 @@
             "price": "84.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_16__clipped_rev_1_1.jpg?v=1765233592",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_16__clipped_rev_1_1.jpg?v=1788539154",
             "options": {
               "Size": "Chubby 3 Sovereign"
             }
@@ -37459,7 +37465,7 @@
         "price": "£88.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CL1Best.png?v=1765233799",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CL1Best.png?v=1788531061",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37482,7 +37488,7 @@
             "price": "88.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CL1Best.png?v=1765233799",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CL1Best.png?v=1788531061",
             "options": {
               "Size": "Classic 1 - 83mm"
             }
@@ -37497,7 +37503,7 @@
             "price": "98.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CL1Best.png?v=1765233799",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CL1Best.png?v=1788531061",
             "options": {
               "Size": "Classic 2 - 85mm"
             }
@@ -37513,7 +37519,7 @@
         "price": "£45.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LSovereign-Front.jpg?v=1764959374",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LSovereign-Front.jpg?v=1788531079",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37536,7 +37542,7 @@
             "price": "45.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LSovereign-Front.jpg?v=1764959374",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LSovereign-Front.jpg?v=1788531079",
             "options": {}
           }
         ]
@@ -37550,7 +37556,7 @@
         "price": "£59.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LBest-Front.png?v=1765233746",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LBest-Front.png?v=1788531077",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37573,7 +37579,7 @@
             "price": "77.50 GBP",
             "sale_price": "59.95 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LBest-Front.png?v=1765233746",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LBest-Front.png?v=1788531077",
             "options": {}
           }
         ]
@@ -37587,7 +37593,7 @@
         "price": "£66.40",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X1Best-Front.png?v=1765233785",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X1Best-Front.png?v=1788531078",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37610,7 +37616,7 @@
             "price": "66.40 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X1Best-Front.png?v=1765233785",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X1Best-Front.png?v=1788531078",
             "options": {
               "Size": "Commodore X1 Best"
             }
@@ -37625,7 +37631,7 @@
             "price": "73.50 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2Best-Front.png?v=1765233784",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2Best-Front.png?v=1788539155",
             "options": {
               "Size": "Commodore X2 Best"
             }
@@ -37640,7 +37646,7 @@
             "price": "102.70 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X3Best-Front.png?v=1765233790",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X3Best-Front.png?v=1788539155",
             "options": {
               "Size": "Commodore X3 Best"
             }
@@ -37656,7 +37662,7 @@
         "price": "£44.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_18__clipped_rev_1.jpg?v=1765233596",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_18__clipped_rev_1.jpg?v=1788531077",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37679,7 +37685,7 @@
             "price": "44.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_18__clipped_rev_1.jpg?v=1765233596",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_18__clipped_rev_1.jpg?v=1788531077",
             "options": {
               "Size": "Commodore X1 Sovereign"
             }
@@ -37694,7 +37700,7 @@
             "price": "48.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/x2-sov-front-clipped.jpg?v=1765233596",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/x2-sov-front-clipped.jpg?v=1788539161",
             "options": {
               "Size": "Commodore X2 Sovereign"
             }
@@ -37709,7 +37715,7 @@
             "price": "49.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/x3-sov-front-clipped.jpg?v=1765233596",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/x3-sov-front-clipped.jpg?v=1788539161",
             "options": {
               "Size": "Commodore X3 Sovereign"
             }
@@ -37725,7 +37731,7 @@
         "price": "£69.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-3-platinum-fibre-faux-ivory-front_clipped_rev_1.jpg?v=1765233603",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-3-platinum-fibre-faux-ivory-front_clipped_rev_1.jpg?v=1788531077",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37748,7 +37754,7 @@
             "price": "69.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-3-platinum-fibre-faux-ivory-front_clipped_rev_1.jpg?v=1765233603",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-3-platinum-fibre-faux-ivory-front_clipped_rev_1.jpg?v=1788531077",
             "options": {}
           }
         ]
@@ -37762,7 +37768,7 @@
         "price": "£72.00",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D1Pure-Front.png?v=1765233828",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D1Pure-Front.png?v=1788531077",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37785,7 +37791,7 @@
             "price": "72.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D1Pure-Front.png?v=1765233828",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D1Pure-Front.png?v=1788531077",
             "options": {
               "Size & Brush Type": "Duke 1 Pure - 85mm"
             }
@@ -37800,7 +37806,7 @@
             "price": "100.80 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D1Best-Front.png?v=1765233828",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D1Best-Front.png?v=1788539162",
             "options": {
               "Size & Brush Type": "Duke 1 Best - 85mm"
             }
@@ -37815,7 +37821,7 @@
             "price": "84.45 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D2Pure-Front.png?v=1765233836",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D2Pure-Front.png?v=1788539162",
             "options": {
               "Size & Brush Type": "Duke 2 Pure - 90mm"
             }
@@ -37830,7 +37836,7 @@
             "price": "121.90 GBP",
             "sale_price": "81.95 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D2Best-Front.png?v=1765233836",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D2Best-Front.png?v=1788539162",
             "options": {
               "Size & Brush Type": "Duke 2 Best - 90mm"
             }
@@ -37845,7 +37851,7 @@
             "price": "102.70 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D3Pure-Front.png?v=1765233842",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D3Pure-Front.png?v=1788539169",
             "options": {
               "Size & Brush Type": "Duke 3 Pure - 95mm"
             }
@@ -37860,7 +37866,7 @@
             "price": "151.90 GBP",
             "sale_price": "115.00 GBP",
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D3Best-Front.png?v=1765233843",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D3Best-Front.png?v=1788539169",
             "options": {
               "Size & Brush Type": "Duke 3 Best - 95mm"
             }
@@ -37876,7 +37882,7 @@
         "price": "£45.25",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-1-sov-front.jpg?v=1765233575",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-1-sov-front.jpg?v=1788539169",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37899,7 +37905,7 @@
             "price": "45.25 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-1-sov-front.jpg?v=1765233575",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-1-sov-front.jpg?v=1788539169",
             "options": {
               "Size": "Duke 1 Sovereign"
             }
@@ -37914,7 +37920,7 @@
             "price": "48.25 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-2-sov-front-mgs-lossless.webp?v=1784922234",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-2-sov-front-mgs-lossless.webp?v=1788531080",
             "options": {
               "Size": "Duke 2 Sovereign"
             }
@@ -37929,7 +37935,7 @@
             "price": "52.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/d3-sov-front-clipped.jpg?v=1765233578",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/d3-sov-front-clipped.jpg?v=1788539169",
             "options": {
               "Size": "Duke 3 Sovereign"
             }
@@ -37945,7 +37951,7 @@
         "price": "£72.20",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G1Pure-Front.png?v=1765233775",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G1Pure-Front.png?v=1788531078",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -37968,7 +37974,7 @@
             "price": "72.20 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G1Pure-Front.png?v=1765233775",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G1Pure-Front.png?v=1788531078",
             "options": {
               "Size": "Eagle Pure 1"
             }
@@ -37983,7 +37989,7 @@
             "price": "84.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G2Pure-Front.png?v=1765233776",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G2Pure-Front.png?v=1788539169",
             "options": {
               "Size": "Eagle Pure 2"
             }
@@ -37998,7 +38004,7 @@
             "price": "108.70 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G3Pure-Front.png?v=1765233783",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G3Pure-Front.png?v=1788539176",
             "options": {
               "Size": "Eagle Pure 3"
             }
@@ -38014,7 +38020,7 @@
         "price": "£151.90",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/E1Super-Front.png?v=1765233798",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/E1Super-Front.png?v=1788539176",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38037,7 +38043,7 @@
             "price": "151.90 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/E1Super-Front.png?v=1765233798",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/E1Super-Front.png?v=1788539176",
             "options": {
               "Size": "E1 Super"
             }
@@ -38052,7 +38058,7 @@
             "price": "175.70 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/E2Super-Front.png?v=1765233798",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/E2Super-Front.png?v=1788539176",
             "options": {
               "Size": "E2 Super"
             }
@@ -38067,7 +38073,7 @@
             "price": "232.80 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/E3Super-Front.png?v=1765233793",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/E3Super-Front.png?v=1788531095",
             "options": {
               "Size": "E3 Super"
             }
@@ -38083,7 +38089,7 @@
         "price": "£108.70",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/55Best-Front.png?v=1765233768",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/55Best-Front.png?v=1788531095",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38106,7 +38112,7 @@
             "price": "108.70 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/55Best-Front.png?v=1765233768",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/55Best-Front.png?v=1788531095",
             "options": {
               "Size": "55 Best - 87mm"
             }
@@ -38121,7 +38127,7 @@
             "price": "134.40 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/56Best-Front.png?v=1765233768",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/56Best-Front.png?v=1788539176",
             "options": {
               "Size": "56 Best - 97mm"
             }
@@ -38136,7 +38142,7 @@
             "price": "151.90 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57Best-Front.png?v=1765233767",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57Best-Front.png?v=1788539183",
             "options": {
               "Size": "57 Best - 107mm"
             }
@@ -38151,7 +38157,7 @@
             "price": "167.30 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/58Best-Front.png?v=1765233775",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/58Best-Front.png?v=1788539183",
             "options": {
               "Size": "58 Best - 112mm"
             }
@@ -38166,7 +38172,7 @@
             "price": "204.50 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/59Best-Front.png?v=1765233775",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/59Best-Front.png?v=1788539183",
             "options": {
               "Size": "59 Best - 120mm"
             }
@@ -38182,7 +38188,7 @@
         "price": "£100.10",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H1Best-Front.png?v=1765233727",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H1Best-Front.png?v=1788539183",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38205,7 +38211,7 @@
             "price": "100.10 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H1Best-Front.png?v=1765233727",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H1Best-Front.png?v=1788539183",
             "options": {
               "Size": "Harvard Best 1"
             }
@@ -38220,7 +38226,7 @@
             "price": "121.90 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H2Best-Front.png?v=1765233734",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H2Best-Front.png?v=1788539182",
             "options": {
               "Size": "Harvard Best 2"
             }
@@ -38235,7 +38241,7 @@
             "price": "154.80 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H3Best-Front.png?v=1765233734",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H3Best-Front.png?v=1788539183",
             "options": {
               "Size": "Harvard Best 3"
             }
@@ -38250,7 +38256,7 @@
             "price": "193.50 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H4Best-Front.png?v=1765233727",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H4Best-Front.png?v=1788531095",
             "options": {
               "Size": "Harvard Best 4"
             }
@@ -38265,7 +38271,7 @@
             "price": "254.50 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H5Best-Front.png?v=1765233733",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H5Best-Front.png?v=1788539183",
             "options": {
               "Size": "Harvard Best 5"
             }
@@ -38280,7 +38286,7 @@
             "price": "298.10 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H6Best-Front.png?v=1765233737",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/H6Best-Front.png?v=1788539183",
             "options": {
               "Size": "Harvard Best 6"
             }
@@ -38296,7 +38302,7 @@
         "price": "£99.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH1_Best_-_Front.png?v=1765233815",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH1_Best_-_Front.png?v=1788531095",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38319,7 +38325,7 @@
             "price": "99.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH1_Best_-_Front.png?v=1765233815",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH1_Best_-_Front.png?v=1788531095",
             "options": {
               "Size": "KH1 Best - 95mm"
             }
@@ -38334,7 +38340,7 @@
             "price": "121.90 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH2_Best_-_Front.png?v=1765233815",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH2_Best_-_Front.png?v=1788539189",
             "options": {
               "Size": "KH2 Best - 100mm"
             }
@@ -38349,7 +38355,7 @@
             "price": "151.90 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH3_Best_-_Front.png?v=1765233824",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH3_Best_-_Front.png?v=1788539190",
             "options": {
               "Size": "KH3 Best - 105mm"
             }
@@ -38364,7 +38370,7 @@
             "price": "171.60 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH4_Best_-_Front.png?v=1765233828",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/KH4_Best_-_Front.png?v=1788539190",
             "options": {
               "Size": "KH4 Best - 110mm"
             }
@@ -38380,7 +38386,7 @@
         "price": "£109.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1765233815",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1788539196",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38404,7 +38410,7 @@
             "price": "109.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1765233815",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1788539196",
             "options": {
               "Brush Type": "Best Badger"
             }
@@ -38419,7 +38425,7 @@
             "price": "129.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ManjorSuper-Open.png?v=1765233807",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ManjorSuper-Open.png?v=1788531095",
             "options": {
               "Brush Type": "Super Badger"
             }
@@ -38435,7 +38441,7 @@
         "price": "£126.00",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MCBest-Front.png?v=1765233717",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MCBest-Front.png?v=1788531095",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38458,7 +38464,7 @@
             "price": "126.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MCBest-Front.png?v=1765233717",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MCBest-Front.png?v=1788531095",
             "options": {}
           }
         ]
@@ -38472,7 +38478,7 @@
         "price": "£124.30",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ1Best-Front.png?v=1765233754",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ1Best-Front.png?v=1788539197",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38495,7 +38501,7 @@
             "price": "124.30 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ1Best-Front.png?v=1765233754",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ1Best-Front.png?v=1788539197",
             "options": {
               "Size & Brush Type": "PJ1 Best Badger"
             }
@@ -38510,7 +38516,7 @@
             "price": "151.90 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ2Best-Front.png?v=1765233760",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ2Best-Front.png?v=1788539197",
             "options": {
               "Size & Brush Type": "PJ2 Best Badger"
             }
@@ -38525,7 +38531,7 @@
             "price": "206.10 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ3Best-Front.png?v=1765233754",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ3Best-Front.png?v=1788531095",
             "options": {
               "Size & Brush Type": "PJ3 Best Badger"
             }
@@ -38540,7 +38546,7 @@
             "price": "174.00 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ1Super-Front.png?v=1765233760",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ1Super-Front.png?v=1788539197",
             "options": {
               "Size & Brush Type": "PJ1 Super Badger"
             }
@@ -38555,7 +38561,7 @@
             "price": "212.60 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ2Super-Front.png?v=1765233765",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ2Super-Front.png?v=1788539203",
             "options": {
               "Size & Brush Type": "PJ2 Super Badger"
             }
@@ -38570,7 +38576,7 @@
             "price": "290.85 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ3Super-Front.png?v=1765233766",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PJ3Super-Front.png?v=1788539204",
             "options": {
               "Size & Brush Type": "PJ3 Super Badger"
             }
@@ -38586,7 +38592,7 @@
         "price": "£151.20",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL8Best-Front.png?v=1765233744",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL8Best-Front.png?v=1788539210",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38609,7 +38615,7 @@
             "price": "151.20 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL8Best-Front.png?v=1765233744",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL8Best-Front.png?v=1788539210",
             "options": {
               "Size & Brush Type": "Polo 8 Best Badger"
             }
@@ -38624,7 +38630,7 @@
             "price": "252.00 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL10Best-Front.png?v=1765233744",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL10Best-Front.png?v=1788539204",
             "options": {
               "Size & Brush Type": "Polo 10 Best Badger"
             }
@@ -38639,7 +38645,7 @@
             "price": "312.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL12-Best.png?v=1765233744",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL12-Best.png?v=1788539204",
             "options": {
               "Size & Brush Type": "Polo 12 Best Badger"
             }
@@ -38654,7 +38660,7 @@
             "price": "295.00 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL14-Best.png?v=1765233739",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL14-Best.png?v=1788539203",
             "options": {
               "Size & Brush Type": "Polo 14 Best Badger"
             }
@@ -38669,7 +38675,7 @@
             "price": "184.55 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL8Super-Front.png?v=1765233739",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL8Super-Front.png?v=1788539203",
             "options": {
               "Size & Brush Type": "Polo 8 Super Badger"
             }
@@ -38684,7 +38690,7 @@
             "price": "353.75 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL10Super-Front.png?v=1765233739",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL10Super-Front.png?v=1788539203",
             "options": {
               "Size & Brush Type": "Polo 10 Super Badger"
             }
@@ -38699,7 +38705,7 @@
             "price": "374.80 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL12-Super.png?v=1765233732",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL12-Super.png?v=1788539203",
             "options": {
               "Size & Brush Type": "Polo 12 Super Badger"
             }
@@ -38714,7 +38720,7 @@
             "price": "375.00 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL14Super-Front.png?v=1765233732",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PL14Super-Front.png?v=1788531095",
             "options": {
               "Size & Brush Type": "Polo 14 Super Badger"
             }
@@ -38730,7 +38736,7 @@
         "price": "£40.00",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_33.png?v=1764958275",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_33.png?v=1788531112",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38753,7 +38759,7 @@
             "price": "47.00 GBP",
             "sale_price": "40.00 GBP",
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_33.png?v=1764958275",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_33.png?v=1788531112",
             "options": {}
           }
         ]
@@ -38767,7 +38773,7 @@
         "price": "£38.00",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Best-Front.png?v=1765233702",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Best-Front.png?v=1788531109",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38790,7 +38796,7 @@
             "price": "52.30 GBP",
             "sale_price": "38.00 GBP",
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Best-Front.png?v=1765233702",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Best-Front.png?v=1788531109",
             "options": {
               "Brush Type": "Best Badger"
             }
@@ -38805,7 +38811,7 @@
             "price": "30.20 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Pure-Front.png?v=1765233703",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Pure-Front.png?v=1788539210",
             "options": {
               "Brush Type": "Pure Badger"
             }
@@ -38821,7 +38827,7 @@
         "price": "£34.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SimpsonSovereignSpecial-mgs-lossless.webp?v=1784922265",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SimpsonSovereignSpecial-mgs-lossless.webp?v=1788531111",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38844,7 +38850,7 @@
             "price": "34.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SimpsonSovereignSpecial-mgs-lossless.webp?v=1784922265",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SimpsonSovereignSpecial-mgs-lossless.webp?v=1788531111",
             "options": {}
           }
         ]
@@ -38858,7 +38864,7 @@
         "price": "£174.20",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Tulip_T1_-_Front.png?v=1765233851",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Tulip_T1_-_Front.png?v=1788531109",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38881,7 +38887,7 @@
             "price": "174.20 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Tulip_T1_-_Front.png?v=1765233851",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Tulip_T1_-_Front.png?v=1788531109",
             "options": {
               "Size": "T1 - 90mm"
             }
@@ -38896,7 +38902,7 @@
             "price": "217.20 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/T2_-_Front.png?v=1765233851",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/T2_-_Front.png?v=1788539210",
             "options": {
               "Size": "T2 - 95mm"
             }
@@ -38911,7 +38917,7 @@
             "price": "254.45 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/T3_-_Front.png?v=1765233855",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/T3_-_Front.png?v=1788539210",
             "options": {
               "Size": "T3 - 100mm"
             }
@@ -38926,7 +38932,7 @@
             "price": "308.10 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/T4_-_Front.png?v=1765233857",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/T4_-_Front.png?v=1788539211",
             "options": {
               "Size": "T4 - 105mm"
             }
@@ -38942,7 +38948,7 @@
         "price": "£35.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1765233757",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1788531110",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38965,7 +38971,7 @@
             "price": "35.95 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1765233757",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1788531110",
             "options": {}
           }
         ]
