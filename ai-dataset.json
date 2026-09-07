@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-06",
-    "generated_at": "2026-09-06T06:56:14+00:00",
+    "last_updated": "2026-09-07",
+    "generated_at": "2026-09-07T07:05:46+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -22139,7 +22139,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22159,7 +22159,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-super-platinum-razor-blades?variant=48841624617225",
             "price": "6.45 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
             "options": {
               "Quantity": "Pack of 10"
@@ -37188,7 +37188,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "The Simpsons Captain 2 Sovereign Synthetic Shaving Brush is a modern handle design introduced in 2016 and praised for its balance, comfort, and refined appearance. Hand-turned in traditional faux ivory, it is filled with Simpsons’ widely regarded Sovereign Grade synthetic fibre, designed to offer excellent lathering ability with soft, smooth face feel. The Captain 2 features a tall, ergonomically shaped handle with flowing lines, making it especially well suited to shavers who prefer bowl lathering. Its proportions allow controlled brush movement, while the dense synthetic knot produces a rich, stable lather using either soaps or creams. Each brush continues the longstanding Simpsons tradition of hand-tied knots, completed with the familiar front label stating Hand Made in Great Britain. Key Features: Filled with Sovereign Grade synthetic fibre Classic faux ivory handle with tall ergonomic shape Particularly effective for bowl lathering Dense knot for consistent, creamy lather Comfortable proportions for both new and experienced wet shavers Handcrafted in Britain, featuring the Hand Made in Great Britain label Specifications: Overall brush height: 118mm Handle height: 69mm Knot loft: 40mm Knot diameter: 24mm For related shaving brush options, browse the Shaving Brushes collection.",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-captain-2-sovereign-synthetic",
-        "price": "£52.95",
+        "price": "£44.25",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1788531062",
@@ -37212,7 +37212,7 @@
             "title": "Simpsons 'The Captain 2' Sovereign Synthetic Shaving Brush",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-captain-2-sovereign-synthetic",
             "price": "58.95 GBP",
-            "sale_price": "52.95 GBP",
+            "sale_price": "44.25 GBP",
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_12-mgs-lossless.webp?v=1788531062",
             "options": {}
@@ -40654,7 +40654,7 @@
         "price": "£9.95",
         "brand": "Taylor of Old Bond Street",
         "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/j01001-shaving-cream-sandalwood-150ml-800x800px_2048x_ea1f6fac-96df-444c-9523-d07b1fed4ca8.jpg?v=1741892347",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/j01001-shaving-cream-sandalwood-150ml-open-800x800px_2048x_8c0bee0b-daa5-4fb6-9fa3-76ec32cf3bcf.jpg?v=1741892362",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -40676,7 +40676,7 @@
             "price": "12.95 GBP",
             "sale_price": "9.95 GBP",
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/j01001-shaving-cream-sandalwood-150ml-800x800px_2048x_ea1f6fac-96df-444c-9523-d07b1fed4ca8.jpg?v=1741892347",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/j01001-shaving-cream-sandalwood-150ml-open-800x800px_2048x_8c0bee0b-daa5-4fb6-9fa3-76ec32cf3bcf.jpg?v=1741892362",
             "options": {}
           }
         ]
