@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-07",
-    "generated_at": "2026-09-07T07:05:46+00:00",
+    "last_updated": "2026-09-08",
+    "generated_at": "2026-09-08T07:00:17+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -3939,7 +3939,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-pre-shave-150ml-01-pure-white-male-grooming-supplies.png?v=1788389807",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3960,7 +3960,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-the-pre-shave-150ml",
             "price": "36.25 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-pre-shave-150ml-01-pure-white-male-grooming-supplies.png?v=1788389807",
             "options": {}
           }
@@ -6287,7 +6287,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-arlington-aftershave?variant=55897924010249",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave-plastic-USB-800_clipped_rev_1.jpg?v=1757191776",
             "options": {
               "Volume": "100ml plastic"
@@ -7891,7 +7891,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_fc718ef3-c807-4132-b103-02baf3ecb65e_clipped_rev_1.jpg?v=1757160094",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7912,7 +7912,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-eau-de-portugal-hair-lotion-with-oil?variant=55897942229257",
             "price": "24.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_fc718ef3-c807-4132-b103-02baf3ecb65e_clipped_rev_1.jpg?v=1757160094",
             "options": {
               "Volume": "100ml"
@@ -7945,7 +7945,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_clipped_rev_1.jpg?v=1757161475",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7966,7 +7966,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-eau-de-portugal-hair-lotion-without-oil?variant=55897938657545",
             "price": "24.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_clipped_rev_1.jpg?v=1757161475",
             "options": {
               "Volume": "100ml"
@@ -8637,7 +8637,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-mahogany-bowlJPEG.jpg?v=1757170933",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8657,7 +8657,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-mahogany-bowl-100g",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-mahogany-bowlJPEG.jpg?v=1757170933",
             "options": {}
           }
@@ -9940,7 +9940,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Ginger-and-Lemon-SoapJPEG.jpg?v=1778107122",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9960,7 +9960,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-naturals-ginger-lemon-soap-200g",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Ginger-and-Lemon-SoapJPEG.jpg?v=1778107122",
             "options": {}
           }
@@ -10190,7 +10190,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/pink-aftershave800x.jpg?v=1778192472",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10212,7 +10212,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-pink-aftershave?variant=57040551477513",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/pink-aftershave800x.jpg?v=1778192472",
             "options": {
               "Volume": "100ml"
@@ -13728,7 +13728,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-with-Stand-AS-D2S_clipped_rev_1.jpg?v=1737212246",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13750,7 +13750,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-as-d2s-razor-and-stand",
             "price": "180.00 GBP",
             "sale_price": "169.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-with-Stand-AS-D2S_clipped_rev_1.jpg?v=1737212246",
             "options": {}
           }
@@ -13842,7 +13842,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Blue-Straight-Razor.jpg?v=1777801729",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13864,7 +13864,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-blue-sr-straight-razor-acsr-nbl",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Blue-Straight-Razor.jpg?v=1777801729",
             "options": {}
           }
@@ -14208,7 +14208,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Straight-Razor_clipped_rev_1.jpg?v=1737225756",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14229,7 +14229,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-japanese-razor-black",
             "price": "89.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Straight-Razor_clipped_rev_1.jpg?v=1737225756",
             "options": {}
           }
@@ -14245,7 +14245,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Scotch-Wood-Razor_1_clipped_rev_1.jpg?v=1737226445",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -14266,7 +14266,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-scotch-wood-razor",
             "price": "104.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Scotch-Wood-Razor_1_clipped_rev_1.jpg?v=1737226445",
             "options": {}
           }
@@ -28588,7 +28588,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-91r-male-grooming-supplies-478955.jpg?v=1722956864",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28609,7 +28609,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-91r-safety-razor",
             "price": "19.95 GBP",
             "sale_price": "11.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-91r-male-grooming-supplies-478955.jpg?v=1722956864",
             "options": {}
           }
@@ -37820,7 +37820,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-best-or-pure-badger-shaving-brush?variant=56363188060425",
             "price": "84.45 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D2Pure-Front.png?v=1788539162",
             "options": {
               "Size & Brush Type": "Duke 2 Pure - 90mm"
