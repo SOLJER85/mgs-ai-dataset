@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-08",
-    "generated_at": "2026-09-08T07:00:17+00:00",
+    "last_updated": "2026-09-09",
+    "generated_at": "2026-09-09T07:09:30+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -624,7 +624,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143535_clipped_rev_1.png?v=1748897385",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -644,7 +644,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-sandalwood-shave-cream",
             "price": "14.40 GBP",
             "sale_price": "10.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143535_clipped_rev_1.png?v=1748897385",
             "options": {}
           }
@@ -5571,7 +5571,7 @@
         "brand": "Cyril R. Salter",
         "vendor": "Cyril R. Salter",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cyril-r-salter-solid-shaving-soap-100g-refill-crsss4-male-grooming-supplies-662622.jpg?v=1731752917",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5591,7 +5591,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-lavender-shaving-soap-100g",
             "price": "8.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cyril-r-salter-solid-shaving-soap-100g-refill-crsss4-male-grooming-supplies-662622.jpg?v=1731752917",
             "options": {}
           }
@@ -8314,7 +8314,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Toothbrush-Hard-Bristle-Sq.jpg?v=1752743467",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8335,7 +8335,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-hard-bristle-toothbrush",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Toothbrush-Hard-Bristle-Sq.jpg?v=1752743467",
             "options": {}
           }
@@ -13804,7 +13804,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Blue-Folding-Razor.jpg?v=1777798841",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13826,7 +13826,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-sr-folding-razor-acsr-rbl",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Blue-Folding-Razor.jpg?v=1777798841",
             "options": {}
           }
@@ -21990,7 +21990,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/rasierdeckel-futur-701_jpg.webp?v=1784120977",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22010,7 +22010,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-futur-701-bright-chrome",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/rasierdeckel-futur-701_jpg.webp?v=1784120977",
             "options": {}
           }
@@ -38810,7 +38810,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-the-special-shaving-brush?variant=56363186192649",
             "price": "30.20 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Pure-Front.png?v=1788539210",
             "options": {
               "Brush Type": "Pure Badger"
@@ -42213,7 +42213,7 @@
         "brand": "Wilkinson Sword",
         "vendor": "Wilkinson Sword",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/wilkinson-sword-double-edge-razor-blades-403983.jpg?v=1723969861",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42233,7 +42233,7 @@
             "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-double-edge-razor-blades?variant=49073935679753",
             "price": "1.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/wilkinson-sword-double-edge-razor-blades-403983.jpg?v=1723969861",
             "options": {
               "Pack Size": "Pack of 5"
