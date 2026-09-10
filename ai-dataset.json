@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-09",
-    "generated_at": "2026-09-09T07:09:30+00:00",
+    "last_updated": "2026-09-10",
+    "generated_at": "2026-09-10T07:05:44+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -22139,7 +22139,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22159,7 +22159,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-super-platinum-razor-blades?variant=48841624617225",
             "price": "6.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
             "options": {
               "Quantity": "Pack of 10"
