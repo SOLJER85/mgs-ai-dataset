@@ -28,7 +28,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests
+          pip install -r requirements.txt
+
+      - name: Run feed tests
+        run: |
+          python -m unittest discover -s tests -v
 
       - name: Generate AI and shopping feeds from Shopify
         env:
@@ -37,21 +41,20 @@ jobs:
           STORE_FRONT_URL: https://www.malegroomingsupplies.com
           SELLER_NAME: Male Grooming Supplies
           STORE_COUNTRY: GB
-          API_VERSION: 2026-04
-          TARGET_COUNTRIES: >-
-            GB,AC,AD,AE,AF,AG,AI,AL,AM,AO,AR,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FO,FR,GA,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GW,GY,HK,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MK,ML,MM,MN,MO,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PT,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SZ,TA,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VN,VU,WF,WS,XK,YT,ZA,ZM,ZW
+          API_VERSION: 2026-07
         run: |
           python scripts/generate_ai_dataset.py
 
       - name: Commit and push changes
         run: |
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" || { echo "main changed during generation; rerun from the new revision"; exit 1; }
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add ai-dataset.json ai-dataset-summary.json openai-products-feed.csv openai-products-feed.csv.gz openai-products-feed.jsonl.gz shopping-feed-google-compatible.tsv shopping-feed-google-compatible.tsv.gz social-catalog-feed.csv social-catalog-feed.csv.gz scripts/generate_ai_dataset.py
+          git add ai-dataset.json ai-dataset-summary.json openai-products-feed.csv openai-products-feed.csv.gz openai-products-feed.jsonl.gz shopping-feed-google-compatible.tsv shopping-feed-google-compatible.tsv.gz social-catalog-feed.csv social-catalog-feed.csv.gz
           if git diff --cached --quiet; then
             echo "No changes"
           else
             git commit -m "Auto-update dataset"
-            git pull --rebase origin main
             git push origin HEAD:main
           fi

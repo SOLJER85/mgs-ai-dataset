@@ -5,16 +5,20 @@ from __future__ import annotations
 
 import csv
 import gzip
+import io
 import json
 import os
 import re
 import time
 from collections import Counter, defaultdict
+from collections.abc import Iterator
+from contextlib import contextmanager
 from datetime import datetime, timezone
+from decimal import Decimal
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlencode
+from urllib.parse import urlencode, urlsplit
 
 import requests
 
@@ -26,12 +30,16 @@ SELLER_DESCRIPTION = os.getenv(
     "UK based retailer specialising in premium shaving and grooming products.",
 )
 DEFAULT_STORE_COUNTRY = os.getenv("STORE_COUNTRY", "GB")
-DEFAULT_TARGET_COUNTRIES = [
+OPENAI_TARGET_COUNTRIES = [
     country.strip().upper()
-    for country in os.getenv("TARGET_COUNTRIES", "").split(",")
+    for country in os.getenv("OPENAI_TARGET_COUNTRIES", "").split(",")
     if country.strip()
 ]
+OPENAI_STORE_COUNTRY = os.getenv("OPENAI_STORE_COUNTRY", "").strip().upper()
+OPENAI_MARKET_SETUP_CONFIRMED = os.getenv("OPENAI_MARKET_SETUP_CONFIRMED", "false").strip().lower() == "true"
+OPENAI_CHECKOUT_ENABLED = os.getenv("OPENAI_CHECKOUT_ENABLED", "false").strip().lower() == "true"
 USE_SHOPIFY_SKU_AS_MPN = os.getenv("USE_SHOPIFY_SKU_AS_MPN", "false").strip().lower() == "true"
+OPENAI_SUPPORTED_TARGET_COUNTRIES = {"US", "CA", "MX"}
 CURRENCY_SYMBOLS = {"GBP": "\u00a3", "USD": "$", "EUR": "\u20ac"}
 RETURN_POLICY = f"{STORE_FRONT_URL}/policies/refund-policy"
 PRIVACY_POLICY = f"{STORE_FRONT_URL}/policies/privacy-policy"
@@ -144,7 +152,7 @@ class HTMLTextExtractor(HTMLParser):
 def shopify_graphql(query: str, variables: dict[str, Any] | None = None) -> dict[str, Any]:
     store = os.environ["SHOPIFY_STORE_DOMAIN"]
     token = os.environ["SHOPIFY_ADMIN_TOKEN"]
-    api_version = os.getenv("API_VERSION", "2026-04")
+    api_version = os.getenv("API_VERSION", "2026-07")
     url = f"https://{store}/admin/api/{api_version}/graphql.json"
     headers = {"X-Shopify-Access-Token": token, "Content-Type": "application/json"}
     response = requests.post(url, headers=headers, json={"query": query, "variables": variables or {}}, timeout=60)
@@ -180,9 +188,20 @@ def clean_text(value: str | None, limit: int) -> str:
     return text[: limit - 1].rsplit(" ", 1)[0].strip() or text[:limit].strip()
 
 
+def is_valid_gtin(value: str) -> bool:
+    if not re.fullmatch(r"\d{8}|\d{12}|\d{13}|\d{14}", value):
+        return False
+    digits = [int(digit) for digit in value]
+    weighted_sum = sum(
+        digit * (3 if (len(digits) - index) % 2 == 0 else 1)
+        for index, digit in enumerate(digits[:-1])
+    )
+    return (10 - weighted_sum % 10) % 10 == digits[-1]
+
+
 def gtin_or_blank(value: str | None) -> str:
     digits = re.sub(r"\D+", "", value or "")
-    return digits if len(digits) in {8, 12, 13, 14} else ""
+    return digits if is_valid_gtin(digits) else ""
 
 
 def price_string(amount: str | None, currency: str) -> str:
@@ -220,45 +239,30 @@ def option_lookup(options: dict[str, str], names: set[str]) -> str:
     return ""
 
 
-def active_market_country_codes() -> list[str]:
-    if DEFAULT_TARGET_COUNTRIES:
-        countries = DEFAULT_TARGET_COUNTRIES
-    else:
-        query = """
-        query Markets {
-          markets(first: 100) {
-            nodes {
-              status
-              regions(first: 250) {
-                nodes {
-                  ... on MarketRegionCountry { code }
-                }
-              }
-            }
-          }
-        }
-        """
-        try:
-            data = shopify_graphql(query)
-            countries = []
-            for market in data.get("markets", {}).get("nodes", []):
-                if market.get("status") != "ACTIVE":
-                    continue
-                for region in market.get("regions", {}).get("nodes", []) or []:
-                    code = (region.get("code") or "").upper()
-                    if code:
-                        countries.append(code)
-        except Exception as exc:
-            print(f"Warning: could not fetch Shopify Markets, using {DEFAULT_STORE_COUNTRY}: {exc}")
-            countries = [DEFAULT_STORE_COUNTRY]
-
-    unique = sorted(set(countries))
-    if DEFAULT_STORE_COUNTRY in unique:
-        unique.remove(DEFAULT_STORE_COUNTRY)
-    return [DEFAULT_STORE_COUNTRY] + unique
+def openai_market_config() -> tuple[list[str], str]:
+    countries = sorted(set(OPENAI_TARGET_COUNTRIES))
+    has_market_values = bool(countries or OPENAI_STORE_COUNTRY)
+    if has_market_values and not OPENAI_MARKET_SETUP_CONFIRMED:
+        raise ValueError(
+            "OpenAI market fields require OPENAI_MARKET_SETUP_CONFIRMED=true after onboarding confirmation"
+        )
+    if OPENAI_MARKET_SETUP_CONFIRMED and (not countries or not OPENAI_STORE_COUNTRY):
+        raise ValueError(
+            "Confirmed OpenAI market setup requires OPENAI_TARGET_COUNTRIES and OPENAI_STORE_COUNTRY"
+        )
+    unsupported = sorted(set(countries) - OPENAI_SUPPORTED_TARGET_COUNTRIES)
+    if unsupported:
+        raise ValueError(f"Unsupported OpenAI target countries: {', '.join(unsupported)}")
+    if OPENAI_STORE_COUNTRY and not re.fullmatch(r"[A-Z]{2}", OPENAI_STORE_COUNTRY):
+        raise ValueError("OPENAI_STORE_COUNTRY must be an uppercase ISO alpha-2 code")
+    return countries, OPENAI_STORE_COUNTRY
 
 
 def product_category(product: dict[str, Any]) -> str:
+    taxonomy_category = clean_text((product.get("category") or {}).get("fullName"), 500)
+    if taxonomy_category and taxonomy_category.lower() != "uncategorized":
+        return taxonomy_category
+
     collection_titles = " ".join(collection.get("title") or "" for collection in product["collections"]["nodes"])
     text = " ".join([product.get("productType") or "", product.get("title") or "", collection_titles]).lower()
     if any(word in text for word in ["toothpaste", "mouthwash", "toothbrush", "oral", "dental"]):
@@ -269,16 +273,66 @@ def product_category(product: dict[str, Any]) -> str:
         return "Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne"
     if any(word in text for word in ["beard", "moustache", "mustache"]):
         return "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care"
-    if any(word in text for word in ["pomade", "clay", "wax", "gel", "spray", "tonic", "hair powder", "shampoo", "hair styling"]):
-        return "Health & Beauty > Personal Care > Hair Care"
-    if any(word in text for word in ["anti ageing", "anti-aging", "anti aging", "wrinkle", "serum", "moisturiser", "moisturizer", "skincare", "skin care", "face", "lip balm"]):
+    if any(word in text for word in ["shaving accessories", "razor case", "razor pouch"]):
+        return "Health & Beauty > Personal Care > Shaving & Grooming"
+    if any(word in text for word in ["blade", "razor", "shavette", "straight razor"]):
+        return "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades"
+    if any(
+        word in text
+        for word in [
+            "brush",
+            "bowl",
+            "stand",
+            "mug",
+            "strop",
+            "shaving cream",
+            "shave cream",
+            "shaving gel",
+            "shave gel",
+            "shaving soap",
+            "post shave",
+            "post-shave",
+            "pre-shave",
+            "pre shave",
+            "alum",
+            "shaving set",
+        ]
+    ):
+        return "Health & Beauty > Personal Care > Shaving & Grooming"
+    if any(
+        word in text
+        for word in [
+            "anti ageing",
+            "anti-aging",
+            "anti aging",
+            "wrinkle",
+            "serum",
+            "moisturiser",
+            "moisturizer",
+            "skincare",
+            "skin care",
+            "face",
+            "lip balm",
+        ]
+    ):
         return "Health & Beauty > Personal Care > Cosmetics > Skin Care"
     if any(word in text for word in ["soap", "bath", "hand wash", "body wash", "deodorant", "talc"]):
         return "Health & Beauty > Personal Care > Bath & Body"
-    if any(word in text for word in ["blade", "razor", "shavette", "straight razor"]):
-        return "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades"
-    if any(word in text for word in ["brush", "bowl", "stand", "mug", "strop", "shaving cream", "shaving soap", "post shave", "post-shave", "pre-shave", "pre shave", "alum", "shaving set"]):
-        return "Health & Beauty > Personal Care > Shaving & Grooming"
+    if any(
+        word in text
+        for word in [
+            "pomade",
+            "clay",
+            "wax",
+            "gel",
+            "spray",
+            "tonic",
+            "hair powder",
+            "shampoo",
+            "hair styling",
+        ]
+    ):
+        return "Health & Beauty > Personal Care > Hair Care"
     return "Health & Beauty > Personal Care"
 
 
@@ -289,6 +343,40 @@ def product_type_path(product: dict[str, Any]) -> str:
     if product_type and collections:
         return f"{product_type} > {collections[0]}"
     return product_type or (collections[0] if collections else "Grooming Products")
+
+
+def fetch_remaining_variants(product: dict[str, Any]) -> None:
+    connection = product["variants"]
+    query = """
+    query ProductVariants($id: ID!, $cursor: String!) {
+      product(id: $id) {
+        variants(first: 100, after: $cursor) {
+          pageInfo { hasNextPage endCursor }
+          nodes {
+            id
+            title
+            sku
+            barcode
+            price
+            compareAtPrice
+            inventoryQuantity
+            availableForSale
+            inventoryPolicy
+            selectedOptions { name value }
+            image { url altText width height }
+          }
+        }
+      }
+    }
+    """
+    while connection["pageInfo"]["hasNextPage"]:
+        data = shopify_graphql(query, {"id": product["id"], "cursor": connection["pageInfo"]["endCursor"]})
+        next_connection = (data.get("product") or {}).get("variants")
+        if not next_connection:
+            raise RuntimeError(f"Could not paginate variants for product {product['id']}")
+        connection["nodes"].extend(next_connection["nodes"])
+        connection["pageInfo"] = next_connection["pageInfo"]
+        time.sleep(0.1)
 
 
 def fetch_products() -> tuple[list[dict[str, Any]], str]:
@@ -304,6 +392,7 @@ def fetch_products() -> tuple[list[dict[str, Any]], str]:
           status
           vendor
           productType
+          category { id fullName }
           onlineStoreUrl
           totalInventory
           description
@@ -313,6 +402,7 @@ def fetch_products() -> tuple[list[dict[str, Any]], str]:
           images(first: 10) { nodes { url altText width height } }
           collections(first: 10) { nodes { title handle } }
           variants(first: 100) {
+            pageInfo { hasNextPage endCursor }
             nodes {
               id
               title
@@ -338,6 +428,8 @@ def fetch_products() -> tuple[list[dict[str, Any]], str]:
         data = shopify_graphql(query, {"cursor": cursor})
         currency = data.get("shop", {}).get("currencyCode") or currency
         connection = data["products"]
+        for product in connection["nodes"]:
+            fetch_remaining_variants(product)
         products.extend(connection["nodes"])
         if not connection["pageInfo"]["hasNextPage"]:
             break
@@ -350,7 +442,7 @@ def variant_availability(variant: dict[str, Any]) -> tuple[str, str]:
     if variant.get("availableForSale"):
         return "in_stock", "in stock"
     if variant.get("inventoryPolicy") == "CONTINUE":
-        return "backorder", "available for order"
+        return "unknown", "available for order"
     inventory_quantity = variant.get("inventoryQuantity")
     if isinstance(inventory_quantity, int) and inventory_quantity <= 0:
         return "out_of_stock", "out of stock"
@@ -428,12 +520,18 @@ def row_context(product: dict[str, Any], variant: dict[str, Any], currency: str)
     }
 
 
-def openai_row(product: dict[str, Any], variant: dict[str, Any], currency: str, target_countries: list[str]) -> dict[str, str]:
+def openai_row(
+    product: dict[str, Any],
+    variant: dict[str, Any],
+    currency: str,
+    target_countries: list[str],
+    store_country: str,
+) -> dict[str, str]:
     ctx = row_context(product, variant, currency)
     has_variations = len(product["variants"]["nodes"]) > 1
     return {
         "is_eligible_search": "true",
-        "is_eligible_checkout": bool_string(ctx["available_for_sale"]),
+        "is_eligible_checkout": bool_string(OPENAI_CHECKOUT_ENABLED and ctx["available_for_sale"]),
         "item_id": ctx["variant_id"],
         "gtin": ctx["gtin"],
         "mpn": ctx["mpn"],
@@ -461,19 +559,19 @@ def openai_row(product: dict[str, Any], variant: dict[str, Any], currency: str, 
         "color": ctx["color"],
         "size": ctx["size"],
         "gender": "male",
-        "offer_id": clean_text(f"{ctx['sku'] or ctx['variant_id']}-{ctx['price']}", 120),
+        "offer_id": f"mgs-{ctx['variant_id']}",
         "shipping": "",
-        "is_digital": "false",
+        "is_digital": "false" if OPENAI_CHECKOUT_ENABLED else "",
         "seller_name": SELLER_NAME,
         "seller_url": STORE_FRONT_URL,
-        "seller_privacy_policy": PRIVACY_POLICY,
-        "seller_tos": TERMS_URL,
-        "accepts_returns": "true",
-        "return_deadline_in_days": "30",
-        "accepts_exchanges": "false",
+        "seller_privacy_policy": PRIVACY_POLICY if OPENAI_CHECKOUT_ENABLED else "",
+        "seller_tos": TERMS_URL if OPENAI_CHECKOUT_ENABLED else "",
+        "accepts_returns": "",
+        "return_deadline_in_days": "",
+        "accepts_exchanges": "",
         "return_policy": RETURN_POLICY,
         "target_countries": ",".join(target_countries),
-        "store_country": DEFAULT_STORE_COUNTRY,
+        "store_country": store_country,
         "related_product_id": "",
         "relationship_type": "",
     }
@@ -515,7 +613,7 @@ def social_row(product: dict[str, Any], variant: dict[str, Any], currency: str) 
         "description": ctx["description"],
         "availability": ctx["social_availability"],
         "condition": "new",
-        "price": ctx["price"],
+        "price": ctx["sale_price"] or ctx["price"],
         "link": ctx["url"],
         "image_link": ctx["main_image"],
         "additional_image_link": ",".join(ctx["additional_images"]),
@@ -551,7 +649,11 @@ def ai_dataset_product(product: dict[str, Any], currency: str) -> dict[str, Any]
             }
         )
     first = first_active_variant or {}
-    collections = [collection.get("title") for collection in product["collections"]["nodes"] if collection.get("title")]
+    collections = [
+        collection.get("title")
+        for collection in product["collections"]["nodes"]
+        if collection.get("title")
+    ]
     return {
         "name": product["title"],
         "category": product_type_path(product),
@@ -579,17 +681,48 @@ def write_csv(path: Path, fields: list[str], rows: list[dict[str, str]], delimit
         writer.writerows(rows)
 
 
+@contextmanager
+def deterministic_gzip_text(path: Path) -> Iterator[io.TextIOWrapper]:
+    with path.open("wb") as raw:
+        with gzip.GzipFile(filename="", mode="wb", fileobj=raw, mtime=0) as compressed:
+            with io.TextIOWrapper(compressed, encoding="utf-8", newline="") as handle:
+                yield handle
+
+
 def write_gzip_csv(path: Path, fields: list[str], rows: list[dict[str, str]], delimiter: str = ",") -> None:
-    with gzip.open(path, "wt", encoding="utf-8", newline="") as handle:
+    with deterministic_gzip_text(path) as handle:
         writer = csv.DictWriter(handle, fieldnames=fields, delimiter=delimiter)
         writer.writeheader()
         writer.writerows(rows)
 
 
-def validate_openai_rows(rows: list[dict[str, str]]) -> dict[str, Any]:
-    required = [
+def openai_jsonl_row(row: dict[str, str]) -> dict[str, Any]:
+    output: dict[str, Any] = {}
+    boolean_fields = {
         "is_eligible_search",
         "is_eligible_checkout",
+        "listing_has_variations",
+        "is_digital",
+        "accepts_returns",
+        "accepts_exchanges",
+    }
+    list_fields = {"additional_image_urls", "target_countries"}
+    for field, value in row.items():
+        if value == "":
+            continue
+        if field in boolean_fields:
+            output[field] = value == "true"
+        elif field == "variant_dict":
+            output[field] = json.loads(value)
+        elif field in list_fields:
+            output[field] = value.split(",")
+        else:
+            output[field] = value
+    return output
+
+
+def validate_openai_rows(rows: list[dict[str, str]]) -> dict[str, Any]:
+    required = [
         "item_id",
         "title",
         "description",
@@ -599,31 +732,151 @@ def validate_openai_rows(rows: list[dict[str, str]]) -> dict[str, Any]:
         "price",
         "availability",
         "seller_name",
-        "seller_url",
-        "return_policy",
-        "target_countries",
-        "store_country",
     ]
     missing = {field: sum(1 for row in rows if not row.get(field)) for field in required}
     duplicate_item_ids = [item for item, count in Counter(row["item_id"] for row in rows).items() if count > 1]
+    duplicate_offer_ids = [
+        offer_id
+        for offer_id, count in Counter(row["offer_id"] for row in rows if row.get("offer_id")).items()
+        if count > 1
+    ]
+    invalid_gtin_rows = sum(1 for row in rows if row.get("gtin") and not is_valid_gtin(row["gtin"]))
+    unexpected_offer_id_rows = sum(
+        1 for row in rows if row.get("offer_id") != f"mgs-{row.get('item_id', '')}"
+    )
+    invalid_checkout_rows = sum(
+        1
+        for row in rows
+        if row.get("is_eligible_checkout") == "true"
+        and (not OPENAI_CHECKOUT_ENABLED or row.get("is_eligible_search") != "true")
+    )
+    invalid_return_rows = sum(
+        1
+        for row in rows
+        if row.get("return_deadline_in_days") and row.get("accepts_returns") != "true"
+    )
+    missing_availability_date_rows = sum(
+        1
+        for row in rows
+        if row.get("availability") in {"pre_order", "backorder"} and not row.get("availability_date")
+    )
+    invalid_variant_group_rows = sum(
+        1
+        for row in rows
+        if row.get("listing_has_variations") == "true"
+        and (
+            not row.get("group_id")
+            or row.get("group_id") == row.get("item_id")
+            or not row.get("variant_dict")
+        )
+    )
+    country_values = sorted(
+        {
+            country
+            for row in rows
+            for country in (row.get("target_countries") or "").split(",")
+            if country
+        }
+    )
+    invalid_target_countries = sorted(set(country_values) - OPENAI_SUPPORTED_TARGET_COUNTRIES)
+    schema_errors = []
+    groups = defaultdict(list)
+    for row in rows:
+        item = row.get("item_id", "")
+        if row.get("availability") not in {"in_stock", "out_of_stock", "pre_order", "backorder", "unknown"}:
+            schema_errors.append(f"{item}: invalid availability")
+        for field in ("url", "image_url"):
+            parsed = urlsplit(row.get(field, ""))
+            if parsed.scheme not in {"http", "https"} or not parsed.netloc:
+                schema_errors.append(f"{item}: invalid {field}")
+        money = {}
+        for field in ("price", "sale_price"):
+            value = row.get(field, "")
+            if not value and field == "sale_price":
+                continue
+            match = re.fullmatch(r"(\d+(?:\.\d{1,2})?) ([A-Z]{3})", value)
+            if not match or Decimal(match[1]) <= 0:
+                schema_errors.append(f"{item}: invalid {field}")
+            else:
+                money[field] = (Decimal(match[1]), match[2])
+        if "sale_price" in money and "price" in money:
+            if money["sale_price"][0] >= money["price"][0] or money["sale_price"][1] != money["price"][1]:
+                schema_errors.append(f"{item}: invalid sale relation")
+        for field in ("is_eligible_search", "is_eligible_checkout", "listing_has_variations"):
+            if row.get(field) not in {"true", "false"}:
+                schema_errors.append(f"{item}: invalid {field}")
+        if (row.get("target_countries") or row.get("store_country")) and not OPENAI_MARKET_SETUP_CONFIRMED:
+            schema_errors.append(f"{item}: unconfirmed market claims")
+        if row.get("listing_has_variations") == "true":
+            try:
+                options = json.loads(row.get("variant_dict") or "null")
+                if not isinstance(options, dict) or not options or any(
+                    not isinstance(k, str) or not k.strip() or not isinstance(v, str) or not v.strip()
+                    for k, v in options.items()
+                ):
+                    raise ValueError("invalid options")
+                groups[row.get("group_id")].append((item, options))
+            except (ValueError, TypeError):
+                schema_errors.append(f"{item}: invalid variant options")
+    for group, members in groups.items():
+        keys = {tuple(sorted(options)) for _, options in members}
+        selections = [json.dumps(options, sort_keys=True) for _, options in members]
+        if len(keys) != 1 or len(set(selections)) != len(selections):
+            schema_errors.append(f"{group}: inconsistent or duplicate variant selections")
     return {
+        "schema_errors": schema_errors,
         "row_count": len(rows),
         "required_missing": missing,
         "duplicate_item_id_count": len(duplicate_item_ids),
-        "invalid_gtin_rows": sum(1 for row in rows if row.get("gtin") and not re.fullmatch(r"\d{8}|\d{12}|\d{13}|\d{14}", row["gtin"])),
+        "duplicate_offer_id_count": len(duplicate_offer_ids),
+        "invalid_gtin_rows": invalid_gtin_rows,
+        "unexpected_offer_id_rows": unexpected_offer_id_rows,
+        "invalid_checkout_rows": invalid_checkout_rows,
+        "invalid_return_rows": invalid_return_rows,
+        "missing_availability_date_rows": missing_availability_date_rows,
+        "invalid_variant_group_rows": invalid_variant_group_rows,
+        "invalid_target_countries": invalid_target_countries,
         "overlong_title_rows": sum(1 for row in rows if len(row.get("title", "")) > 150),
         "overlong_description_rows": sum(1 for row in rows if len(row.get("description", "")) > 5000),
         "availability_counts": dict(sorted(Counter(row["availability"] for row in rows).items())),
         "checkout_eligibility_counts": dict(sorted(Counter(row["is_eligible_checkout"] for row in rows).items())),
         "rows_with_gtin": sum(1 for row in rows if row.get("gtin")),
         "rows_with_mpn": sum(1 for row in rows if row.get("mpn")),
-        "target_country_count": len((rows[0].get("target_countries") or "").split(",")) if rows else 0,
+        "target_country_count": len(country_values),
     }
+
+
+def validation_errors(validation: dict[str, Any]) -> list[str]:
+    errors = list(validation.get("schema_errors", []))
+    if not validation["row_count"]:
+        errors.append("row_count: 0")
+    errors.extend(
+        f"missing required {field}: {count}"
+        for field, count in validation["required_missing"].items()
+        if count
+    )
+    for field in [
+        "duplicate_item_id_count",
+        "duplicate_offer_id_count",
+        "invalid_gtin_rows",
+        "unexpected_offer_id_rows",
+        "invalid_checkout_rows",
+        "invalid_return_rows",
+        "missing_availability_date_rows",
+        "invalid_variant_group_rows",
+        "overlong_title_rows",
+        "overlong_description_rows",
+    ]:
+        if validation[field]:
+            errors.append(f"{field}: {validation[field]}")
+    if validation["invalid_target_countries"]:
+        errors.append(f"invalid_target_countries: {', '.join(validation['invalid_target_countries'])}")
+    return errors
 
 
 def main() -> None:
     products, currency = fetch_products()
-    target_countries = active_market_country_codes()
+    target_countries, openai_store_country = openai_market_config()
     included_products = []
     skipped_products = []
     openai_rows: list[dict[str, str]] = []
@@ -655,7 +908,7 @@ def main() -> None:
 
         included_products.append(ai_dataset_product(product, currency))
         for variant in product["variants"]["nodes"]:
-            openai = openai_row(product, variant, currency, target_countries)
+            openai = openai_row(product, variant, currency, target_countries, openai_store_country)
             openai_rows.append(openai)
             google_rows.append(google_row(product, variant, currency))
             social_rows.append(social_row(product, variant, currency))
@@ -678,13 +931,33 @@ def main() -> None:
         }
     ]
 
+    validation = validate_openai_rows(openai_rows)
+    errors = validation_errors(validation)
+    if errors:
+        raise RuntimeError("OpenAI feed validation failed:\n- " + "\n- ".join(errors))
+
+    # A same-day replay with identical catalogue data should not create a commit.
+    previous_path = Path("ai-dataset.json")
+    if previous_path.exists():
+        try:
+            previous = json.loads(previous_path.read_text(encoding="utf-8"))
+            old_data = dict(previous[0])
+            old_timestamp = old_data.pop("generated_at")
+            new_data = dict(payload[0])
+            new_data.pop("generated_at")
+            if old_data == new_data:
+                generated_at = datetime.fromisoformat(old_timestamp)
+                payload[0]["generated_at"] = old_timestamp
+        except (ValueError, KeyError, IndexError, TypeError):
+            pass
+
     Path("ai-dataset.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     write_csv(Path("openai-products-feed.csv"), OPENAI_FIELDS, openai_rows)
     write_gzip_csv(Path("openai-products-feed.csv.gz"), OPENAI_FIELDS, openai_rows)
 
-    with gzip.open("openai-products-feed.jsonl.gz", "wt", encoding="utf-8") as handle:
+    with deterministic_gzip_text(Path("openai-products-feed.jsonl.gz")) as handle:
         for row in openai_rows:
-            handle.write(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n")
+            handle.write(json.dumps(openai_jsonl_row(row), ensure_ascii=False, sort_keys=True) + "\n")
 
     write_csv(Path("shopping-feed-google-compatible.tsv"), GOOGLE_FIELDS, google_rows, delimiter="\t")
     write_gzip_csv(Path("shopping-feed-google-compatible.tsv.gz"), GOOGLE_FIELDS, google_rows, delimiter="\t")
@@ -693,7 +966,7 @@ def main() -> None:
 
     summary = {
         "generated_at": generated_at.isoformat(timespec="seconds"),
-        "api_version": os.getenv("API_VERSION", "2026-04"),
+        "api_version": os.getenv("API_VERSION", "2026-07"),
         "currency": currency,
         "source_products": len(products),
         "included_products": len(included_products),
@@ -702,7 +975,7 @@ def main() -> None:
         "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
         "google_compatible_feed": "shopping-feed-google-compatible.tsv",
         "social_catalog_feed": "social-catalog-feed.csv",
-        "validation": validate_openai_rows(openai_rows),
+        "validation": validation,
         "category_counts": dict(sorted(category_counts.items())),
         "skipped_sample": skipped_products[:20],
     }
