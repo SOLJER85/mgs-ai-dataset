@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-10",
-    "generated_at": "2026-09-10T07:05:44+00:00",
+    "last_updated": "2026-09-11",
+    "generated_at": "2026-09-11T07:05:13+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -5571,7 +5571,7 @@
         "brand": "Cyril R. Salter",
         "vendor": "Cyril R. Salter",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cyril-r-salter-solid-shaving-soap-100g-refill-crsss4-male-grooming-supplies-662622.jpg?v=1731752917",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5591,7 +5591,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-lavender-shaving-soap-100g",
             "price": "8.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cyril-r-salter-solid-shaving-soap-100g-refill-crsss4-male-grooming-supplies-662622.jpg?v=1731752917",
             "options": {}
           }
