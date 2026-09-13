@@ -64,7 +64,7 @@
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors": 27,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Straight Razors": 2,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Bowls & Mugs": 17,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes": 199,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes": 196,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams": 126,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Kits": 32,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Soap": 15,
@@ -80,12 +80,12 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-09-12T06:58:02+00:00",
+  "generated_at": "2026-09-13T07:15:40+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1032,
+  "included_products": 1029,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 309,
+  "skipped_products": 312,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15367113998601",
@@ -213,10 +213,10 @@
   "validation": {
     "availability_counts": {
       "in_stock": 912,
-      "out_of_stock": 376
+      "out_of_stock": 373
     },
     "checkout_eligibility_counts": {
-      "false": 1288
+      "false": 1285
     },
     "duplicate_item_id_count": 0,
     "duplicate_offer_id_count": 0,
@@ -239,8 +239,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1288,
-    "rows_with_gtin": 1216,
+    "row_count": 1285,
+    "rows_with_gtin": 1213,
     "rows_with_mpn": 0,
     "schema_errors": [],
     "target_country_count": 0,
