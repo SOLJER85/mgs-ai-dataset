@@ -80,12 +80,12 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-09-13T07:15:40+00:00",
+  "generated_at": "2026-09-14T07:39:44+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1029,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 312,
+  "skipped_products": 328,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15367113998601",
@@ -154,6 +154,18 @@
       "title": "4711 Original Eau de Cologne Vapo 90ml (Discontinued)"
     },
     {
+      "id": "gid://shopify/Product/15674960380169",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ACTIVE",
+      "title": "Astra Platinum Safety Razor Blades (100)"
+    },
+    {
+      "id": "gid://shopify/Product/15674961527049",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ACTIVE",
+      "title": "BIC Chrome Platinum Safety Razor Blades (100)"
+    },
+    {
       "id": "gid://shopify/Product/15224272748809",
       "reason": "not_active_or_no_online_store_url",
       "status": "ARCHIVED",
@@ -194,26 +206,14 @@
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
       "title": "Colonel Conk\u2019s Natural After Shave Lotion - High Desert Breeze 180ml"
-    },
-    {
-      "id": "gid://shopify/Product/9336162418953",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "Colonel Conk\u2019s Natural After Shave Lotion - Rio Grande Lavender 180ml"
-    },
-    {
-      "id": "gid://shopify/Product/9336162353417",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "Colonel Conk\u2019s Natural After Shave Lotion - Santa Fe Cedar 180ml"
     }
   ],
   "social_catalog_feed": "social-catalog-feed.csv",
-  "source_products": 1341,
+  "source_products": 1357,
   "validation": {
     "availability_counts": {
-      "in_stock": 912,
-      "out_of_stock": 373
+      "in_stock": 907,
+      "out_of_stock": 378
     },
     "checkout_eligibility_counts": {
       "false": 1285
