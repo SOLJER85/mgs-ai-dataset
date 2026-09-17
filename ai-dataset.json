@@ -2,14 +2,14 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-16",
-    "generated_at": "2026-09-16T07:22:02+00:00",
+    "last_updated": "2026-09-17",
+    "generated_at": "2026-09-17T07:17:29+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [],
     "product_count": 1029,
-    "variant_count": 1285,
+    "variant_count": 1282,
     "products": [
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
@@ -6434,7 +6434,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-cologne?variant=55897925386505",
             "price": "47.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-cologne-spray-800x_clipped_rev_1.jpg?v=1757188281",
             "options": {
               "Volume": "50ml spray"
@@ -8209,10 +8209,10 @@
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Additives",
         "description": "A luxurious bath oil fragranced with the essence of real lavender flowers. Designed to create a relaxing and aromatic bathing experience, it softens and moisturises the skin while leaving a delicate lavender scent. Just one capful added to a running bath transforms the water into a soothing escape reminiscent of the lavender fields of southern France. For related D.R. Harris options, compare D.R. Harris Almond, Arlington and Lavender - Bath Soap Trio 150g with D.R. Harris Arlington Bath & Shower Gel, or browse the Hair & Body collection. For the same scent, pair it with D.R. Harris Naturals Lavender Hand and Body Wash. Key Features Relaxing bath oil with the natural fragrance of lavender flowers Moisturises and softens the skin, leaving it delicately scented Ideal for a calming bath routine Made with essential lavender oil for an authentic aroma Specifications Size: 30ml/100ml/500ml glass bottle Fragrance: Pure lavender flower essence Packaging: Glass bottle with D.R. Harris branding We can ship flammable items overseas, but a surcharge applies. To make the most of your order, we recommend adding additional items.",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-bath-oil",
-        "price": "£10.50",
+        "price": "£35.00",
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-bath-oil-30ml-usb-JPEG_clipped_rev_1.jpg?v=1757163611",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-bath-oil-JPEG_clipped_rev_1.jpg?v=1757163611",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -8224,21 +8224,6 @@
           "Bath, Body & Hand Care"
         ],
         "variants": [
-          {
-            "id": "55897931710729",
-            "sku": "730030",
-            "gtin": null,
-            "mpn": null,
-            "title": "D.R. Harris Lavender Bath Oil - 30ml",
-            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-bath-oil?variant=55897931710729",
-            "price": "10.50 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-bath-oil-30ml-usb-JPEG_clipped_rev_1.jpg?v=1757163611",
-            "options": {
-              "Volume": "30ml"
-            }
-          },
           {
             "id": "55897931645193",
             "sku": "730100",
@@ -8431,7 +8416,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757187605",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8452,7 +8437,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-cream-tube-75g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757187605",
             "options": {}
           }
@@ -9235,7 +9220,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shaving-cream-75ml-tube-usb-JPEG-1.jpg?v=1757163407",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9256,7 +9241,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-cream-tube-75g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shaving-cream-75ml-tube-usb-JPEG-1.jpg?v=1757163407",
             "options": {}
           }
@@ -9833,28 +9818,13 @@
             "gtin": "5060242622625",
             "mpn": null,
             "title": "D.R. Harris Naturals Lavender Hand and Body Wash - 200ml Lavender",
-            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-naturals-lavender-hand-and-body-wash?variant=55897941147913",
+            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-naturals-lavender-hand-and-body-wash",
             "price": "25.00 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Lavender-Body-Wash-200mlUSB-800-600x597.jpg?v=1752747331",
             "options": {
               "Options": "200ml Lavender"
-            }
-          },
-          {
-            "id": "55897941180681",
-            "sku": "541200-02",
-            "gtin": "5060242622625",
-            "mpn": null,
-            "title": "D.R. Harris Naturals Lavender Hand and Body Wash - 30ml Lavender",
-            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-naturals-lavender-hand-and-body-wash?variant=55897941180681",
-            "price": "25.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Lavender-Body-Wash-200mlUSB-800-600x597.jpg?v=1752747331",
-            "options": {
-              "Options": "30ml Lavender"
             }
           }
         ]
@@ -10775,7 +10745,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757188599",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10796,7 +10766,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-shaving-cream-tube-75g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757188599",
             "options": {}
           }
@@ -11497,7 +11467,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1729-_Windsor_Bath_Soap_600p_8b5b4e00-265a-4304-bd11-7b05667f8a54.jpg?v=1757179284",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11517,7 +11487,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-bath-soap-150g",
             "price": "14.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1729-_Windsor_Bath_Soap_600p_8b5b4e00-265a-4304-bd11-7b05667f8a54.jpg?v=1757179284",
             "options": {}
           }
@@ -11687,28 +11657,13 @@
             "gtin": "5060242625046",
             "mpn": null,
             "title": "D.R. Harris Windsor Eau de Toilette 2ml Spray - 2ml Spray",
-            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-eau-de-toilette-2ml-spray?variant=55897932005641",
+            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-eau-de-toilette-2ml-spray",
             "price": "2.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WindsorCologne2ml-backJPEG.jpg?v=1752743522",
             "options": {
               "Volume": "2ml Spray"
-            }
-          },
-          {
-            "id": "55897932038409",
-            "sku": "21052-6",
-            "gtin": "5060242625046",
-            "mpn": null,
-            "title": "D.R. Harris Windsor Eau de Toilette 2ml Spray - Pack of 6",
-            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-eau-de-toilette-2ml-spray?variant=55897932038409",
-            "price": "2.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/FragranceSelectionFront2ml800x_002_75a5f022-d48a-4343-bc44-a7ebe54ade83.jpg?v=1752743521",
-            "options": {
-              "Volume": "Pack of 6"
             }
           }
         ]
@@ -11939,7 +11894,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757189650",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11960,7 +11915,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-shaving-cream-tube",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-shaving-cream-75ml-tube-usb-JPEG.jpg?v=1757189650",
             "options": {}
           }
@@ -16278,7 +16233,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1445_Unisex_Universalhalterung_20_025_1920x1920_clipped_rev_2.jpg?v=1765313328",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16299,7 +16254,7 @@
             "url": "https://www.malegroomingsupplies.com/products/gf-timor-universal-holder",
             "price": "15.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1445_Unisex_Universalhalterung_20_025_1920x1920_clipped_rev_2.jpg?v=1765313328",
             "options": {}
           }
@@ -19526,7 +19481,7 @@
         "name": "Merkur 34C Heavy Duty Safety Razor",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors",
-        "description": "The Merkur 34C HD Safety Razor combines a compact handle with a two-piece, closed-comb head and bright chrome finish. This is the 34001 model, with a fixed blade gap and a 78g razor weight. Choose it for a compact traditional double edge razor without an adjustment dial. The two-piece construction keeps the handle and base together during blade changes. It uses standard double edge razor blades. Prefer a different finish? Compare 34C Matt Chrome and 34C Metallic Grey. For an adjustable blade gap, see the Progress 500. For compatible blades, see Merkur Super Platinum Razor Blades or browse double edge razor blades. Key Features: Two-piece safety razor design for easy blade replacement. Straight cut with a closed comb for a smooth and gentle shave. Heavy-duty construction with a balanced weight for better control. Bright chrome finish for a sleek and durable appearance. Designed and made in Germany for exceptional quality. Product Specifications: Material Surface: Bright Chrome Finish Packaging: Folding box Packaging Size: 120x47x27 mm Product Weight (with Packaging): 91g Product Measurements: 81x41x25 mm Product Weight: 78g Handle made from brass with a diecast zinc razor head, featuring galvanized surfaces and bright chrome plating.",
+        "description": "The Merkur 34C HD Safety Razor combines a compact handle with a two-piece, closed-comb head and bright chrome finish. This is the 34001 model, with a fixed blade gap and a 78g razor weight. Choose it for a compact traditional double edge razor without an adjustment dial. The two-piece construction keeps the handle and base together during blade changes. It uses standard double edge razor blades. Prefer a different finish? Compare 34C Matt Chrome and 34C Metallic Grey. For an adjustable blade gap, see the Progress 500. For compatible blades, see Merkur Super Platinum Razor Blades or browse double edge razor blades. Key Features: Two-piece safety razor design for easy blade replacement. Straight cut with a closed comb for a smooth and gentle shave. Heavy-duty construction with a balanced weight for better control. Bright chrome finish for a sleek and durable appearance. Designed and made in Germany for exceptional quality. Product Specifications: Material Surface: Bright Chrome Finish Packaging: Folding box Packaging Size: 120x47x27 mm Product Weight (with Packaging): 91g Product Measurements: 81x41x25 mm Product Weight: 78g Handle made from brass with a diecast zinc razor head, featuring galvanized surfaces and bright chrome plating. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-34c-heavy-duty-safety-razor",
         "price": "£36.95",
         "brand": "Merkur",
@@ -19600,7 +19555,7 @@
         "name": "Merkur 34C Metallic Grey Safety Razor",
         "category": "Safety Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors",
-        "description": "The Merkur 34C Metallic Grey Safety Razor combines a compact two-piece design, closed-comb head and metallic grey finish. It uses standard double edge blades and has a fixed blade gap.Choose it for the metallic grey finish and short, broad handle: the handle measures 75mm long and 11.5mm across, with an 83g razor weight. Compare the bright and matt chrome versions below if finish is your main choice. Key Features Classic 34C HD format: Compact proportions with balanced, heavy-duty handling. Closed-comb head: Forgiving, versatile geometry for regular wet shaving. Two-piece construction: Secure blade alignment and straightforward blade changes. Metallic grey finish: A contemporary alternative to bright or matt chrome. Short broad handle: Precise control around facial contours. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Use and Care Insert a standard double-edge blade by unscrewing the base knob and lifting away the top cap. Shave with light pressure at approximately a 30-degree angle, using short strokes and rinsing the head regularly. After use, loosen the head, rinse thoroughly and dry the razor before storage. Specifications Razor type: Two-piece double-edge safety razor Comb type: Closed comb Cut: Straight cut Finish: Metallic grey coating Product dimensions: 81 x 43 x 25 mm Handle length: 75 mm Handle diameter: 11.5 mm Razor weight: 83 g Packaging: Folding box, 120 x 47 x 27 mm Packaged weight: 91 g Country of manufacture: Germany Compare it with the Merkur 34C Matt Chrome or original Merkur 34C Bright Chrome. Complete the finish with the matching Merkur 4006 Metallic Grey Razor Stand and add Merkur Super Platinum Razor Blades.",
+        "description": "The Merkur 34C Metallic Grey Safety Razor combines a compact two-piece design, closed-comb head and metallic grey finish. It uses standard double edge blades and has a fixed blade gap.Choose it for the metallic grey finish and short, broad handle: the handle measures 75mm long and 11.5mm across, with an 83g razor weight. Compare the bright and matt chrome versions below if finish is your main choice. Key Features Classic 34C HD format: Compact proportions with balanced, heavy-duty handling. Closed-comb head: Forgiving, versatile geometry for regular wet shaving. Two-piece construction: Secure blade alignment and straightforward blade changes. Metallic grey finish: A contemporary alternative to bright or matt chrome. Short broad handle: Precise control around facial contours. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Use and Care Insert a standard double-edge blade by unscrewing the base knob and lifting away the top cap. Shave with light pressure at approximately a 30-degree angle, using short strokes and rinsing the head regularly. After use, loosen the head, rinse thoroughly and dry the razor before storage. Specifications Razor type: Two-piece double-edge safety razor Comb type: Closed comb Cut: Straight cut Finish: Metallic grey coating Product dimensions: 81 x 43 x 25 mm Handle length: 75 mm Handle diameter: 11.5 mm Razor weight: 83 g Packaging: Folding box, 120 x 47 x 27 mm Packaged weight: 91 g Country of manufacture: Germany Compare it with the Merkur 34C Matt Chrome or original Merkur 34C Bright Chrome. Complete the finish with the matching Merkur 4006 Metallic Grey Razor Stand and add Merkur Super Platinum Razor Blades. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-34c-metallic-grey-safety-razor",
         "price": "£38.95",
         "brand": "Merkur",
@@ -19637,7 +19592,7 @@
         "name": "Merkur 34C SG/650 Limited Edition Safety Razor Set",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "Merkur 34C SG/650 Limited Edition Safety Razor Set marks Solingen's 650th anniversary with an individually numbered version of the Merkur 34C. The razor is a two-piece, straight-cut double edge safety razor made in Solingen, Germany with a bright chrome finish. The set includes the numbered 34C razor, an embossed black vegetable-tanned leather case, 10 stainless steel double edge razor blades and a certificate of authenticity. Each razor is numbered from 1 to 650. For related Merkur options, compare the Merkur 34 INOX Stainless Steel Safety Razor, the Merkur 34C Heavy Duty Safety Razor, or browse the Merkur Solingen collection. This razor uses standard double edge razor blades. Key Features Limited edition 34C: Individually numbered SG/650 safety razor. Two-piece construction: Merkur's familiar 34C double edge format. Bright chrome finish: Chrome-plated finish with SG650 detailing. Leather case included: Black vegetable-tanned cowhide sleeve with SG650 embossing. Made in Germany: Produced by Merkur in Solingen. Specifications Razor Type: Double edge safety razor Blade Compatibility: Standard double edge razor blades Construction: Two-piece Finish: Bright chrome Handle Material: Brass Head Material: Zinc die-cast with galvanic bright chrome coating Included: Numbered razor, leather case, 10 stainless steel blades and certificate of authenticity Made In: Germany",
+        "description": "Merkur 34C SG/650 Limited Edition Safety Razor Set marks Solingen's 650th anniversary with an individually numbered version of the Merkur 34C. The razor is a two-piece, straight-cut double edge safety razor made in Solingen, Germany with a bright chrome finish. The set includes the numbered 34C razor, an embossed black vegetable-tanned leather case, 10 stainless steel double edge razor blades and a certificate of authenticity. Each razor is numbered from 1 to 650. For related Merkur options, compare the Merkur 34 INOX Stainless Steel Safety Razor, the Merkur 34C Heavy Duty Safety Razor, or browse the Merkur Solingen collection. This razor uses standard double edge razor blades. Key Features Limited edition 34C: Individually numbered SG/650 safety razor. Two-piece construction: Merkur's familiar 34C double edge format. Bright chrome finish: Chrome-plated finish with SG650 detailing. Leather case included: Black vegetable-tanned cowhide sleeve with SG650 embossing. Made in Germany: Produced by Merkur in Solingen. Specifications Razor Type: Double edge safety razor Blade Compatibility: Standard double edge razor blades Construction: Two-piece Finish: Bright chrome Handle Material: Brass Head Material: Zinc die-cast with galvanic bright chrome coating Included: Numbered razor, leather case, 10 stainless steel blades and certificate of authenticity Made In: Germany Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-34c-sg-650-limited-edition",
         "price": "£79.95",
         "brand": "Merkur",
@@ -19675,7 +19630,7 @@
         "name": "Merkur 34G 24k Gold-Plated HD Safety Razor 34003",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The MERKUR 34003, part of the celebrated 34 series, is affectionately known as “HD,” short for Heavy Duty. Renowned for its substantial weight and solid build, this razor has provided reliable performance for over 80 years. The 34G model adds an extra touch of luxury with its 24k gold-plated finish, offering not only functionality but also an elegant design. Few razors rival its ability to deliver a smooth and comfortable shave. A closed-comb design makes it a versatile choice for both beginners and seasoned wet shavers. The intuitive shaving angle and generous blade gap ensure a clog-free experience with optimal lather flow, enhancing your shaving routine. For related Merkur options, compare Merkur 15C Open Comb Double Edge Safety Razor with Merkur 20C Black & Chrome Long Handle Safety Razor, or browse the Merkur Solingen collection. Key Features: Two-piece Safety Razor Straight Cut Short Handle 24k Gold Finish Honorably Designed and Made in Germany Product Specifications: Material surface: 24k Gold-plated Packaging: Folding box Packaging size: 120x47x27 mm Product weight (with packaging): 91g Product measurements: 81x41x25 mm Product weight: 78g Handle crafted from brass, complemented by a die-casted zinc razor head. Both components feature galvanized surfaces, finished in luxurious 24k gold. This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available.",
+        "description": "The MERKUR 34003, part of the celebrated 34 series, is affectionately known as “HD,” short for Heavy Duty. Renowned for its substantial weight and solid build, this razor has provided reliable performance for over 80 years. The 34G model adds an extra touch of luxury with its 24k gold-plated finish, offering not only functionality but also an elegant design. Few razors rival its ability to deliver a smooth and comfortable shave. A closed-comb design makes it a versatile choice for both beginners and seasoned wet shavers. The intuitive shaving angle and generous blade gap ensure a clog-free experience with optimal lather flow, enhancing your shaving routine. For related Merkur options, compare Merkur 15C Open Comb Double Edge Safety Razor with Merkur 20C Black & Chrome Long Handle Safety Razor, or browse the Merkur Solingen collection. Key Features: Two-piece Safety Razor Straight Cut Short Handle 24k Gold Finish Honorably Designed and Made in Germany Product Specifications: Material surface: 24k Gold-plated Packaging: Folding box Packaging size: 120x47x27 mm Product weight (with packaging): 91g Product measurements: 81x41x25 mm Product weight: 78g Handle crafted from brass, complemented by a die-casted zinc razor head. Both components feature galvanized surfaces, finished in luxurious 24k gold. This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-razor-34003",
         "price": "£46.95",
         "brand": "Merkur",
@@ -19712,7 +19667,7 @@
         "name": "Merkur 34S Silver Plated Razor in Plastic Case with 10 Double Edge Blades",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Merkur 34S is a classic closed-comb safety razor renowned for its precision and durability. Known as the “Heavy Duty” model, this razor features a robust brass handle and a die-cast zinc head plated with 99.9% pure silver at a thickness of 10 µm. It provides ideal balance and control for a clean, irritation-free shave. For related Merkur options, compare Merkur Progress Adjustable Razor in Plastic Case with 10 Double Edge Blades with Merkur Closed Comb Travel Razor with Leather Case, or browse the Merkur Solingen collection. Key Features Closed Comb Design: Ideal for everyday shaving, with a blade gap designed to reduce clogging and support optimal soap flow. Durable Silver Plating: 99.9% pure silver ensures long-lasting corrosion resistance and a polished finish. Robust Construction: Solid brass handle and zinc head offer weight and balance for a confident shave. Complete Set: Packaged in a retro-style plastic case with 10 Merkur Super Platinum double-edge blades. Specifications Handle Material: Brass Head Material: Die-Cast Zinc Surface Finish: 99.9% Silver Plated (10 µm) Includes: 10 x Merkur Super Platinum DE Blades Overall Length: 81 mm Head Width: 43 mm Head Depth: 25 mm Razor Weight (unboxed): 78 g Weight With Packaging: 129 g Packaging Size: 96 × 55 × 40 mm This razor blends vintage charm with high-quality materials, making it a top choice for those who value precision and reliability in their daily grooming routine.",
+        "description": "The Merkur 34S is a classic closed-comb safety razor renowned for its precision and durability. Known as the “Heavy Duty” model, this razor features a robust brass handle and a die-cast zinc head plated with 99.9% pure silver at a thickness of 10 µm. It provides ideal balance and control for a clean, irritation-free shave. For related Merkur options, compare Merkur Progress Adjustable Razor in Plastic Case with 10 Double Edge Blades with Merkur Closed Comb Travel Razor with Leather Case, or browse the Merkur Solingen collection. Key Features Closed Comb Design: Ideal for everyday shaving, with a blade gap designed to reduce clogging and support optimal soap flow. Durable Silver Plating: 99.9% pure silver ensures long-lasting corrosion resistance and a polished finish. Robust Construction: Solid brass handle and zinc head offer weight and balance for a confident shave. Complete Set: Packaged in a retro-style plastic case with 10 Merkur Super Platinum double-edge blades. Specifications Handle Material: Brass Head Material: Die-Cast Zinc Surface Finish: 99.9% Silver Plated (10 µm) Includes: 10 x Merkur Super Platinum DE Blades Overall Length: 81 mm Head Width: 43 mm Head Depth: 25 mm Razor Weight (unboxed): 78 g Weight With Packaging: 129 g Packaging Size: 96 × 55 × 40 mm This razor blends vintage charm with high-quality materials, making it a top choice for those who value precision and reliability in their daily grooming routine. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-34s-silver-plated-safety-razor",
         "price": "£69.85",
         "brand": "Merkur",
@@ -20127,7 +20082,7 @@
         "name": "Merkur 500 Progress Antique Brass Adjustable Safety Razor",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Merkur 500 Progress Antique Brass Adjustable Safety Razor is a classic design originating from the 1950s, combining traditional styling with precise modern adjustability. Its distinctive profiled handle and antique brass adjustment knob, engraved with the Merkur name, reflect the design language of the era while offering highly adaptable shaving performance. The adjustable shaving head allows you to fine-tune both the blade gap and angle of attack, making it easy to move from a mild, comfortable shave to a closer, more efficient result. Adjustment is made smoothly via the numbered scale at the base of the handle, giving you full control over your shaving experience. With a blade gap adjustable from 0.6 mm to 1.6 mm, the Progress adapts to different beard lengths and skin sensitivities. Lower settings suit everyday shaving, while higher settings handle coarser growth with ease. The two-piece construction keeps blade changes straightforward while maintaining excellent balance and stability in use. Finished in bright chrome with a contrasting antique brass metal knob, and designed and made in Germany, the Merkur 500 Progress remains one of the most versatile adjustable double-edge safety razors available. Key Features Classic double-edge safety razor design from the 1950s. Adjustable blade gap for personalised shaving control. Blade gap range from 0.6 mm to 1.6 mm. Straight cut razor head for predictable, consistent results. Two-piece construction for secure blade alignment. Antique brass metal adjustment knob with Merkur engraving. Designed and made in Germany. Specifications Razor Type: Two-piece adjustable safety razor Cut: Straight cut Blade Gap: Adjustable, 0.6 mm to 1.6 mm Handle Material: Brass Razor Head: Die-cast zinc Finish: Bright chrome-plated with antique brass metal knob Product Dimensions: 88 × 41 × 25 mm Product Weight: 105 g Weight With Packaging: 116 g Packaging: Branded Merkur folding box Packaging Size: 120 × 47 × 27 mm Country of Manufacture: Germany For related Merkur options, compare Merkur 500 Progress Bright Chrome Adjustable Safety Razor with Merkur Progress 500 Adjustable Double Edge Safety Razor, or browse the Merkur Solingen collection. This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available.",
+        "description": "The Merkur 500 Progress Antique Brass Adjustable Safety Razor is a classic design originating from the 1950s, combining traditional styling with precise modern adjustability. Its distinctive profiled handle and antique brass adjustment knob, engraved with the Merkur name, reflect the design language of the era while offering highly adaptable shaving performance. The adjustable shaving head allows you to fine-tune both the blade gap and angle of attack, making it easy to move from a mild, comfortable shave to a closer, more efficient result. Adjustment is made smoothly via the numbered scale at the base of the handle, giving you full control over your shaving experience. With a blade gap adjustable from 0.6 mm to 1.6 mm, the Progress adapts to different beard lengths and skin sensitivities. Lower settings suit everyday shaving, while higher settings handle coarser growth with ease. The two-piece construction keeps blade changes straightforward while maintaining excellent balance and stability in use. Finished in bright chrome with a contrasting antique brass metal knob, and designed and made in Germany, the Merkur 500 Progress remains one of the most versatile adjustable double-edge safety razors available. Key Features Classic double-edge safety razor design from the 1950s. Adjustable blade gap for personalised shaving control. Blade gap range from 0.6 mm to 1.6 mm. Straight cut razor head for predictable, consistent results. Two-piece construction for secure blade alignment. Antique brass metal adjustment knob with Merkur engraving. Designed and made in Germany. Specifications Razor Type: Two-piece adjustable safety razor Cut: Straight cut Blade Gap: Adjustable, 0.6 mm to 1.6 mm Handle Material: Brass Razor Head: Die-cast zinc Finish: Bright chrome-plated with antique brass metal knob Product Dimensions: 88 × 41 × 25 mm Product Weight: 105 g Weight With Packaging: 116 g Packaging: Branded Merkur folding box Packaging Size: 120 × 47 × 27 mm Country of Manufacture: Germany For related Merkur options, compare Merkur 500 Progress Bright Chrome Adjustable Safety Razor with Merkur Progress 500 Adjustable Double Edge Safety Razor, or browse the Merkur Solingen collection. This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-500-progress-antique-brass-safety-razor",
         "price": "£67.95",
         "brand": "Merkur",
@@ -20204,7 +20159,7 @@
         "name": "Merkur 500 Progress Bright Chrome Adjustable Safety Razor",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Merkur 500 Progress Bright Chrome Adjustable Safety Razor is a classic design dating back to the 1950s, combining period styling with precise shaving adjustability. The profiled handle and bright chrome-plated adjustment knob, engraved with the Merkur name, reflect the clean, functional design language of the era. The adjustable shaving head allows you to control both the blade gap and angle of attack, making it easy to tailor the shave to your preferences. Adjustment is made via the numbered scale at the base of the handle, offering smooth and reliable control from a mild, comfortable shave to a closer, more efficient result. With a blade gap adjustable from 0.6 mm to 1.6 mm, the Progress adapts easily to different beard lengths and skin sensitivities. Lower settings are ideal for everyday shaving, while higher settings handle coarser growth with confidence. The two-piece construction ensures secure blade alignment while keeping blade changes straightforward. Finished entirely in bright chrome and designed and made in Germany, the Merkur 500 Progress remains one of the most versatile adjustable double edge safety razors for traditional wet shaving. Key Features Classic double edge safety razor design from the 1950s. Adjustable blade gap for personalised shaving control. Blade gap range from 0.6 mm to 1.6 mm. Straight cut razor head for consistent, predictable results. Two-piece construction for secure blade alignment. Bright chrome finish with engraved Merkur adjustment knob. Designed and made in Germany. Specifications Razor Type: Two-piece adjustable safety razor Cut: Straight cut Blade Gap: Adjustable, 0.6 mm to 1.6 mm Handle Material: Brass Razor Head: Die-cast zinc Finish: Bright chrome-plated, galvanised surfaces Product Dimensions: 88 × 41 × 25 mm Product Weight: 105 g Weight With Packaging: 116 g Packaging: Branded Merkur folding box Packaging Size: 120 × 47 × 27 mm Country of Manufacture: Germany For related Merkur options, compare Merkur 500 Progress Antique Brass Adjustable Safety Razor with Merkur Progress 500 Adjustable Double Edge Safety Razor, or browse the Merkur Solingen collection. This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available.",
+        "description": "The Merkur 500 Progress Bright Chrome Adjustable Safety Razor is a classic design dating back to the 1950s, combining period styling with precise shaving adjustability. The profiled handle and bright chrome-plated adjustment knob, engraved with the Merkur name, reflect the clean, functional design language of the era. The adjustable shaving head allows you to control both the blade gap and angle of attack, making it easy to tailor the shave to your preferences. Adjustment is made via the numbered scale at the base of the handle, offering smooth and reliable control from a mild, comfortable shave to a closer, more efficient result. With a blade gap adjustable from 0.6 mm to 1.6 mm, the Progress adapts easily to different beard lengths and skin sensitivities. Lower settings are ideal for everyday shaving, while higher settings handle coarser growth with confidence. The two-piece construction ensures secure blade alignment while keeping blade changes straightforward. Finished entirely in bright chrome and designed and made in Germany, the Merkur 500 Progress remains one of the most versatile adjustable double edge safety razors for traditional wet shaving. Key Features Classic double edge safety razor design from the 1950s. Adjustable blade gap for personalised shaving control. Blade gap range from 0.6 mm to 1.6 mm. Straight cut razor head for consistent, predictable results. Two-piece construction for secure blade alignment. Bright chrome finish with engraved Merkur adjustment knob. Designed and made in Germany. Specifications Razor Type: Two-piece adjustable safety razor Cut: Straight cut Blade Gap: Adjustable, 0.6 mm to 1.6 mm Handle Material: Brass Razor Head: Die-cast zinc Finish: Bright chrome-plated, galvanised surfaces Product Dimensions: 88 × 41 × 25 mm Product Weight: 105 g Weight With Packaging: 116 g Packaging: Branded Merkur folding box Packaging Size: 120 × 47 × 27 mm Country of Manufacture: Germany For related Merkur options, compare Merkur 500 Progress Antique Brass Adjustable Safety Razor with Merkur Progress 500 Adjustable Double Edge Safety Razor, or browse the Merkur Solingen collection. This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-500-progress-bright-chrome-safety-razor",
         "price": "£54.00",
         "brand": "Merkur",
@@ -20696,7 +20651,7 @@
         "name": "Merkur FUTUR 3-Piece Polished Chrome Shaving Set 781 001",
         "category": "Shaving Sets > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Kits",
-        "description": "Merkur FUTUR 3-Piece Polished Chrome Shaving Set 781 001 combines the Merkur FUTUR adjustable safety razor with a silvertip badger shaving brush and matching polished chrome stand. It is a complete shaving set for traditional double edge wet shaving. The FUTUR razor has an adjustable blade gap so the shave can be set milder or closer depending on beard growth and preference. The silvertip badger brush is designed for building and applying lather from shaving cream or shaving soap. For related Merkur options, compare the Merkur FUTUR Satin/Matt 4-Piece Shaving Set, browse shaving sets and accessories, or see compatible double edge razor blades. Key Features Three-piece shaving set: Razor, brush and stand in polished chrome. FUTUR adjustable razor: Adjustable blade gap for a milder or closer shave. Silvertip badger brush: Natural hair brush for lathering shaving cream or soap. Matching stand: Holds the razor and brush neatly between uses. Blades included: Supplied with 10 Merkur Super Platinum Double Edge Blades. Specifications Set Type: Three-piece shaving set Razor Type: Adjustable double edge safety razor Blade Compatibility: Standard double edge razor blades Brush Fibre: Silvertip badger hair Finish: Polished chrome Included: Merkur FUTUR razor 701, shaving brush 1701, stand 4781 and 10 blades 910 Made In: Germany",
+        "description": "Merkur FUTUR 3-Piece Polished Chrome Shaving Set 781 001 combines the Merkur FUTUR adjustable safety razor with a silvertip badger shaving brush and matching polished chrome stand. It is a complete shaving set for traditional double edge wet shaving. The FUTUR razor has an adjustable blade gap so the shave can be set milder or closer depending on beard growth and preference. The silvertip badger brush is designed for building and applying lather from shaving cream or shaving soap. For related Merkur options, compare the Merkur FUTUR Satin/Matt 4-Piece Shaving Set, browse shaving sets and accessories, or see compatible double edge razor blades. Key Features Three-piece shaving set: Razor, brush and stand in polished chrome. FUTUR adjustable razor: Adjustable blade gap for a milder or closer shave. Silvertip badger brush: Natural hair brush for lathering shaving cream or soap. Matching stand: Holds the razor and brush neatly between uses. Blades included: Supplied with 10 Merkur Super Platinum Double Edge Blades. Specifications Set Type: Three-piece shaving set Razor Type: Adjustable double edge safety razor Blade Compatibility: Standard double edge razor blades Brush Fibre: Silvertip badger hair Finish: Polished chrome Included: Merkur FUTUR razor 701, shaving brush 1701, stand 4781 and 10 blades 910 Made In: Germany Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-futur-polished-chrome-4-piece-shaving-set-751-001",
         "price": "£195.00",
         "brand": "Merkur",
@@ -20736,7 +20691,7 @@
         "name": "Merkur FUTUR 4-Piece Polished Chrome Shaving Set 751 001",
         "category": "Shaving Sets > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Kits",
-        "description": "Merkur FUTUR 4-Piece Polished Chrome Shaving Set 751 001 combines the Merkur FUTUR adjustable safety razor, a silvertip badger shaving brush, a polished chrome stand and a satin-finished glass soap dish. It is a complete bathroom set for traditional double edge wet shaving. The FUTUR razor uses standard double edge razor blades and has an adjustable blade gap for changing the shave feel. The silvertip badger brush is made for lathering shaving cream or shaving soap, while the stand keeps the brush and razor stored upright after use. For related Merkur options, compare the Merkur 3-Piece Black & Chrome Shaving Set, browse shaving sets and accessories, or see compatible double edge razor blades. Key Features Four-piece shaving set: Razor, brush, stand and soap dish. FUTUR adjustable razor: Adjustable blade gap for changing shave feel. Silvertip badger brush: Natural hair shaving brush for lathering. Glass soap dish: Mouth-blown satinised crystal glass dish. Blades included: Supplied with 10 Merkur Super Platinum Double Edge Blades. Specifications Set Type: Four-piece shaving set Razor Type: Adjustable double edge safety razor Blade Compatibility: Standard double edge razor blades Brush Fibre: Silvertip badger hair Finish: Polished chrome Soap Dish Material: Mouth-blown satinised crystal glass Packaging Size: 175 x 120 x 120mm Weight With Packaging: 726g Made In: Germany",
+        "description": "Merkur FUTUR 4-Piece Polished Chrome Shaving Set 751 001 combines the Merkur FUTUR adjustable safety razor, a silvertip badger shaving brush, a polished chrome stand and a satin-finished glass soap dish. It is a complete bathroom set for traditional double edge wet shaving. The FUTUR razor uses standard double edge razor blades and has an adjustable blade gap for changing the shave feel. The silvertip badger brush is made for lathering shaving cream or shaving soap, while the stand keeps the brush and razor stored upright after use. For related Merkur options, compare the Merkur 3-Piece Black & Chrome Shaving Set, browse shaving sets and accessories, or see compatible double edge razor blades. Key Features Four-piece shaving set: Razor, brush, stand and soap dish. FUTUR adjustable razor: Adjustable blade gap for changing shave feel. Silvertip badger brush: Natural hair shaving brush for lathering. Glass soap dish: Mouth-blown satinised crystal glass dish. Blades included: Supplied with 10 Merkur Super Platinum Double Edge Blades. Specifications Set Type: Four-piece shaving set Razor Type: Adjustable double edge safety razor Blade Compatibility: Standard double edge razor blades Brush Fibre: Silvertip badger hair Finish: Polished chrome Soap Dish Material: Mouth-blown satinised crystal glass Packaging Size: 175 x 120 x 120mm Weight With Packaging: 726g Made In: Germany Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-futur-4-piece-polished-chrome-shaving-set-751-001",
         "price": "£229.70",
         "brand": "Merkur",
@@ -20852,7 +20807,7 @@
         "name": "Merkur FUTUR Satin/Matt 4-Piece Shaving Set 750002",
         "category": "Shaving Sets > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Kits",
-        "description": "Merkur FUTUR Satin/Matt 4-Piece Shaving Set 750002 includes the Merkur FUTUR adjustable safety razor 700002, a silvertip badger shaving brush, a matt chrome stand and a satin-finished glass soap dish. The set is designed for traditional double edge wet shaving. The FUTUR razor uses standard double edge razor blades and has an adjustable blade gap for changing the shave feel. The silvertip badger brush is made for lathering shaving soap or cream, while the stand stores the razor and brush upright after use. For related Merkur options, compare the Merkur FUTUR 4-Piece Polished Chrome Shaving Set, browse shaving sets and accessories, or see compatible double edge razor blades. Key Features Four-piece shaving set: Razor, brush, stand and soap dish. FUTUR adjustable razor: Adjustable blade gap for changing shave feel. Silvertip badger brush: Natural hair shaving brush for shaving soap or cream. Matt chrome stand: Holds the razor and brush between uses. Blades included: Supplied with 10 Merkur Super Platinum Double Edge Blades. Specifications Set Type: Four-piece shaving set Razor Type: Adjustable double edge safety razor Blade Compatibility: Standard double edge razor blades Brush Fibre: Silvertip badger hair Finish: Matt chrome-plated Soap Dish Material: Mouth-blown satinised crystal glass Packaging: Folding box Packaging Size: 175 x 120 x 120mm Weight With Packaging: 726g Made In: Germany",
+        "description": "Merkur FUTUR Satin/Matt 4-Piece Shaving Set 750002 includes the Merkur FUTUR adjustable safety razor 700002, a silvertip badger shaving brush, a matt chrome stand and a satin-finished glass soap dish. The set is designed for traditional double edge wet shaving. The FUTUR razor uses standard double edge razor blades and has an adjustable blade gap for changing the shave feel. The silvertip badger brush is made for lathering shaving soap or cream, while the stand stores the razor and brush upright after use. For related Merkur options, compare the Merkur FUTUR 4-Piece Polished Chrome Shaving Set, browse shaving sets and accessories, or see compatible double edge razor blades. Key Features Four-piece shaving set: Razor, brush, stand and soap dish. FUTUR adjustable razor: Adjustable blade gap for changing shave feel. Silvertip badger brush: Natural hair shaving brush for shaving soap or cream. Matt chrome stand: Holds the razor and brush between uses. Blades included: Supplied with 10 Merkur Super Platinum Double Edge Blades. Specifications Set Type: Four-piece shaving set Razor Type: Adjustable double edge safety razor Blade Compatibility: Standard double edge razor blades Brush Fibre: Silvertip badger hair Finish: Matt chrome-plated Soap Dish Material: Mouth-blown satinised crystal glass Packaging: Folding box Packaging Size: 175 x 120 x 120mm Weight With Packaging: 726g Made In: Germany Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-futur-satin-matt-4-piece-shaving-set-750002",
         "price": "£229.95",
         "brand": "Merkur",
@@ -21357,7 +21312,7 @@
         "name": "Merkur Progress 510 Long Handle Adjustable Safety Razor - Antique Brass Knob",
         "category": "Safety Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors",
-        "description": "The Merkur 510 Progress Antique Brass Adjustable Safety Razor is the long-handled version of Merkur's classic adjustable razor, a design with roots in the 1950s. It combines a bright chrome body with a contrasting antique brass metal adjustment knob, engraved with the Merkur name. Turning the numbered knob changes the blade gap from approximately 0.6 to 1.6 mm. Lower settings provide a gentler feel for daily shaving or more sensitive areas, while higher settings increase efficiency for denser or longer growth. The scale makes it easy to note a preferred setting or use different settings for separate passes. The extended 94 mm handle offers more reach than the standard Merkur 500 Progress while retaining the familiar two-piece head and straight-cut closed comb. At 112 g, the razor feels substantial without needing added pressure, and the contoured handle remains secure during adjustment and shaving. Key Features Adjustable blade gap: Approximately 0.6-1.6 mm for personalised shaving control. Long 510 handle: Added reach and a fuller grip than the shorter 500 Progress. Antique brass metal knob: Contrasts with the bright chrome body and carries Merkur engraving. Closed-comb head: Straight-cut geometry with good lather clearance. Two-piece construction: Secure blade positioning and straightforward changes. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Adjust and Care For the Razor With the head assembled and the blade seated evenly, turn the adjustment knob to the chosen numbered setting. Begin at a lower setting and increase gradually until the balance of comfort and efficiency suits your blade and beard. Rinse the head after each use, dry the razor and occasionally apply a small amount of mineral oil to the adjustment thread. Specifications Razor type: Two-piece adjustable double-edge safety razor Comb type: Closed comb Cut: Straight cut Blade gap: Adjustable, approximately 0.6-1.6 mm Finish: Bright chrome with antique brass metal knob Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: Folding box, 132 x 52 x 27 mm Packaged weight: 126 g Country of manufacture: Germany Compare it with the Merkur 510 Progress Bright Chrome or the shorter Merkur 500 Progress Antique Brass. For servicing, choose the matching Merkur 510 Antique Brass Replacement Upgrade Kit, and use standard Merkur double-edge blades.",
+        "description": "The Merkur 510 Progress Antique Brass Adjustable Safety Razor is the long-handled version of Merkur's classic adjustable razor, a design with roots in the 1950s. It combines a bright chrome body with a contrasting antique brass metal adjustment knob, engraved with the Merkur name. Turning the numbered knob changes the blade gap from approximately 0.6 to 1.6 mm. Lower settings provide a gentler feel for daily shaving or more sensitive areas, while higher settings increase efficiency for denser or longer growth. The scale makes it easy to note a preferred setting or use different settings for separate passes. The extended 94 mm handle offers more reach than the standard Merkur 500 Progress while retaining the familiar two-piece head and straight-cut closed comb. At 112 g, the razor feels substantial without needing added pressure, and the contoured handle remains secure during adjustment and shaving. Key Features Adjustable blade gap: Approximately 0.6-1.6 mm for personalised shaving control. Long 510 handle: Added reach and a fuller grip than the shorter 500 Progress. Antique brass metal knob: Contrasts with the bright chrome body and carries Merkur engraving. Closed-comb head: Straight-cut geometry with good lather clearance. Two-piece construction: Secure blade positioning and straightforward changes. Made in Germany: Designed and manufactured by Merkur in Solingen. How to Adjust and Care For the Razor With the head assembled and the blade seated evenly, turn the adjustment knob to the chosen numbered setting. Begin at a lower setting and increase gradually until the balance of comfort and efficiency suits your blade and beard. Rinse the head after each use, dry the razor and occasionally apply a small amount of mineral oil to the adjustment thread. Specifications Razor type: Two-piece adjustable double-edge safety razor Comb type: Closed comb Cut: Straight cut Blade gap: Adjustable, approximately 0.6-1.6 mm Finish: Bright chrome with antique brass metal knob Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: Folding box, 132 x 52 x 27 mm Packaged weight: 126 g Country of manufacture: Germany Compare it with the Merkur 510 Progress Bright Chrome or the shorter Merkur 500 Progress Antique Brass. For servicing, choose the matching Merkur 510 Antique Brass Replacement Upgrade Kit, and use standard Merkur double-edge blades. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-adjustable-safety-razor-antique-brass-knob",
         "price": "£77.95",
         "brand": "Merkur",
@@ -21394,7 +21349,7 @@
         "name": "Merkur Progress 510 Long Handle Adjustable Safety Razor - Bright Chrome",
         "category": "Safety Razor > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors",
-        "description": "The Merkur 510 Progress Bright Chrome Safety Razor is the long-handled version of Merkur's adjustable Progress design, a format rooted in the 1950s. Its bright-chrome end knob, Merkur engraving and contoured handle give it a classic appearance, while the adjustable head allows it to cover a wide range of shaving preferences in one two-piece razor.The scale at the base of the handle changes the blade gap from approximately 0.6 to 1.6 mm. Use a more open setting where there is longer or denser growth, then reduce it for a gentler daily shave or a finishing pass. The long, shaped handle also gives useful reach for difficult areas and for body shaving, while the straight-cut head keeps the familiar double-edge razor technique intact.At 112 g with a 94 mm handle, the 510 Progress has a substantial, confidence-inspiring feel without becoming unwieldy. It is a particularly versatile Merkur for a shaver who wants to learn one dependable adjustable platform rather than own several fixed-gap razors.Key Features Two-piece adjustable double-edge safety razor Long contoured handle for additional reach Blade gap adjustable from approximately 0.6 to 1.6 mm Bright-chrome finish with engraved adjustment knob Straight-cut head for traditional wet shaving Designed and made in Germany Specifications Razor type: two-piece adjustable safety razor Cut: straight cut Blade-gap adjustment: approximately 0.6 to 1.6 mm Finish: bright chrome Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: folding box, 132 x 52 x 27 mm Compare the Progress with other Merkur safety razors, then select compatible double edge razor blades to refine the setting that works best for you.",
+        "description": "The Merkur 510 Progress Bright Chrome Safety Razor is the long-handled version of Merkur's adjustable Progress design, a format rooted in the 1950s. Its bright-chrome end knob, Merkur engraving and contoured handle give it a classic appearance, while the adjustable head allows it to cover a wide range of shaving preferences in one two-piece razor.The scale at the base of the handle changes the blade gap from approximately 0.6 to 1.6 mm. Use a more open setting where there is longer or denser growth, then reduce it for a gentler daily shave or a finishing pass. The long, shaped handle also gives useful reach for difficult areas and for body shaving, while the straight-cut head keeps the familiar double-edge razor technique intact.At 112 g with a 94 mm handle, the 510 Progress has a substantial, confidence-inspiring feel without becoming unwieldy. It is a particularly versatile Merkur for a shaver who wants to learn one dependable adjustable platform rather than own several fixed-gap razors.Key Features Two-piece adjustable double-edge safety razor Long contoured handle for additional reach Blade gap adjustable from approximately 0.6 to 1.6 mm Bright-chrome finish with engraved adjustment knob Straight-cut head for traditional wet shaving Designed and made in Germany Specifications Razor type: two-piece adjustable safety razor Cut: straight cut Blade-gap adjustment: approximately 0.6 to 1.6 mm Finish: bright chrome Product dimensions: 105 x 41 x 25 mm Handle length: 94 mm Handle diameter: 12.5 mm Razor weight: 112 g Packaging: folding box, 132 x 52 x 27 mm Compare the Progress with other Merkur safety razors, then select compatible double edge razor blades to refine the setting that works best for you. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-510-progress-bright-chrome-safety-razor",
         "price": "£73.95",
         "brand": "Merkur",
@@ -21432,7 +21387,7 @@
         "name": "Merkur Progress Adjustable Razor in Plastic Case with 10 Double Edge Blades",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Merkur Progress 570001 is an adjustable double edge safety razor supplied with a plastic storage case and 10 Merkur Super Platinum Double Edge Blades. The adjustable blade gap allows the shave feel to be changed to suit beard growth, skin tolerance and personal preference. This two-piece razor is suitable for users who want more control than a fixed-head safety razor. Lower settings offer a milder feel, while higher settings increase blade exposure for heavier growth or a closer pass. For refills and accessories, see Merkur Super Platinum Double Edge Blades and the Merkur Black Leather Blade Protector. You can also browse more adjustable double edge safety razors or the Merkur Solingen collection. Key Features Adjustable safety razor: Change the blade gap to suit your shave. Double edge format: Uses standard double edge razor blades. Travel/storage case: Supplied with a plastic case. Blade pack included: Includes 10 Merkur Super Platinum Double Edge Blades. Bright chrome finish: Polished chrome-plated surface. Specifications Razor Type: Adjustable double edge safety razor Blade Compatibility: Standard double edge blades Included: Plastic case and 10 Merkur Super Platinum Double Edge Blades Product Weight: 92g Weight With Packaging: 143g Product Measurements: 88 x 41 x 25mm Packaging Size: 96 x 55 x 40mm Made In: Germany",
+        "description": "The Merkur Progress 570001 is an adjustable double edge safety razor supplied with a plastic storage case and 10 Merkur Super Platinum Double Edge Blades. The adjustable blade gap allows the shave feel to be changed to suit beard growth, skin tolerance and personal preference. This two-piece razor is suitable for users who want more control than a fixed-head safety razor. Lower settings offer a milder feel, while higher settings increase blade exposure for heavier growth or a closer pass. For refills and accessories, see Merkur Super Platinum Double Edge Blades and the Merkur Black Leather Blade Protector. You can also browse more adjustable double edge safety razors or the Merkur Solingen collection. Key Features Adjustable safety razor: Change the blade gap to suit your shave. Double edge format: Uses standard double edge razor blades. Travel/storage case: Supplied with a plastic case. Blade pack included: Includes 10 Merkur Super Platinum Double Edge Blades. Bright chrome finish: Polished chrome-plated surface. Specifications Razor Type: Adjustable double edge safety razor Blade Compatibility: Standard double edge blades Included: Plastic case and 10 Merkur Super Platinum Double Edge Blades Product Weight: 92g Weight With Packaging: 143g Product Measurements: 88 x 41 x 25mm Packaging Size: 96 x 55 x 40mm Made In: Germany Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-progress-razor-plastic-case-570001",
         "price": "£56.95",
         "brand": "Merkur",
@@ -21472,7 +21427,7 @@
         "name": "Merkur Razor \"Barber Pole\" Slanted Safety Razor 39001",
         "category": "Razors > Merkur Safety Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The MERKUR 39C razor is a slant bar razor tailored for wiry and dense beards. Due to its heavy weight and slant bar head, it handles even the most difficult shaving tasks easily and thoroughly. Fans fondly call it “the sledgehammer.” Its barber pole-shaped, ribbed handle ensures a secure and comfortable grip. Slant bar razors are unique in that their comb and top plate are twisted along the longitudinal axis. This creates a rigid blade with a sharper shaving angle. Used with focus and care, the MERKUR 39C delivers extraordinary shaving results. The large blade gap of the closed head allows for excellent lather flow, reducing the risk of clogging. For related Merkur options, compare Merkur Progress 500 Adjustable Double Edge Safety Razor with Merkur Progress 510 Long Handle Adjustable Double Edge Safety Razor, or browse the Merkur Solingen collection. Key Features: Slant Bar for efficient shaving of dense, wiry beards Two-piece Safety Razor for easy blade replacement Ribbed barber pole handle for secure grip and control Bright Chrome Finish for a sleek and durable design Large blade gap for optimal lather flow and reduced clogging Product Specifications: Material surface: Bright Chrome Finish Packaging: Branded Merkur folding box Packaging size: 132x52x27 mm Product weight (with packaging): 127g Product measurements: 100x41x25 mm Product weight: 113g Materials: Brass handle, die-casted zinc razor head, galvanized surfaces, bright chrome-plated This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available.",
+        "description": "The MERKUR 39C razor is a slant bar razor tailored for wiry and dense beards. Due to its heavy weight and slant bar head, it handles even the most difficult shaving tasks easily and thoroughly. Fans fondly call it “the sledgehammer.” Its barber pole-shaped, ribbed handle ensures a secure and comfortable grip. Slant bar razors are unique in that their comb and top plate are twisted along the longitudinal axis. This creates a rigid blade with a sharper shaving angle. Used with focus and care, the MERKUR 39C delivers extraordinary shaving results. The large blade gap of the closed head allows for excellent lather flow, reducing the risk of clogging. For related Merkur options, compare Merkur Progress 500 Adjustable Double Edge Safety Razor with Merkur Progress 510 Long Handle Adjustable Double Edge Safety Razor, or browse the Merkur Solingen collection. Key Features: Slant Bar for efficient shaving of dense, wiry beards Two-piece Safety Razor for easy blade replacement Ribbed barber pole handle for secure grip and control Bright Chrome Finish for a sleek and durable design Large blade gap for optimal lather flow and reduced clogging Product Specifications: Material surface: Bright Chrome Finish Packaging: Branded Merkur folding box Packaging size: 132x52x27 mm Product weight (with packaging): 127g Product measurements: 100x41x25 mm Product weight: 113g Materials: Brass handle, die-casted zinc razor head, galvanized surfaces, bright chrome-plated This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-barber-pole-slant-safety-razor-39c",
         "price": "£46.95",
         "brand": "Merkur",
@@ -22449,7 +22404,7 @@
         "brand": "Morgan's",
         "vendor": "Morgan's",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/41._Gentlemen_s_Hair_Cream_120ml.jpg?v=1748434751",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22470,7 +22425,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-hair-cream-120ml",
             "price": "12.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/41._Gentlemen_s_Hair_Cream_120ml.jpg?v=1748434751",
             "options": {}
           }
