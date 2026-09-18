@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-17",
-    "generated_at": "2026-09-17T07:17:29+00:00",
+    "last_updated": "2026-09-18",
+    "generated_at": "2026-09-18T07:09:32+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -7892,7 +7892,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eucalyptus-shaving-cream-tub-JPEG_clipped_rev_1.jpg?v=1778105871",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7914,7 +7914,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-eucalyptus-shaving-cream-bowl-150g",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eucalyptus-shaving-cream-tub-JPEG_clipped_rev_1.jpg?v=1778105871",
             "options": {}
           }
@@ -33712,7 +33712,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/0030Black_clipped_rev_1.jpg?v=1744055225",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -33733,7 +33733,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-0030-brush-razor-stand-black",
             "price": "7.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/0030Black_clipped_rev_1.jpg?v=1744055225",
             "options": {}
           }
@@ -39662,14 +39662,14 @@
             "sku": "415045",
             "gtin": "4011700415045",
             "mpn": null,
-            "title": "Tabac Original Eau de Toilette Natural Spray - 50ml (Discontinued)",
+            "title": "Tabac Original Eau de Toilette Natural Spray - 50ml",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-toilette?variant=48849258610953",
             "price": "11.25 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
             "options": {
-              "Size": "50ml (Discontinued)"
+              "Size": "50ml"
             }
           },
           {
