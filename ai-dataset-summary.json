@@ -80,7 +80,7 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-09-18T07:09:32+00:00",
+  "generated_at": "2026-09-19T07:06:53+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1029,
   "openai_feed": "openai-products-feed.csv.gz",
@@ -212,8 +212,8 @@
   "source_products": 1362,
   "validation": {
     "availability_counts": {
-      "in_stock": 891,
-      "out_of_stock": 391
+      "in_stock": 889,
+      "out_of_stock": 393
     },
     "checkout_eligibility_counts": {
       "false": 1282
@@ -240,7 +240,7 @@
       "url": 0
     },
     "row_count": 1282,
-    "rows_with_gtin": 1211,
+    "rows_with_gtin": 1212,
     "rows_with_mpn": 0,
     "schema_errors": [],
     "target_country_count": 0,

@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-18",
-    "generated_at": "2026-09-18T07:09:32+00:00",
+    "last_updated": "2026-09-19",
+    "generated_at": "2026-09-19T07:06:53+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -12218,7 +12218,7 @@
           {
             "id": "57070736081161",
             "sku": "DEPRO100",
-            "gtin": null,
+            "gtin": "8690885200026",
             "mpn": null,
             "title": "Derby Professional Single Edge Blades Pack of 100",
             "url": "https://www.malegroomingsupplies.com/products/derby-professional-single-edge-blades-pack-of-100",
@@ -28494,7 +28494,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-92r-male-grooming-supplies-395889.jpg?v=1722957167",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28515,7 +28515,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-safety-razor-92r",
             "price": "19.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-92r-male-grooming-supplies-395889.jpg?v=1722957167",
             "options": {}
           }
@@ -33003,7 +33003,7 @@
         "brand": "Proraso",
         "vendor": "Proraso",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sapone-ciotola-BARBE-DURE_6d0bfb02-ddfc-4694-ac00-e3f8b705f060_clipped_rev_1.jpg?v=1777833335",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -33025,7 +33025,7 @@
             "url": "https://www.malegroomingsupplies.com/products/proraso-red-shaving-soap-in-bowl-150ml",
             "price": "6.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sapone-ciotola-BARBE-DURE_6d0bfb02-ddfc-4694-ac00-e3f8b705f060_clipped_rev_1.jpg?v=1777833335",
             "options": {}
           }
