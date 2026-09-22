@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-21",
-    "generated_at": "2026-09-21T07:43:45+00:00",
+    "last_updated": "2026-09-22",
+    "generated_at": "2026-09-22T07:25:58+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -19373,7 +19373,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_top_x_clipped_rev_1.jpg?v=1784925392",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19395,7 +19395,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34-adj-adjustable-safety-razor",
             "price": "54.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34501_top_x_clipped_rev_1.jpg?v=1784925392",
             "options": {}
           }
@@ -19561,7 +19561,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34111_top_x_clipped_rev_1.jpg?v=1784989975",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19582,7 +19582,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34c-metallic-grey-safety-razor",
             "price": "38.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34111_top_x_clipped_rev_1.jpg?v=1784989975",
             "options": {}
           }
