@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-22",
-    "generated_at": "2026-09-22T07:25:58+00:00",
+    "last_updated": "2026-09-23",
+    "generated_at": "2026-09-23T07:28:52+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -36564,7 +36564,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front-mgs-lossless.webp?v=1788530965",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36585,7 +36585,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-2-platinum-synthetic-shaving-brush",
             "price": "99.95 GBP",
             "sale_price": "79.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-platinum-fibre-faux-ivory-front-mgs-lossless.webp?v=1788530965",
             "options": {}
           }
@@ -40780,7 +40780,7 @@
         "brand": "The Bluebeards Revenge",
         "vendor": "The Bluebeards Revenge",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Bluebeards-Revenge-Classic-Blend-EDT.jpg?v=1735926053",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -40801,7 +40801,7 @@
             "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-classic-blend-eau-de-toilette-100ml",
             "price": "29.99 GBP",
             "sale_price": "23.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Bluebeards-Revenge-Classic-Blend-EDT.jpg?v=1735926053",
             "options": {}
           }
