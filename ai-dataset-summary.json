@@ -80,12 +80,12 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-09-23T07:28:52+00:00",
+  "generated_at": "2026-09-24T07:21:04+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1029,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 333,
+  "skipped_products": 341,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15367113998601",
@@ -104,6 +104,12 @@
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
       "title": "4711 Original Cream Soap 100g"
+    },
+    {
+      "id": "gid://shopify/Product/15683109912841",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "DRAFT",
+      "title": "4711 Original Deodorant Spray 150ml"
     },
     {
       "id": "gid://shopify/Product/15367114129673",
@@ -200,20 +206,14 @@
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
       "title": "Captain Fawcett Tattoo Salve 90ml"
-    },
-    {
-      "id": "gid://shopify/Product/15224271962377",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "ARCHIVED",
-      "title": "Captain Fawcett's Exfoliating Salt Scrub 100ml"
     }
   ],
   "social_catalog_feed": "social-catalog-feed.csv",
-  "source_products": 1362,
+  "source_products": 1370,
   "validation": {
     "availability_counts": {
-      "in_stock": 884,
-      "out_of_stock": 398
+      "in_stock": 900,
+      "out_of_stock": 382
     },
     "checkout_eligibility_counts": {
       "false": 1282
