@@ -2,15 +2,358 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-27",
-    "generated_at": "2026-09-27T07:42:52+00:00",
+    "last_updated": "2026-09-28",
+    "generated_at": "2026-09-28T08:21:42+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [],
-    "product_count": 1029,
-    "variant_count": 1282,
+    "product_count": 1036,
+    "variant_count": 1292,
     "products": [
+      {
+        "name": "4711 Original After Shave Lotion Splash 100ml",
+        "category": "Aftershave > Post-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
+        "description": "4711 Original After Shave Lotion Splash 100ml is a traditional post-shave lotion with the fresh citrus and aromatic character of 4711 Original Eau de Cologne.Apply a thin layer after shaving and massage it gently into the skin. It leaves a light fragrance built around citrus, aromatic herbs and orange blossom notes.Key Features Traditional splash lotion for use after shaving Lemon, bergamot and orange top notes Lavender and rosemary heart notes Neroli and petitgrain base notes Specifications Volume: 100ml Product type: After shave lotion Format: Splash Application: Apply after shaving and massage in gently Pair it with 4711 Original Eau de Cologne for a consistent post-shave and fragrance routine.",
+        "url": "https://www.malegroomingsupplies.com/products/4711-original-after-shave-lotion-100ml",
+        "price": "£7.69",
+        "brand": "4711 Original",
+        "vendor": "4711 Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-4711-original-after-shave-lotion-100ml-1.jpg?v=1759776985",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Aftershave",
+        "collections": [
+          "Post-Shave",
+          "New Additions",
+          "Fragrances",
+          "4711 Original"
+        ],
+        "variants": [
+          {
+            "id": "56267248042249",
+            "sku": "746514",
+            "gtin": "4011700746514",
+            "mpn": null,
+            "title": "4711 Original After Shave Lotion Splash 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-after-shave-lotion-100ml",
+            "price": "7.69 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-4711-original-after-shave-lotion-100ml-1.jpg?v=1759776985",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "4711 Original Care Shower Gel 200ml",
+        "category": "Bath Soap and Shower Gels > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Body Wash",
+        "description": "4711 Original Care Shower Gel 200ml is a fragranced body cleanser for the bath or shower. It lathers on damp skin, rinses away and leaves the familiar 4711 citrus and aromatic scent.The fragrance follows the Original Eau de Cologne profile, combining bright citrus with lavender, rosemary, neroli and petitgrain.Key Features Wash-off gel for everyday body cleansing Lathers on damp skin and rinses thoroughly Matches the classic 4711 Original fragrance Citrus, aromatic herb and orange blossom scent profile Specifications Volume: 200ml Product type: Shower gel Fragrance: 4711 Original Eau de Cologne Application: Lather on damp skin and rinse thoroughly Use it with the matching 4711 Original Eau de Cologne to continue the fragrance after showering.",
+        "url": "https://www.malegroomingsupplies.com/products/4711-original-care-shower-gel-200ml",
+        "price": "£6.59",
+        "brand": "4711 Original",
+        "vendor": "4711 Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW741724-Care-Shower-Gel-200ml_360x_0d8b59c9-db1a-46ab-b670-99365d531ba3_clipped_rev_2.jpg?v=1759776984",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Bath Soap and Shower Gels",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Bath, Body & Hand Care",
+          "4711 Original"
+        ],
+        "variants": [
+          {
+            "id": "56267247878409",
+            "sku": "746521",
+            "gtin": "4011700746521",
+            "mpn": null,
+            "title": "4711 Original Care Shower Gel 200ml",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-care-shower-gel-200ml",
+            "price": "6.59 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW741724-Care-Shower-Gel-200ml_360x_0d8b59c9-db1a-46ab-b670-99365d531ba3_clipped_rev_2.jpg?v=1759776984",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "4711 Original Cream Soap 100g",
+        "category": "Bath Soap and Shower Gels > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bar Soap",
+        "description": "4711 Original Cream Soap 100g is a solid cleansing bar scented with the classic 4711 Original Eau de Cologne fragrance. Use it for everyday hand washing when you prefer a traditional soap bar to a liquid cleanser.The glycerin-containing formula lathers with water and combines citrus top notes with lavender, rosemary, neroli and petitgrain.Key Features Solid cream soap for hand washing Glycerin listed in the manufacturer formula Classic citrus and aromatic 4711 scent Compact 100g bar Specifications Weight: 100g Product type: Cream soap bar Fragrance: 4711 Original Eau de Cologne Application: Lather on moistened hands and rinse thoroughly Choose this bar for a practical daily cleanser with the familiar 4711 fragrance.",
+        "url": "https://www.malegroomingsupplies.com/products/4711-original-cream-soap-100g",
+        "price": "£3.59",
+        "brand": "4711 Original",
+        "vendor": "4711 Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cream_soap_clipped_rev_1.jpg?v=1759776986",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Bath Soap and Shower Gels",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Bath, Body & Hand Care",
+          "4711 Original"
+        ],
+        "variants": [
+          {
+            "id": "56267247976713",
+            "sku": "746538",
+            "gtin": "4011700746538",
+            "mpn": null,
+            "title": "4711 Original Cream Soap 100g",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-cream-soap-100g",
+            "price": "3.59 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/cream_soap_clipped_rev_1.jpg?v=1759776986",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "4711 Original Deodorant Spray 150ml",
+        "category": "Deodorant > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant",
+        "description": "4711 Original Deodorant Spray 150ml is an underarm deodorant that provides long-lasting freshness with the classic 4711 Original Eau de Cologne scent.The fragrance combines lemon, bergamot and orange with lavender, rosemary, neroli and petitgrain, making it easy to coordinate with the wider 4711 range.Key Features Deodorant spray for everyday underarm use Provides long-lasting freshness Matches the 4711 Original fragrance range Citrus, aromatic herb and orange blossom notes Specifications Volume: 150ml Product type: Deodorant spray Format: Pressurised spray can Application: Spray towards the underarms from approximately 20cm Use it alone or alongside matching 4711 fragrance and body-care products.",
+        "url": "https://www.malegroomingsupplies.com/products/4711-original-deodorant-spray-150ml",
+        "price": "£6.59",
+        "brand": "4711 Original",
+        "vendor": "4711 Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-deodorant-spray-pure-white.png?v=1790537526",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Deodorant",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Deodorants & Talcum Powder",
+          "4711 Original"
+        ],
+        "variants": [
+          {
+            "id": "57353406841097",
+            "sku": "746705",
+            "gtin": "4011700746705",
+            "mpn": null,
+            "title": "4711 Original Deodorant Spray 150ml",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-deodorant-spray-150ml",
+            "price": "6.59 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-deodorant-spray-pure-white.png?v=1790537526",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "4711 Original Eau de Cologne",
+        "category": "Fragrances > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Colognes",
+        "description": "4711 Original Eau de Cologne is the traditional splash fragrance from Cologne, available here in 50ml, 100ml, 200ml and 400ml bottles.Its light citrus-aromatic composition opens with lemon, bergamot and orange, moves through lavender and rosemary, and settles into neroli and petitgrain.Key Features Classic Eau de Cologne in a traditional pouring bottle Four sizes for travel, regular use or larger-volume purchasing Fresh citrus top notes with an aromatic herbal heart Light neroli and petitgrain base Specifications Available sizes: 50ml, 100ml, 200ml and 400ml Product type: Eau de Cologne Format: Splash bottle Application: Apply a few drops to the hands, then the neck and temples Select your preferred size above, or choose the 4711 Natural Spray if you prefer a pump atomiser.",
+        "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne",
+        "price": "£12.09",
+        "brand": "4711 Original",
+        "vendor": "4711 Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-original-edc-50ml-pure-white.png?v=1790535993",
+        "availability": "out_of_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Fragrances",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Fragrances",
+          "4711 Original"
+        ],
+        "variants": [
+          {
+            "id": "57362523554057",
+            "sku": "746590",
+            "gtin": "4011700746590",
+            "mpn": null,
+            "title": "4711 Original Eau de Cologne - 50ml",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne?variant=57362523554057",
+            "price": "12.09 GBP",
+            "sale_price": null,
+            "availability": "out_of_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-original-edc-50ml-pure-white.png?v=1790535993",
+            "options": {
+              "Size": "50ml"
+            }
+          },
+          {
+            "id": "57362523586825",
+            "sku": "746620",
+            "gtin": "4011700746620",
+            "mpn": null,
+            "title": "4711 Original Eau de Cologne - 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne?variant=57362523586825",
+            "price": "18.69 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-original-edc-100ml-pure-white.png?v=1790535994",
+            "options": {
+              "Size": "100ml"
+            }
+          },
+          {
+            "id": "57362523619593",
+            "sku": "740062",
+            "gtin": "4011700740062",
+            "mpn": null,
+            "title": "4711 Original Eau de Cologne - 200ml",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne?variant=57362523619593",
+            "price": "36.29 GBP",
+            "sale_price": null,
+            "availability": "out_of_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-original-edc-200ml-pure-white.png?v=1790535993",
+            "options": {
+              "Size": "200ml"
+            }
+          },
+          {
+            "id": "57362523652361",
+            "sku": "740048",
+            "gtin": "4011700740048",
+            "mpn": null,
+            "title": "4711 Original Eau de Cologne - 400ml",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne?variant=57362523652361",
+            "price": "52.79 GBP",
+            "sale_price": null,
+            "availability": "out_of_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-original-edc-400ml-pure-white.png?v=1790535994",
+            "options": {
+              "Size": "400ml"
+            }
+          }
+        ]
+      },
+      {
+        "name": "4711 Original Eau de Cologne Natural Spray 100ml",
+        "category": "Fragrances > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Colognes",
+        "description": "4711 Original Eau de Cologne Natural Spray 100ml presents the classic fragrance in a pump atomiser for controlled, even application.The scent opens with lemon, bergamot and orange, followed by lavender and rosemary, with neroli and petitgrain forming the base.Key Features Pump spray alternative to the traditional splash bottle Fresh citrus top notes Lavender and rosemary aromatic heart Neroli and petitgrain base notes Specifications Volume: 100ml Product type: Eau de Cologne Format: Natural spray pump atomiser Application: Spray onto the neck, temples or arms Choose this version for spray application, or compare it with the multi-size 4711 Original splash.",
+        "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne-natural-spray-100ml",
+        "price": "£22.49",
+        "brand": "4711 Original",
+        "vendor": "4711 Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/naturalspray100ml_clipped_rev_1.jpg?v=1759776984",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Fragrances",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Fragrances",
+          "4711 Original"
+        ],
+        "variants": [
+          {
+            "id": "56267247845641",
+            "sku": "746668",
+            "gtin": "4011700746668",
+            "mpn": null,
+            "title": "4711 Original Eau de Cologne Natural Spray 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne-natural-spray-100ml",
+            "price": "22.49 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/naturalspray100ml_clipped_rev_1.jpg?v=1759776984",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "4711 Original Eau de Cologne Tissues 10pcs",
+        "category": "Fragrances > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Colognes",
+        "description": "4711 Original Eau de Cologne Refreshing Wipes provide the classic fragrance in a portable pack of ten scented wipes for use when you are away from home.Dab or rub a wipe over the hands, neck, pulse points or face for a quick application of the citrus and aromatic 4711 scent. Avoid the eye area.Key Features Portable alternative to carrying a fragrance bottle Ten scented refreshing wipes per pack Suitable for the hands, neck, pulse points and face Classic citrus, lavender, rosemary, neroli and petitgrain fragrance Specifications Pack size: 10 wipes Product type: Eau de Cologne refreshing wipes Application: Dab or rub onto the skin, avoiding the eye area Format: Portable packet Keep a pack in a bag or travel kit for convenient fragrance application on the go.",
+        "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne-refreshing-wipes-10-pack",
+        "price": "£3.29",
+        "brand": "4711 Original",
+        "vendor": "4711 Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-refreshing-wipes-primary-square-white.png?v=1790537806",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Fragrances",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Fragrances",
+          "4711 Original"
+        ],
+        "variants": [
+          {
+            "id": "56267247780105",
+            "sku": "746552",
+            "gtin": "4011700746552",
+            "mpn": null,
+            "title": "4711 Original Eau de Cologne Tissues 10pcs",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne-refreshing-wipes-10-pack",
+            "price": "3.29 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-refreshing-wipes-primary-square-white.png?v=1790537806",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "4711 Original Eau de Cologne Watch Bottle 25ml",
+        "category": "Fragrances > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Colognes",
+        "description": "4711 Original Eau de Cologne Watch Bottle 25ml is a compact splash bottle designed to fit easily into a pocket, handbag or travel kit.Despite its smaller size, it carries the same citrus-aromatic composition as the larger 4711 Original bottles, with lemon, bergamot, orange, lavender, rosemary, neroli and petitgrain.Key Features Compact bottle for travel and everyday carry Traditional splash application Classic 4711 Original fragrance composition Small 25ml format Specifications Volume: 25ml Product type: Eau de Cologne Format: Compact splash bottle Application: Apply a few drops to the hands, then the neck and temples Choose the Watch Bottle for travel or everyday carry, or select a larger 4711 Original splash bottle for home use.",
+        "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne-watch-bottle-25ml",
+        "price": "£6.59",
+        "brand": "4711 Original",
+        "vendor": "4711 Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-watch-bottle-pure-white.png?v=1790537526",
+        "availability": "out_of_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Fragrances",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Fragrances",
+          "4711 Original"
+        ],
+        "variants": [
+          {
+            "id": "57362523521289",
+            "sku": "746576",
+            "gtin": "4011700746576",
+            "mpn": null,
+            "title": "4711 Original Eau de Cologne Watch Bottle 25ml",
+            "url": "https://www.malegroomingsupplies.com/products/4711-original-eau-de-cologne-watch-bottle-25ml",
+            "price": "6.59 GBP",
+            "sale_price": null,
+            "availability": "out_of_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-watch-bottle-pure-white.png?v=1790537526",
+            "options": {}
+          }
+        ]
+      },
       {
         "name": "Alexander Simpson 'Barbican' Boar Bristle Shaving Brush",
         "category": "Shaving Brushes > Shaving Brushes",
@@ -13573,6 +13916,43 @@
         ]
       },
       {
+        "name": "Feather Artist Club Black Folding SR Straight Razor ACSR-RB",
+        "category": "Straight Razors > Feather Safety Razor Co.",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Straight Razors",
+        "description": "The Feather Artist Club SR Folding Razor is a replaceable-blade open razor with a rounded-tip head and black folding handle. It has more weight than the Artist Club SS for users who prefer a more substantial feel. Its one-touch mechanism lets you dismantle the head for cleaning. The SR takes Feather Artist Club blade cartridges, sold separately; it does not accept standard double-edge or half-DE blades. Key Features SR head: Rounded-tip profile with a weightier feel than the SS. Folding handle: Closes for storage between shaves. One-touch dismantling: Head opens for cleaning. Dedicated blades: Takes Feather Artist Club cartridges only. Specifications Brand: Feather Model: Artist Club SR ACSR-RB Type: Folding replaceable-blade razor Handle colour: Black Blade format: Feather Artist Club; blades sold separately Made in: Japan Compare the SR with the other heads in our Feather Artist Club razor guide before choosing.",
+        "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-black-folding-sr-straight-razor-acsr-rb",
+        "price": "£110.00",
+        "brand": "Feather",
+        "vendor": "Feather",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Black-Folding-Razor_clipped_rev_1.jpg?v=1782734124",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Straight Razors",
+        "collections": [
+          "Feather Safety Razor Co.",
+          "Straight Razors, Cut Throat Razors & Shavettes",
+          "New Additions",
+          "Shaving Essentials"
+        ],
+        "variants": [
+          {
+            "id": "57162399809801",
+            "sku": "ACSR-RB",
+            "gtin": "4902470776828",
+            "mpn": null,
+            "title": "Feather Artist Club Black Folding SR Straight Razor ACSR-RB",
+            "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-black-folding-sr-straight-razor-acsr-rb",
+            "price": "110.00 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Black-Folding-Razor_clipped_rev_1.jpg?v=1782734124",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Feather Artist Club Black SR Straight Razor ACSR-NB",
         "category": "Straight Razors > Feather Safety Razor Co.",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Straight Razors",
@@ -16943,7 +17323,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-ti22-titanium-safety-razor-male-grooming-supplies-581218.jpg?v=1722956549",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16964,7 +17344,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-ti22-titanium-safety-razor?variant=45376842727689",
             "price": "275.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-ti22-titanium-safety-razor-male-grooming-supplies-581218.jpg?v=1722956549",
             "options": {
               "Blade Gap & Exposure": "Mild Aggression"
@@ -31377,7 +31757,7 @@
         "brand": "Pashana",
         "vendor": "Pashana",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/925-zoom_clipped_rev_1.jpg?v=1749734290",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -31398,7 +31778,7 @@
             "url": "https://www.malegroomingsupplies.com/products/pashana-eau-de-portugal-with-oil-250ml",
             "price": "8.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/925-zoom_clipped_rev_1.jpg?v=1749734290",
             "options": {}
           }
@@ -39369,8 +39749,8 @@
           },
           {
             "id": "48849257824521",
-            "sku": "431205",
-            "gtin": "4011700431205",
+            "sku": "430048",
+            "gtin": "4011700430048",
             "mpn": null,
             "title": "Tabac Original Aftershave Lotion - 100ml",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257824521",
@@ -39396,80 +39776,6 @@
             "options": {
               "Size": "150ml"
             }
-          }
-        ]
-      },
-      {
-        "name": "Tabac Original Aftershave Lotion 50ml & Shower Gel 100ml Gift Set",
-        "category": "Gift Sets > Post-Shave",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "The Tabac Original Gift Set contains Tabac Original Aftershave Lotion 50ml and Shower Gel 100ml. It is a two-piece grooming set built around the classic Tabac Original fragrance. The aftershave lotion is used after shaving to refresh the skin and leave the Tabac scent. The shower gel is for daily body cleansing and carries the same fragrance profile. For related options, browse the Tabac Original collection, men's aftershaves, fragrances and men's grooming gift sets. Key Features Two-piece gift set: Includes aftershave lotion and shower gel. Tabac Original scent: Classic aromatic fragrance profile. Post-shave use: Aftershave lotion refreshes the skin after shaving. Daily shower gel: Cleanses the body with the matching scent. Specifications Aftershave Lotion: 50ml Shower Gel: 100ml Set Type: Aftershave and shower gel gift set Brand: Tabac Original Shipping Note: Flammable item, hazardous goods shipping applies.",
-        "url": "https://www.malegroomingsupplies.com/products/tabac-original-gift-set",
-        "price": "£14.99",
-        "brand": "Tabac Original",
-        "vendor": "Tabac Original",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW444625TabacOriginalDUOSETASL50ml_SG100ml_preview_rev_1.jpg?v=1734440089",
-        "availability": "in_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Gift Sets",
-        "collections": [
-          "Post-Shave",
-          "Tabac Original",
-          "Gift Sets",
-          "Men's Aftershaves"
-        ],
-        "variants": [
-          {
-            "id": "48849257890057",
-            "sku": "444625",
-            "gtin": "4011700444625",
-            "mpn": null,
-            "title": "Tabac Original Aftershave Lotion 50ml & Shower Gel 100ml Gift Set",
-            "url": "https://www.malegroomingsupplies.com/products/tabac-original-gift-set",
-            "price": "14.99 GBP",
-            "sale_price": null,
-            "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW444625TabacOriginalDUOSETASL50ml_SG100ml_preview_rev_1.jpg?v=1734440089",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Tabac Original Aftershave Lotion 75ml & Shower Gel 100ml Gift Set",
-        "category": "Gift Sets > Post-Shave",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
-        "description": "Tabac Original Aftershave Lotion 75ml & Shower Gel 100ml Gift Set combines two Tabac Original grooming products in the same fragrance family. The set includes an aftershave lotion for post-shave use and a shower gel for daily washing. The Tabac Original scent has fresh, floral, woody and aromatic notes. Because the set includes aftershave lotion, hazardous goods shipping applies. For matching products, browse the Tabac Original collection, compare Tabac Original Aftershave Lotion, or see more men's grooming gift sets. Key Features Two-piece gift set: Aftershave lotion and shower gel. Tabac Original scent: Fresh, floral, woody and aromatic notes. Post-shave product: Aftershave lotion for use after shaving. Shower gel included: Daily wash in matching fragrance. Flammable item: Hazardous goods shipping applies. Specifications Set Contents: Aftershave lotion 75ml and shower gel 100ml Format: Grooming gift set Fragrance Family: Fresh, woody and aromatic Shipping Note: Flammable item: hazardous goods shipping applies.",
-        "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-shower-gift-set",
-        "price": "£15.99",
-        "brand": "Tabac Original",
-        "vendor": "Tabac Original",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TODuosetgeschlossenVSMW444571_preview_rev_1.jpg?v=1734440089",
-        "availability": "in_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Gift Sets",
-        "collections": [
-          "Post-Shave",
-          "Tabac Original",
-          "Gift Sets",
-          "Men's Aftershaves"
-        ],
-        "variants": [
-          {
-            "id": "48849257693449",
-            "sku": "444571",
-            "gtin": "4011700444571",
-            "mpn": null,
-            "title": "Tabac Original Aftershave Lotion 75ml & Shower Gel 100ml Gift Set",
-            "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-shower-gift-set",
-            "price": "15.99 GBP",
-            "sale_price": null,
-            "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TODuosetgeschlossenVSMW444571_preview_rev_1.jpg?v=1734440089",
-            "options": {}
           }
         ]
       },
@@ -39532,8 +39838,8 @@
         "variants": [
           {
             "id": "48849258086665",
-            "sku": "410903",
-            "gtin": "4011700410033",
+            "sku": "410019",
+            "gtin": "4011700410019",
             "mpn": null,
             "title": "Tabac Original Deodorant Spray 200ml",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-deodorant-spray-200ml",
@@ -39675,7 +39981,7 @@
           {
             "id": "48849258578185",
             "sku": "415052",
-            "gtin": "4011700422098",
+            "gtin": "4011700415052",
             "mpn": null,
             "title": "Tabac Original Eau de Toilette Natural Spray - 100ml",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-toilette?variant=48849258578185",
@@ -39714,7 +40020,7 @@
         "variants": [
           {
             "id": "48851978420489",
-            "sku": "435173",
+            "sku": "430154",
             "gtin": "4011700430154",
             "mpn": null,
             "title": "Tabac Original Shaving Bowl & Soap 125g",
@@ -39728,7 +40034,7 @@
         ]
       },
       {
-        "name": "Tabac Original Shaving Bowl Soap Refill 125g",
+        "name": "Tabac Original Shaving Bowl Soap Refill 125g (Discontinued)",
         "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Soap",
         "description": "Tabac Original Shaving Bowl Soap Refill 125g is the replacement soap puck for a Tabac Original shaving-soap bowl. It is supplied as the refill only; the reusable bowl is not included.Worked with warm water and a shaving brush, the soap helps soften beard hair and produces a creamy lather for smooth blade glide. It carries the distinctive Tabac Original fragrance and is made in Germany.Browse the full Tabac Original range, compare more shaving soaps and sticks, or choose the Tabac Original Shaving Soap Stick Refill 100g for a stick-format refill.Key Features Bowl refill: Replacement 125g soap puck supplied without the reusable bowl. Beard preparation: Helps soften beard hair before shaving. Brush lather: Builds a creamy lather with water and a shaving brush. Tabac Original fragrance: The brand's distinctive classic scent. Made in Germany: Manufactured to Tabac Original specifications. How to Use Place the refill in a suitable shaving-soap bowl. Load a damp shaving brush from the soap, adding water gradually. Build a dense lather in the bowl or directly on the beard, then shave as usual. Allow the soap to dry between uses. Specifications Size: 125g Format: Shaving soap bowl refill Bowl Included: No Fragrance: Tabac Original Made In: Germany",
@@ -39755,7 +40061,7 @@
             "sku": "435180",
             "gtin": "4011700435180",
             "mpn": null,
-            "title": "Tabac Original Shaving Bowl Soap Refill 125g",
+            "title": "Tabac Original Shaving Bowl Soap Refill 125g (Discontinued)",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-refill-125g",
             "price": "11.95 GBP",
             "sale_price": null,
@@ -39766,7 +40072,7 @@
         ]
       },
       {
-        "name": "Tabac Original Shaving Soap Stick REFILL 100g",
+        "name": "Tabac Original Shaving Soap Stick REFILL 100g (Discontinued)",
         "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Soap",
         "description": "Discontinued 100g refill format - final MGS stock. Maximum 3 per order. The Tabac Original shaving soap bowl remains available separately. Tabac Original Shaving Soap Stick Refill 100g is a replacement shaving-soap stick supplied without a reusable sleeve or dispenser. The current non-tallow formula helps soften beard hair and build a protective lather for traditional wet shaving. The soap carries the distinctive Tabac Original fragrance, with pepper, bergamot and petitgrain over clove, lavender and geranium, followed by sandalwood, musk and vetiver. It is made in Germany. Browse the full Tabac Original range, compare more shaving soaps and sticks, or choose the Tabac Original Shaving Bowl Soap Refill 125g for a bowl-format refill. Key Features Refill format: Replacement 100g soap stick supplied without a sleeve or dispenser. Beard preparation: Helps soften beard hair before shaving. Brush lather: Builds a creamy lather with water and a shaving brush. Tabac Original fragrance: Spicy, aromatic and woody scent profile. Made in Germany: Manufactured to Tabac Original specifications. How to Use Wet the beard area and the exposed end of the soap. Rub the stick lightly over the beard, or load soap directly onto a damp shaving brush. Work into a dense lather on the face or in a shaving bowl, adding water gradually. Rinse the soap after use and allow it to dry before storing. Specifications Size: 100g Format: Shaving soap stick refill Formula: Current non-tallow formulation Holder Included: No Fragrance: Tabac Original Made In: Germany For a stocked solid shaving soap refill, consider the Cyril R. Salter Solid Shaving Soap 70g Refill.",
@@ -39793,7 +40099,7 @@
             "sku": "435142",
             "gtin": "4011700435142",
             "mpn": null,
-            "title": "Tabac Original Shaving Soap Stick REFILL 100g",
+            "title": "Tabac Original Shaving Soap Stick REFILL 100g (Discontinued)",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-soap-stick-refill-100g",
             "price": "9.95 GBP",
             "sale_price": null,

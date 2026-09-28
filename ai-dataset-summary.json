@@ -2,17 +2,17 @@
   "api_version": "2026-07",
   "category_counts": {
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body": 2,
-    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bar Soap": 30,
+    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bar Soap": 31,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Additives": 11,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Brushes": 4,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Sponges & Loofahs": 1,
-    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Body Wash": 19,
+    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Body Wash": 20,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Hand Sanitizers & Wipes": 2,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Liquid Hand Soap": 4,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body Gift Sets": 8,
     "Health & Beauty > Personal Care > Cosmetics > Cosmetic Sets": 1,
     "Health & Beauty > Personal Care > Cosmetics > Cosmetic Tools > Nail Tools > Manicure Tool Sets": 2,
-    "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Colognes": 31,
+    "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Colognes": 38,
     "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux De Toilette": 20,
     "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum": 25,
     "Health & Beauty > Personal Care > Cosmetics > Skin Care": 1,
@@ -28,7 +28,7 @@
     "Health & Beauty > Personal Care > Cosmetics > Skin Care > Skin Care Masks & Peels": 1,
     "Health & Beauty > Personal Care > Cosmetics > Skin Care > Toners & Astringents > Astringents": 2,
     "Health & Beauty > Personal Care > Cosmetics > Skin Care > Toners & Astringents > Toners": 9,
-    "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant": 1,
+    "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant": 2,
     "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant > Anti-Perspirant": 1,
     "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant > Deodorants": 9,
     "Health & Beauty > Personal Care > Hair Care": 21,
@@ -47,8 +47,8 @@
     "Health & Beauty > Personal Care > Oral Care > Toothbrushes > Manual Toothbrushes": 4,
     "Health & Beauty > Personal Care > Oral Care > Toothpaste": 20,
     "Health & Beauty > Personal Care > Personal Care Gift Sets & Kits": 2,
-    "Health & Beauty > Personal Care > Shaving & Grooming": 62,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave": 77,
+    "Health & Beauty > Personal Care > Shaving & Grooming": 60,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave": 78,
     "Health & Beauty > Personal Care > Shaving & Grooming > Beard Balms": 3,
     "Health & Beauty > Personal Care > Shaving & Grooming > Beard Combs & Brushes": 1,
     "Health & Beauty > Personal Care > Shaving & Grooming > Beard Conditioner": 6,
@@ -62,7 +62,7 @@
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Cartridge Razors": 1,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Razor Blades & Refills": 12,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors": 27,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Straight Razors": 2,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Straight Razors": 3,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Bowls & Mugs": 17,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes": 196,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams": 126,
@@ -80,85 +80,13 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-09-27T07:42:52+00:00",
+  "generated_at": "2026-09-28T08:21:42+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1029,
+  "included_products": 1036,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 341,
+  "skipped_products": 330,
   "skipped_sample": [
-    {
-      "id": "gid://shopify/Product/15367113998601",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original After Shave Lotion Splash 100ml"
-    },
-    {
-      "id": "gid://shopify/Product/15367113736457",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Care Shower Gel 200ml"
-    },
-    {
-      "id": "gid://shopify/Product/15367113933065",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Cream Soap 100g"
-    },
-    {
-      "id": "gid://shopify/Product/15683109912841",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Deodorant Spray 150ml"
-    },
-    {
-      "id": "gid://shopify/Product/15367114129673",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Eau de Cologne"
-    },
-    {
-      "id": "gid://shopify/Product/15367113834761",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Eau de Cologne 400ml"
-    },
-    {
-      "id": "gid://shopify/Product/15367114096905",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Eau de Cologne 50ml"
-    },
-    {
-      "id": "gid://shopify/Product/15367113900297",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Eau de Cologne 800ml"
-    },
-    {
-      "id": "gid://shopify/Product/15367113769225",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Eau de Cologne Natural Spray 100ml"
-    },
-    {
-      "id": "gid://shopify/Product/15367113965833",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Eau de Cologne Natural Spray 30ml (Discontinued)"
-    },
-    {
-      "id": "gid://shopify/Product/15367113801993",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Eau de Cologne Tissues 10pcs"
-    },
-    {
-      "id": "gid://shopify/Product/15367114031369",
-      "reason": "not_active_or_no_online_store_url",
-      "status": "DRAFT",
-      "title": "4711 Original Eau de Cologne Vapo 90ml (Discontinued)"
-    },
     {
       "id": "gid://shopify/Product/15674960380169",
       "reason": "not_active_or_no_online_store_url",
@@ -206,17 +134,89 @@
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
       "title": "Captain Fawcett Tattoo Salve 90ml"
+    },
+    {
+      "id": "gid://shopify/Product/15224271962377",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ARCHIVED",
+      "title": "Captain Fawcett's Exfoliating Salt Scrub 100ml"
+    },
+    {
+      "id": "gid://shopify/Product/15224273076489",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ARCHIVED",
+      "title": "Captain Fawcett's Exfoliating Scrub & Moisturiser Set"
+    },
+    {
+      "id": "gid://shopify/Product/15224272650505",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ARCHIVED",
+      "title": "Captain Fawcett's Physician Menthol Moustache Wax 15ml"
+    },
+    {
+      "id": "gid://shopify/Product/15224269897993",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "DRAFT",
+      "title": "Captain Fawcett's Sandalwood Moustache Wax 15ml"
+    },
+    {
+      "id": "gid://shopify/Product/15224269799689",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "DRAFT",
+      "title": "Captain Fawcett's Ylang Ylang Moustache Wax 15ml"
+    },
+    {
+      "id": "gid://shopify/Product/9336162320649",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "DRAFT",
+      "title": "Colonel Conk\u2019s Natural After Shave Lotion - High Desert Breeze 180ml"
+    },
+    {
+      "id": "gid://shopify/Product/9336162418953",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "DRAFT",
+      "title": "Colonel Conk\u2019s Natural After Shave Lotion - Rio Grande Lavender 180ml"
+    },
+    {
+      "id": "gid://shopify/Product/9336162353417",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "DRAFT",
+      "title": "Colonel Conk\u2019s Natural After Shave Lotion - Santa Fe Cedar 180ml"
+    },
+    {
+      "id": "gid://shopify/Product/9336162287881",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "DRAFT",
+      "title": "Colonel Conk\u2019s Natural After Shave Lotion - Southwestern Sun 180ml"
+    },
+    {
+      "id": "gid://shopify/Product/9336162615561",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ARCHIVED",
+      "title": "Colonel Conk\u2019s Natural Pre-Shave Oil 59ml"
+    },
+    {
+      "id": "gid://shopify/Product/9336162681097",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ARCHIVED",
+      "title": "Colonel Conk\u2019s Natural Shaving Cream - Santa Fe Cedar 160ml"
+    },
+    {
+      "id": "gid://shopify/Product/9336253710601",
+      "reason": "not_active_or_no_online_store_url",
+      "status": "ACTIVE",
+      "title": "Cyril R. Salter Essential Lime Shaving Cream 200ml"
     }
   ],
   "social_catalog_feed": "social-catalog-feed.csv",
-  "source_products": 1370,
+  "source_products": 1366,
   "validation": {
     "availability_counts": {
-      "in_stock": 900,
-      "out_of_stock": 382
+      "in_stock": 904,
+      "out_of_stock": 388
     },
     "checkout_eligibility_counts": {
-      "false": 1282
+      "false": 1292
     },
     "duplicate_item_id_count": 0,
     "duplicate_offer_id_count": 0,
@@ -239,8 +239,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1282,
-    "rows_with_gtin": 1212,
+    "row_count": 1292,
+    "rows_with_gtin": 1222,
     "rows_with_mpn": 0,
     "schema_errors": [],
     "target_country_count": 0,
