@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-09-30",
-    "generated_at": "2026-09-30T08:08:27+00:00",
+    "last_updated": "2026-10-01",
+    "generated_at": "2026-10-01T08:28:02+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -438,7 +438,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114206_resized_clipped_rev_1.jpg?v=1748952575",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -459,7 +459,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-post-shave-balm",
             "price": "10.20 GBP",
             "sale_price": "8.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114206_resized_clipped_rev_1.jpg?v=1748952575",
             "options": {}
           }
@@ -512,7 +512,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114503_resized_clipped_rev_1.jpg?v=1748896556",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -533,7 +533,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-lime-post-shave-balm",
             "price": "10.20 GBP",
             "sale_price": "8.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114503_resized_clipped_rev_1.jpg?v=1748896556",
             "options": {}
           }
@@ -586,7 +586,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1125_clipped_rev_1.jpg?v=1748896556",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -607,7 +607,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-bay-rum-pre-shave-oil",
             "price": "11.50 GBP",
             "sale_price": "7.50 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1125_clipped_rev_1.jpg?v=1748896556",
             "options": {}
           }
@@ -623,7 +623,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1127_clipped_rev_1.jpg?v=1748896556",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -644,7 +644,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-lime-pre-shave-oil",
             "price": "11.50 GBP",
             "sale_price": "7.50 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/img_1127_clipped_rev_1.jpg?v=1748896556",
             "options": {}
           }
@@ -697,7 +697,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114407_resized_clipped_rev_1.jpg?v=1748952854",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -718,7 +718,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-sandalwood-post-shave-balm",
             "price": "10.20 GBP",
             "sale_price": "8.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200211_114407_resized_clipped_rev_1.jpg?v=1748952854",
             "options": {}
           }
@@ -734,7 +734,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143535_clipped_rev_1.png?v=1748897385",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -755,7 +755,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-sandalwood-shave-cream",
             "price": "14.40 GBP",
             "sale_price": "10.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20190913_143535_clipped_rev_1.png?v=1748897385",
             "options": {}
           }
@@ -771,7 +771,7 @@
         "brand": "Alexander Simpson",
         "vendor": "Alexander Simpson",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1788530963",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -792,7 +792,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-trafalgar-shaving-brush?variant=55607611195657",
             "price": "35.00 GBP",
             "sale_price": "30.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1788530963",
             "options": {
               "Size": "Trafalgar T1"
@@ -807,7 +807,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-trafalgar-shaving-brush?variant=55607611228425",
             "price": "40.00 GBP",
             "sale_price": "35.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1788530963",
             "options": {
               "Size": "Trafalgar T2"
@@ -822,7 +822,7 @@
             "url": "https://www.malegroomingsupplies.com/products/alexander-simpson-trafalgar-shaving-brush?variant=55607611261193",
             "price": "41.50 GBP",
             "sale_price": "38.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Trafalgar_clipped_rev_1.jpg?v=1788530963",
             "options": {
               "Size": "Trafalgar T3"
@@ -29282,7 +29282,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-black-mango-wood-shaving-soap-bowl-male-grooming-supplies-685938.jpg?v=1722956644",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29305,7 +29305,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-black-mango-wood-shaving-soap-bowl",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-black-mango-wood-shaving-soap-bowl-male-grooming-supplies-685938.jpg?v=1722956644",
             "options": {}
           }
@@ -30940,7 +30940,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-sandalwood-and-sheabutter-shaving-soap-100g-male-grooming-supplies-760400.jpg?v=1722957147",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30961,7 +30961,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-sandalwood-shea-butter-shaving-soap-100g",
             "price": "7.95 GBP",
             "sale_price": "6.35 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-sandalwood-and-sheabutter-shaving-soap-100g-male-grooming-supplies-760400.jpg?v=1722957147",
             "options": {}
           }
@@ -36838,7 +36838,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -36859,7 +36859,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpson-shaving-brush-travel-tube?variant=56676755898633",
             "price": "7.95 GBP",
             "sale_price": "5.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
             "options": {
               "Size": "Small"
@@ -36874,7 +36874,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpson-shaving-brush-travel-tube?variant=56676755931401",
             "price": "12.95 GBP",
             "sale_price": "7.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
             "options": {
               "Size": "Large"
@@ -36903,7 +36903,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
         "description": "The Simpsons Berkeley 46 Sovereign Synthetic Shaving Brush is a highly regarded compact brush, hand-turned in faux ivory and filled with Simpsons’ uniquely sourced Sovereign Grade synthetic fibre. This model continues the long-established Simpsons brushmaking tradition, now carried forward by Progress Shaving Brush (Vulfix) on the historic Isle of Man. Known for its superb build quality and efficient lathering performance, the Berkeley 46 is often considered one of the best value synthetic shaving brushes available. Its comfortable proportions, dense knot and smooth handle shape make it suitable for both beginners and experienced wet shavers, offering quick, reliable lather with soaps or creams. Each brush is finished with the traditional Simpsons front label stating Hand Made in Great Britain, maintaining the brand’s commitment to hand-tied craftsmanship. Key Features: Filled with Sovereign Grade synthetic fibre Hand-turned faux ivory handle in the classic Berkeley shape Efficient lathering with soaps and creams Compact size ideal for everyday use or travel Excellent value within the Simpson range Handcrafted in Britain, featuring the Hand Made in Great Britain label Specifications: Overall brush height: 90mm Handle height: 44mm Knot loft: 46mm Knot diameter: 19mm Weight: 50g For related shaving brush options, browse the Shaving Brushes collection.",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-sovereign-synthetic",
-        "price": "£40.95",
+        "price": "£44.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_10__clipped_rev_1.jpg?v=1788530963",
@@ -36927,7 +36927,7 @@
             "title": "Simpsons 'Berkeley 46' Sovereign Synthetic Shaving Brush",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-sovereign-synthetic",
             "price": "44.95 GBP",
-            "sale_price": "40.95 GBP",
+            "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_10__clipped_rev_1.jpg?v=1788530963",
             "options": {}
@@ -37054,7 +37054,7 @@
             "title": "Simpsons 'M' Sovereign Synthetic Shaving Brush - M7 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-m-series-sovereign-synthetic?variant=56363185275145",
             "price": "54.95 GBP",
-            "sale_price": "52.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_27__clipped_rev_1.jpg?v=1788539132",
             "options": {
@@ -37256,7 +37256,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simspsons_Berkeley_46_-_Pure.jpg?v=1788531060",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -37275,9 +37275,9 @@
             "mpn": null,
             "title": "Simpsons 'The Berkeley' Shaving Brush - Pure Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-shaving-brush?variant=56363188879625",
-            "price": "43.80 GBP",
+            "price": "43.75 GBP",
             "sale_price": "34.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simspsons_Berkeley_46_-_Pure.jpg?v=1788531060",
             "options": {
               "Brush Type": "Pure Badger"
@@ -37290,8 +37290,8 @@
             "mpn": null,
             "title": "Simpsons 'The Berkeley' Shaving Brush - Best Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-shaving-brush?variant=56363188912393",
-            "price": "50.80 GBP",
-            "sale_price": "48.95 GBP",
+            "price": "48.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpsons_Berkeley_46_-_Best.png?v=1788539140",
             "options": {
@@ -37310,7 +37310,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_6__clipped_rev_1.jpg?v=1788531060",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -37331,7 +37331,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-the-captain-2-best-badger-shaving-brush",
             "price": "104.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_6__clipped_rev_1.jpg?v=1788531060",
             "options": {}
           }
@@ -37419,7 +37419,7 @@
             "title": "Simpsons 'The Case' Shaving Brush - Best Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-case-best-or-pure-badger-shaving-brush?variant=56363187339529",
             "price": "51.40 GBP",
-            "sale_price": "49.00 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Best-Front.png?v=1788539148",
             "options": {
@@ -37548,7 +37548,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
         "description": "The Simpsons Chubby Sovereign Synthetic Shaving Brush brings one of the most iconic shaving brush designs into the world of modern synthetic fibres. Hand-turned in a traditional faux ivory handle, each model is filled with Simpsons’ uniquely sourced Sovereign Grade synthetic fibre, developed for luxurious softness, excellent backbone, and strong lathering capability. The Chubby series is widely recognised for its dense knots and compact proportions, offering a full, satisfying face feel and exceptional lathering performance with both soaps and creams. Each brush is hand finished and carries the familiar Simpsons front label stating Hand Made in Great Britain, reflecting the longstanding craftsmanship of the brand. Key Features: Filled with Sovereign Grade synthetic fibre Iconic faux ivory Chubby handle Dense knot for rich, creamy lather Excellent face feel with supportive backbone Available in three sizes: Chubby 1, Chubby 2, Chubby 3 Handcrafted in Britain, featuring the Hand Made in Great Britain label Specifications: Chubby 1: Overall brush height: 82mm Handle height: 39mm Knot loft: 43mm Knot diameter: 22mm Weight: 59g Chubby 2: Overall brush height: 95mm Handle height: 44mm Loft: 51mm Knot diameter: 26mm Chubby 3: Overall brush height: 106mm Handle height: 48mm Loft: 58mm Knot diameter: 29mm For related shaving brush options, browse the Shaving Brushes collection.",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic",
-        "price": "£54.95",
+        "price": "£56.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_14__clipped_rev_1_1121586d-e5b4-447c-b319-84deda5b588b.jpg?v=1788531060",
@@ -37572,7 +37572,7 @@
             "title": "Simpsons 'The Chubby' Sovereign Synthetic Shaving Brush - Chubby 1 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic?variant=56363185799433",
             "price": "56.95 GBP",
-            "sale_price": "54.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_14__clipped_rev_1_1121586d-e5b4-447c-b319-84deda5b588b.jpg?v=1788531060",
             "options": {
@@ -37588,7 +37588,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic?variant=56363185832201",
             "price": "75.95 GBP",
             "sale_price": "57.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-sov-front_clipped_rev_1.jpg?v=1788539148",
             "options": {
               "Size": "Chubby 2 Sovereign"
@@ -37602,7 +37602,7 @@
             "title": "Simpsons 'The Chubby' Sovereign Synthetic Shaving Brush - Chubby 3 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic?variant=56363185864969",
             "price": "84.95 GBP",
-            "sale_price": "77.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_16__clipped_rev_1_1.jpg?v=1788539154",
             "options": {
@@ -37712,7 +37712,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LBest-Front.png?v=1788531077",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -37733,7 +37733,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-colonel-x2l-best-badger-shaving-brush",
             "price": "77.50 GBP",
             "sale_price": "59.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/X2LBest-Front.png?v=1788531077",
             "options": {}
           }
@@ -37975,7 +37975,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-best-or-pure-badger-shaving-brush?variant=56363188060425",
             "price": "84.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D2Pure-Front.png?v=1788539162",
             "options": {
               "Size & Brush Type": "Duke 2 Pure - 90mm"
@@ -37990,7 +37990,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-best-or-pure-badger-shaving-brush?variant=56363188158729",
             "price": "121.90 GBP",
             "sale_price": "81.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D2Best-Front.png?v=1788539162",
             "options": {
               "Size & Brush Type": "Duke 2 Best - 90mm"
@@ -38020,7 +38020,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-best-or-pure-badger-shaving-brush?variant=56363188191497",
             "price": "151.90 GBP",
             "sale_price": "115.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D3Best-Front.png?v=1788539169",
             "options": {
               "Size & Brush Type": "Duke 3 Best - 95mm"
@@ -38034,7 +38034,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
         "description": "The Simpsons Duke Sovereign Synthetic Shaving Brush is one of the most recognisable and admired shaving brushes in the traditional wet shaving world. Hand-turned in a faux ivory handle, each brush is filled with Simpsons’ Sovereign Grade synthetic fibre, offering soft tips, dependable backbone, and excellent lathering performance with soaps or creams. The Duke handle design is considered a true classic, known for its balanced proportions and comfortable grip. Available in three sizes, the Sovereign Synthetic version provides quick drying, reliable daily use, and a smooth, controlled face feel. Each brush carries the traditional Simpsons front label stating Hand Made in Great Britain, reflecting the brand’s longstanding craftsmanship. Key Features: Filled with Sovereign Grade synthetic fibre Iconic faux ivory Duke handle Soft tips with supportive backbone for controlled face lathering Creates rich, creamy lather with soaps or creams Quick drying and durable for daily use Handcrafted in Britain, featuring the Hand Made in Great Britain label Specifications: Duke 1 Sovereign Synthetic: Overall brush height: 82mm Handle height: 39mm Knot loft: 43mm Knot diameter: 20mm Weight: 45g Duke 2 Sovereign Synthetic: Overall brush height: 95mm Handle height: 47mm Knot loft: 48mm Knot diameter: 23mm Weight: 65g Duke 3 Sovereign Synthetic: Overall brush height: 95mm Handle height: 47mm Knot loft: 48mm Knot diameter: 23mm Weight: 65g For related shaving brush options, browse the Shaving Brushes collection.",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-sovereign-synthetic",
-        "price": "£40.95",
+        "price": "£45.25",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-1-sov-front.jpg?v=1788539169",
@@ -38058,7 +38058,7 @@
             "title": "Simpsons 'The Duke' Sovereign Synthetic Shaving Brush - Duke 1 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-sovereign-synthetic?variant=56363185537289",
             "price": "45.25 GBP",
-            "sale_price": "40.95 GBP",
+            "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-1-sov-front.jpg?v=1788539169",
             "options": {
@@ -38073,7 +38073,7 @@
             "title": "Simpsons 'The Duke' Sovereign Synthetic Shaving Brush - Duke 2 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-sovereign-synthetic?variant=56363185570057",
             "price": "48.25 GBP",
-            "sale_price": "43.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-2-sov-front-mgs-lossless.webp?v=1788531080",
             "options": {
@@ -38107,7 +38107,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G1Pure-Front.png?v=1788531078",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -38128,7 +38128,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-eagle-pure-badger-shaving-brush?variant=56363187405065",
             "price": "72.20 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/G1Pure-Front.png?v=1788531078",
             "options": {
               "Size": "Eagle Pure 1"
@@ -38538,7 +38538,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
         "description": "The Simpsons Major is a travel shaving brush with a screw-in handle that also works as a protective storage tube. It is designed for wet shavers who want a compact badger brush for travel without carrying a separate brush case. The brush is available in Best Badger or Super Badger, depending on the selected variant. Once assembled, it can be used with shaving soap or shaving cream to build lather in the usual way. For related options, browse Simpsons shaving brushes, travel shaving brushes and badger shaving brushes. You can also compare the Simpsons Rover Sovereign Synthetic Shaving Brush. Key Features Travel shaving brush: Handle converts into a protective tube. Badger hair options: Available in Best Badger or Super Badger variants. Compact design: Made for shaving kits, travel bags and regular travel use. Soap and cream use: Suitable for lathering shaving soap or shaving cream. Specifications Brush Type: Travel badger shaving brush Hair Grade: Best Badger or Super Badger, depending on variant Overall Height: 116mm assembled Handle Height: 78mm Knot Loft: 38mm Knot Diameter: 17mm Weight: 82g",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-major-best-or-super-silvertip-badger-travel-shaving-brush",
-        "price": "£105.95",
+        "price": "£109.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1788539196",
@@ -38563,7 +38563,7 @@
             "title": "Simpsons 'The Major' Travel Shaving Brush - Best Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-major-best-or-super-silvertip-badger-travel-shaving-brush?variant=56363187962121",
             "price": "109.95 GBP",
-            "sale_price": "105.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1788539196",
             "options": {
@@ -38964,8 +38964,8 @@
             "title": "Simpsons 'The Special' Shaving Brush - Pure Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-the-special-shaving-brush?variant=56363186192649",
             "price": "30.20 GBP",
-            "sale_price": "28.00 GBP",
-            "availability": "out_of_stock",
+            "sale_price": null,
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S1Pure-Front.png?v=1788539210",
             "options": {
               "Brush Type": "Pure Badger"
@@ -39104,7 +39104,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1788531110",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -39125,7 +39125,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-wee-scot-best-badger-shaving-brush",
             "price": "35.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1788531110",
             "options": {}
           }
@@ -39141,7 +39141,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dripstand.jpg?v=1765402551",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -39162,7 +39162,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-shaving-brush-dripstand?variant=56676755996937",
             "price": "7.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dripstand.jpg?v=1765402551",
             "options": {
               "Colour": "Faux Ivory"
