@@ -2,14 +2,14 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-02",
-    "generated_at": "2026-10-02T08:03:19+00:00",
+    "last_updated": "2026-10-03",
+    "generated_at": "2026-10-03T07:43:46+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [],
-    "product_count": 1036,
-    "variant_count": 1292,
+    "product_count": 1025,
+    "variant_count": 1281,
     "products": [
       {
         "name": "4711 Original After Shave Lotion Splash 100ml",
@@ -15301,79 +15301,6 @@
         ]
       },
       {
-        "name": "Floris Chypress Luxury Hand Wash 250ml",
-        "category": "Hand Soap & Wash > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Liquid Hand Soap",
-        "description": "Floris Chypress Hand Wash is a gentle liquid cleanser formulated with coconut and olive-derived ingredients to effectively clean the hands without drying the skin. The formula produces a soft lather that leaves hands feeling clean, supple, and lightly fragranced. Scented with Chypress, this captivating fragrance opens with bright bergamot, lemon, orange flower, and neroli, followed by a heart of jasmine, rose, osmanthus, and ylang ylang, and settles into a rich base of amber, vanilla, musk, and patchouli. Developed under the direction of Edward Bodenham, Chypress captures understated elegance and modern sophistication. Pair it with Floris Cefiro Hand Wash 250ml and Floris Cefiro Moisturising Bath & Shower Gel 250ml. Key Features: Mild hand wash suitable for daily use Cleanses without stripping natural moisture Infused with the elegant Chypress fragrance Formulated with coconut and olive-based cleansers Presented in a 250ml pump bottle Specifications: Volume: 250ml Skin benefits: Gently cleansing, softening Fragrance profile: Chypre, floral, musky Made in the United Kingdom Floris Chypress Hand Wash combines refined cleansing with a scent designed to express quiet confidence and charisma.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-chypress-hand-wash-250ml",
-        "price": "£32.00",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-chypress-hand-wash-250ml-front.jpg?v=1752607846",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Hand Soap & Wash",
-        "collections": [
-          "Hair & Body",
-          "Floris London",
-          "Bath, Body & Hand Care"
-        ],
-        "variants": [
-          {
-            "id": "55789124256009",
-            "sku": "F59236",
-            "gtin": "886266592363",
-            "mpn": null,
-            "title": "Floris Chypress Luxury Hand Wash 250ml",
-            "url": "https://www.malegroomingsupplies.com/products/floris-chypress-hand-wash-250ml",
-            "price": "32.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-chypress-hand-wash-250ml-front.jpg?v=1752607846",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Floris Elite Aftershave 100ml",
-        "category": "Post Shave > Post-Shave",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
-        "description": "Floris Elite Aftershave is a traditional post-shave splash, combining effective skin toning with the classic Elite fragrance. This green woody scent has lasting appeal, offering a fresh yet grounded finish to your grooming routine. Formulated with witch hazel, a natural astringent, and glycerine to help moisturise, this aftershave calms and refreshes the skin after shaving. It is ideal for those who prefer a bracing, no-fuss finish with a refined scent. Elite was first introduced in 1979 and has become one of the most recognisable fragrances in the Floris collection. The scent opens with bright notes of bergamot, lemon, grapefruit, and cedar leaf, moves into a heart of lavender, bay, and fir balsam, and settles into a base of moss, amber, patchouli, leather, and vetiver. Key Features: Classic aftershave splash with witch hazel Light moisturising effect from glycerine Features the signature Elite fragrance Suitable for post-shave skin toning and scent layering Presented in a 100ml glass bottle Specifications: Volume: 100ml Application: Pat gently onto face and neck after shaving Skin benefits: Tones, cools, lightly hydrates Fragrance family: Woody, green Made in the United Kingdom Finish your shave with a clean, traditional touch. Floris Elite Aftershave delivers a timeless scent and straightforward performance.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-elite-after-shave-100ml",
-        "price": "£70.00",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-elite-aftershave-100ml-front.jpg?v=1752603099",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Post Shave",
-        "collections": [
-          "Post-Shave",
-          "Floris London",
-          "Shaving Essentials",
-          "Shaving Preparations"
-        ],
-        "variants": [
-          {
-            "id": "55789125107977",
-            "sku": "F30964",
-            "gtin": "886266309640",
-            "mpn": null,
-            "title": "Floris Elite Aftershave 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/floris-elite-after-shave-100ml",
-            "price": "70.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-elite-aftershave-100ml-front.jpg?v=1752603099",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Floris Elite Aftershave Balm 100ml",
         "category": "Post Shave > Post-Shave",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
@@ -15411,42 +15338,6 @@
         ]
       },
       {
-        "name": "Floris Elite Deodorant Stick 75ml",
-        "category": "Deodorant > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant > Deodorants",
-        "description": "Floris Elite Deodorant Stick offers lasting freshness with the signature scent of Elite. Designed for daily use, this alcohol and aluminium-free formula helps prevent blocked pores and is gentle enough for sensitive skin. Formulated with vitamin E, it protects and maintains the suppleness of the underarm area while providing light antibacterial coverage. The stick applies smoothly and dries quickly, making it a practical choice for daily grooming. Elite is a well-balanced fragrance that opens with citrus and green notes, including bergamot, grapefruit, and juniper berry, followed by lavender, fir balsam, and bay. The base features moss, patchouli, musk, and leather, offering a scent that is fresh, woody, and unmistakably classic. For related Floris London options, compare Floris Cefiro Deodorant Stick 75ml, or browse the Hair & Body collection. Key Features: Alcohol and aluminium-free formula Lightly scented with the Elite fragrance Contains vitamin E to support skin health Suitable for sensitive skin and daily use Packaged in a 75ml solid stick Specifications: Volume: 75ml Texture: Solid deodorant stick Scent profile: Green, woody, citrus Skin benefits: Non-irritating, protective, breathable Made in the United Kingdom Floris Elite Deodorant Stick delivers clean performance with a refined scent, perfect for those who prefer effective, skin-friendly protection.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-elite-deodorant-stick-75ml",
-        "price": "£32.00",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-elite-deodorant-75ml-front.jpg?v=1752605841",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Deodorant",
-        "collections": [
-          "Hair & Body",
-          "Floris London",
-          "Deodorants & Talcum Powder"
-        ],
-        "variants": [
-          {
-            "id": "55789124976905",
-            "sku": "F30741",
-            "gtin": "886266307417",
-            "mpn": null,
-            "title": "Floris Elite Deodorant Stick 75ml",
-            "url": "https://www.malegroomingsupplies.com/products/floris-elite-deodorant-stick-75ml",
-            "price": "32.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-elite-deodorant-75ml-front.jpg?v=1752605841",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Floris Elite Fragrance Powder 100g",
         "category": "Talc > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care > Body Powder",
@@ -15478,42 +15369,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-elite-fragrance-powder-100g-front.jpg?v=1752605891",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Floris Elite Luxury Single Soap 100g",
-        "category": "Hand Soap & Wash > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bar Soap",
-        "description": "Floris Elite Luxury Soap is a finely milled, vegetable-based bar that delivers a rich, creamy lather and long-lasting fragrance. Enriched with shea butter, it helps moisturise the skin, leaving it soft and lightly scented with the signature Elite fragrance. Each bar is hand-wrapped and pressed using a historic mould first created in the early 1800s. The soap bears the iconic Floris stamp, reflecting a commitment to craftsmanship and tradition. Whether placed beside a traditional basin or modern setup, this soap combines practical grooming with a refined aesthetic. The Elite fragrance opens with bergamot, grapefruit, and cedar leaf, followed by lavender and bay, before settling into a base of moss, amber, and leather. Introduced in 1979, Elite has become a classic in the Floris collection, appreciated for its balanced, woody character. For related Floris London options, compare Floris Cefiro Luxury Single Soap 100g with Floris No.89 Luxury Single Soap 100g, or browse the Hair & Body collection. Key Features: Triple-milled soap with shea butter Long-lasting scent and rich lather Hand-wrapped and pressed using historic moulds Scented with Floris Elite, a woody aromatic blend Suitable for all skin types Specifications: Weight: 100g Texture: Solid soap bar Scent profile: Woody, green, citrus Base: Vegetable-derived with added moisturisers Made in the United Kingdom Crafted for those who value detail and tradition, Floris Elite Soap is a refined essential for daily grooming.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-elite-luxury-single-soap-100g",
-        "price": "£20.00",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-elite-luxury-single-soap-100g-front.jpg?v=1752603397",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Hand Soap & Wash",
-        "collections": [
-          "Hair & Body",
-          "Floris London",
-          "Bath, Body & Hand Care"
-        ],
-        "variants": [
-          {
-            "id": "55789125075209",
-            "sku": "F30234",
-            "gtin": "886266302344",
-            "mpn": null,
-            "title": "Floris Elite Luxury Single Soap 100g",
-            "url": "https://www.malegroomingsupplies.com/products/floris-elite-luxury-single-soap-100g",
-            "price": "20.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-elite-luxury-single-soap-100g-front.jpg?v=1752603397",
             "options": {}
           }
         ]
@@ -15775,42 +15630,6 @@
         ]
       },
       {
-        "name": "Floris No.89 Moisturising Bath & Shower Gel 250ml",
-        "category": "Bath Soap and Shower Gels > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Body Wash",
-        "description": "Floris No.89 Bath & Shower Gel is a mild yet richly foaming cleanser that leaves skin feeling smooth, refreshed, and lightly scented. Enriched with olive oil, this formulation helps maintain the skin’s natural balance while delivering a refined grooming experience. Scented with the signature No.89 fragrance, the blend opens with bergamot, orange, lavender, and neroli, lifted by nutmeg, then deepens into a floral heart of geranium, rose, and ylang ylang. The base rests on cedarwood, vetiver, sandalwood, oakmoss, and musk, making it a classic scent with long-lasting appeal. No.89 was introduced in 1951 and named after the Floris shop at 89 Jermyn Street. It remains one of the house's most iconic fragrances, favoured by Ian Fleming, the creator of James Bond. Pair it with Floris Cefiro Hand Wash 250ml and Floris Cefiro Moisturising Bath & Shower Gel 250ml. Key Features: Gently cleansing, moisturising formula Contains olive oil to support skin hydration Lightly scented with the classic No.89 fragrance Rich lather suitable for bath or shower use Packaged in a 250ml bottle Specifications: Volume: 250ml Skin benefits: Cleansing, softening, hydrating Fragrance profile: Citrus, floral, woody Key ingredients: Olive oil, essential oils Made in the United Kingdom A staple of classic grooming, Floris No.89 Shower Gel brings heritage fragrance to everyday skin care.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-no89-moisturising-bath-shower-gel-250ml",
-        "price": "£32.00",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-bath-and-shower-gel-250ml-front.jpg?v=1752606059",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Bath Soap and Shower Gels",
-        "collections": [
-          "Hair & Body",
-          "Floris London",
-          "Bath, Body & Hand Care"
-        ],
-        "variants": [
-          {
-            "id": "55789124878601",
-            "sku": "F31210",
-            "gtin": "886266312107",
-            "mpn": null,
-            "title": "Floris No.89 Moisturising Bath & Shower Gel 250ml",
-            "url": "https://www.malegroomingsupplies.com/products/floris-no89-moisturising-bath-shower-gel-250ml",
-            "price": "32.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-bath-and-shower-gel-250ml-front.jpg?v=1752606059",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Floris No.89 Shaving Bowl Refill 100g",
         "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
@@ -15843,191 +15662,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-shaving-soap-and-bowl-refill-100g-front.jpg?v=1752608577",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Floris No.89 Shaving Cream 100ml",
-        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
-        "description": "Floris No.89 Shaving Cream is a smooth, luxurious cream formulated with aloe vera and chamomile extract to calm, hydrate, and protect the skin during shaving. Designed for use with or without a brush, it delivers a rich lather for a clean, comfortable shave and an expert finish. This shaving cream is lightly fragranced with the iconic No.89 scent, a refined blend of bergamot, orange, and lavender, accented by nutmeg and floral heart notes of geranium, rose, and ylang ylang. A warm base of sandalwood, cedarwood, vetiver, and musk gives this fragrance its enduring English elegance. Part of the Gentleman Floris range, this cream reflects a commitment to tradition, quality, and impeccable daily grooming, all hallmarks of the Floris legacy. For related Floris London options, compare Floris No.89 Shaving Bowl Refill 100g with Floris No.89 Shaving Soap In A Wooden Bowl 100g, or browse the Shaving Creams collection. Key Features: Cream-based formula with aloe vera and chamomile Can be used with or without a shaving brush Provides a close shave and protects sensitive skin Lightly scented with the classic No.89 fragrance Suitable for daily use Specifications: Volume: 100ml Texture: Smooth shaving cream Skin benefits: Soothing, hydrating, protective Fragrance family: Citrus, floral, woody Made in the United Kingdom Floris No.89 Shaving Cream blends skincare and fragrance into a daily ritual worthy of British grooming heritage.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-no89-shaving-cream-100ml",
-        "price": "£26.95",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-shaving-cream-100ml-front.jpg?v=1752608705",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Cream, Gels & Soaps",
-        "collections": [
-          "Men's Shaving Creams",
-          "Floris London",
-          "Shaving Essentials",
-          "Shaving Preparations"
-        ],
-        "variants": [
-          {
-            "id": "55789123993865",
-            "sku": "F31978",
-            "gtin": "886266319786",
-            "mpn": null,
-            "title": "Floris No.89 Shaving Cream 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/floris-no89-shaving-cream-100ml",
-            "price": "30.00 GBP",
-            "sale_price": "26.95 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-shaving-cream-100ml-front.jpg?v=1752608705",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Floris No.89 Shaving Soap In A Wooden Bowl 100g",
-        "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
-        "description": "Floris No.89 Shaving Soap is a triple-milled formula enriched with shea butter, designed to produce a rich, creamy lather for a smooth and comfortable shave. This shaving soap allows the razor to glide effortlessly across the skin, helping to minimise nicks and irritation. Housed in a reusable wooden shaving bowl crafted from renewable sources, this grooming essential combines traditional form with modern functionality. Lightly fragranced with the signature No.89 scent, it brings both performance and polish to your routine. The fragrance opens with bergamot, orange, lavender, and neroli, warmed by nutmeg, and followed by a heart of geranium, rose, and ylang ylang. The base settles into classic notes of sandalwood, cedarwood, vetiver, musk, and oakmoss. Introduced in 1951, No.89 is steeped in Floris heritage and was famously featured in the film Skyfall, used by Daniel Craig as James Bond. Key Features: Triple-milled shaving soap with moisturising shea butter Creates a rich lather for a clean, comfortable shave Lightly scented with the iconic No.89 fragrance Presented in a handcrafted wooden bowl Bowl made from renewable wood sources Specifications: Weight: 100g Application: Lather with brush and apply to damp skin Skin benefits: Softens, protects, reduces irritation Fragrance family: Citrus, floral, woody Made in the United Kingdom Floris No.89 Shaving Soap is a refined grooming classic, favoured by gentlemen for generations and recognised by Bond himself.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-no89-shaving-soap-wooden-bowl-100g",
-        "price": "£40.00",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-shaving-soap-and-bowl-100g-front.jpg?v=1752608175",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Cream, Gels & Soaps",
-        "collections": [
-          "Shaving Soap",
-          "Floris London",
-          "Shaving Essentials",
-          "Shaving Preparations"
-        ],
-        "variants": [
-          {
-            "id": "55789124092169",
-            "sku": "F31983",
-            "gtin": "886266319830",
-            "mpn": null,
-            "title": "Floris No.89 Shaving Soap In A Wooden Bowl 100g",
-            "url": "https://www.malegroomingsupplies.com/products/floris-no89-shaving-soap-wooden-bowl-100g",
-            "price": "45.00 GBP",
-            "sale_price": "40.00 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-shaving-soap-and-bowl-100g-front.jpg?v=1752608175",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Floris Rose Concentrated Mouthwash 100ml",
-        "category": "Dental Care > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Oral Care > Mouthwash",
-        "description": "Floris Rose Concentrated Mouthwash offers a subtle and refreshing alternative to strong mint-based rinses. Crafted with pure rosewater, this concentrated formula delivers clean breath with a refined floral twist. Just six drops, mixed with warm water, are all you need for a clean finish morning and night. Designed for daily use, each 100ml bottle provides around two months of performance. The frosted glass packaging brings a classic touch to any bathroom shelf. Originally developed as part of the Floris grooming range, this mouthwash reflects a long-standing tradition of precision and care in oral hygiene. For related Floris London options, compare Floris Violet Concentrated Mouthwash 100ml, or browse the Floris London collection. Key Features: Subtle floral rinse made with pure rosewater Just six drops needed per use Lasts up to two months with daily use Freshens breath without harsh menthol Presented in a frosted glass bottle Specifications: Volume: 100ml Usage: Mix six drops with 60ml of warm water Fragrance: Soft floral (rose) Bottle: Glass Made in the United Kingdom Floris Rose Mouthwash is a low-key yet refined addition to any grooming routine, built for those who prefer subtlety over intensity.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-rose-concentrated-mouthwash-100ml",
-        "price": "£30.00",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-rose-mouthwash-100ml-front.jpg?v=1752602979",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Dental Care",
-        "collections": [
-          "Hair & Body",
-          "Floris London",
-          "Dental Care",
-          "Mouthwash"
-        ],
-        "variants": [
-          {
-            "id": "55789125140745",
-            "sku": "F00299",
-            "gtin": "886266002992",
-            "mpn": null,
-            "title": "Floris Rose Concentrated Mouthwash 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/floris-rose-concentrated-mouthwash-100ml",
-            "price": "45.00 GBP",
-            "sale_price": "30.00 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-rose-mouthwash-100ml-front.jpg?v=1752602979",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Floris Santal Aftershave 100ml",
-        "category": "Aftershave > Post-Shave",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
-        "description": "Floris Santal Aftershave is a refreshing post-shave splash that tones the skin and leaves behind a warm, contemporary woody scent. Formulated with witch hazel to tighten pores and glycerine to help moisturise and reduce redness, this aftershave is both effective and refined. The fragrance opens with a burst of bergamot, lemon, green grass, and black pepper, followed by warming notes of clove bud, nutmeg, lavender, and green cardamom. The base is rich with sandalwood, cedarwood, patchouli, vetiver, frankincense, musk, and vanilla, delivering a smooth, sensual finish. Santal takes its inspiration from a traditional Floris sandalwood fragrance dating back to the 1800s, updated with a fresh, modern edge. It continues the legacy of sandalwood as a signature note in the Floris archive. Key Features: Post-shave splash with witch hazel and glycerine Calms and tones skin while adding light moisture Features the warm, woody Santal fragrance Packaged in a 100ml glass bottle Ideal for daily grooming Specifications: Volume: 100ml Application: Dab onto hands and apply to face and neck after shaving Skin benefits: Refreshing, toning, lightly hydrating Fragrance profile: Woody, spicy, aromatic Made in the United Kingdom Floris Santal Aftershave is built for men who prefer tradition, performance, and a distinctly modern take on classic sandalwood.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-santal-aftershave-100ml",
-        "price": "£70.00",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-santal-aftershave--100ml-front.jpg?v=1752606561",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Aftershave",
-        "collections": [
-          "Post-Shave",
-          "Floris London",
-          "Fragrances",
-          "Men's Aftershaves"
-        ],
-        "variants": [
-          {
-            "id": "55789124681993",
-            "sku": "F32964",
-            "gtin": "886266329648",
-            "mpn": null,
-            "title": "Floris Santal Aftershave 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/floris-santal-aftershave-100ml",
-            "price": "70.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-santal-aftershave--100ml-front.jpg?v=1752606561",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Floris Violet Concentrated Mouthwash 100ml",
-        "category": "Dental Care > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Oral Care > Mouthwash",
-        "description": "Floris Violet Concentrated Mouthwash brings a clean, refined element to your grooming routine. Housed in a traditional glass bottle, this concentrated formula provides long-lasting freshness in a few simple drops. Just six drops, diluted in warm water, deliver a subtle violet aroma that freshens breath without overpowering. Designed for efficiency and elegance, one 100ml bottle offers around two months of daily use. This formulation has its roots in early 20th-century British grooming, introduced as part of the Floris oral care range. It represents a modern expression of traditional craftsmanship. For related Floris London options, compare Floris Rose Concentrated Mouthwash 100ml, or browse the Floris London collection. Key Features: Concentrated formula, only six drops needed per rinse Subtle violet scent that feels clean and refined Freshens breath without intensity or aftertaste Each bottle lasts up to two months Presented in a recyclable glass bottle Specifications: Volume: 100ml Usage: Mix six drops with 60ml of warm water Fragrance: Soft floral (violet) Bottle: Glass Made in the United Kingdom A practical, understated addition to any grooming kit, Floris Violet Mouthwash combines tradition with everyday performance.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-violet-concentrated-mouthwash-100ml",
-        "price": "£29.95",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-violet-mouthwash-100ml-front.jpg?v=1752602884",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Dental Care",
-        "collections": [
-          "Hair & Body",
-          "Floris London",
-          "Dental Care",
-          "Mouthwash"
-        ],
-        "variants": [
-          {
-            "id": "55789125173513",
-            "sku": "F00290",
-            "gtin": "886266002909",
-            "mpn": null,
-            "title": "Floris Violet Concentrated Mouthwash 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/floris-violet-concentrated-mouthwash-100ml",
-            "price": "45.00 GBP",
-            "sale_price": "29.95 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-violet-mouthwash-100ml-front.jpg?v=1752602884",
             "options": {}
           }
         ]
@@ -41077,43 +40711,6 @@
         ]
       },
       {
-        "name": "The Bluebeards Revenge Classic Blend Eau De Toilette 100ml",
-        "category": "Fragrances > The Bluebeards Revenge",
-        "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux De Toilette",
-        "description": "The Bluebeards Revenge Classic Blend Eau De Toilette is a 100ml men's fragrance with a clean, barbershop-style fougere character. It opens with bergamot and lime, moves into lavender and botanical notes, then settles into patchouli, amber and musk. The scent is fresh rather than heavy, making it suitable for regular daytime wear. Apply lightly to pulse points after washing or shaving. For related options, browse The Bluebeards Revenge, compare more men's eau de toilette, or see the wider fragrance collection. Key Features Eau de toilette: 100ml spray fragrance. Classic Blend scent: Bergamot, lime, lavender, patchouli, amber and musk. Barbershop-style profile: Clean fougere character for everyday wear. Made in the UK: Blended and bottled in the UK. Flammable item: Hazardous goods shipping applies. Specifications Size: 100ml Format: Eau de toilette spray Fragrance Notes: Bergamot, lime, lavender, patchouli, amber and musk Made In: UK Shipping Note: Flammable item: hazardous goods shipping applies.",
-        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-classic-blend-eau-de-toilette-100ml",
-        "price": "£23.95",
-        "brand": "The Bluebeards Revenge",
-        "vendor": "The Bluebeards Revenge",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Bluebeards-Revenge-Classic-Blend-EDT.jpg?v=1735926053",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Fragrances",
-        "collections": [
-          "The Bluebeards Revenge",
-          "Hair & Body",
-          "Fragrances",
-          "Men's Eau de Toilette"
-        ],
-        "variants": [
-          {
-            "id": "48936181334281",
-            "sku": "BBREDTCLASS100",
-            "gtin": "5060297002434",
-            "mpn": null,
-            "title": "The Bluebeards Revenge Classic Blend Eau De Toilette 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-classic-blend-eau-de-toilette-100ml",
-            "price": "29.99 GBP",
-            "sale_price": "23.95 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Bluebeards-Revenge-Classic-Blend-EDT.jpg?v=1735926053",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "The Bluebeards Revenge Classic Solid Shampoo Bar 50g",
         "category": "Shampoo & Conditioner > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo",
@@ -41332,7 +40929,7 @@
         ]
       },
       {
-        "name": "The Bluebeards Revenge Shaving Solution 150ml",
+        "name": "The Bluebeards Revenge Shaving Solution 150ml (Legacy stock)",
         "category": "Shaving Cream, Gels & Soaps > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
         "description": "The Bluebeards Revenge Shaving Solution offers a rich, traditional shaving lather without needing a brush or bowl, perfect for home or travel. Its aloe vera-infused formula protects skin from dryness, irritation, and post-shave redness, while menthol delivers a refreshing, cooling sensation. Finished with The Bluebeards Revenge Original scent, it leaves skin smooth, hydrated, and smelling great. Key Features: Quick-lather formula for effortless application. Aloe vera extract to soothe and hydrate skin. Menthol for a refreshing, cooling effect. Original scent: a masculine blend of Madagascan vanilla, sandalwood, and patchouli. Compact and perfect for travel or barbershop use. Directions for Use: Apply a small amount to damp skin, massage gently to create a lather, shave as usual, and rinse thoroughly.",
@@ -41357,7 +40954,7 @@
             "sku": "BBRSHVSOL150",
             "gtin": "5060297002618",
             "mpn": null,
-            "title": "The Bluebeards Revenge Shaving Solution 150ml",
+            "title": "The Bluebeards Revenge Shaving Solution 150ml (Legacy stock)",
             "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-shaving-solution-150ml",
             "price": "11.95 GBP",
             "sale_price": "7.95 GBP",
@@ -42311,7 +41908,7 @@
         "brand": "Wilkinson Sword",
         "vendor": "Wilkinson Sword",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/wilkinson-sword-double-edge-razor-blades-403983.jpg?v=1723969861",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42331,7 +41928,7 @@
             "url": "https://www.malegroomingsupplies.com/products/wilkinson-sword-double-edge-razor-blades?variant=49073935679753",
             "price": "1.50 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/wilkinson-sword-double-edge-razor-blades-403983.jpg?v=1723969861",
             "options": {
               "Pack Size": "Pack of 5"

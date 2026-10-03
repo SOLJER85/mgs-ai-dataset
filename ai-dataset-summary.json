@@ -2,18 +2,18 @@
   "api_version": "2026-07",
   "category_counts": {
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body": 2,
-    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bar Soap": 31,
+    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bar Soap": 30,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Additives": 11,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Brushes": 4,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Sponges & Loofahs": 1,
-    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Body Wash": 20,
+    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Body Wash": 19,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Hand Sanitizers & Wipes": 2,
-    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Liquid Hand Soap": 4,
+    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Liquid Hand Soap": 3,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body Gift Sets": 8,
     "Health & Beauty > Personal Care > Cosmetics > Cosmetic Sets": 1,
     "Health & Beauty > Personal Care > Cosmetics > Cosmetic Tools > Nail Tools > Manicure Tool Sets": 2,
     "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Colognes": 38,
-    "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux De Toilette": 20,
+    "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux De Toilette": 19,
     "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum": 25,
     "Health & Beauty > Personal Care > Cosmetics > Skin Care": 1,
     "Health & Beauty > Personal Care > Cosmetics > Skin Care > Body Oil": 2,
@@ -30,7 +30,7 @@
     "Health & Beauty > Personal Care > Cosmetics > Skin Care > Toners & Astringents > Toners": 9,
     "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant": 2,
     "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant > Anti-Perspirant": 1,
-    "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant > Deodorants": 9,
+    "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant > Deodorants": 8,
     "Health & Beauty > Personal Care > Hair Care": 21,
     "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care": 3,
     "Health & Beauty > Personal Care > Hair Care > Hair Color": 4,
@@ -43,12 +43,12 @@
     "Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes > Hairbrushes & Combs": 1,
     "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners": 9,
     "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo": 25,
-    "Health & Beauty > Personal Care > Oral Care > Mouthwash": 6,
+    "Health & Beauty > Personal Care > Oral Care > Mouthwash": 4,
     "Health & Beauty > Personal Care > Oral Care > Toothbrushes > Manual Toothbrushes": 4,
     "Health & Beauty > Personal Care > Oral Care > Toothpaste": 20,
     "Health & Beauty > Personal Care > Personal Care Gift Sets & Kits": 2,
     "Health & Beauty > Personal Care > Shaving & Grooming": 60,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave": 78,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave": 76,
     "Health & Beauty > Personal Care > Shaving & Grooming > Beard Balms": 3,
     "Health & Beauty > Personal Care > Shaving & Grooming > Beard Combs & Brushes": 1,
     "Health & Beauty > Personal Care > Shaving & Grooming > Beard Conditioner": 6,
@@ -65,7 +65,7 @@
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Straight Razors": 3,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Bowls & Mugs": 17,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes": 196,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams": 126,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams": 124,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Kits": 32,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Soap": 15,
     "Health & Beauty > Personal Care > Shaving & Grooming > Styptic Pencils": 3,
@@ -80,12 +80,12 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-10-02T08:03:19+00:00",
+  "generated_at": "2026-10-03T07:43:46+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1036,
+  "included_products": 1025,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 330,
+  "skipped_products": 341,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15674960380169",
@@ -212,11 +212,11 @@
   "source_products": 1366,
   "validation": {
     "availability_counts": {
-      "in_stock": 924,
-      "out_of_stock": 368
+      "in_stock": 925,
+      "out_of_stock": 356
     },
     "checkout_eligibility_counts": {
-      "false": 1292
+      "false": 1281
     },
     "duplicate_item_id_count": 0,
     "duplicate_offer_id_count": 0,
@@ -239,8 +239,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1292,
-    "rows_with_gtin": 1222,
+    "row_count": 1281,
+    "rows_with_gtin": 1211,
     "rows_with_mpn": 0,
     "schema_errors": [],
     "target_country_count": 0,
