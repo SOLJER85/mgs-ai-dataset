@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-04",
-    "generated_at": "2026-10-04T07:53:26+00:00",
+    "last_updated": "2026-10-05",
+    "generated_at": "2026-10-05T08:32:38+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -16541,7 +16541,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16562,7 +16562,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-double-edge-safety-razor-aircraft-aluminium?variant=45376842924297",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
             "options": {
               "Blade Gap & Exposure": "Mild Aggression"
