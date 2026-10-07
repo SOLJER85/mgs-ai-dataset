@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-06",
-    "generated_at": "2026-10-06T08:40:58+00:00",
+    "last_updated": "2026-10-07",
+    "generated_at": "2026-10-07T08:15:42+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -3882,7 +3882,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389747",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3903,7 +3903,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lime-aftershave-balm-150ml",
             "price": "33.75 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389747",
             "options": {}
           }
@@ -3919,7 +3919,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389759",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3940,7 +3940,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lime-shaving-cream-200ml",
             "price": "26.75 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389759",
             "options": {}
           }
@@ -5930,7 +5930,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1766-Almond_Oil_100_4_JPEG---Copy.jpg?v=1757163322",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5951,7 +5951,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-almond-oil-100ml",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1766-Almond_Oil_100_4_JPEG---Copy.jpg?v=1757163322",
             "options": {}
           }
@@ -6005,7 +6005,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1628-Almond_Soap_Bath_3_600p.jpg?v=1778267735",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6026,7 +6026,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-oil-bath-soap-150g",
             "price": "14.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1628-Almond_Soap_Bath_3_600p.jpg?v=1778267735",
             "options": {}
           }
@@ -6042,7 +6042,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Almond-hand-wash-JPEG.jpg?v=1757161745",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6062,7 +6062,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-oil-hand-wash",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Almond-hand-wash-JPEG.jpg?v=1757161745",
             "options": {}
           }
@@ -6185,7 +6185,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shaving-cream-75ml-tube-usb-JPEG_clipped_rev_1.jpg?v=1778107505",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6206,7 +6206,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-shaving-cream-tube-75g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shaving-cream-75ml-tube-usb-JPEG_clipped_rev_1.jpg?v=1778107505",
             "options": {}
           }
@@ -6334,7 +6334,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shave-stick-JPEG_clipped_rev_1.jpg?v=1778178537",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6355,7 +6355,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-shaving-stick-40g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shave-stick-JPEG_clipped_rev_1.jpg?v=1778178537",
             "options": {}
           }
@@ -6477,7 +6477,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757190457",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6499,7 +6499,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-aftershave-milk?variant=55897924305161",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757190457",
             "options": {
               "Volume": "100ml"
@@ -6792,7 +6792,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-cologne?variant=55897925419273",
             "price": "63.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-cologne-100ml-USB-800_clipped_rev_1.jpg?v=1757188281",
             "options": {
               "Volume": "100ml"
@@ -6986,7 +6986,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-pre-shaveJPEG.jpg?v=1757169217",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7007,7 +7007,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-pre-shave-lotion?variant=55897931153673",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-pre-shaveJPEG.jpg?v=1757169217",
             "options": {
               "Volume": "100ml"
@@ -7055,7 +7055,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-roll-on-usb-JPEG.jpg?v=1757188350",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7075,7 +7075,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-roll-on-deodorant",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-roll-on-usb-JPEG.jpg?v=1757188350",
             "options": {}
           }
@@ -7164,7 +7164,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shaving-cream-tub-JPEG.jpg?v=1757181709",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7185,7 +7185,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-cream-bowl-150g",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shaving-cream-tub-JPEG.jpg?v=1757181709",
             "options": {}
           }
@@ -7385,7 +7385,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-stick-deodorantJPEG-600x600_jpg.webp?v=1769440276",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7405,7 +7405,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-stick-deodorant-75g",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-stick-deodorantJPEG-600x600_jpg.webp?v=1769440276",
             "options": {}
           }
@@ -7703,7 +7703,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/coconut-shampoo-100ml-usb-JPEG.jpg?v=1757191584",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7723,7 +7723,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-coconut-oil-shampoo?variant=55897924108553",
             "price": "12.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/coconut-shampoo-100ml-usb-JPEG.jpg?v=1757191584",
             "options": {
               "Volume": "100ml"
@@ -7738,7 +7738,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-coconut-oil-shampoo?variant=55897924141321",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/coconut-shampoo-100ml-usb-JPEG.jpg?v=1757191584",
             "options": {
               "Volume": "250ml"
@@ -8870,7 +8870,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shave-stick-JPEG.jpg?v=1757170788",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8891,7 +8891,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-stick-40g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shave-stick-JPEG.jpg?v=1757170788",
             "options": {}
           }
@@ -9109,7 +9109,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-lemon-shampoo?variant=55897931251977",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lemon-shampoo-250ml-JPEG_clipped_rev_1.jpg?v=1757168502",
             "options": {
               "Volume": "250ml"
@@ -9674,7 +9674,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shave-stick-JPEG.jpg?v=1757188390",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9695,7 +9695,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-stick",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shave-stick-JPEG.jpg?v=1757188390",
             "options": {}
           }
@@ -10108,7 +10108,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Ginger-and-Lemon-SoapJPEG.jpg?v=1778107122",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10128,7 +10128,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-naturals-ginger-lemon-soap-200g",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Ginger-and-Lemon-SoapJPEG.jpg?v=1778107122",
             "options": {}
           }
@@ -15750,7 +15750,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-timor-black-leather-roll-up-razor-case-400847.jpg?v=1723969825",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -15771,7 +15771,7 @@
             "url": "https://www.malegroomingsupplies.com/products/gf-timor-black-leather-roll-up-razor-case",
             "price": "43.75 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-timor-black-leather-roll-up-razor-case-400847.jpg?v=1723969825",
             "options": {}
           }
@@ -15898,7 +15898,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Timor_Rasierklinge_Dispenser_001_800x800_clipped_rev_1.jpg?v=1759056133",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -15918,7 +15918,7 @@
             "url": "https://www.malegroomingsupplies.com/products/g-and-f-timor-razor-blades?variant=56235623809289",
             "price": "3.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Timor_Rasierklinge_Dispenser_001_800x800_clipped_rev_1.jpg?v=1759056133",
             "options": {
               "Quantity": "Pack of 10"
@@ -15933,7 +15933,7 @@
             "url": "https://www.malegroomingsupplies.com/products/g-and-f-timor-razor-blades?variant=56235623776521",
             "price": "53.85 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-klingenbox-02_1920x1920_clipped_rev_1.jpg?v=1759056133",
             "options": {
               "Quantity": "Box of 200"
@@ -16062,7 +16062,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-timor-safety-razor-1920-with-short-stainless-steel-handle-80mm-825778.jpg?v=1723969777",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16083,7 +16083,7 @@
             "url": "https://www.malegroomingsupplies.com/products/gf-timor-safety-razor-1920-short-stainless-steel-handle-80mm-1351",
             "price": "47.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-timor-safety-razor-1920-with-short-stainless-steel-handle-80mm-825778.jpg?v=1723969777",
             "options": {}
           }
@@ -16247,7 +16247,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1445_Unisex_Universalhalterung_20_025_1920x1920_clipped_rev_2.jpg?v=1765313328",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16268,7 +16268,7 @@
             "url": "https://www.malegroomingsupplies.com/products/gf-timor-universal-holder",
             "price": "15.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/1445_Unisex_Universalhalterung_20_025_1920x1920_clipped_rev_2.jpg?v=1765313328",
             "options": {}
           }
@@ -25839,7 +25839,7 @@
         "brand": "Omega",
         "vendor": "Omega",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-s-brush-yellow-synthetic-shaving-brush-s10018-791210.jpg?v=1744055197",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -25860,7 +25860,7 @@
             "url": "https://www.malegroomingsupplies.com/products/omega-s-brush-yellow-synthetic-shaving-brush-s10018",
             "price": "6.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-s-brush-yellow-synthetic-shaving-brush-s10018-791210.jpg?v=1744055197",
             "options": {}
           }
@@ -33541,7 +33541,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/red-black-strop-paste-861784.jpg?v=1723326040",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -33562,7 +33562,7 @@
             "url": "https://www.malegroomingsupplies.com/products/red-black-strop-paste",
             "price": "10.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/red-black-strop-paste-861784.jpg?v=1723326040",
             "options": {}
           }
@@ -41424,7 +41424,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-black-gun-metal-chrome-butterfly-safety-razor-642579.jpg?v=1727091233",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41445,7 +41445,7 @@
             "url": "https://www.malegroomingsupplies.com/products/timor-black-gun-metal-butterfly-safety-razor-1321",
             "price": "31.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-black-gun-metal-chrome-butterfly-safety-razor-642579.jpg?v=1727091233",
             "options": {}
           }
@@ -41461,7 +41461,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-chrome-safety-razor-in-display-case-with-pack-of-blades-724346.jpg?v=1723326042",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41483,7 +41483,7 @@
             "url": "https://www.malegroomingsupplies.com/products/timor-chrome-safety-razor-display-case",
             "price": "30.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-chrome-safety-razor-in-display-case-with-pack-of-blades-724346.jpg?v=1723326042",
             "options": {}
           }
@@ -41499,7 +41499,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-matt-chrome-butterfly-safety-razor-901523.jpg?v=1727091233",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41520,7 +41520,7 @@
             "url": "https://www.malegroomingsupplies.com/products/timor-matt-chrome-butterfly-safety-razor-1320",
             "price": "27.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/timor-matt-chrome-butterfly-safety-razor-901523.jpg?v=1727091233",
             "options": {}
           }
