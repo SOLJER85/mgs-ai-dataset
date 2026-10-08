@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-07",
-    "generated_at": "2026-10-07T08:15:42+00:00",
+    "last_updated": "2026-10-08",
+    "generated_at": "2026-10-08T08:31:56+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -6291,7 +6291,7 @@
         "name": "D.R. Harris Almond Shaving Soap Refill 100g",
         "category": "Shaving Cream, Gels & Soaps > Shaving Soap",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
-        "description": "This high-quality solid shaving soap is triple-milled in the UK to produce a rich, creamy lather that softens the beard and protects the skin during shaving. Lightly fragranced with a classic almond scent, it provides a traditional and luxurious wet shaving experience. Designed to fit D.R. Harris beech, mahogany, and porcelain shaving bowls, this economical refill will last for several months of regular use. For the matching bowl, see D.R. Harris Almond Shaving Cream 75g and D.R. Harris Almond Shaving Mahogany Bowl 100g. Key Features Triple-milled shaving soap for a rich, long-lasting lather Classic almond fragrance for a warm, comforting shave Fits D.R. Harris beech, mahogany, and porcelain shaving bowls Economical option with each soap lasting several months Made in the UK using traditional methods Specifications Size: 100g refill Fragrance: Soft, sweet almond scent Packaging: Wrapped refill with D.R. Harris branding",
+        "description": "This high-quality solid shaving soap is triple-milled in the UK to produce a rich, creamy lather that softens the beard and protects the skin during shaving. Lightly fragranced with a classic almond scent, it provides a traditional and luxurious wet shaving experience. Designed to fit D.R. Harris beech, mahogany, and porcelain shaving bowls, this economical refill will last for several months of regular use. For a matching soap bowl, see the D.R. Harris Almond Shaving Beech Bowl or Almond Shaving Mahogany Bowl 100g. Key Features Triple-milled shaving soap for a rich, long-lasting lather Classic almond fragrance for a warm, comforting shave Fits D.R. Harris beech, mahogany, and porcelain shaving bowls Economical option with each soap lasting several months Made in the UK using traditional methods Specifications Size: 100g refill Fragrance: Soft, sweet almond scent Packaging: Wrapped refill with D.R. Harris branding",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-almond-shaving-soap-refill-100g",
         "price": "£15.00",
         "brand": "D.R. Harris",
@@ -19501,7 +19501,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -19522,7 +19522,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-34c-heavy-duty-safety-razor",
             "price": "36.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-34001-135261.jpg?v=1722957383",
             "options": {}
           }
@@ -21998,7 +21998,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22018,7 +22018,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-super-platinum-razor-blades?variant=48841624617225",
             "price": "6.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
             "options": {
               "Quantity": "Pack of 10"
