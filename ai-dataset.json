@@ -2,14 +2,14 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-08",
-    "generated_at": "2026-10-08T08:31:56+00:00",
+    "last_updated": "2026-10-09",
+    "generated_at": "2026-10-09T08:35:13+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [],
-    "product_count": 1025,
-    "variant_count": 1281,
+    "product_count": 1024,
+    "variant_count": 1280,
     "products": [
       {
         "name": "4711 Original After Shave Lotion Splash 100ml",
@@ -10561,7 +10561,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757187238",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10583,7 +10583,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-aftershave-milk?variant=55897925976329",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757187238",
             "options": {
               "Volume": "100ml Glass Bottle"
@@ -31451,43 +31451,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/926-zoom_clipped_rev_1.jpg?v=1749732962",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Pashana Eau de Quinine with Oil 250ml (Discontinued)",
-        "category": "Hair Lotions, Oils & Tonics > Pashana",
-        "product_category": "Health & Beauty > Personal Care > Hair Care",
-        "description": "Pashana Eau de Quinine with Oil Hair Tonic 250ml combines the classic Eau de Quinine formulation with the added benefit of mineral oil to provide lustre and sheen to dry hair. Infused with a floral aroma of jasmine and lily of the valley, complemented by citrus and vanilla notes, it invigorates the scalp while offering nourishment for dry hair. A timeless choice for maintaining healthy, well-groomed hair. Key Features: Classic Eau de Quinine formulation with added mineral oil. Provides lustre, sheen, and moisture to dry hair. Invigorates the scalp and promotes healthy hair appearance. Floral fragrance with jasmine, lily of the valley, citrus, and vanilla notes. Suitable for dry hair types. Specifications: Size: 250ml Hair Type: Dry Hair Fragrance: Floral and citrus notes with a hint of vanilla",
-        "url": "https://www.malegroomingsupplies.com/products/pashana-eau-de-quinine-with-oil-250ml",
-        "price": "£7.80",
-        "brand": "Pashana",
-        "vendor": "Pashana",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PQWO250_clipped_rev_1.jpg?v=1734547417",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Hair Lotions, Oils & Tonics",
-        "collections": [
-          "Pashana",
-          "Hair & Body",
-          "Hair Lotions, Oils & Tonics",
-          "Hair Growth Products & Scalp Care"
-        ],
-        "variants": [
-          {
-            "id": "48856269619465",
-            "sku": "PQWO250",
-            "gtin": "5034573470927",
-            "mpn": null,
-            "title": "Pashana Eau de Quinine with Oil 250ml (Discontinued)",
-            "url": "https://www.malegroomingsupplies.com/products/pashana-eau-de-quinine-with-oil-250ml",
-            "price": "7.80 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/PQWO250_clipped_rev_1.jpg?v=1734547417",
             "options": {}
           }
         ]

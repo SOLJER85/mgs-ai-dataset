@@ -31,7 +31,7 @@
     "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant": 2,
     "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant > Anti-Perspirant": 1,
     "Health & Beauty > Personal Care > Deodorants & Anti-Perspirant > Deodorants": 8,
-    "Health & Beauty > Personal Care > Hair Care": 21,
+    "Health & Beauty > Personal Care > Hair Care": 20,
     "Health & Beauty > Personal Care > Hair Care > Beard & Moustache Care": 3,
     "Health & Beauty > Personal Care > Hair Care > Hair Color": 4,
     "Health & Beauty > Personal Care > Hair Care > Hair Loss Treatments": 3,
@@ -80,12 +80,12 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-10-08T08:31:56+00:00",
+  "generated_at": "2026-10-09T08:35:13+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1025,
+  "included_products": 1024,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 341,
+  "skipped_products": 342,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15674960380169",
@@ -212,11 +212,11 @@
   "source_products": 1366,
   "validation": {
     "availability_counts": {
-      "in_stock": 905,
+      "in_stock": 904,
       "out_of_stock": 376
     },
     "checkout_eligibility_counts": {
-      "false": 1281
+      "false": 1280
     },
     "duplicate_item_id_count": 0,
     "duplicate_offer_id_count": 0,
@@ -239,8 +239,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1281,
-    "rows_with_gtin": 1211,
+    "row_count": 1280,
+    "rows_with_gtin": 1210,
     "rows_with_mpn": 0,
     "schema_errors": [],
     "target_country_count": 0,
