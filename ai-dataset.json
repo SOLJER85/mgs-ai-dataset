@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-12",
-    "generated_at": "2026-10-12T08:45:46+00:00",
+    "last_updated": "2026-10-13",
+    "generated_at": "2026-10-13T09:04:10+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -7022,7 +7022,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-pre-shave-lotion?variant=55897931088137",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-preshave-plastic-usb-JPEG.jpg?v=1757169236",
             "options": {
               "Volume": "100ml plastic"
@@ -11336,7 +11336,7 @@
         "name": "D.R. Harris Spearmint Toothpaste 75ml",
         "category": "Dental Care > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Oral Care > Toothpaste",
-        "description": "D.R. Harris Spearmint Toothpaste offers a refreshing, fluoride-free option for daily oral care. Lightly flavoured with spearmint and enhanced with aloe vera, this gentle formula helps soothe the gums while providing a clean and invigorating finish. Ideal for those who prefer a natural approach to dental hygiene, it supports fresh breath and a pleasant brushing experience without compromising effectiveness. The classic metal tube reflects D.R. Harris's commitment to both quality and tradition. Pair it with D.R. Harris Soft Bristle Toothbrush and D.R. Harris Earthenware Toothbrush Mug. Key Features: Fluoride-free formula Enriched with soothing aloe vera Refreshing spearmint flavour Gentle on gums and ideal for daily use Elegant, traditional metal tube Specifications: Size: 75ml Packaging: Metal tube with screw cap Made in India For external use only",
+        "description": "D.R. Harris Spearmint Toothpaste is a spearmint-flavoured, fluoride-free toothpaste enhanced with aloe vera. Supplied in a 75ml tube. The spearmint flavour leaves the mouth feeling clean and fresh after brushing. Pair it with D.R. Harris Soft Bristle Toothbrush and D.R. Harris Earthenware Toothbrush Mug. Key Features: Fluoride-free formula Enhanced with aloe vera Refreshing spearmint flavour Elegant, traditional metal tube Specifications: Size: 75ml Packaging: Metal tube with screw cap Made in India For external use only",
         "url": "https://www.malegroomingsupplies.com/products/d-r-harris-spearmint-toothpaste-75ml",
         "price": "£8.50",
         "brand": "D.R. Harris",
@@ -21777,7 +21777,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90004_x_clipped_rev_1.jpg?v=1784923598",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21797,7 +21797,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-34-bright-chrome-long-screw",
             "price": "10.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90004_x_clipped_rev_1.jpg?v=1784923598",
             "options": {}
           }
@@ -21998,7 +21998,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22018,7 +22018,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-super-platinum-razor-blades?variant=48841624617225",
             "price": "6.45 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/405410_Merkur_Super_Platinum_DE-Barberblade_10_stk_clipped_rev_1.jpg?v=1765549250",
             "options": {
               "Quantity": "Pack of 10"
@@ -25224,7 +25224,7 @@
         "brand": "Muhle",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-r89-twist-safety-razor-male-grooming-supplies-118129.jpg?v=1722956220",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -25245,7 +25245,7 @@
             "url": "https://www.malegroomingsupplies.com/products/muhle-r89-twist-safety-razor",
             "price": "44.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-r89-twist-safety-razor-male-grooming-supplies-118129.jpg?v=1722956220",
             "options": {}
           }
@@ -40968,7 +40968,7 @@
         "name": "The Henson Razor Head Cover",
         "category": "Shaving Accessories & Cases > Henson Razors",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Henson Razor Case is a protective travel case designed for the Henson AL13 and Ti22 safety razors. It keeps your razor secure and scratch-free whether at home or on the move. The exterior is made from vegan leather, offering a clean, modern finish with good durability. Inside, the recycled felt lining cushions the razor against knocks and scratches during travel. Magnetic closures provide secure storage with easy one-handed access. The case holds the razor in a three-piece disassembled state, with dedicated slots for the handle and head components. Blade storage is included for carrying spares. A considered choice for those who prefer animal-free materials without compromising on quality or appearance. Compatibility Designed specifically for Henson AL13 and Henson Ti22 razors. Not compatible with other safety razor brands. For related Henson Shaving options, compare The Henson Razor Case, or browse the Henson Shaving collection. Key Features Vegan leather exterior with modern finish Recycled felt lining for scratch protection Magnetic snap closure for secure, easy access Holds razor in disassembled three-piece state Dedicated blade storage compartment Compact design for travel Specifications Product Type: Safety razor travel case Exterior Material: Vegan leather Interior Material: Recycled felt Closure: Magnetic snaps Compatibility: Henson AL13, Henson Ti22 Colour: Grey",
+        "description": "The Henson Razor Head Cover is a genuine leather cover for the head of a Henson AL13 or Ti22 safety razor. It shields the razor head and blade from outside contact during storage or travel. Snap fastenings hold the cover closed while allowing air around the razor head between uses. This is a head cover, not a full razor travel case. Razor and blades are sold separately. Key Features Genuine leather head cover. Snap closures for storage and travel. Allows the razor head to air out between uses. Black or brown leather options. Specifications Product Type: Razor head cover Material: Genuine leather Closure: Snap fastenings Compatibility: Henson AL13 and Ti22 Colours: Black leather or brown leather For a larger storage option, compare The Henson Razor Case, or browse the Henson Shaving collection.",
         "url": "https://www.malegroomingsupplies.com/products/henson-leather-razor-cover-al13-ti22",
         "price": "£16.95",
         "brand": "Henson Shaving",
@@ -43785,7 +43785,7 @@
         "name": "Wibergs Pine Bath Essence",
         "category": "Bath Soap and Shower Gels > Wibergs",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Additives",
-        "description": "Wibergs Pine Bath Essence is a concentrated bath additive with a pine and herbal fragrance. Add a small amount to running bath water to create an aromatic soak after a long day. The formula includes pine needle oil, capsicum and essential oils. The scent combines fresh pine and eucalyptus-style notes with a warm herbal finish. For related bath products, browse Wibergs, compare more bath, body and hand care, or see hair and body. Key Features Bath essence: Concentrated liquid additive for bath water. Pine fragrance: Fresh pine and herbal scent profile. Essential oils: Includes pine needle oil and essential oils. Bath care: Suitable for a relaxing aromatic soak. Specifications Size: 250ml Format: Bath essence Fragrance: Pine and herbal Key Ingredients: Pine needle oil, capsicum and essential oils",
+        "description": "Wibergs Pine Bath Essence is a concentrated bath additive with a pine and herbal fragrance. Add a small amount to running bath water to create an aromatic soak after a long day. The formula includes pine needle oil, capsicum and essential oils. The scent combines fresh pine and eucalyptus-style notes with a warm herbal finish. For related bath products, browse Wibergs, compare more bath, body and hand care, or see hair and body. Key Features Bath essence: Concentrated liquid additive for bath water. Pine fragrance: Fresh pine and herbal scent profile. Essential oils: Includes pine needle oil and essential oils. Bath care: Suitable for a relaxing aromatic soak. Specifications Size Options: Select from the listed bottle sizes Format: Bath essence Fragrance: Pine and herbal Key Ingredients: Pine needle oil, capsicum and essential oils",
         "url": "https://www.malegroomingsupplies.com/products/wibergs-pine-bath-essence-250ml",
         "price": "£15.00",
         "brand": "Wibergs",
