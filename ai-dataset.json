@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-14",
-    "generated_at": "2026-10-14T07:13:40+00:00",
+    "last_updated": "2026-10-15",
+    "generated_at": "2026-10-15T07:05:30+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -7384,7 +7384,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-stick-deodorantJPEG-600x600_jpg.webp?v=1769440276",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7404,7 +7404,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-stick-deodorant-75g",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-stick-deodorantJPEG-600x600_jpg.webp?v=1769440276",
             "options": {}
           }
@@ -16209,7 +16209,7 @@
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-timor-unisex-safety-razor-pure-shaver-with-chrome-plated-brass-handle-80mm-829092.jpg?v=1723969735",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16230,7 +16230,7 @@
             "url": "https://www.malegroomingsupplies.com/products/gf-timor-safety-razor-1352",
             "price": "45.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-timor-unisex-safety-razor-pure-shaver-with-chrome-plated-brass-handle-80mm-829092.jpg?v=1723969735",
             "options": {}
           }
@@ -19420,7 +19420,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur 34 INOX Special Edition 1896 Safety Razor is a stainless steel interpretation of the legendary HD (Heavy Duty) razor, a design celebrated since the 1980s for its reassuring weight, compact form, and consistently smooth shaving performance. This special edition combines the trusted shaving characteristics of the 34 series with premium materials and presentation. Crafted with a short handle and a satin-finished stainless steel construction, the 34 INOX offers excellent balance and control. The straight cut, closed comb head makes it an ideal all-rounder for classic wet shaving, allowing the correct shaving angle to be found naturally. A generous blade gap helps lather and hair rinse away easily, supporting a clean and hygienic shave. Presented as part of the Merkur 1896 Special Edition, the razor is supplied in a leather case with razor blades, all housed within a refined gift box. Designed for durability, performance, and longevity, this edition is suited to both daily shaving and long-term ownership. Designed and made in Germany, the Merkur 34 INOX Special Edition 1896 reflects traditional engineering paired with modern stainless steel precision. Key Features Classic double edge safety razor known as the HD Heavy Duty. Satin-finished stainless steel construction. Short handle for controlled, precise shaving. Closed comb head suitable for a wide range of beard types. Straight cut razor head for smooth, gentle results. Special edition gift set with leather case and razor blades. Designed and made in Germany. Specifications Razor Type: Two-piece safety razor Cut: Straight cut Comb Type: Closed comb Handle Material: Stainless steel (1.4305) Razor Head: Stainless steel 316L (1.4404), top plate and comb Finish: Satin stainless steel Product Dimensions: 81 × 43 × 25 mm Product Weight: 79 g Weight With Packaging: 225 g Packaging: Cardboard gift box Packaging Size: 155 × 148 × 30 mm Included: Leather razor case and razor blades Country of Manufacture: Germany Care Stainless steel still benefits from regular cleaning. After shaving, rinse the razor thoroughly with warm water. Carefully remove the blade to clear residue and let the razor dry before putting it back in its case. For weekly cleaning, use mild soap and a soft brush on the head and thread, then rinse and dry thoroughly. For related Merkur options, compare Merkur 23 INOX Stainless Steel Safety Razor with Merkur 34C SG/650 Limited Edition Safety Razor Set, or browse the Merkur Solingen collection. For compatible blades, see Merkur Super Platinum Razor Blades or browse double edge razor blades. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-34-inox-special-edition-1896-safety-razor",
-        "price": "£128.95",
+        "price": "£125.00",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34106_top_x_clipped_rev_1.jpg?v=1766005587",
@@ -19445,7 +19445,7 @@
             "title": "Merkur 34 INOX Special Edition 1896 Stainless Steel Safety Razor",
             "url": "https://www.malegroomingsupplies.com/products/merkur-34-inox-special-edition-1896-safety-razor",
             "price": "128.95 GBP",
-            "sale_price": null,
+            "sale_price": "125.00 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34106_top_x_clipped_rev_1.jpg?v=1766005587",
             "options": {}
@@ -20440,7 +20440,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur Classic 1904 Closed Comb Double Edge Safety Razor 42 001 is a three-piece safety razor with a bright chrome finish and vintage-inspired handle. The closed comb head gives a controlled shave for regular wet shaving. The razor uses standard double edge razor blades. Its stated product weight is 67g, with dimensions of 80mm x 41mm x 25mm. For related products, browse Merkur Solingen, compare more double edge safety razors, or see razor blades. Key Features Double edge safety razor: Three-piece razor for standard DE blades. Closed comb head: Controlled head style for regular shaving. Bright chrome finish: Classic Merkur finish. 1904 design: Vintage-inspired handle pattern. Specifications Razor Type: Double edge safety razor Head Type: Closed comb Blade Compatibility: Standard double edge razor blades Weight: 67g razor, 79g with packaging Dimensions: 80mm x 41mm x 25mm",
         "url": "https://www.malegroomingsupplies.com/products/merkur-classic-1904-razor-42-001",
-        "price": "£23.40",
+        "price": "£22.95",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-classic-1904-razor-42-001-749267.jpg?v=1722957185",
@@ -20464,7 +20464,7 @@
             "title": "Merkur Classic 1904 Closed Comb Double Edge Safety Razor 42 001",
             "url": "https://www.malegroomingsupplies.com/products/merkur-classic-1904-razor-42-001",
             "price": "23.40 GBP",
-            "sale_price": null,
+            "sale_price": "22.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-classic-1904-razor-42-001-749267.jpg?v=1722957185",
             "options": {}
@@ -20552,7 +20552,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur 46C travel safety razor set pairs a German-made double edge razor with a black leather case and 10 Merkur Super blades. Its handle separates into two sections, allowing the razor to pack into the case for compact storage between shaves. The bright chrome and matt chrome razor uses standard double edge blades. The set includes a leather case and 10 Merkur Super blades, making it useful for travel or a compact shaving kit. For related options, browse Merkur Solingen, travel razors, or double edge safety razors. Key Features Travel safety razor: Three-piece razor that packs into a compact case. Double edge format: Uses standard double edge razor blades. Leather case: Black cow leather case for storage. Blade pack included: Supplied with 10 Merkur Super blades. Made in Germany: Manufactured by Merkur Solingen. Specifications Model: Merkur 46C, reference 46002 Razor Type: Three-piece double edge travel razor Blade Compatibility: Standard double edge blades Finish: Bright chrome-plated and matt chrome Weight: 45g / 108g with packaging Dimensions: 85mm x 41mm x 25mm Included: Leather case and 10 Merkur Super blades Made In: Germany",
         "url": "https://www.malegroomingsupplies.com/products/merkur-travel-razor-in-leather-case-46002",
-        "price": "£56.95",
+        "price": "£55.00",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-travel-razor-46002-364349.jpg?v=1722957604",
@@ -20577,7 +20577,7 @@
             "title": "Merkur Compact Three-Piece Travel Razor Set",
             "url": "https://www.malegroomingsupplies.com/products/merkur-travel-razor-in-leather-case-46002",
             "price": "56.95 GBP",
-            "sale_price": null,
+            "sale_price": "55.00 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-travel-razor-46002-364349.jpg?v=1722957604",
             "options": {}
@@ -21289,7 +21289,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Merkur Progress 510 Long Handle Adjustable Double Edge Safety Razor is a two-piece adjustable safety razor with a bright chrome-plated finish and ivory-coloured adjustment dial. The longer handle gives extra reach compared with the shorter Merkur Progress models. The adjustable blade gap allows the shave feel to be changed for lighter daily shaving or heavier beard growth. It uses standard double edge razor blades and suits users who want more control than a fixed-head safety razor. Choose the 510 when you want a longer handle with an adjustable blade gap. Compare the Progress 500 short-handle model or the heavier FUTUR with Duo Clip cap. Browse adjustable double edge safety razors for other designs. Key Features Adjustable safety razor: Change the blade gap to suit beard growth and preference. Long handle design: Extra handle length for reach and grip. Two-piece construction: Simple blade loading and cleaning. Double edge format: Uses standard double edge razor blades. Made in Germany: Merkur Progress razor made in Solingen. Specifications Razor Type: Adjustable double edge safety razor Blade Compatibility: Standard double edge razor blades Construction: Two-piece Finish: Bright chrome-plated Product Dimensions: 104 x 41 x 25mm Product Weight: 103g Packaging: Merkur presentation box Packaging Size: 132 x 52 x 27mm Weight With Packaging: 118g Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-progress-long-handle-razor-510001",
-        "price": "£55.95",
+        "price": "£55.00",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-progress-long-handle-razor-510001-338006.jpg?v=1722957557",
@@ -21314,7 +21314,7 @@
             "title": "Merkur Progress 510 Long Handle Adjustable Double Edge Safety Razor",
             "url": "https://www.malegroomingsupplies.com/products/merkur-progress-long-handle-razor-510001",
             "price": "55.95 GBP",
-            "sale_price": null,
+            "sale_price": "55.00 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-progress-long-handle-razor-510001-338006.jpg?v=1722957557",
             "options": {}
@@ -21442,7 +21442,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Merkur 39C slant safety razor combines a long barber pole handle with a heavyweight, two-piece design. Made in Germany with a bright chrome finish, it is intended for wiry, dense beard growth. Unlike a straight-bar safety razor, its slant head twists the blade along its length, holding it rigid at an angled cutting edge. The ribbed handle provides grip, while the closed head allows lather to flow through. Key Features Slant bar head: An angled blade presentation for dense beard growth. Barber pole handle: Ribbed grip with a substantial feel in the hand. Two-piece construction: Remove the cap to replace the blade. Standard DE blades: Uses widely available double-edge razor blades. Bright chrome finish: Chrome-plated brass handle and zinc head. Specifications Model: Merkur 39C, reference 39001 Head: Closed-comb slant bar Construction: Two-piece safety razor Materials: Brass handle and die-cast zinc head, chrome-plated Dimensions: 100 x 41 x 25mm Razor weight: 113g Country of manufacture: Germany Pair the 39C with standard double-edge razor blades, including Merkur Super Platinum blades when available. Prefer an adjustable razor? Compare the Merkur Progress 500 and long-handle Progress 510. Explore our Merkur safety razors or read the Merkur razor comparison guide before choosing your next razor.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-barber-pole-slant-safety-razor-39c",
-        "price": "£46.95",
+        "price": "£42.95",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-barber-pole-slanted-razor-39001-548918.jpg?v=1722957367",
@@ -21466,7 +21466,7 @@
             "title": "Merkur Razor \"Barber Pole\" Slanted Safety Razor 39001",
             "url": "https://www.malegroomingsupplies.com/products/merkur-barber-pole-slant-safety-razor-39c",
             "price": "46.95 GBP",
-            "sale_price": null,
+            "sale_price": "42.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-razor-barber-pole-slanted-razor-39001-548918.jpg?v=1722957367",
             "options": {}
@@ -26024,7 +26024,7 @@
         "brand": "Omega",
         "vendor": "Omega",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-hi-brush-fiber-shaving-brush-carbon-fiber-effect-46650-964676.jpg?v=1744055161",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -26045,7 +26045,7 @@
             "url": "https://www.malegroomingsupplies.com/products/omega-hi-brush-fiber-shaving-brush-carbon-fiber-effect-46650",
             "price": "24.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-hi-brush-fiber-shaving-brush-carbon-fiber-effect-46650-964676.jpg?v=1744055161",
             "options": {}
           }
@@ -36774,7 +36774,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-beaufort-pure-badger-shaving-brush?variant=56363188584713",
             "price": "50.40 GBP",
             "sale_price": "35.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/B2-Front.png?v=1788539133",
             "options": {
               "Size": "95mm - B2 Pure"
