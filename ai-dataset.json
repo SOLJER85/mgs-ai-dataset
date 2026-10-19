@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-18",
-    "generated_at": "2026-10-18T07:01:53+00:00",
+    "last_updated": "2026-10-19",
+    "generated_at": "2026-10-19T07:25:05+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -37520,7 +37520,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D1Pure-Front.png?v=1788531077",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -37541,7 +37541,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-best-or-pure-badger-shaving-brush?variant=56363188027657",
             "price": "72.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D1Pure-Front.png?v=1788531077",
             "options": {
               "Size & Brush Type": "Duke 1 Pure - 85mm"
