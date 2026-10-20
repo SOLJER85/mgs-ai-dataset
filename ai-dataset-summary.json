@@ -3,7 +3,7 @@
   "category_counts": {
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body": 2,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bar Soap": 34,
-    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Additives": 11,
+    "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Additives": 10,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Additives > Bath Salts & Soaks": 1,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Brushes": 4,
     "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bath Sponges & Loofahs": 1,
@@ -45,7 +45,7 @@
     "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners": 9,
     "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo": 27,
     "Health & Beauty > Personal Care > Oral Care > Mouthwash": 4,
-    "Health & Beauty > Personal Care > Oral Care > Toothbrushes > Manual Toothbrushes": 4,
+    "Health & Beauty > Personal Care > Oral Care > Toothbrushes > Manual Toothbrushes": 2,
     "Health & Beauty > Personal Care > Oral Care > Toothpaste": 20,
     "Health & Beauty > Personal Care > Personal Care Gift Sets & Kits": 8,
     "Health & Beauty > Personal Care > Shaving & Grooming": 60,
@@ -81,12 +81,12 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-10-19T07:25:05+00:00",
+  "generated_at": "2026-10-20T07:16:05+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1080,
+  "included_products": 1078,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 342,
+  "skipped_products": 341,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15674960380169",
@@ -210,14 +210,14 @@
     }
   ],
   "social_catalog_feed": "social-catalog-feed.csv",
-  "source_products": 1422,
+  "source_products": 1419,
   "validation": {
     "availability_counts": {
-      "in_stock": 967,
-      "out_of_stock": 369
+      "in_stock": 988,
+      "out_of_stock": 345
     },
     "checkout_eligibility_counts": {
-      "false": 1336
+      "false": 1333
     },
     "duplicate_item_id_count": 0,
     "duplicate_offer_id_count": 0,
@@ -240,8 +240,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1336,
-    "rows_with_gtin": 1266,
+    "row_count": 1333,
+    "rows_with_gtin": 1263,
     "rows_with_mpn": 0,
     "schema_errors": [],
     "target_country_count": 0,

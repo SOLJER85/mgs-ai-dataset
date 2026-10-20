@@ -2,14 +2,14 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-19",
-    "generated_at": "2026-10-19T07:25:05+00:00",
+    "last_updated": "2026-10-20",
+    "generated_at": "2026-10-20T07:16:05+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [],
-    "product_count": 1080,
-    "variant_count": 1336,
+    "product_count": 1078,
+    "variant_count": 1333,
     "products": [
       {
         "name": "4711 Original After Shave Lotion Splash 100ml",
@@ -5894,28 +5894,13 @@
             "gtin": "5060242622779",
             "mpn": null,
             "title": "D.R. Harris Albany Bath Essence - 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/dr-harris-albany-bath-essence?variant=57040551575817",
+            "url": "https://www.malegroomingsupplies.com/products/dr-harris-albany-bath-essence",
             "price": "35.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/albany-bath-oil-JPEG_clipped_rev_1.jpg?v=1778108732",
             "options": {
               "Volume": "100ml"
-            }
-          },
-          {
-            "id": "57040551543049",
-            "sku": "751500",
-            "gtin": "5060242622793",
-            "mpn": null,
-            "title": "D.R. Harris Albany Bath Essence - 500ml",
-            "url": "https://www.malegroomingsupplies.com/products/dr-harris-albany-bath-essence?variant=57040551543049",
-            "price": "95.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/albany-bath-500ml-usb-JPEG-1_clipped_rev_1.jpg?v=1778108732",
-            "options": {
-              "Volume": "500ml"
             }
           }
         ]
@@ -5930,7 +5915,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1766-Almond_Oil_100_4_JPEG---Copy.jpg?v=1757163322",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5951,7 +5936,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-almond-oil-100ml",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1766-Almond_Oil_100_4_JPEG---Copy.jpg?v=1757163322",
             "options": {}
           }
@@ -6004,7 +5989,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1628-Almond_Soap_Bath_3_600p.jpg?v=1778267735",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6025,7 +6010,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-oil-bath-soap-150g",
             "price": "14.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/p-1628-Almond_Soap_Bath_3_600p.jpg?v=1778267735",
             "options": {}
           }
@@ -6041,7 +6026,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Almond-hand-wash-JPEG.jpg?v=1757161745",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6061,7 +6046,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-oil-hand-wash",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Almond-hand-wash-JPEG.jpg?v=1757161745",
             "options": {}
           }
@@ -6184,7 +6169,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shaving-cream-75ml-tube-usb-JPEG_clipped_rev_1.jpg?v=1778107505",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6205,7 +6190,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-shaving-cream-tube-75g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shaving-cream-75ml-tube-usb-JPEG_clipped_rev_1.jpg?v=1778107505",
             "options": {}
           }
@@ -6333,7 +6318,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shave-stick-JPEG_clipped_rev_1.jpg?v=1778178537",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6354,7 +6339,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-shaving-stick-40g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shave-stick-JPEG_clipped_rev_1.jpg?v=1778178537",
             "options": {}
           }
@@ -6403,11 +6388,11 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
         "description": "D.R. Harris Arlington Aftershave is the brand’s classic and best-selling fragrance, created for gentlemen of all ages. This refreshing aftershave blends citrus and fern notes to deliver a light yet stimulating scent suitable for both day and night. With top notes of lemon, bergamot, and orange, rounded out by neroli, rose, and a soft touch of musk, it offers a clean, invigorating finish without being overpowering. Ideal as a post-shave splash, Arlington Aftershave helps tone the skin while leaving a lasting, refined scent. For those with sensitive skin, we recommend trying the Arlington Aftershave Milk as a gentler alternative. Available in 100ml glass or plastic bottles, as well as a large 500ml glass bottle for long-term use. For the same scent, pair it with D.R. Harris Arlington Cologne and D.R. Harris Arlington Pre-Shave Lotion. Key Features: Refreshing blend of citrus and fern Suitable for all skin types Available in multiple bottle options Designed for everyday wear Specifications: Size: 100ml (glass or plastic), 500ml (glass) Fragrance Notes: Lemon, Bergamot, Orange, Neroli, Rose, Musk Packaging: Classic D.R. Harris bottle Made In: England",
         "url": "https://www.malegroomingsupplies.com/products/dr-harris-arlington-aftershave",
-        "price": "£30.00",
+        "price": "£38.00",
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave800x_clipped_rev_1.jpg?v=1757191776",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6427,8 +6412,8 @@
             "title": "D.R. Harris Arlington Aftershave - 100ml",
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-arlington-aftershave?variant=55897924043017",
             "price": "38.00 GBP",
-            "sale_price": "30.00 GBP",
-            "availability": "out_of_stock",
+            "sale_price": null,
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave800x_clipped_rev_1.jpg?v=1757191776",
             "options": {
               "Volume": "100ml"
@@ -6476,7 +6461,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757190457",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -6498,7 +6483,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-aftershave-milk?variant=55897924305161",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-aftershave-milkJPEG_clipped_rev_1.jpg?v=1757190457",
             "options": {
               "Volume": "100ml"
@@ -6791,7 +6776,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-cologne?variant=55897925419273",
             "price": "63.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-cologne-100ml-USB-800_clipped_rev_1.jpg?v=1757188281",
             "options": {
               "Volume": "100ml"
@@ -6985,7 +6970,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-pre-shaveJPEG.jpg?v=1757169217",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7006,7 +6991,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-pre-shave-lotion?variant=55897931153673",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-pre-shaveJPEG.jpg?v=1757169217",
             "options": {
               "Volume": "100ml"
@@ -7054,7 +7039,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-roll-on-usb-JPEG.jpg?v=1757188350",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7074,7 +7059,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-roll-on-deodorant",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-roll-on-usb-JPEG.jpg?v=1757188350",
             "options": {}
           }
@@ -7163,7 +7148,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shaving-cream-tub-JPEG.jpg?v=1757181709",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7184,7 +7169,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-cream-bowl-150g",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shaving-cream-tub-JPEG.jpg?v=1757181709",
             "options": {}
           }
@@ -7702,7 +7687,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/coconut-shampoo-100ml-usb-JPEG.jpg?v=1757191584",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7722,7 +7707,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-coconut-oil-shampoo?variant=55897924108553",
             "price": "12.50 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/coconut-shampoo-100ml-usb-JPEG.jpg?v=1757191584",
             "options": {
               "Volume": "100ml"
@@ -7737,7 +7722,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-coconut-oil-shampoo?variant=55897924141321",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/coconut-shampoo-100ml-usb-JPEG.jpg?v=1757191584",
             "options": {
               "Volume": "250ml"
@@ -8057,7 +8042,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_fc718ef3-c807-4132-b103-02baf3ecb65e_clipped_rev_1.jpg?v=1757160094",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8078,7 +8063,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-eau-de-portugal-hair-lotion-with-oil?variant=55897942229257",
             "price": "24.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_fc718ef3-c807-4132-b103-02baf3ecb65e_clipped_rev_1.jpg?v=1757160094",
             "options": {
               "Volume": "100ml"
@@ -8487,6 +8472,7 @@
         "shipping": "Calculated at checkout",
         "product_type": "Dental Care",
         "collections": [
+          "New Additions",
           "Hair & Body",
           "D.R. Harris",
           "Dental Care",
@@ -8795,7 +8781,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-mahogany-bowlJPEG.jpg?v=1757170933",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8816,7 +8802,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-mahogany-bowl-100g",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-mahogany-bowlJPEG.jpg?v=1757170933",
             "options": {}
           }
@@ -8869,7 +8855,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shave-stick-JPEG.jpg?v=1757170788",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8890,7 +8876,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-stick-40g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shave-stick-JPEG.jpg?v=1757170788",
             "options": {}
           }
@@ -9108,7 +9094,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-lemon-shampoo?variant=55897931251977",
             "price": "21.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lemon-shampoo-250ml-JPEG_clipped_rev_1.jpg?v=1757168502",
             "options": {
               "Volume": "250ml"
@@ -9673,7 +9659,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shave-stick-JPEG.jpg?v=1757188390",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9694,7 +9680,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-stick",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shave-stick-JPEG.jpg?v=1757188390",
             "options": {}
           }
@@ -9766,43 +9752,6 @@
             "options": {
               "Volume": "600ml"
             }
-          }
-        ]
-      },
-      {
-        "name": "D.R. Harris Medium Bristle Toothbrush",
-        "category": "Dental Care > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Oral Care > Toothbrushes > Manual Toothbrushes",
-        "description": "Crafted in Italy, the D.R. Harris Medium Bristle Toothbrush features natural boar bristles specially arranged to enhance cleaning between teeth while offering comfortable brushing. The high-quality plastic handle includes the embossed D. R. Harris logo on the front and signature on the back, combining functionality with heritage style. This medium bristle option is the most popular in the range, offering the ideal balance of firmness and comfort. Each toothbrush is hygienically presented in a reusable plastic travel case, making it perfect for home or travel use. Pair it with D.R. Harris Soft Bristle Toothbrush and D.R. Harris Spearmint Toothpaste 75ml. Key Features: Made with natural boar bristles Medium bristle ideal for everyday use Comfortable ergonomic handle with embossed logo Presented in a plastic travel case Made in Italy Specifications: Bristle Type: Medium Material: Boar bristle, plastic handle Packaging: Plastic travel case Made in: Italy",
-        "url": "https://www.malegroomingsupplies.com/products/d-r-harris-medium-bristle-toothbrush",
-        "price": "£25.00",
-        "brand": "D.R. Harris",
-        "vendor": "D.R. Harris",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Toothbrush-Medium-Bristle-Sq.jpg?v=1752743464",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Dental Care",
-        "collections": [
-          "Hair & Body",
-          "D.R. Harris",
-          "Dental Care",
-          "Toothbrushes & Holders"
-        ],
-        "variants": [
-          {
-            "id": "55897924960521",
-            "sku": "58102",
-            "gtin": "5060242624001",
-            "mpn": null,
-            "title": "D.R. Harris Medium Bristle Toothbrush",
-            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-medium-bristle-toothbrush",
-            "price": "25.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Toothbrush-Medium-Bristle-Sq.jpg?v=1752743464",
-            "options": {}
           }
         ]
       },
@@ -10074,7 +10023,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-naturals-ginger-lemon-moisture-cream?variant=55897925157129",
             "price": "37.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ginger-lemon-moisturiser-100ml-usb-JPEG.jpg?v=1757188438",
             "options": {
               "Options": "100ml Ginger & Lemon"
@@ -10107,7 +10056,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Ginger-and-Lemon-SoapJPEG.jpg?v=1778107122",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10127,7 +10076,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-naturals-ginger-lemon-soap-200g",
             "price": "13.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/New-Ginger-and-Lemon-SoapJPEG.jpg?v=1778107122",
             "options": {}
           }
@@ -10645,7 +10594,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-aftershave800x_clipped_rev_1.jpg?v=1757162121",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10666,7 +10615,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-aftershave?variant=55897938231561",
             "price": "38.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-aftershave800x_clipped_rev_1.jpg?v=1757162121",
             "options": {
               "Volume": "100ml"
@@ -10681,7 +10630,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-sandalwood-aftershave?variant=55897938198793",
             "price": "112.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/sandalwood-aftershave-500ml-usb-JPEG_clipped_rev_1.jpg?v=1757162121",
             "options": {
               "Volume": "500ml"
@@ -11291,43 +11240,6 @@
             "options": {
               "Volume": "500ml"
             }
-          }
-        ]
-      },
-      {
-        "name": "D.R. Harris Soft Bristle Toothbrush",
-        "category": "Dental Care > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Oral Care > Toothbrushes > Manual Toothbrushes",
-        "description": "The D.R. Harris Soft Bristle Toothbrush is designed with natural boar bristles to gently clean in between teeth and along the gumline, making it ideal for those who require a less abrasive brushing experience. Crafted with a durable plastic handle, it features the D.R. Harris logo embossed on the front and signature on the back. Packaged in a practical plastic travel case, it is both hygienic and convenient for travel. Pair it with D.R. Harris Earthenware Toothbrush Mug and D.R. Harris Hard Bristle Toothbrush. Key Features: Soft natural boar bristles for gentle cleaning Unique bristle layout to reach between teeth Ideal for those with sensitive gums Embossed D.R. Harris logo and signature Includes a plastic travel case Made in Italy Specifications: Bristle Type: Soft boar bristles Handle Material: High quality plastic Packaging: Plastic travel case Made In: Italy",
-        "url": "https://www.malegroomingsupplies.com/products/d-r-harris-soft-bristle-toothbrush",
-        "price": "£25.00",
-        "brand": "D.R. Harris",
-        "vendor": "D.R. Harris",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Toothbrush-Soft-Bristle-Sq.jpg?v=1752743461",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Dental Care",
-        "collections": [
-          "Hair & Body",
-          "D.R. Harris",
-          "Dental Care",
-          "Toothbrushes & Holders"
-        ],
-        "variants": [
-          {
-            "id": "55897923944713",
-            "sku": "58101",
-            "gtin": "5060242623998",
-            "mpn": null,
-            "title": "D.R. Harris Soft Bristle Toothbrush",
-            "url": "https://www.malegroomingsupplies.com/products/d-r-harris-soft-bristle-toothbrush",
-            "price": "25.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Toothbrush-Soft-Bristle-Sq.jpg?v=1752743461",
-            "options": {}
           }
         ]
       },
@@ -27153,7 +27065,7 @@
         "price": "£17.95",
         "brand": "Parker",
         "vendor": "Parker",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-26c-male-grooming-supplies-383077.jpg?v=1722956803",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/26c-graphite-new-main-1.jpg?v=1792449269",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -27176,7 +27088,7 @@
             "price": "17.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-26c-male-grooming-supplies-383077.jpg?v=1722956803",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/26c-graphite-new-main-1.jpg?v=1792449269",
             "options": {}
           }
         ]
@@ -39352,7 +39264,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257824521",
             "price": "14.45 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "100ml"
