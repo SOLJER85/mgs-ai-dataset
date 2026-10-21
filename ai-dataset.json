@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-20",
-    "generated_at": "2026-10-20T07:16:05+00:00",
+    "last_updated": "2026-10-21",
+    "generated_at": "2026-10-21T07:12:19+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -5402,7 +5402,7 @@
           {
             "id": "48626079760649",
             "sku": "CRS-CA165",
-            "gtin": "5061091090009",
+            "gtin": null,
             "mpn": null,
             "title": "Cyril R. Salter Classic Almond Shaving Cream",
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-classic-almond-shaving-cream",
@@ -5439,7 +5439,7 @@
           {
             "id": "48626079596809",
             "sku": "CRS-FV165",
-            "gtin": "5061091090016",
+            "gtin": null,
             "mpn": null,
             "title": "Cyril R. Salter French Vetiver Shaving Cream 200ml",
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-vetiver-shaving-cream",
@@ -5476,7 +5476,7 @@
           {
             "id": "48626079465737",
             "sku": "CRS-FM165",
-            "gtin": "5061091090023",
+            "gtin": null,
             "mpn": null,
             "title": "Cyril R. Salter Fresh Mint Shaving Cream 200ml",
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-fresh-mint-shaving-cream",
@@ -5513,7 +5513,7 @@
           {
             "id": "48626079498505",
             "sku": "CRS-IS165",
-            "gtin": "5061091090030",
+            "gtin": null,
             "mpn": null,
             "title": "Cyril R. Salter Indian Sandalwood Shaving Cream 200ml",
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-indian-sandalwood-shaving-cream",
@@ -5696,7 +5696,7 @@
           {
             "id": "48626079531273",
             "sku": "CRS-SC165",
-            "gtin": "5061091090047",
+            "gtin": null,
             "mpn": null,
             "title": "Cyril R. Salter Sublime Citrus Shaving Cream 200ml",
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-sublime-citrus-shaving-cream",
@@ -5770,7 +5770,7 @@
           {
             "id": "48626079432969",
             "sku": "CRS-WR165",
-            "gtin": "5061091090054",
+            "gtin": null,
             "mpn": null,
             "title": "Cyril R. Salter Wild Rose Shaving Cream 200ml",
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-wild-rose-shaving-cream",
@@ -13380,7 +13380,7 @@
         "brand": "Dovo",
         "vendor": "Dovo",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-inox-wedge-straight-razor-48-15381387-male-grooming-supplies-451604.jpg?v=1744055585",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13401,7 +13401,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dovo-inox-wedge-straight-razor-4-8",
             "price": "130.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-inox-wedge-straight-razor-48-15381387-male-grooming-supplies-451604.jpg?v=1744055585",
             "options": {}
           }
@@ -16452,7 +16452,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16473,7 +16473,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-double-edge-safety-razor-aircraft-aluminium?variant=45376842924297",
             "price": "78.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
             "options": {
               "Blade Gap & Exposure": "Mild Aggression"
@@ -20013,7 +20013,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_500105_top_x_clipped_rev_1.jpg?v=1765564927",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -20035,7 +20035,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-500-progress-antique-brass-safety-razor",
             "price": "67.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_500105_top_x_clipped_rev_1.jpg?v=1765564927",
             "options": {}
           }
