@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-21",
-    "generated_at": "2026-10-21T07:12:19+00:00",
+    "last_updated": "2026-10-22",
+    "generated_at": "2026-10-22T07:14:11+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -7369,7 +7369,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-stick-deodorantJPEG-600x600_jpg.webp?v=1769440276",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7389,7 +7389,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-stick-deodorant-75g",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-stick-deodorantJPEG-600x600_jpg.webp?v=1769440276",
             "options": {}
           }
@@ -26918,7 +26918,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-111-w-m3-male-grooming-supplies-245921.jpg?v=1722956735",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -26939,7 +26939,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-111w-m3-mach-3-razor",
             "price": "24.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-111-w-m3-male-grooming-supplies-245921.jpg?v=1722956735",
             "options": {}
           }
@@ -27029,7 +27029,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-24c-male-grooming-supplies-457940.jpg?v=1722956837",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27050,7 +27050,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-24c-open-comb-safety-razor",
             "price": "18.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-24c-male-grooming-supplies-457940.jpg?v=1722956837",
             "options": {}
           }
@@ -27139,7 +27139,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-safety-razor-29l-unisex?variant=48029437264137",
             "price": "23.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-29l-male-grooming-supplies-447182.jpg?v=1722957023",
             "options": {
               "Colour": "Rose Gold"
@@ -27424,7 +27424,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-55sl-578159.jpg?v=1726511225",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27445,7 +27445,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-55sl-semi-slant-safety-razor?variant=48029432611081",
             "price": "22.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-55sl-578159.jpg?v=1726511225",
             "options": {
               "Handle": "Razor Granite"
@@ -27493,7 +27493,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-56r-graphite-male-grooming-supplies-948887.jpg?v=1722956876",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27514,7 +27514,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-56r-graphite-safety-razor",
             "price": "19.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-56r-graphite-male-grooming-supplies-948887.jpg?v=1722956876",
             "options": {}
           }
@@ -27678,7 +27678,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-64s-male-grooming-supplies-848970.jpg?v=1722956819",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27699,7 +27699,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-64s-stainless-steel-safety-razor",
             "price": "30.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-64s-male-grooming-supplies-848970.jpg?v=1722956819",
             "options": {}
           }
@@ -27715,7 +27715,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-65r-male-grooming-supplies-628952.jpg?v=1722956846",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27736,7 +27736,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-model-no-65r",
             "price": "19.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-65r-male-grooming-supplies-628952.jpg?v=1722956846",
             "options": {}
           }
@@ -27752,7 +27752,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-66r-male-grooming-supplies-709804.jpg?v=1722956999",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27773,7 +27773,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-66r-safety-razor",
             "price": "27.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-66r-male-grooming-supplies-709804.jpg?v=1722956999",
             "options": {}
           }
@@ -27938,7 +27938,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-74r-sc-male-grooming-supplies-928487.jpg?v=1722956930",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27959,7 +27959,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-74r-sc-satin-chrome",
             "price": "19.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-74r-sc-male-grooming-supplies-928487.jpg?v=1722956930",
             "options": {}
           }
@@ -28086,7 +28086,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-78r-ch-male-grooming-supplies-794245.jpg?v=1722956925",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28107,7 +28107,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-model-no-78r-ch-safety-razor",
             "price": "21.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-78r-ch-male-grooming-supplies-794245.jpg?v=1722956925",
             "options": {}
           }
@@ -28271,7 +28271,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-87r-male-grooming-supplies-601770.jpg?v=1722957125",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28292,7 +28292,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-87r-safety-razor",
             "price": "20.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-87r-male-grooming-supplies-601770.jpg?v=1722957125",
             "options": {}
           }
@@ -28308,7 +28308,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-89r-male-grooming-supplies-162559.jpg?v=1722956858",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28329,7 +28329,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-89r-safety-razor",
             "price": "19.05 GBP",
             "sale_price": "14.75 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-89r-male-grooming-supplies-162559.jpg?v=1722956858",
             "options": {}
           }
@@ -28382,7 +28382,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-91r-male-grooming-supplies-478955.jpg?v=1722956864",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28403,7 +28403,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-91r-safety-razor",
             "price": "19.95 GBP",
             "sale_price": "11.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-91r-male-grooming-supplies-478955.jpg?v=1722956864",
             "options": {}
           }
@@ -28419,7 +28419,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-92r-male-grooming-supplies-395889.jpg?v=1722957167",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28440,7 +28440,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-safety-razor-92r",
             "price": "19.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-92r-male-grooming-supplies-395889.jpg?v=1722957167",
             "options": {}
           }
@@ -28530,7 +28530,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-97r-male-grooming-supplies-724473.jpg?v=1722956825",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28551,7 +28551,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-model-no-97r-safety-razor",
             "price": "19.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-97r-male-grooming-supplies-724473.jpg?v=1722956825",
             "options": {}
           }
@@ -28567,7 +28567,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-98r-male-grooming-supplies-854427.jpg?v=1722956831",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28588,7 +28588,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-model-no-98r",
             "price": "19.90 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-98r-male-grooming-supplies-854427.jpg?v=1722956831",
             "options": {}
           }
@@ -28604,7 +28604,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-99r-male-grooming-supplies-431658.jpg?v=1722957169",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28625,7 +28625,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-99r-safety-razor-butterfly-open",
             "price": "18.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-99r-male-grooming-supplies-431658.jpg?v=1722957169",
             "options": {}
           }
@@ -28827,7 +28827,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-black-mango-wood-shaving-soap-bowl-male-grooming-supplies-685938.jpg?v=1722956644",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28850,7 +28850,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-black-mango-wood-shaving-soap-bowl",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-black-mango-wood-shaving-soap-bowl-male-grooming-supplies-685938.jpg?v=1722956644",
             "options": {}
           }
@@ -28976,7 +28976,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-mango-wood-shaving-soap-bowl-male-grooming-supplies-528106.jpg?v=1722956727",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28999,7 +28999,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-classic-style-mango-wood-shaving-soap-bowl",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-mango-wood-shaving-soap-bowl-male-grooming-supplies-528106.jpg?v=1722956727",
             "options": {}
           }
@@ -29015,7 +29015,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ParkStdAdjmain-1.jpg?v=1764938582",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29036,7 +29036,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-deluxe-adjustable-chrome-razor-brush-stand",
             "price": "22.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/ParkStdAdjmain-1.jpg?v=1764938582",
             "options": {}
           }
@@ -29089,7 +29089,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/IMG_6562_JPG.jpg?v=1757015557",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29110,7 +29110,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-director-bk-barber-razor",
             "price": "25.60 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/IMG_6562_JPG.jpg?v=1757015557",
             "options": {}
           }
@@ -29163,7 +29163,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bladebanksq_main__86813.1759529933.jpg?v=1768042505",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29184,7 +29184,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-double-edge-blade-disposal-bank",
             "price": "6.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bladebanksq_main__86813.1759529933.jpg?v=1768042505",
             "options": {}
           }
@@ -29200,7 +29200,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-double-sided-rosewood-beard-comb-male-grooming-supplies-980979.jpg?v=1722956714",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29220,7 +29220,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-double-sided-rosewood-beard-comb",
             "price": "14.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-double-sided-rosewood-beard-comb-male-grooming-supplies-980979.jpg?v=1722956714",
             "options": {}
           }
@@ -29273,7 +29273,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-honey-mango-wood-shaving-soap-bowl-male-grooming-supplies-133673.jpg?v=1722956677",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29296,7 +29296,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-honey-mango-wood-shaving-soap-bowl",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-honey-mango-wood-shaving-soap-bowl-male-grooming-supplies-133673.jpg?v=1722956677",
             "options": {}
           }
@@ -29348,7 +29348,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-barber-razor-sleath-lpst-male-grooming-supplies-223877.jpg?v=1722956717",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29370,7 +29370,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-barber-razor-sheath",
             "price": "9.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-barber-razor-sleath-lpst-male-grooming-supplies-223877.jpg?v=1722956717",
             "options": {}
           }
@@ -29458,7 +29458,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-mach3-fusion-pouch-lp2?variant=48029431562505",
             "price": "9.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-mach3-fusion-pouch-lp2-male-grooming-supplies-587480.jpg?v=1722956773",
             "options": {
               "Colour": "Black"
@@ -29476,7 +29476,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-razor-guard-male-grooming-supplies-850155.jpg?v=1722956779",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29497,7 +29497,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-razor-guard?variant=48029431595273",
             "price": "5.65 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-razor-guard-male-grooming-supplies-850155.jpg?v=1722956779",
             "options": {
               "Colour": "Brown"
@@ -29512,7 +29512,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-razor-guard?variant=48029431628041",
             "price": "5.65 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-razor-guard-male-grooming-supplies-817882.jpg?v=1722956782",
             "options": {
               "Colour": "Black"
@@ -29530,7 +29530,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-saddle-case-for-safety-razors-male-grooming-supplies-290683.jpg?v=1722956750",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29551,7 +29551,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-saddle-case-for-safety-razors-lp3",
             "price": "15.70 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-saddle-case-for-safety-razors-male-grooming-supplies-290683.jpg?v=1722956750",
             "options": {}
           }
@@ -29567,7 +29567,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-saddle-case-straight-razors-male-grooming-supplies-924185.jpg?v=1722956751",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29588,7 +29588,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-saddle-case-straight-razors-lpstbrn",
             "price": "17.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-saddle-case-straight-razors-male-grooming-supplies-924185.jpg?v=1722956751",
             "options": {}
           }
@@ -29604,7 +29604,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-saddle-zip-case-male-grooming-supplies-597978.jpg?v=1722956790",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29625,7 +29625,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-saddle-zip-case-lp4",
             "price": "28.70 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-saddle-zip-case-male-grooming-supplies-597978.jpg?v=1722956790",
             "options": {}
           }
@@ -29641,7 +29641,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-safety-razor-pouch-lp1-male-grooming-supplies-145954.jpg?v=1722956760",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29662,7 +29662,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-leather-safety-razor-pouch-lp1",
             "price": "8.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-leather-safety-razor-pouch-lp1-male-grooming-supplies-145954.jpg?v=1722956760",
             "options": {}
           }
@@ -29920,7 +29920,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-ox-horn-shaving-bowl-male-grooming-supplies-435902.jpg?v=1722956986",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -29941,7 +29941,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-ox-horn-shaving-bowl",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-ox-horn-shaving-bowl-male-grooming-supplies-435902.jpg?v=1722956986",
             "options": {}
           }
@@ -29992,7 +29992,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-premium-double-edge-razor-blades?variant=48778249830665",
             "price": "18.95 GBP",
             "sale_price": "14.50 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-premium-double-edge-blades-male-grooming-supplies-559399.jpg?v=1722957111",
             "options": {
               "Pack Size": "Pack of 100"
@@ -30080,7 +30080,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-premium-single-edge-blades-male-grooming-supplies-113202.jpg?v=1722957186",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30100,7 +30100,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-premium-single-edge-blades",
             "price": "8.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-premium-single-edge-blades-male-grooming-supplies-113202.jpg?v=1722957186",
             "options": {}
           }
@@ -30190,7 +30190,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-ptb-male-grooming-supplies-186536.jpg?v=1722957007",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30211,7 +30211,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-ptb-shavette-razor",
             "price": "11.85 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-ptb-male-grooming-supplies-186536.jpg?v=1722957007",
             "options": {}
           }
@@ -30301,7 +30301,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-ptw-male-grooming-supplies-245370.jpg?v=1722956958",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30322,7 +30322,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-ptw-barber-razor",
             "price": "14.20 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-ptw-male-grooming-supplies-245370.jpg?v=1722956958",
             "options": {}
           }
@@ -30375,7 +30375,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-regular-6-horn-comb-in-leather-case-male-grooming-supplies-263330.jpg?v=1722956994",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30395,7 +30395,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-regular-horn-comb-leather-case",
             "price": "16.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-regular-6-horn-comb-in-leather-case-male-grooming-supplies-263330.jpg?v=1722956994",
             "options": {}
           }
@@ -30411,7 +30411,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-and-brush-stand-male-grooming-supplies-314662.jpg?v=1722957145",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30432,7 +30432,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-safety-razor-and-brush-stand",
             "price": "22.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-safety-razor-and-brush-stand-male-grooming-supplies-314662.jpg?v=1722957145",
             "options": {}
           }
@@ -30448,7 +30448,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SSPPARK150-mgs-lossless.webp?v=1784922333",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30469,7 +30469,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-sandalwood-shea-butter-travel-shave-soap-50g",
             "price": "6.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SSPPARK150-mgs-lossless.webp?v=1784922333",
             "options": {}
           }
@@ -30558,7 +30558,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/soloedge1.png?v=1761668707",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30578,7 +30578,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-soloedge-single-edge-safety-razor",
             "price": "30.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/soloedge1.png?v=1761668707",
             "options": {}
           }
@@ -30594,7 +30594,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-sr1-31r-male-grooming-supplies-265217.jpg?v=1722957122",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30615,7 +30615,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-sr1-31r-barber-razor",
             "price": "14.95 GBP",
             "sale_price": "12.45 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-sr1-31r-male-grooming-supplies-265217.jpg?v=1722957122",
             "options": {}
           }
@@ -30631,7 +30631,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srb-33r-male-grooming-supplies-117395.jpg?v=1722957078",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30652,7 +30652,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-srb-33r-straight-razor",
             "price": "13.55 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srb-33r-male-grooming-supplies-117395.jpg?v=1722957078",
             "options": {}
           }
@@ -30742,7 +30742,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srpba-male-grooming-supplies-524225.jpg?v=1722957054",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30763,7 +30763,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-model-srpba-pine-wood-handle",
             "price": "26.65 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srpba-male-grooming-supplies-524225.jpg?v=1722957054",
             "options": {}
           }
@@ -30816,7 +30816,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srw-34r-male-grooming-supplies-548966.jpg?v=1722957063",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30837,7 +30837,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-model-srw-34r-barber-razor",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srw-34r-male-grooming-supplies-548966.jpg?v=1722957063",
             "options": {}
           }
@@ -30890,7 +30890,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srx-male-grooming-supplies-427765.jpg?v=1722956975",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30911,7 +30911,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-srx-stainless-steel-shavette-razor",
             "price": "20.50 GBP",
             "sale_price": "17.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srx-male-grooming-supplies-427765.jpg?v=1722956975",
             "options": {}
           }
@@ -30927,7 +30927,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srxblk-male-grooming-supplies-336512.jpg?v=1722957091",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30948,7 +30948,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-srxblk-barber-razor",
             "price": "18.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srxblk-male-grooming-supplies-336512.jpg?v=1722957091",
             "options": {}
           }
@@ -31077,7 +31077,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-var-sc-male-grooming-supplies-614630.jpg?v=1722957030",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -31099,7 +31099,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-variant-adjustable-safety-razor-satin-chrome",
             "price": "53.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-var-sc-male-grooming-supplies-614630.jpg?v=1722957030",
             "options": {}
           }
