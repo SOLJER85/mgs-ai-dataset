@@ -81,7 +81,7 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-10-23T07:05:59+00:00",
+  "generated_at": "2026-10-24T06:57:16+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1078,
   "openai_feed": "openai-products-feed.csv.gz",
@@ -92,13 +92,13 @@
       "id": "gid://shopify/Product/15674960380169",
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
-      "title": "Astra Platinum Safety Razor Blades (100)"
+      "title": "Astra Superior Platinum Double Edge Razor Blades"
     },
     {
       "id": "gid://shopify/Product/15674961527049",
       "reason": "not_active_or_no_online_store_url",
       "status": "DRAFT",
-      "title": "BIC Chrome Platinum Safety Razor Blades (100)"
+      "title": "BIC Chrome Platinum Double Edge Razor Blades"
     },
     {
       "id": "gid://shopify/Product/15224272748809",
