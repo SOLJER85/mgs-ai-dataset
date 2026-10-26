@@ -59,10 +59,10 @@
     "Health & Beauty > Personal Care > Shaving & Grooming > Hair Clippers & Trimmers": 1,
     "Health & Beauty > Personal Care > Shaving & Grooming > Moustache Wax": 2,
     "Health & Beauty > Personal Care > Shaving & Grooming > Pre-Shave Oil": 6,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 256,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 257,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Cartridge Razors": 1,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Razor Blades & Refills": 12,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors": 27,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors": 30,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Straight Razors": 3,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Bowls & Mugs": 17,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes": 196,
@@ -81,12 +81,12 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-10-25T07:21:21+00:00",
+  "generated_at": "2026-10-26T07:30:16+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1078,
+  "included_products": 1082,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 346,
+  "skipped_products": 342,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15674960380169",
@@ -214,10 +214,10 @@
   "validation": {
     "availability_counts": {
       "in_stock": 1043,
-      "out_of_stock": 290
+      "out_of_stock": 294
     },
     "checkout_eligibility_counts": {
-      "false": 1333
+      "false": 1337
     },
     "duplicate_item_id_count": 0,
     "duplicate_offer_id_count": 0,
@@ -240,7 +240,7 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1333,
+    "row_count": 1337,
     "rows_with_gtin": 1257,
     "rows_with_mpn": 0,
     "schema_errors": [],
