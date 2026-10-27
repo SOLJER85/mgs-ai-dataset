@@ -46,7 +46,7 @@
     "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo": 27,
     "Health & Beauty > Personal Care > Oral Care > Mouthwash": 4,
     "Health & Beauty > Personal Care > Oral Care > Toothbrushes > Manual Toothbrushes": 2,
-    "Health & Beauty > Personal Care > Oral Care > Toothpaste": 20,
+    "Health & Beauty > Personal Care > Oral Care > Toothpaste": 21,
     "Health & Beauty > Personal Care > Personal Care Gift Sets & Kits": 8,
     "Health & Beauty > Personal Care > Shaving & Grooming": 60,
     "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave": 77,
@@ -81,12 +81,12 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-10-26T07:30:16+00:00",
+  "generated_at": "2026-10-27T07:26:18+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
-  "included_products": 1082,
+  "included_products": 1083,
   "openai_feed": "openai-products-feed.csv.gz",
   "openai_jsonl_feed": "openai-products-feed.jsonl.gz",
-  "skipped_products": 342,
+  "skipped_products": 341,
   "skipped_sample": [
     {
       "id": "gid://shopify/Product/15674960380169",
@@ -213,11 +213,11 @@
   "source_products": 1424,
   "validation": {
     "availability_counts": {
-      "in_stock": 1043,
+      "in_stock": 1044,
       "out_of_stock": 294
     },
     "checkout_eligibility_counts": {
-      "false": 1337
+      "false": 1338
     },
     "duplicate_item_id_count": 0,
     "duplicate_offer_id_count": 0,
@@ -240,8 +240,8 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1337,
-    "rows_with_gtin": 1257,
+    "row_count": 1338,
+    "rows_with_gtin": 1262,
     "rows_with_mpn": 0,
     "schema_errors": [],
     "target_country_count": 0,
