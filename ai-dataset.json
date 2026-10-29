@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-28",
-    "generated_at": "2026-10-28T08:00:10+00:00",
+    "last_updated": "2026-10-29",
+    "generated_at": "2026-10-29T08:09:10+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -6585,7 +6585,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-bath-and-shower-gel?variant=55897924763913",
             "price": "31.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shower-gel-250ml-JPEG_clipped_rev_1.jpg?v=1757188779",
             "options": {
               "Volume": "250ml"
@@ -30077,7 +30077,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-premium-double-edge-blades-male-grooming-supplies-559399.jpg?v=1722957111",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -30097,7 +30097,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-premium-double-edge-razor-blades?variant=48778249863433",
             "price": "2.25 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-premium-double-edge-blades-male-grooming-supplies-559399.jpg?v=1722957111",
             "options": {
               "Pack Size": "Pack of 5"
