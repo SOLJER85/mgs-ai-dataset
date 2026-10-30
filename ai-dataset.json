@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-29",
-    "generated_at": "2026-10-29T08:09:10+00:00",
+    "last_updated": "2026-10-30",
+    "generated_at": "2026-10-30T08:12:26+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -26526,7 +26526,6 @@
         "collections": [
           "Pre-Shave",
           "Osma",
-          "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -26675,7 +26674,6 @@
         "collections": [
           "Shaving Soap",
           "Osma",
-          "New Additions",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
@@ -34907,7 +34905,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2020_clipped_rev_1.jpg?v=1788527380",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -34928,7 +34926,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-hereditas-2020-finest-badger-cherry",
             "price": "27.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/2020_clipped_rev_1.jpg?v=1788527380",
             "options": {}
           }
