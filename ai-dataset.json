@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-30",
-    "generated_at": "2026-10-30T08:12:26+00:00",
+    "last_updated": "2026-10-31",
+    "generated_at": "2026-10-31T08:05:21+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -13801,7 +13801,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13822,7 +13822,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-all-stainless-safety-razor-as-d2",
             "price": "142.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
             "options": {}
           }
@@ -13924,7 +13924,6 @@
           "Feather Safety Razor Co.",
           "Safety Razors, Straight Razors & Shavettes",
           "Straight Razors, Cut Throat Razors & Shavettes",
-          "New Additions",
           "Shaving Essentials"
         ],
         "variants": [
@@ -13962,7 +13961,6 @@
           "Feather Safety Razor Co.",
           "Safety Razors, Straight Razors & Shavettes",
           "Straight Razors, Cut Throat Razors & Shavettes",
-          "New Additions",
           "Shaving Essentials"
         ],
         "variants": [
@@ -14000,7 +13998,6 @@
           "Feather Safety Razor Co.",
           "Safety Razors, Straight Razors & Shavettes",
           "Straight Razors, Cut Throat Razors & Shavettes",
-          "New Additions",
           "Shaving Essentials"
         ],
         "variants": [
@@ -32001,7 +31998,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32039,7 +32035,6 @@
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
           "Men's Shaving Creams",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32076,7 +32071,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32263,7 +32257,6 @@
         "product_type": "Post-Shave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32301,7 +32294,6 @@
         "product_type": "Post-Shave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32339,7 +32331,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32377,7 +32368,6 @@
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
           "Men's Shaving Creams",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32414,7 +32404,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32451,7 +32440,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32489,7 +32477,6 @@
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
           "Shaving Soap",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32526,7 +32513,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Gift Sets",
         "collections": [
-          "New Additions",
           "Gift Sets",
           "Proraso"
         ],
@@ -32902,7 +32888,6 @@
         "product_type": "Post-Shave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32940,7 +32925,6 @@
         "product_type": "Post-Shave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32978,7 +32962,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33016,7 +32999,6 @@
         "product_type": "Post-Shave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33054,7 +33036,6 @@
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
           "Men's Shaving Creams",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33091,7 +33072,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33129,7 +33109,6 @@
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
           "Shaving Soap",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33167,7 +33146,6 @@
         "product_type": "Post-Shave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33205,7 +33183,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33243,7 +33220,6 @@
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
           "Men's Shaving Creams",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33280,7 +33256,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33317,7 +33292,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33392,7 +33366,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Gift Sets",
         "collections": [
-          "New Additions",
           "Gift Sets",
           "Proraso"
         ],
@@ -40640,7 +40613,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Hair Styling",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "Tenax",
           "Hair Styling Products",
@@ -40679,7 +40651,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Hair Styling",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "Tenax",
           "Hair Styling Products",
@@ -40717,7 +40688,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Hair Styling",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "Tenax",
           "Hair Styling Products",
@@ -40755,7 +40725,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Hair Styling",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "Tenax",
           "Hair Styling Products",
@@ -40793,7 +40762,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Hair Styling",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "Tenax",
           "Hair Styling Products",
