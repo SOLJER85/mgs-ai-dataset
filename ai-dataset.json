@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-10-31",
-    "generated_at": "2026-10-31T08:05:21+00:00",
+    "last_updated": "2026-11-01",
+    "generated_at": "2026-11-01T08:51:25+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -5428,7 +5428,7 @@
         "brand": "Cyril R. Salter",
         "vendor": "Cyril R. Salter",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HED06_clipped_rev_1.jpg?v=1732392441",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -5449,7 +5449,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cyril-r-salter-vetiver-shaving-cream",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/HED06_clipped_rev_1.jpg?v=1732392441",
             "options": {}
           }
@@ -31811,7 +31811,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Balms"
@@ -31848,7 +31847,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Oils"
@@ -31885,7 +31883,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Wash & Shampoo"
@@ -31922,7 +31919,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Fragrances",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "Proraso",
           "Fragrances",
@@ -31960,7 +31956,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Skincare & Moisturisers"
@@ -32107,7 +32102,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Balms"
@@ -32144,7 +32138,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Oils"
@@ -32181,7 +32174,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Wash & Shampoo"
@@ -32218,7 +32210,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Fragrances",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "Proraso",
           "Fragrances",
@@ -32548,7 +32539,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Gift Sets",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Gift Sets",
           "Proraso",
@@ -32587,7 +32577,6 @@
         "product_type": "Post-Shave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32624,7 +32613,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Balms"
@@ -32661,7 +32649,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Oils"
@@ -32698,7 +32685,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Wash & Shampoo"
@@ -32737,7 +32723,6 @@
         "collections": [
           "Shaving Brushes",
           "Boar, Hog & Horse Hair Shaving Brushes",
-          "New Additions",
           "Proraso",
           "Shaving Essentials"
         ],
@@ -32774,7 +32759,6 @@
         "product_type": "Pre-Shave",
         "collections": [
           "Pre-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32812,7 +32796,6 @@
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
           "Men's Shaving Creams",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -32850,7 +32833,6 @@
         "product_type": "Post-Shave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33329,7 +33311,6 @@
         "product_type": "Shaving Creams Gels & Soaps",
         "collections": [
           "Shaving Soap",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33402,7 +33383,6 @@
         "product_type": "Post-Shave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "Proraso",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -33439,7 +33419,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Balms"
@@ -33476,7 +33455,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Oils"
@@ -33513,7 +33491,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Beard Wash & Shampoo"
@@ -33550,7 +33527,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Fragrances",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "Proraso",
           "Fragrances",
@@ -33588,7 +33564,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Beard & Moustache Care",
         "collections": [
-          "New Additions",
           "Beard & Moustache Care",
           "Proraso",
           "Moustache Waxes"
@@ -36615,7 +36590,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
         "description": "Simpsons Berkeley 46 Sovereign Synthetic Shaving Brush is a compact option with a faux ivory handle and synthetic fibre rather than badger hair. Choose this version when you want the Berkeley shape with the Sovereign fibre knot; the model name alone does not identify the filling. Its approximate 90mm overall height and 19mm knot make the size easy to compare with a brush you already use. The 44mm handle keeps the proportions compact. Use it to build lather with shaving soap or cream, and check those measurements when deciding whether you prefer a small brush or a larger handle. Each brush is finished with the traditional Simpsons front label stating Hand Made in Great Britain, maintaining the brand’s commitment to hand-tied craftsmanship. Key Features: Filled with Sovereign Grade synthetic fibre Hand-turned faux ivory handle in the classic Berkeley shape Efficient lathering with soaps and creams Compact size ideal for everyday use or travel Excellent value within the Simpson range Handcrafted in Britain, featuring the Hand Made in Great Britain label Specifications: Overall brush height: 90mm Handle height: 44mm Knot loft: 46mm Knot diameter: 19mm Weight: 50g For related shaving brush options, browse the Shaving Brushes collection.",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-sovereign-synthetic",
-        "price": "£40.95",
+        "price": "£44.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_10__clipped_rev_1.jpg?v=1788530963",
@@ -36639,7 +36614,7 @@
             "title": "Simpsons 'Berkeley 46' Sovereign Synthetic Shaving Brush",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-sovereign-synthetic",
             "price": "44.95 GBP",
-            "sale_price": "40.95 GBP",
+            "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_10__clipped_rev_1.jpg?v=1788530963",
             "options": {}
@@ -36766,7 +36741,7 @@
             "title": "Simpsons 'M' Sovereign Synthetic Shaving Brush - M7 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-m-series-sovereign-synthetic?variant=56363185275145",
             "price": "54.95 GBP",
-            "sale_price": "52.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_27__clipped_rev_1.jpg?v=1788539132",
             "options": {
@@ -36987,7 +36962,7 @@
             "mpn": null,
             "title": "Simpsons 'The Berkeley' Shaving Brush - Pure Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-shaving-brush?variant=56363188879625",
-            "price": "43.80 GBP",
+            "price": "43.75 GBP",
             "sale_price": "34.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simspsons_Berkeley_46_-_Pure.jpg?v=1788531060",
@@ -37002,8 +36977,8 @@
             "mpn": null,
             "title": "Simpsons 'The Berkeley' Shaving Brush - Best Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-berkeley-46-shaving-brush?variant=56363188912393",
-            "price": "50.80 GBP",
-            "sale_price": "48.95 GBP",
+            "price": "48.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpsons_Berkeley_46_-_Best.png?v=1788539140",
             "options": {
@@ -37131,7 +37106,7 @@
             "title": "Simpsons 'The Case' Shaving Brush - Best Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-case-best-or-pure-badger-shaving-brush?variant=56363187339529",
             "price": "51.40 GBP",
-            "sale_price": "49.00 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/C1Best-Front.png?v=1788539148",
             "options": {
@@ -37260,7 +37235,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
         "description": "The Simpsons Chubby Sovereign uses synthetic fibre in the familiar faux ivory Chubby handle. It is not the natural badger-hair Chubby or the separately named Platinum synthetic version, so compare the fibre grade as well as the model number. Chubby 1, 2 and 3 are individual size choices, not three brushes supplied together. The listed Chubby 2 has a 26mm knot and the Chubby 3 a 29mm knot; those measurements help compare brush width, but do not by themselves establish travel-tube or stand fit. Check the selected size and availability before ordering. Key Features: Filled with Sovereign Grade synthetic fibre Iconic faux ivory Chubby handle Dense knot for rich, creamy lather Excellent face feel with supportive backbone Available in three sizes: Chubby 1, Chubby 2, Chubby 3 Handcrafted in Britain, featuring the Hand Made in Great Britain label Specifications: Chubby 1: Overall brush height: 82mm Handle height: 39mm Knot loft: 43mm Knot diameter: 22mm Weight: 59g Chubby 2: Overall brush height: 95mm Handle height: 44mm Loft: 51mm Knot diameter: 26mm Chubby 3: Overall brush height: 106mm Handle height: 48mm Loft: 58mm Knot diameter: 29mm For related shaving brush options, browse the Shaving Brushes collection.",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic",
-        "price": "£54.95",
+        "price": "£56.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_14__clipped_rev_1_1121586d-e5b4-447c-b319-84deda5b588b.jpg?v=1788531060",
@@ -37284,7 +37259,7 @@
             "title": "Simpsons 'The Chubby' Sovereign Synthetic Shaving Brush - Chubby 1 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic?variant=56363185799433",
             "price": "56.95 GBP",
-            "sale_price": "54.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_14__clipped_rev_1_1121586d-e5b4-447c-b319-84deda5b588b.jpg?v=1788531060",
             "options": {
@@ -37314,7 +37289,7 @@
             "title": "Simpsons 'The Chubby' Sovereign Synthetic Shaving Brush - Chubby 3 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic?variant=56363185864969",
             "price": "84.95 GBP",
-            "sale_price": "77.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/generated-image_16__clipped_rev_1_1.jpg?v=1788539154",
             "options": {
@@ -37746,7 +37721,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
         "description": "The Simpsons Duke Sovereign Synthetic combines man-made shaving fibre with the traditional faux ivory Duke handle. This is the Sovereign version, distinct from Duke brushes filled with natural badger hair or the separate Platinum synthetic fibre. Duke 1, 2 and 3 are separate size options, not a set of three brushes. Check the selected size and its availability before ordering. Compare the listed dimensions below rather than assuming that a higher model number always means a taller brush. Choose it for a synthetic-fibre brush in the Duke handle shape. After lathering, rinse the knot thoroughly and leave the brush to dry with air around it before enclosing it for travel. Key Features: Filled with Sovereign Grade synthetic fibre Iconic faux ivory Duke handle Soft tips with supportive backbone for controlled face lathering Creates rich, creamy lather with soaps or creams Quick drying and durable for daily use Handcrafted in Britain, featuring the Hand Made in Great Britain label Specifications: Duke 1 Sovereign Synthetic: Overall brush height: 82mm Handle height: 39mm Knot loft: 43mm Knot diameter: 20mm Weight: 45g Duke 2 Sovereign Synthetic: Overall brush height: 95mm Handle height: 47mm Knot loft: 48mm Knot diameter: 23mm Weight: 65g Duke 3 Sovereign Synthetic: Overall brush height: 95mm Handle height: 47mm Knot loft: 48mm Knot diameter: 23mm Weight: 65g For related shaving brush options, browse the Shaving Brushes collection.",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-sovereign-synthetic",
-        "price": "£40.95",
+        "price": "£45.25",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-1-sov-front.jpg?v=1788539169",
@@ -37770,7 +37745,7 @@
             "title": "Simpsons 'The Duke' Sovereign Synthetic Shaving Brush - Duke 1 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-sovereign-synthetic?variant=56363185537289",
             "price": "45.25 GBP",
-            "sale_price": "40.95 GBP",
+            "sale_price": null,
             "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-1-sov-front.jpg?v=1788539169",
             "options": {
@@ -37785,7 +37760,7 @@
             "title": "Simpsons 'The Duke' Sovereign Synthetic Shaving Brush - Duke 2 Sovereign",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-sovereign-synthetic?variant=56363185570057",
             "price": "48.25 GBP",
-            "sale_price": "43.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/duke-2-sov-front-mgs-lossless.webp?v=1788531080",
             "options": {
@@ -38250,7 +38225,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
         "description": "The Simpsons Major is a travel shaving brush with a screw-in handle that also works as a protective storage tube. It is designed for wet shavers who want a compact badger brush for travel without carrying a separate brush case. The brush is available in Best Badger or Super Badger, depending on the selected variant. Once assembled, it can be used with shaving soap or shaving cream to build lather in the usual way. For related options, browse Simpsons shaving brushes, travel shaving brushes and badger shaving brushes. You can also compare the Simpsons Rover Sovereign Synthetic Shaving Brush. Key Features Travel shaving brush: Handle converts into a protective tube. Badger hair options: Available in Best Badger or Super Badger variants. Compact design: Made for shaving kits, travel bags and regular travel use. Soap and cream use: Suitable for lathering shaving soap or shaving cream. Specifications Brush Type: Travel badger shaving brush Hair Grade: Best Badger or Super Badger, depending on variant Overall Height: 116mm assembled Handle Height: 78mm Knot Loft: 38mm Knot Diameter: 17mm Weight: 82g",
         "url": "https://www.malegroomingsupplies.com/products/simpsons-major-best-or-super-silvertip-badger-travel-shaving-brush",
-        "price": "£105.95",
+        "price": "£109.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1788539196",
@@ -38275,7 +38250,7 @@
             "title": "Simpsons 'The Major' Travel Shaving Brush - Best Badger",
             "url": "https://www.malegroomingsupplies.com/products/simpsons-major-best-or-super-silvertip-badger-travel-shaving-brush?variant=56363187962121",
             "price": "109.95 GBP",
-            "sale_price": "105.95 GBP",
+            "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1788539196",
             "options": {
