@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-01",
-    "generated_at": "2026-11-01T08:51:25+00:00",
+    "last_updated": "2026-11-02",
+    "generated_at": "2026-11-02T08:59:08+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -1883,7 +1883,7 @@
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com-2369_clipped_rev_1.jpg?v=1751363969",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -1904,7 +1904,7 @@
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-luxurious-shaving-soap-110g",
             "price": "33.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com-2369_clipped_rev_1.jpg?v=1751363969",
             "options": {}
           }
@@ -23767,7 +23767,7 @@
         "brand": "Morgan's",
         "vendor": "Morgan's",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Photoroom_20260527_100259.jpg?v=1786455611",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -23787,7 +23787,7 @@
             "url": "https://www.malegroomingsupplies.com/products/morgans-foldable-moustache-comb-small",
             "price": "5.99 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Photoroom_20260527_100259.jpg?v=1786455611",
             "options": {}
           }
@@ -39806,7 +39806,7 @@
         "brand": "Taylor of Old Bond Street",
         "vendor": "Taylor of Old Bond Street",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07137-handwash-and-moisturiser-set-sandalwood-1200x1200px_2048x_4af195c1-2db5-441e-bd47-2c3b72dd42ba.jpg?v=1743371894",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -39827,7 +39827,7 @@
             "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-sandalwood-hand-wash-moisturiser-gift-set",
             "price": "39.95 GBP",
             "sale_price": "28.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07137-handwash-and-moisturiser-set-sandalwood-1200x1200px_2048x_4af195c1-2db5-441e-bd47-2c3b72dd42ba.jpg?v=1743371894",
             "options": {}
           }
