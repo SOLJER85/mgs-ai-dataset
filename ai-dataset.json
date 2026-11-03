@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-02",
-    "generated_at": "2026-11-02T08:59:08+00:00",
+    "last_updated": "2026-11-03",
+    "generated_at": "2026-11-03T09:07:58+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -5886,7 +5886,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Bath Soap and Shower Gels",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "D.R. Harris",
           "Bath, Body & Hand Care"
@@ -6142,7 +6141,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Shaving Soap",
-          "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -6254,7 +6252,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Shaving Soap",
-          "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -6661,7 +6658,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Bath Soap and Shower Gels",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "D.R. Harris",
           "Bath, Body & Hand Care"
@@ -7765,7 +7761,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shampoo & Conditioner",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "D.R. Harris",
           "Shampoo & Conditioner"
@@ -7943,7 +7938,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Hair Styling",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "D.R. Harris",
           "Hair Styling Products",
@@ -8230,7 +8224,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Men's Shaving Creams",
-          "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -8680,7 +8673,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Shaving Soap",
-          "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -10446,7 +10438,6 @@
         "product_type": "Shaving Cream, Gels & Soaps",
         "collections": [
           "Men's Shaving Creams",
-          "New Additions",
           "D.R. Harris",
           "Shaving Essentials",
           "Shaving Preparations"
@@ -11468,7 +11459,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Deodorant",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "D.R. Harris",
           "Deodorants & Talcum Powder"
@@ -12189,7 +12179,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-mahogany-bowl-JPEG.jpg?v=1778106443",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -12210,7 +12200,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-windsor-shaving-mahogany-bowl",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-mahogany-bowl-JPEG.jpg?v=1778106443",
             "options": {}
           }
@@ -24843,7 +24833,7 @@
         "brand": "Muhle",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-porcelain-white-shaving-bowl-with-platinum-rim-rn11-male-grooming-supplies-962486.jpg?v=1722956336",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -24864,7 +24854,7 @@
             "url": "https://www.malegroomingsupplies.com/products/muhle-porcelain-white-shaving-bowl-platinum-rim-rn11",
             "price": "29.00 GBP",
             "sale_price": "24.00 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-porcelain-white-shaving-bowl-with-platinum-rim-rn11-male-grooming-supplies-962486.jpg?v=1722956336",
             "options": {}
           }
@@ -37191,7 +37181,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-best-or-super-silvertip-badger-shaving-brush?variant=56363188453641",
             "price": "139.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Super-Front.png?v=1788539148",
             "options": {
               "Size & Brush Type": "Super Chubby 85mm - CH1 Super"
@@ -37206,7 +37196,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-best-or-super-silvertip-badger-shaving-brush?variant=56363188486409",
             "price": "195.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/CH2-Super-Front.png?v=1788539148",
             "options": {
               "Size & Brush Type": "Super Chubby 95mm - CH2 Super"
@@ -37275,7 +37265,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-chubby-sovereign-synthetic?variant=56363185832201",
             "price": "75.95 GBP",
             "sale_price": "57.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/chubby-2-sov-front_clipped_rev_1.jpg?v=1788539148",
             "options": {
               "Size": "Chubby 2 Sovereign"
