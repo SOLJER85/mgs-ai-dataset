@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-03",
-    "generated_at": "2026-11-03T09:07:58+00:00",
+    "last_updated": "2026-11-04",
+    "generated_at": "2026-11-04T08:43:59+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -8400,7 +8400,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Shampoo & Conditioner",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "D.R. Harris",
           "Shampoo & Conditioner"
@@ -10294,7 +10293,6 @@
         "product_type": "Aftershave",
         "collections": [
           "Post-Shave",
-          "New Additions",
           "D.R. Harris",
           "Fragrances",
           "Men's Aftershaves"
@@ -11679,7 +11677,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-deodorant-stick-new-usb-JPEG.jpg?v=1756551378",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -11699,7 +11697,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-stick-deodorant",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-deodorant-stick-new-usb-JPEG.jpg?v=1756551378",
             "options": {}
           }
@@ -35959,7 +35957,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPFRE_clipped_rev_1.jpg?v=1788527330",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -35980,7 +35978,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-soc-c5-selected-premium-boar-ash-wood",
             "price": "27.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5CSPFRE_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
@@ -38937,10 +38935,10 @@
         ]
       },
       {
-        "name": "Slick Gorilla Clay Pomade 75g",
+        "name": "Slick Gorilla Clay Pomade 70g",
         "category": "Hair Styling > Slick Gorilla",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Styling Products",
-        "description": "Slick Gorilla Clay Pomade is a 75g hair styling clay pomade for firm hold, texture and a matte finish. It suits short to medium styles where control, separation and a dry-looking finish are wanted. Work a small amount between the palms, then apply through dry or slightly damp hair. Add more gradually for stronger hold or extra texture. For related Slick Gorilla styling options, compare Slick Gorilla Lightwork, Slick Gorilla Finishing Spray, or browse Slick Gorilla hair styling products. Clay Pomade or Lightwork? Choose Slick Gorilla Clay Pomade when you want firm, reworkable hold for a more defined style. For a lighter feel and light-to-medium hold, compare Slick Gorilla Lightwork hair clay. Both offer a natural matte finish on dry hair; the main difference is the level of hold and weight you want. Key Features Firm hold: Helps keep styled hair in place. Matte finish: Adds control without a high-shine look. Texture and separation: Useful for defined or loosely shaped styles. Clay pomade format: Smooth styling clay in a jar. 75g size: Practical size for regular use. Specifications Size: 75g Format: Hair clay pomade Hold: Firm Finish: Matte Texture: Smooth clay formula Compare other hold levels and finishes in our men's hair clays, pastes and putty.",
+        "description": "Slick Gorilla Clay Pomade is a 70g hair styling clay pomade for firm hold, texture and a matte finish. It suits short to medium styles where control, separation and a dry-looking finish are wanted. Work a small amount between the palms, then apply through dry or slightly damp hair. Add more gradually for stronger hold or extra texture. For related Slick Gorilla styling options, compare Slick Gorilla Lightwork, Slick Gorilla Finishing Spray, or browse Slick Gorilla hair styling products. Clay Pomade or Lightwork? Choose Slick Gorilla Clay Pomade when you want firm, reworkable hold for a more defined style. For a lighter feel and light-to-medium hold, compare Slick Gorilla Lightwork hair clay. Both offer a natural matte finish on dry hair; the main difference is the level of hold and weight you want. Key Features Firm hold: Helps keep styled hair in place. Matte finish: Adds control without a high-shine look. Texture and separation: Useful for defined or loosely shaped styles. Clay pomade format: Smooth styling clay in a jar. 70g size: Practical size for regular use. Specifications Size: 70g Format: Hair clay pomade Hold: Firm Finish: Matte Texture: Smooth clay formula Compare other hold levels and finishes in our men's hair clays, pastes and putty.",
         "url": "https://www.malegroomingsupplies.com/products/slick-gorilla-clay-pomade-75g",
         "price": "£12.95",
         "brand": "Slick Gorilla",
@@ -38964,7 +38962,7 @@
             "sku": "SG03",
             "gtin": "96190807",
             "mpn": null,
-            "title": "Slick Gorilla Clay Pomade 75g",
+            "title": "Slick Gorilla Clay Pomade 70g",
             "url": "https://www.malegroomingsupplies.com/products/slick-gorilla-clay-pomade-75g",
             "price": "12.95 GBP",
             "sale_price": null,
@@ -39157,10 +39155,10 @@
         ]
       },
       {
-        "name": "Slick Gorilla Lightwork 75g",
+        "name": "Slick Gorilla Lightwork 70g",
         "category": "Hair Styling > Slick Gorilla",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Styling Products",
-        "description": "Slick Gorilla Lightwork is a 75g lightweight hair clay for adding body, texture and a matte finish. It suits styles that need a natural look with control but less weight than a heavier clay or pomade. The formula includes shea butter, kaolin, sunflower seed wax and olive oil unsaponifiables. Work a small amount through dry or slightly damp hair, then shape with fingers or a comb. For related Slick Gorilla styling options, compare Slick Gorilla Clay Pomade, Slick Gorilla Hair Powder, or browse Slick Gorilla hair styling products. Lightwork or Clay Pomade? Slick Gorilla Lightwork gives light-to-medium hold for natural texture and flexible shaping. If your style needs firmer, reworkable control, compare Slick Gorilla Clay Pomade. Choose Lightwork for a lighter feel, or Clay Pomade for a more structured result. Both offer a natural matte finish on dry hair. Key Features Lightweight clay: Adds body and texture without a heavy feel. Matte finish: Natural-looking, low-shine result. Flexible styling: Suitable for loose texture and everyday shape. Conditioning ingredients: Includes shea butter and sunflower seed wax. 75g size: Practical styling jar. Specifications Size: 75g Format: Lightweight hair clay Finish: Matte Key Ingredients: Shea butter, kaolin, sunflower seed wax and olive oil unsaponifiables Compare other hold levels and finishes in our men's hair clays, pastes and putty.",
+        "description": "Slick Gorilla Lightwork is a 70g lightweight hair clay for adding body, texture and a matte finish. It suits styles that need a natural look with control but less weight than a heavier clay or pomade. The formula includes shea butter, kaolin, sunflower seed wax and olive oil unsaponifiables. Work a small amount through dry or slightly damp hair, then shape with fingers or a comb. For related Slick Gorilla styling options, compare Slick Gorilla Clay Pomade, Slick Gorilla Hair Powder, or browse Slick Gorilla hair styling products. Lightwork or Clay Pomade? Slick Gorilla Lightwork gives light-to-medium hold for natural texture and flexible shaping. If your style needs firmer, reworkable control, compare Slick Gorilla Clay Pomade. Choose Lightwork for a lighter feel, or Clay Pomade for a more structured result. Both offer a natural matte finish on dry hair. Key Features Lightweight clay: Adds body and texture without a heavy feel. Matte finish: Natural-looking, low-shine result. Flexible styling: Suitable for loose texture and everyday shape. Conditioning ingredients: Includes shea butter and sunflower seed wax. 70g size: Practical styling jar. Specifications Size: 70g Format: Lightweight hair clay Finish: Matte Key Ingredients: Shea butter, kaolin, sunflower seed wax and olive oil unsaponifiables Compare other hold levels and finishes in our men's hair clays, pastes and putty.",
         "url": "https://www.malegroomingsupplies.com/products/slick-gorilla-lightwork-75g",
         "price": "£12.95",
         "brand": "Slick Gorilla",
@@ -39183,7 +39181,7 @@
             "sku": "SG02",
             "gtin": "96190814",
             "mpn": null,
-            "title": "Slick Gorilla Lightwork 75g",
+            "title": "Slick Gorilla Lightwork 70g",
             "url": "https://www.malegroomingsupplies.com/products/slick-gorilla-lightwork-75g",
             "price": "12.95 GBP",
             "sale_price": null,
@@ -41012,7 +41010,7 @@
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/travelcase-2.jpg?v=1734358604",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41033,7 +41031,7 @@
             "url": "https://www.malegroomingsupplies.com/products/henson-razor-case-vegan-leather",
             "price": "49.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/travelcase-2.jpg?v=1734358604",
             "options": {}
           }
