@@ -2,14 +2,14 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-04",
-    "generated_at": "2026-11-04T08:43:59+00:00",
+    "last_updated": "2026-11-05",
+    "generated_at": "2026-11-05T09:05:42+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [],
-    "product_count": 1084,
-    "variant_count": 1339,
+    "product_count": 1086,
+    "variant_count": 1341,
     "products": [
       {
         "name": "4711 Original After Shave Lotion Splash 100ml",
@@ -3160,7 +3160,7 @@
         "price": "£22.50",
         "brand": "Captain Fawcett",
         "vendor": "Captain Fawcett",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Triumphant_BeardBalm-4_large_c9e24c24-04ff-4d56-921b-00b4c6c52ac6.jpg?v=1751818754",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Beard_Balm_low_res-1.jpg?v=1751818754",
         "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -3182,7 +3182,7 @@
             "price": "22.50 GBP",
             "sale_price": null,
             "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Triumphant_BeardBalm-4_large_c9e24c24-04ff-4d56-921b-00b4c6c52ac6.jpg?v=1751818754",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/www.captainfawcett.com_Beard_Balm_low_res-1.jpg?v=1751818754",
             "options": {}
           }
         ]
@@ -5998,7 +5998,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Bath Soap and Shower Gels",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "D.R. Harris",
           "Bath, Body & Hand Care"
@@ -8596,7 +8595,6 @@
         "shipping": "Calculated at checkout",
         "product_type": "Bath Soap and Shower Gels",
         "collections": [
-          "New Additions",
           "Hair & Body",
           "Gift Sets",
           "D.R. Harris",
@@ -33545,7 +33543,7 @@
         "price": "£9.00",
         "brand": "Proraso",
         "vendor": "Proraso",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WOOD_SPICE_cera-2021_2c2c3c23-c87b-41ff-bd4e-a60f4595cfb3.png?v=1777921324",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404791-pr400761-2-3-1000_clipped_rev_1.jpg?v=1777921365",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -33567,7 +33565,7 @@
             "price": "9.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WOOD_SPICE_cera-2021_2c2c3c23-c87b-41ff-bd4e-a60f4595cfb3.png?v=1777921324",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9404791-pr400761-2-3-1000_clipped_rev_1.jpg?v=1777921365",
             "options": {}
           }
         ]
@@ -39451,6 +39449,82 @@
             "options": {
               "Size": "150ml"
             }
+          }
+        ]
+      },
+      {
+        "name": "Tabac Original Aftershave Lotion 50ml & Shower Gel 100ml Gift Set",
+        "category": "Gift Sets > Post-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "description": "The Tabac Original Gift Set contains Tabac Original Aftershave Lotion 50ml and Shower Gel 100ml. It is a two-piece grooming set built around the classic Tabac Original fragrance. The aftershave lotion is used after shaving to refresh the skin and leave the Tabac scent. The shower gel is for daily body cleansing and carries the same fragrance profile. For related options, browse the Tabac Original collection, men's aftershaves, fragrances and men's grooming gift sets. Key Features Two-piece gift set: Includes aftershave lotion and shower gel. Tabac Original scent: Classic aromatic fragrance profile. Post-shave use: Aftershave lotion refreshes the skin after shaving. Daily shower gel: Cleanses the body with the matching scent. Specifications Aftershave Lotion: 50ml Shower Gel: 100ml Set Type: Aftershave and shower gel gift set Brand: Tabac Original Shipping Note: Flammable item, hazardous goods shipping applies.",
+        "url": "https://www.malegroomingsupplies.com/products/tabac-original-gift-set",
+        "price": "£14.99",
+        "brand": "Tabac Original",
+        "vendor": "Tabac Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW444625TabacOriginalDUOSETASL50ml_SG100ml_preview_rev_1.jpg?v=1734440089",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Gift Sets",
+        "collections": [
+          "Post-Shave",
+          "New Additions",
+          "Tabac Original",
+          "Gift Sets",
+          "Men's Aftershaves"
+        ],
+        "variants": [
+          {
+            "id": "48849257890057",
+            "sku": "444625",
+            "gtin": "4011700444625",
+            "mpn": null,
+            "title": "Tabac Original Aftershave Lotion 50ml & Shower Gel 100ml Gift Set",
+            "url": "https://www.malegroomingsupplies.com/products/tabac-original-gift-set",
+            "price": "14.99 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW444625TabacOriginalDUOSETASL50ml_SG100ml_preview_rev_1.jpg?v=1734440089",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Tabac Original Aftershave Lotion 75ml & Shower Gel 100ml Gift Set",
+        "category": "Gift Sets > Post-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "description": "Tabac Original Aftershave Lotion 75ml & Shower Gel 100ml Gift Set combines two Tabac Original grooming products in the same fragrance family. The set includes an aftershave lotion for post-shave use and a shower gel for daily washing. The Tabac Original scent has fresh, floral, woody and aromatic notes. Because the set includes aftershave lotion, hazardous goods shipping applies. For matching products, browse the Tabac Original collection, compare Tabac Original Aftershave Lotion, or see more men's grooming gift sets. Key Features Two-piece gift set: Aftershave lotion and shower gel. Tabac Original scent: Fresh, floral, woody and aromatic notes. Post-shave product: Aftershave lotion for use after shaving. Shower gel included: Daily wash in matching fragrance. Flammable item: Hazardous goods shipping applies. Specifications Set Contents: Aftershave lotion 75ml and shower gel 100ml Format: Grooming gift set Fragrance Family: Fresh, woody and aromatic Shipping Note: Flammable item: hazardous goods shipping applies.",
+        "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-shower-gift-set",
+        "price": "£15.99",
+        "brand": "Tabac Original",
+        "vendor": "Tabac Original",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TODuosetgeschlossenVSMW444571_preview_rev_1.jpg?v=1734440089",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Gift Sets",
+        "collections": [
+          "Post-Shave",
+          "New Additions",
+          "Tabac Original",
+          "Gift Sets",
+          "Men's Aftershaves"
+        ],
+        "variants": [
+          {
+            "id": "48849257693449",
+            "sku": "444571",
+            "gtin": "4011700444571",
+            "mpn": null,
+            "title": "Tabac Original Aftershave Lotion 75ml & Shower Gel 100ml Gift Set",
+            "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-shower-gift-set",
+            "price": "15.99 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/TODuosetgeschlossenVSMW444571_preview_rev_1.jpg?v=1734440089",
+            "options": {}
           }
         ]
       },
