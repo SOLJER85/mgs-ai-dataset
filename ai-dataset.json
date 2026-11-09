@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-08",
-    "generated_at": "2026-11-08T08:41:28+00:00",
+    "last_updated": "2026-11-09",
+    "generated_at": "2026-11-09T09:19:01+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -13824,7 +13824,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-with-Stand-AS-D2S_clipped_rev_1.jpg?v=1737212246",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13847,7 +13847,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-as-d2s-razor-and-stand",
             "price": "180.00 GBP",
             "sale_price": "169.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-with-Stand-AS-D2S_clipped_rev_1.jpg?v=1737212246",
             "options": {}
           }
@@ -21693,7 +21693,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90001_x_clipped_rev_1.jpg?v=1784923874",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -21713,7 +21713,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-top-plate-33-bright-chrome-short-screw",
             "price": "10.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_90001_x_clipped_rev_1.jpg?v=1784923874",
             "options": {}
           }
@@ -27278,7 +27278,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-43r-male-grooming-supplies-796748.jpg?v=1722956809",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -27299,7 +27299,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-43r-mach-3-razor",
             "price": "30.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-43r-male-grooming-supplies-796748.jpg?v=1722956809",
             "options": {}
           }
