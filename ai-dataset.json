@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-09",
-    "generated_at": "2026-11-09T09:19:01+00:00",
+    "last_updated": "2026-11-10",
+    "generated_at": "2026-11-10T09:23:40+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -3738,7 +3738,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-gentlemans-cologne-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389696",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3759,7 +3759,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-gentlemans-cologne-eau-de-parfum-100ml",
             "price": "72.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-gentlemans-cologne-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389696",
             "options": {}
           }
@@ -3775,7 +3775,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-keig-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389705",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3796,7 +3796,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-keig-eau-de-parfum-100ml",
             "price": "72.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-keig-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389705",
             "options": {}
           }
@@ -3812,7 +3812,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389716",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3833,7 +3833,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lavender-aftershave-balm-150ml",
             "price": "33.75 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389716",
             "options": {}
           }
@@ -3849,7 +3849,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389737",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3870,7 +3870,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lavender-shaving-cream-200ml",
             "price": "26.75 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389737",
             "options": {}
           }
@@ -3886,7 +3886,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389747",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3907,7 +3907,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lime-aftershave-balm-150ml",
             "price": "33.75 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lime-aftershave-balm-150ml-01-pure-white-male-grooming-supplies.png?v=1788389747",
             "options": {}
           }
@@ -3997,7 +3997,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-special-reserve-vetiver-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389791",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -4018,7 +4018,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-special-reserve-vetiver-eau-de-parfum-100ml",
             "price": "98.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-special-reserve-vetiver-eau-de-parfum-100ml-01-pure-white-male-grooming-supplies.png?v=1788389791",
             "options": {}
           }
@@ -4034,7 +4034,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-fragrance-collection-discovery-box-01-pure-white-male-grooming-supplies.png?v=1788389799",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -4054,7 +4054,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-the-fragrance-collection-discovery-box",
             "price": "29.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-fragrance-collection-discovery-box-01-pure-white-male-grooming-supplies.png?v=1788389799",
             "options": {}
           }
@@ -4070,7 +4070,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-pre-shave-150ml-01-pure-white-male-grooming-supplies.png?v=1788389807",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -4091,7 +4091,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-the-pre-shave-150ml",
             "price": "36.25 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-the-pre-shave-150ml-01-pure-white-male-grooming-supplies.png?v=1788389807",
             "options": {}
           }
@@ -12994,7 +12994,7 @@
         ]
       },
       {
-        "name": "Dovo Bismarck Black Duke Straight Razor 6/8",
+        "name": "Dovo Bismarck Black Duke Straight Razor 6/8\"",
         "category": "Straight Razors > DOVO Solingen Straight Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "Dovo Bismarck Black Duke 6/8 is the black-finished version of the Bismarck straight razor, pairing a burnished carbon-steel blade with ebony scales. Its full-hollow grind and round point distinguish it from a flat-ground wedge razor. The 6/8 blade gives you a broader working surface than a 4/8 model. Choose it for a traditional straight-razor routine with stropping, rather than for the convenience of replaceable blades. The roof-shaped spine and thumb notch are features of this model; the dark blade finish does not turn its carbon steel into stainless steel. After shaving, rinse off residue and dry the blade carefully without touching the cutting edge. Leave the razor open in a dry place until it has dried fully before putting it away. For related Dovo options, compare Dovo 'Black Star' Pakkawood Straight Razor 5/8\" with Dovo 'Master's' Straight Razor \"6/8, or browse the DOVO Solingen collection. Key Features: Premium 6/8\" burnished carbon steel blade with a full hollow grind. Black ebony handle for elegance and durability. Roof-shaped spine and thumbnotch for precise control. Handcrafted by experienced Solingen artisans. Perfect for daily shaving or as a collector's item. Specifications: Material: Carbon steel 1.2210 (burnished finish). Handle: Black ebony. Blade Profile: Round point, concave profile. Grind: Full hollow ground. Dimensions: 16 cm x 2.7 cm x 1.1 cm.",
@@ -13021,7 +13021,7 @@
             "sku": "10682082",
             "gtin": "4045284008812",
             "mpn": null,
-            "title": "Dovo Bismarck Black Duke Straight Razor 6/8",
+            "title": "Dovo Bismarck Black Duke Straight Razor 6/8\"",
             "url": "https://www.malegroomingsupplies.com/products/dovo-bismarck-black-duke-razor-68",
             "price": "162.85 GBP",
             "sale_price": null,
@@ -13094,7 +13094,7 @@
           {
             "id": "48236304859401",
             "sku": "201 003 / 31450411",
-            "gtin": null,
+            "gtin": "4045284009307",
             "mpn": null,
             "title": "Dovo Blade Holder for Shavette (3 Colours) - Clear",
             "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304859401",
@@ -13124,7 +13124,7 @@
           {
             "id": "48236304924937",
             "sku": "201 005",
-            "gtin": null,
+            "gtin": "4045284009321",
             "mpn": null,
             "title": "Dovo Blade Holder for Shavette (3 Colours) - Green",
             "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304924937",
@@ -38752,7 +38752,7 @@
         "price": "£35.95",
         "brand": "Simpsons",
         "vendor": "Simpsons",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1791063976",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1794237938",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -38775,7 +38775,7 @@
             "price": "35.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1791063976",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/WeeScot.png?v=1794237938",
             "options": {}
           }
         ]
