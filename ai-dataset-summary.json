@@ -47,7 +47,7 @@
     "Health & Beauty > Personal Care > Hair Care > Hair Styling Products > Hair Powders": 2,
     "Health & Beauty > Personal Care > Hair Care > Hair Styling Products > Hair Sprays": 1,
     "Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes": 18,
-    "Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes > Hair Combs": 4,
+    "Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes > Hair Combs": 2,
     "Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes > Hairbrushes & Combs": 2,
     "Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes > Round Hairbrushes": 1,
     "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners": 10,
@@ -92,7 +92,7 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-11-11T08:57:54+00:00",
+  "generated_at": "2026-11-12T09:26:16+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1151,
   "openai_feed": "openai-products-feed.csv.gz",
@@ -225,10 +225,10 @@
   "validation": {
     "availability_counts": {
       "in_stock": 1101,
-      "out_of_stock": 310
+      "out_of_stock": 308
     },
     "checkout_eligibility_counts": {
-      "false": 1411
+      "false": 1409
     },
     "duplicate_item_id_count": 0,
     "duplicate_offer_id_count": 0,
@@ -251,7 +251,7 @@
       "title": 0,
       "url": 0
     },
-    "row_count": 1411,
+    "row_count": 1409,
     "rows_with_gtin": 1335,
     "rows_with_mpn": 0,
     "schema_errors": [],
