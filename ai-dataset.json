@@ -2,14 +2,14 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-12",
-    "generated_at": "2026-11-12T09:26:16+00:00",
+    "last_updated": "2026-11-13",
+    "generated_at": "2026-11-13T09:12:14+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
     "target_countries": [],
-    "product_count": 1151,
-    "variant_count": 1409,
+    "product_count": 1172,
+    "variant_count": 1431,
     "products": [
       {
         "name": "4711 Original After Shave Lotion Splash 100ml",
@@ -133,7 +133,7 @@
         "brand": "4711 Original",
         "vendor": "4711 Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-deodorant-spray-pure-white.png?v=1790537526",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -154,7 +154,7 @@
             "url": "https://www.malegroomingsupplies.com/products/4711-original-deodorant-spray-150ml",
             "price": "6.59 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-deodorant-spray-pure-white.png?v=1790537526",
             "options": {}
           }
@@ -4107,7 +4107,7 @@
         "brand": "Cella",
         "vendor": "Cella",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/balsamo-dopobarba-prodotto-scatola.jpg?v=1758375400",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -4128,7 +4128,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cella-after-shave-balm-100ml",
             "price": "8.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/balsamo-dopobarba-prodotto-scatola.jpg?v=1758375400",
             "options": {}
           }
@@ -4218,7 +4218,7 @@
         "brand": "Cella",
         "vendor": "Cella",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200103_105914_resized_clipped_rev_1.jpg?v=1758362833",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -4238,7 +4238,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cella-beard-moustache-brush",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/20200103_105914_resized_clipped_rev_1.jpg?v=1758362833",
             "options": {}
           }
@@ -4390,6 +4390,1050 @@
         ]
       },
       {
+        "name": "Cella EPIC - Absolute Aftershave Spray - Buongiorno al Sandalo 100ml",
+        "category": "Aftershave > Post-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
+        "description": "Cella EPIC Buongiorno al Sandalo Absolute Aftershave Spray is a fluid, alcohol-based finish for freshly shaved skin. It gives an immediate fresh sensation and leaves the warm woody character of Sandalo behind. The spray format makes it easy to apply before gently dabbing into the face. Choose it when you enjoy the brisk feel of a traditional liquid aftershave rather than a cream or balm. Compare splashes and balms in our post-shave collection, or discover the wider Cella Milano range. Key Features Light liquid aftershave for use following the shave. Alcohol-based formula gives a distinct fresh sensation. Spray dispenser suits a quick finishing step. Sandalwood, patchouli and cedarwood feature in the fragrance base. Specifications Product type: Alcohol-based aftershave spray Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57331 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic How to Use Spray onto the dry face after shaving and dab gently until absorbed. Finish a Sandalo shave with the fluid freshness of Absolute Aftershave.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-absolute-aftershave-spray-buongiorno-al-sandalo-100ml",
+        "price": "£21.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57331-SHAV-absol-after-BAS-100-rend-insieme-1080x1350.jpg?v=1794497579",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Aftershave",
+        "collections": [
+          "Post-Shave",
+          "New Additions",
+          "Cella Milano",
+          "Fragrances"
+        ],
+        "variants": [
+          {
+            "id": "57565150806281",
+            "sku": "57331",
+            "gtin": "8001117573311",
+            "mpn": null,
+            "title": "Cella EPIC - Absolute Aftershave Spray - Buongiorno al Sandalo 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-absolute-aftershave-spray-buongiorno-al-sandalo-100ml",
+            "price": "21.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57331-SHAV-absol-after-BAS-100-rend-insieme-1080x1350.jpg?v=1794497579",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Absolute Aftershave Spray - Riserva Fresco 100ml",
+        "category": "Aftershave > Post-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
+        "description": "Citrus and aromatic notes give Cella EPIC Riserva Fresco Absolute Aftershave Spray its distinctive post-shave character. This alcohol-based fluid is designed to freshen and tone the skin after the razor. The lightweight liquid is sprayed onto the dry face and gently dabbed in. It is the Riserva Fresco option for those who prefer a brisk liquid aftershave to a leave-on cream-gel. Explore our post-shave care for other finishing textures and Cella Milano for more of the brand. Key Features Fluid spray format spreads without a rich cream texture. Alcohol-based composition provides an immediate fresh feel. Lemon, bergamot, mint and basil introduce the fragrance. Part of the citrus-aromatic Riserva Fresco shaving range. Specifications Product type: Liquid aftershave spray Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57332 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic How to Use After shaving, spray onto the dry face and dab until absorbed. Select Riserva Fresco for a bright, fresh-scented finishing step.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-absolute-aftershave-spray-riserva-fresco-100ml",
+        "price": "£21.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57332-SHAV-absol-after-RF-100-rend-insieme-1080x1350.jpg?v=1794497581",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Aftershave",
+        "collections": [
+          "Post-Shave",
+          "New Additions",
+          "Cella Milano",
+          "Fragrances"
+        ],
+        "variants": [
+          {
+            "id": "57565150839049",
+            "sku": "57332",
+            "gtin": "8001117573328",
+            "mpn": null,
+            "title": "Cella EPIC - Absolute Aftershave Spray - Riserva Fresco 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-absolute-aftershave-spray-riserva-fresco-100ml",
+            "price": "21.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57332-SHAV-absol-after-RF-100-rend-insieme-1080x1350.jpg?v=1794497581",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Anti-Ageing Aftershave Cream-Gel - Buongiorno al Sandalo 100ml",
+        "category": "Post Shave > Post-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
+        "description": "Cella EPIC Buongiorno al Sandalo Aftershave Cream-Gel combines the light application of a gel with the comfort of a cream. Its alcohol-free oil-in-water emulsion leaves the face and neck feeling hydrated after shaving. The silky formula includes ceramides and coenzyme Q10, with the warm woody fragrance of Buongiorno al Sandalo. It is a lighter-textured alternative to a rich post-shave cream. For other ways to finish a shave, see post-shave care, alongside our full Cella Milano selection. Key Features Alcohol-free formula for a cream-gel post-shave finish. Ultra-light, silky texture spreads comfortably over face and neck. Ceramides and coenzyme Q10 feature in the emulsion. Leave-on application needs no rinsing. Specifications Product type: Alcohol-free aftershave cream-gel Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57333 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic How to Use Massage onto the face and neck with circular movements until absorbed. Do not rinse. Choose the Sandalo cream-gel for hydration without the brisk feel of an alcohol-based splash.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-anti-ageing-aftershave-cream-gel-buongiorno-al-sandalo-100ml",
+        "price": "£24.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57333-SHAV-cremagel-antiage-BAS-100-rend-insieme-1080x1350.jpg?v=1794497584",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Post Shave",
+        "collections": [
+          "Post-Shave",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations",
+          "Face & Skin Care",
+          "Men's Anti-Ageing & Age Defying Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57565150871817",
+            "sku": "57333",
+            "gtin": "8001117573335",
+            "mpn": null,
+            "title": "Cella EPIC - Anti-Ageing Aftershave Cream-Gel - Buongiorno al Sandalo 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-anti-ageing-aftershave-cream-gel-buongiorno-al-sandalo-100ml",
+            "price": "24.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57333-SHAV-cremagel-antiage-BAS-100-rend-insieme-1080x1350.jpg?v=1794497584",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Anti-Ageing Aftershave Cream-Gel - Riserva Fresco 100ml",
+        "category": "Post Shave > Post-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
+        "description": "If you prefer your aftershave without alcohol, Cella EPIC Riserva Fresco Cream-Gel offers a light, silky option. It hydrates the face and neck while leaving the fresh citrus-aromatic scent of the Riserva Fresco range. The fine oil-in-water emulsion combines ceramides and coenzyme Q10. Applied after shaving, it absorbs with gentle massage and remains on the skin rather than being rinsed away. Choose between lotions and balm textures in post-shave care, or browse more Cella Milano products. Key Features Alcohol-free alternative to Riserva Fresco Absolute Spray. Cream and gel characteristics in one light-textured emulsion. Formulated with ceramides and coenzyme Q10. Fresh aromatic fragrance complements a citrus-scented shave. Specifications Product type: Leave-on aftershave cream-gel Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57334 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic How to Use Apply to face and neck, massaging in circles until absorbed. Leave on without rinsing. Make this your post-shave choice when light hydration matters more than the feel of a splash.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-anti-ageing-aftershave-cream-gel-riserva-fresco-100ml",
+        "price": "£24.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57334-SHAV-cremagel-antiage-RF-100-rend-insieme-1080x1350.jpg?v=1794497586",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Post Shave",
+        "collections": [
+          "Post-Shave",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations",
+          "Face & Skin Care",
+          "Men's Anti-Ageing & Age Defying Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57565150904585",
+            "sku": "57334",
+            "gtin": "8001117573342",
+            "mpn": null,
+            "title": "Cella EPIC - Anti-Ageing Aftershave Cream-Gel - Riserva Fresco 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-anti-ageing-aftershave-cream-gel-riserva-fresco-100ml",
+            "price": "24.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57334-SHAV-cremagel-antiage-RF-100-rend-insieme-1080x1350.jpg?v=1794497586",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Beard & Shave Precision Brushless Cream - Buongiorno al Sandalo 175ml",
+        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
+        "description": "Cella EPIC Buongiorno al Sandalo Beard and Shave Precision Brushless Cream is made for the areas where seeing the blade matters. It stays transparent on the skin, helping you follow beard edges, sideburns or a moustache outline. There is no need to build a brush lather. Apply the cream directly where you want to shave for a precise tidy-up or a quick additional pass, with the warm woody scent of the Sandalo range. Compare brushless and traditional formats in our shaving cream collection, or explore more Cella Milano grooming products. Key Features Transparent application leaves the shaving line visible. No shaving brush or lather bowl required. Useful for shaping a beard, goatee, sideburns or moustache. Pump bottle dispenses the cream directly for targeted use. Specifications Product type: Brushless precision shaving cream Contents: 175ml Retail quantity: 1 unit Manufacturer reference: 57315 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic How to Use Apply to the areas you wish to shave, then shave while following the visible outline. Keep it to hand for careful edge work between full shaves.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-and-shave-precision-brushless-cream-buongiorno-al-sandalo-175ml",
+        "price": "£17.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57315-BEARD-beard-e-shave-precision-cream-BAS-175-rend-insieme-1080x1350.jpg?v=1794497573",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Cream, Gels & Soaps",
+        "collections": [
+          "Men's Shaving Creams",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57565150511369",
+            "sku": "57315",
+            "gtin": "8001117573151",
+            "mpn": null,
+            "title": "Cella EPIC - Beard & Shave Precision Brushless Cream - Buongiorno al Sandalo 175ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-and-shave-precision-brushless-cream-buongiorno-al-sandalo-175ml",
+            "price": "17.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57315-BEARD-beard-e-shave-precision-cream-BAS-175-rend-insieme-1080x1350.jpg?v=1794497573",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Beard & Shave Precision Brushless Cream - Riserva Fresco 175ml",
+        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
+        "description": "For clean beard boundaries without covering them in foam, Cella EPIC Riserva Fresco Brushless Cream offers a transparent shaving layer. You can see the line of the beard, moustache or sideburn as you work. This is a direct-application precision cream rather than the EPIC brush-lather cream. The 175ml pump format suits regular tidying, with the crisp citrus and aromatic character of Riserva Fresco. Browse shaving creams to choose your preferred shaving texture, with further options in the Cella Milano range. Key Features Clear on the face to help you judge outlines accurately. Applied directly, with no brush-lathering step. Suitable for detailed shaving around facial hair. Fresh Riserva Fresco fragrance pairs citrus with aromatic herbs. Specifications Product type: Transparent brushless shaving cream Contents: 175ml Retail quantity: 1 unit Manufacturer reference: 57316 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic How to Use Spread the cream over the areas to be shaved and proceed with the razor. Choose this format for visible control when shaping your facial hair.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-and-shave-precision-brushless-cream-riserva-fresco-175ml",
+        "price": "£17.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57316-BEARD-beard-e-shave-precision-cream-RF-175-rend-insieme-1080X1350.jpg?v=1794497576",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Cream, Gels & Soaps",
+        "collections": [
+          "Men's Shaving Creams",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57565150544137",
+            "sku": "57316",
+            "gtin": "8001117573168",
+            "mpn": null,
+            "title": "Cella EPIC - Beard & Shave Precision Brushless Cream - Riserva Fresco 175ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-and-shave-precision-brushless-cream-riserva-fresco-175ml",
+            "price": "17.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57316-BEARD-beard-e-shave-precision-cream-RF-175-rend-insieme-1080X1350.jpg?v=1794497576",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Beard Repair Balm - Buongiorno al Sandalo 100ml",
+        "category": "Beard and Moustache > Beard & Moustache Care",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Beard Balms",
+        "description": "Cella EPIC Buongiorno al Sandalo Beard Repair Balm is a leave-in emulsion for softening and detangling facial hair. Its velvety texture helps make a beard or moustache more manageable without the format of a solid wax balm. The alcohol-free formula contains keratin and ceramide. Sandalwood and patchouli notes give it a warm woody finish that works naturally with the other Sandalo beard products. For cleansing and grooming steps around a beard balm, browse beard and moustache care and our Cella Milano range. Key Features Fluid balm emulsion rather than a firm styling wax. Helps soften, detangle and prepare facial hair for grooming. Alcohol-free formula includes keratin and ceramide. Leave-in treatment for both beard and moustache. Specifications Product type: Leave-in beard balm emulsion Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57361 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic How to Use Apply to the beard or moustache and massage through the hair. Leave in without rinsing. Add this balm when your beard needs softness and easier grooming after cleansing.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-repair-balm-buongiorno-al-sandalo-100ml",
+        "price": "£21.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57361-BEARD-beard-repair-balm-BAS-100-rend-insieme-1080x1350.jpg?v=1794497599",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Beard and Moustache",
+        "collections": [
+          "New Additions",
+          "Beard & Moustache Care",
+          "Cella Milano"
+        ],
+        "variants": [
+          {
+            "id": "57565151068425",
+            "sku": "57361",
+            "gtin": "8001117573618",
+            "mpn": null,
+            "title": "Cella EPIC - Beard Repair Balm - Buongiorno al Sandalo 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-repair-balm-buongiorno-al-sandalo-100ml",
+            "price": "21.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57361-BEARD-beard-repair-balm-BAS-100-rend-insieme-1080x1350.jpg?v=1794497599",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Beard Repair Balm - Riserva Fresco 100ml",
+        "category": "Beard and Moustache > Beard & Moustache Care",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Beard Balms",
+        "description": "For a beard that is easier to comb and arrange, Cella EPIC Riserva Fresco Beard Repair Balm provides leave-in conditioning in an emulsion. It spreads through facial hair with a velvety feel rather than the firm hold of a wax. Keratin and ceramide feature in the alcohol-free formula. The citrus-aromatic Riserva Fresco fragrance gives the finished beard a fresh character. Build your beard routine with our beard and moustache collection, or explore further Cella Milano grooming options. Key Features Conditioning balm designed to stay in the beard. Detangling effect helps with combing and everyday styling. Emulsion texture is distinct from a solid beard balm. Suitable for use through the moustache as well as the beard. Specifications Product type: Alcohol-free conditioning beard balm Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57362 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic How to Use Work through the beard and moustache with a light massage. Do not rinse. Use it as a conditioning finish when you want a softer, more manageable beard.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-repair-balm-riserva-fresco-100ml",
+        "price": "£21.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57362-BEARD-beard-repair-balm-RF-100-rend-insieme-1080x1350.jpg?v=1794497601",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Beard and Moustache",
+        "collections": [
+          "New Additions",
+          "Beard & Moustache Care",
+          "Cella Milano"
+        ],
+        "variants": [
+          {
+            "id": "57565151101193",
+            "sku": "57362",
+            "gtin": "8001117573625",
+            "mpn": null,
+            "title": "Cella EPIC - Beard Repair Balm - Riserva Fresco 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-repair-balm-riserva-fresco-100ml",
+            "price": "21.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57362-BEARD-beard-repair-balm-RF-100-rend-insieme-1080x1350.jpg?v=1794497601",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Beard Supreme Oil - Buongiorno al Sandalo 50ml",
+        "category": "Beard and Moustache > Beard & Moustache Care",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Beard Oil",
+        "description": "Cella EPIC Buongiorno al Sandalo Supreme Beard Oil combines plant oils with a light, dry-feeling finish. It helps soften the beard and moustache, adding shine without the heavy feel of a richer dressing. Olive, argan, sweet almond and sunflower oils form part of the blend. The warm sandalwood-led fragrance gives this 50ml oil a distinctive woody character. Compare oils and other beard-grooming formats in beard and moustache care, alongside more from Cella Milano. Key Features Oil conditioning for beard and moustache. Plant-oil blend includes olive, argan, sweet almond and sunflower. Light texture leaves a non-greasy feel. Adds softness and shine as a grooming finish. Specifications Product type: Beard and moustache oil Contents: 50ml Retail quantity: 1 unit Manufacturer reference: 57363 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic How to Use Massage a suitable amount through the beard and moustache. Choose Supreme Oil for a softer beard with the warmth of Sandalo.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-supreme-oil-buongiorno-al-sandalo-50ml",
+        "price": "£25.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57363-BEARD-supreme-oil-BAS-50-rend-insieme-1080x1350.jpg?v=1794497604",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Beard and Moustache",
+        "collections": [
+          "New Additions",
+          "Beard & Moustache Care",
+          "Cella Milano"
+        ],
+        "variants": [
+          {
+            "id": "57565151133961",
+            "sku": "57363",
+            "gtin": "8001117573632",
+            "mpn": null,
+            "title": "Cella EPIC - Beard Supreme Oil - Buongiorno al Sandalo 50ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-supreme-oil-buongiorno-al-sandalo-50ml",
+            "price": "25.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57363-BEARD-supreme-oil-BAS-50-rend-insieme-1080x1350.jpg?v=1794497604",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Beard Supreme Oil - Riserva Fresco 50ml",
+        "category": "Beard and Moustache > Beard & Moustache Care",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Beard Oil",
+        "description": "Bring a fresh scent and a softer feel to facial hair with Cella EPIC Riserva Fresco Supreme Beard Oil. The lightweight blend helps condition the beard and moustache while adding a groomed-looking shine. Olive, argan, sweet almond and sunflower oils are combined in a formula designed for a dry, non-greasy skin feel. Riserva Fresco supplies citrus, herbal and warm aromatic notes. Explore the beard and moustache collection for tools and care products, or browse our Cella Milano selection. Key Features Light-feeling oil for finishing a beard-care routine. Helps leave beard and moustache hair soft to the touch. Combines four named plant oils with plant extracts. Citrus-aromatic scent offers a fresh alternative to Sandalo Supreme Oil. Specifications Product type: Conditioning beard oil Contents: 50ml Retail quantity: 1 unit Manufacturer reference: 57364 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic How to Use Distribute through the beard and moustache, massaging evenly. Pick Riserva Fresco for an oil finish that feels light and smells fresh.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-supreme-oil-riserva-fresco-50ml",
+        "price": "£25.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57364-BEARD-supreme-oil-RF-50-rend-insieme-1080x1350.jpg?v=1794497606",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Beard and Moustache",
+        "collections": [
+          "New Additions",
+          "Beard & Moustache Care",
+          "Cella Milano"
+        ],
+        "variants": [
+          {
+            "id": "57565151166729",
+            "sku": "57364",
+            "gtin": "8001117573649",
+            "mpn": null,
+            "title": "Cella EPIC - Beard Supreme Oil - Riserva Fresco 50ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-beard-supreme-oil-riserva-fresco-50ml",
+            "price": "25.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57364-BEARD-supreme-oil-RF-50-rend-insieme-1080x1350.jpg?v=1794497606",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Daily Gentle Beard Shampoo - Buongiorno al Sandalo 175ml",
+        "category": "Beard and Moustache > Beard & Moustache Care",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Beard Shampoo & Wash",
+        "description": "Cella EPIC Buongiorno al Sandalo Conditioning Beard Shampoo washes the beard while helping it feel softer and easier to comb. Its rich, rinse-out texture makes cleansing a practical part of everyday beard care. Allantoin, panthenol and keratin feature in the formula. The Sandalo fragrance adds warm woody notes, so the wash can sit alongside the matching balm or beard oil without introducing a different scent family. Discover more beard washes and shampoos for your cleansing routine and explore Cella Milano. Key Features Beard cleanser with a conditioning, detangling effect. Helps make facial hair more manageable after washing. Rich texture rinses away readily. 175ml pump bottle for dispensing onto a wet beard. Specifications Product type: Conditioning beard shampoo Contents: 175ml Retail quantity: 1 unit Manufacturer reference: 57341 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic How to Use Apply to the wet beard, massage through the hair and rinse. Start your beard routine with a wash that combines cleansing and easier combing.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-daily-gentle-beard-shampoo-buongiorno-al-sandalo-175ml",
+        "price": "£15.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57341-BEARD-daily-gentle-shampoo-BAS-175-rend-insieme-1080x1350.jpg?v=1794497589",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Beard and Moustache",
+        "collections": [
+          "New Additions",
+          "Beard & Moustache Care",
+          "Cella Milano",
+          "Shampoo & Conditioner",
+          "Beard Wash & Shampoo"
+        ],
+        "variants": [
+          {
+            "id": "57565150937353",
+            "sku": "57341",
+            "gtin": "8001117573410",
+            "mpn": null,
+            "title": "Cella EPIC - Daily Gentle Beard Shampoo - Buongiorno al Sandalo 175ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-daily-gentle-beard-shampoo-buongiorno-al-sandalo-175ml",
+            "price": "15.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57341-BEARD-daily-gentle-shampoo-BAS-175-rend-insieme-1080x1350.jpg?v=1794497589",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Daily Gentle Beard Shampoo - Riserva Fresco 175ml",
+        "category": "Beard and Moustache > Beard & Moustache Care",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Beard Shampoo & Wash",
+        "description": "A clean beard should also be easy to groom. Cella EPIC Riserva Fresco Beard Shampoo combines cleansing with a conditioning effect, helping to detangle facial hair as you wash. Its creamy, easy-rinse texture contains allantoin, panthenol and keratin. Citrus and aromatic herbs give Riserva Fresco a fresher character than the woody Sandalo beard wash. Compare beard-cleansing options in beard wash and shampoo, with further grooming choices from Cella Milano. Key Features Rinse-out wash for regular beard cleansing. Conditioning action helps soften hair and improve combability. Contains panthenol, allantoin and keratin. Pump packaging keeps the wash straightforward to dispense. Specifications Product type: Daily conditioning beard wash Contents: 175ml Retail quantity: 1 unit Manufacturer reference: 57342 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic How to Use Massage into a wet beard, then rinse out thoroughly. Choose Riserva Fresco for a fresh-scented foundation to your beard-care routine.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-daily-gentle-beard-shampoo-riserva-fresco-175ml",
+        "price": "£15.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57342-BEARD-daily-gentle-shampoo-RF-175-rend-insieme-1080x1350.jpg?v=1794497592",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Beard and Moustache",
+        "collections": [
+          "New Additions",
+          "Beard & Moustache Care",
+          "Cella Milano",
+          "Shampoo & Conditioner",
+          "Beard Wash & Shampoo"
+        ],
+        "variants": [
+          {
+            "id": "57565150970121",
+            "sku": "57342",
+            "gtin": "8001117573427",
+            "mpn": null,
+            "title": "Cella EPIC - Daily Gentle Beard Shampoo - Riserva Fresco 175ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-daily-gentle-beard-shampoo-riserva-fresco-175ml",
+            "price": "15.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57342-BEARD-daily-gentle-shampoo-RF-175-rend-insieme-1080x1350.jpg?v=1794497592",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Daily Soft Care Shampoo 175ml",
+        "category": "Shampoo & Conditioner > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo",
+        "description": "Cella EPIC Daily Soft Care Shampoo is intended for men who wash their hair frequently. Its creamy formula cleanses while helping preserve hydration, leaving hair easier to manage and comb. The pump bottle makes it simple to dispense the amount you need, whether washing after exercise or as part of your usual daily routine. This is the regular-use cleanser in the EPIC hair-care range. Explore other daily washing options among our shampoos and conditioners and see more from Cella Milano. Key Features Formulated for frequent hair washing. Cleanses with a creamy texture and a conditioning feel. Helps maintain hydration rather than leaving hair feeling stripped. Practical pump bottle for repeat use. Specifications Product type: Frequent-use hair shampoo Contents: 175ml Retail quantity: 1 unit Manufacturer reference: 57346 How to Use Dispense onto wet hair, massage gently and rinse. Choose Daily Soft Care for an uncomplicated regular hair wash.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-daily-soft-care-shampoo-175ml",
+        "price": "£15.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57346-HAIR-soft-care-sham-175-rend-insieme-1080x1350.jpg?v=1794497596",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shampoo & Conditioner",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Cella Milano",
+          "Shampoo & Conditioner"
+        ],
+        "variants": [
+          {
+            "id": "57565151035657",
+            "sku": "57346",
+            "gtin": "8001117573465",
+            "mpn": null,
+            "title": "Cella EPIC - Daily Soft Care Shampoo 175ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-daily-soft-care-shampoo-175ml",
+            "price": "15.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57346-HAIR-soft-care-sham-175-rend-insieme-1080x1350.jpg?v=1794497596",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Eau de Parfum - Buongiorno al Sandalo 100ml",
+        "category": "Fragrances > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum",
+        "description": "Cella EPIC Buongiorno al Sandalo Eau de Parfum is a woody aromatic fragrance built around sandalwood and patchouli. Bright elemi, lemon and bergamot petitgrain introduce a warmer, more textured heart. Orange blossom, jasmine and Turkish rose meet cardamom before a base of sandalwood, tonka bean, patchouli, cedarwood and oak moss. The 100ml bottle is the fragrance-led expression of the Sandalo character found across the EPIC grooming range. Explore more scent options in our fragrance collection, or browse Cella Milano for the brand’s grooming products. Key Features Woody aromatic Eau de Parfum centred on sandalwood and patchouli. Citrus and resinous opening balances the deeper wood notes. Floral heart gains a spicy edge from cardamom. Supplied as one 100ml fragrance bottle, not a mixed perfume set. Specifications Product type: Eau de Parfum Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57391 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic Top notes: Elemi, lemon, bergamot petitgrain Heart notes: Orange blossom, jasmine, Turkish rose, cardamom Base notes: Sandalwood, tonka bean, patchouli, cedarwood, oak moss Choose Buongiorno al Sandalo if you favour warm woods with a bright aromatic opening.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-eau-de-parfum-buongiorno-al-sandalo-100ml",
+        "price": "£68.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57391-parfum-BAS-100-rend-insieme-1080x1350.jpg?v=1794497626",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Fragrances",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Cella Milano",
+          "Fragrances"
+        ],
+        "variants": [
+          {
+            "id": "57565151396105",
+            "sku": "57391",
+            "gtin": "8001117573915",
+            "mpn": null,
+            "title": "Cella EPIC - Eau de Parfum - Buongiorno al Sandalo 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-eau-de-parfum-buongiorno-al-sandalo-100ml",
+            "price": "68.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57391-parfum-BAS-100-rend-insieme-1080x1350.jpg?v=1794497626",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Eau de Parfum - Riserva Fresco 100ml",
+        "category": "Fragrances > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum",
+        "description": "Cella EPIC Riserva Fresco Eau de Parfum opens with lemon, bergamot and sweet orange, lifted by mint leaves and basil. It is the citrus-aromatic alternative to the warmer woody Buongiorno al Sandalo fragrance. Arabian jasmine, Bulgarian rose, warm spices and iris form the heart. Tonka bean, patchouli, vetiver, oak moss and amber give the fragrance a deeper base beneath its fresh opening. Compare other scent styles in fragrances and discover further grooming choices in the Cella Milano collection. Key Features Citrus-aromatic Eau de Parfum with a fresh herbal introduction. Mint and basil add character to the citrus top notes. Floral and spice notes lead into a warm, woody amber base. One 100ml bottle is supplied per retail purchase. Specifications Product type: Eau de Parfum Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57392 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic Top notes: Lemon, bergamot, sweet orange, mint leaves, basil Heart notes: Arabian jasmine, Bulgarian rose, warm spices, iris Base notes: Tonka bean, patchouli, vetiver, oak moss, amber Select Riserva Fresco when fresh citrus and aromatic herbs are your preferred fragrance direction.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-eau-de-parfum-riserva-fresco-100ml",
+        "price": "£68.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57392-parfum-RF-100-rend-insieme-1080x1350.jpg?v=1794497629",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Fragrances",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Cella Milano",
+          "Fragrances"
+        ],
+        "variants": [
+          {
+            "id": "57565151494409",
+            "sku": "57392",
+            "gtin": "8001117573922",
+            "mpn": null,
+            "title": "Cella EPIC - Eau de Parfum - Riserva Fresco 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-eau-de-parfum-riserva-fresco-100ml",
+            "price": "68.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57392-parfum-RF-100-rend-insieme-1080x1350.jpg?v=1794497629",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Hyaluronic + Collagen Face Serum 75ml",
+        "category": "Face & Skincare > Cella Milano",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care > Face Serums",
+        "description": "Cella EPIC Hyaluronic and Collagen Face Serum brings two complementary ingredients to a facial care step for men. Hyaluronic acid supports hydration, while collagen forms a surface film that helps the skin look smoother. The serum is intended for the face and neck and is applied with a gentle massage. It is a useful choice when hydration and a more even, firmer-looking appearance are priorities. Browse face and skin care to choose other steps for your facial routine, alongside our Cella Milano collection. Key Features Facial serum combining hyaluronic acid and collagen. Helps give the skin a smoother, more compact appearance. Hydrating treatment designed for men's skin. 75ml format for use across the face and neck. Specifications Product type: Hydrating facial serum Contents: 75ml Retail quantity: 1 unit Manufacturer reference: 57383 How to Use Massage gently onto the face and neck using light pressure. Choose this serum for a focused hydration step with a smoothing finish.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-hyaluronic-collagen-face-serum-75ml",
+        "price": "£25.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57383-SKIN-hyalu-collagene-75-rend-insieme-1080x1350.jpg?v=1794497614",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Face & Skincare",
+        "collections": [
+          "New Additions",
+          "Cella Milano",
+          "Face & Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57565151265033",
+            "sku": "57383",
+            "gtin": "8001117573830",
+            "mpn": null,
+            "title": "Cella EPIC - Hyaluronic + Collagen Face Serum 75ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-hyaluronic-collagen-face-serum-75ml",
+            "price": "25.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57383-SKIN-hyalu-collagene-75-rend-insieme-1080x1350.jpg?v=1794497614",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Hyaluronic Exfoliating Face Scrub 100ml",
+        "category": "Face & Skincare > Cella Milano",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care > Facial Cleansers",
+        "description": "Cella EPIC Hyaluronic Exfoliating Face Scrub combines cleansing and exfoliation in a watery gel texture. It helps lift the dull feel of the skin's surface, leaving the face feeling softer and smoother. Applied to damp skin with circular movements, the micro-purifying formula offers a different step from a leave-on cream or serum. Keep the application away from the eye and lip areas. Follow your preferred cleansing routine with a choice from face and skin care, or explore the wider Cella Milano range. Key Features Exfoliating facial cleanser in a gel format. Helps leave skin feeling soft and clear after cleansing. Watery texture is comfortable to massage onto damp skin. 100ml pump bottle for controlled dispensing. Specifications Product type: Exfoliating face scrub gel Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57385 How to Use Massage onto damp skin using circular movements, avoiding the areas around the eyes and lips. Choose this scrub when your facial-cleansing routine needs an exfoliating step.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-hyaluronic-exfoliating-face-scrub-100ml",
+        "price": "£24.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57385-SKIN-hyalu-exfolian-100-rend-insieme-1080x1350.jpg?v=1794497619",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Face & Skincare",
+        "collections": [
+          "New Additions",
+          "Cella Milano",
+          "Face & Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57565151330569",
+            "sku": "57385",
+            "gtin": "8001117573854",
+            "mpn": null,
+            "title": "Cella EPIC - Hyaluronic Exfoliating Face Scrub 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-hyaluronic-exfoliating-face-scrub-100ml",
+            "price": "24.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57385-SKIN-hyalu-exfolian-100-rend-insieme-1080x1350.jpg?v=1794497619",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Hyaluronic Eye Contour 50ml",
+        "category": "Face & Skincare > Cella Milano",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care > Eye Creams",
+        "description": "Cella EPIC Hyaluronic Eye Contour is a targeted treatment for the delicate area around the eyes. Its readily absorbed texture is designed to help the eye contour look smoother and more rested. Rather than using a general face cream around the eyes, this dedicated treatment focuses on the appearance of puffiness and fine lines. Apply with gentle pressure as part of your facial-care routine. For care beyond the eye area, explore our face and skin collection, or browse more from Cella Milano. Key Features Dedicated eye-contour care rather than an all-over moisturiser. Helps improve the appearance of a tired eye area. Easy-absorbing texture suits careful, light application. 50ml dropper bottle allows controlled dispensing. Specifications Product type: Hyaluronic eye-contour treatment Contents: 50ml Retail quantity: 1 unit Manufacturer reference: 57384 How to Use Massage around the eye contour with gentle, small pressure movements. Add a dedicated eye-care step when you want a more rested-looking finish.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-hyaluronic-eye-contour-50ml",
+        "price": "£30.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57384-SKIN-eye-contour-50-rend-insieme-1080x1350.jpg?v=1794497617",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Face & Skincare",
+        "collections": [
+          "New Additions",
+          "Cella Milano",
+          "Face & Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57565151297801",
+            "sku": "57384",
+            "gtin": "8001117573847",
+            "mpn": null,
+            "title": "Cella EPIC - Hyaluronic Eye Contour 50ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-hyaluronic-eye-contour-50ml",
+            "price": "30.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57384-SKIN-eye-contour-50-rend-insieme-1080x1350.jpg?v=1794497617",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Hyaluronic Face Cream 75ml",
+        "category": "Face & Skincare > Cella Milano",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care > Face Moisturizers",
+        "description": "Cella EPIC Hyaluronic Face Cream is a daily moisturiser designed for men's skin. Its light, easily absorbed texture gives the face and neck hydration without the feel of a heavy cream. Hyaluronic acid helps the skin retain moisture, supporting a smoother, more comfortable feel. Use it morning and evening as a straightforward moisturising step. Explore face and skin care for other hydration textures, or discover more Cella Milano products. Key Features Hyaluronic-acid moisturiser for the face and neck. Ultra-light texture absorbs readily. Suitable for a morning and evening care routine. 75ml bottle keeps daily moisturising easy to fit in. Specifications Product type: Daily facial moisturiser Contents: 75ml Retail quantity: 1 unit Manufacturer reference: 57381 How to Use Apply morning and evening to the face and neck, avoiding the eye contour. Make this light cream your regular hydration step after cleansing.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-hyaluronic-face-cream-75ml",
+        "price": "£25.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57381-SKIN-hyalu-face-cream-75-rend-insieme-1080X1350.jpg?v=1794497612",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Face & Skincare",
+        "collections": [
+          "New Additions",
+          "Cella Milano",
+          "Face & Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57565151232265",
+            "sku": "57381",
+            "gtin": "8001117573816",
+            "mpn": null,
+            "title": "Cella EPIC - Hyaluronic Face Cream 75ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-hyaluronic-face-cream-75ml",
+            "price": "25.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57381-SKIN-hyalu-face-cream-75-rend-insieme-1080X1350.jpg?v=1794497612",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Oleol Beauty Oil for Hair, Beard & Face 50ml",
+        "category": "Hair Lotions, Oils & Tonics > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Treatments > Hair Oils",
+        "description": "Cella EPIC Oleol brings hair, beard and facial care into one leave-in oil. Its light, dry-feeling texture adds softness and shine to hair while helping with tangles and frizz. Use it as a finishing product through the hair or beard, or massage it into the facial skin beneath a beard when dryness is a concern. The 50ml format suits a grooming routine that favours one versatile oil. Discover other leave-on options in hair lotions, oils and tonics and see the rest of our Cella Milano range. Key Features Multipurpose oil for hair, beard and face. Helps detangle hair and soften the feel of facial hair. Adds shine and helps smooth frizz. Leave-in use requires no rinsing. Specifications Product type: Multipurpose beauty oil Contents: 50ml Retail quantity: 1 unit Manufacturer reference: 57366 How to Use Dispense into the hands and massage evenly through the hair or beard. It can also be massaged into facial skin beneath the beard. Do not rinse. Choose Oleol when you want one finishing oil to cover several grooming needs.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-oleol-beauty-oil-for-hair-beard-and-face-50ml",
+        "price": "£21.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57366-HAIR-Oleol-beauty-oil-50-rend-insieme-1080x1350.jpg?v=1794497609",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Hair Lotions, Oils & Tonics",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Cella Milano",
+          "Hair Lotions, Oils & Tonics"
+        ],
+        "variants": [
+          {
+            "id": "57565151199497",
+            "sku": "57366",
+            "gtin": "8001117573663",
+            "mpn": null,
+            "title": "Cella EPIC - Oleol Beauty Oil for Hair, Beard & Face 50ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-oleol-beauty-oil-for-hair-beard-and-face-50ml",
+            "price": "21.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57366-HAIR-Oleol-beauty-oil-50-rend-insieme-1080x1350.jpg?v=1794497609",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Protective Pre-Shave - Buongiorno al Sandalo 100ml",
+        "category": "Pre-Shave > Pre-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "description": "Cella EPIC Buongiorno al Sandalo Protective Pre-Shave is a light, watery gel for the step before shaving cream. It helps soften the beard and prepares the skin for smoother razor movement without adding a heavy cream layer. The hydroalcoholic formula combines pomegranate extract, panthenol and mineral ferments. A woody aromatic fragrance, centred on sandalwood and patchouli, makes it a fitting start to a Sandalo shaving routine. Explore more pre-shave preparations if beard preparation is part of your routine, alongside our Cella Milano products. Key Features Pre-shave preparation helps soften facial hair before the blade. Watery gel texture spreads readily with a light massage. Pomegranate extract and mineral ferments feature in the formula. Warm wood notes complement the Buongiorno al Sandalo shaving products. Specifications Product type: Hydroalcoholic pre-shave gel Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57301 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic How to Use Massage lightly onto the area to be shaved, then follow with shaving cream and shave. Add it before your lather when beard preparation is an important part of your shave.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-protective-pre-shave-buongiorno-al-sandalo-100ml",
+        "price": "£18.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57301-SHAV-pre-shave-BAS-100-rend-insieme-1080x1350.jpg?v=1794497563",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Pre-Shave",
+        "collections": [
+          "Pre-Shave",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57565149987081",
+            "sku": "57301",
+            "gtin": "8001117573014",
+            "mpn": null,
+            "title": "Cella EPIC - Protective Pre-Shave - Buongiorno al Sandalo 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-protective-pre-shave-buongiorno-al-sandalo-100ml",
+            "price": "18.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57301-SHAV-pre-shave-BAS-100-rend-insieme-1080x1350.jpg?v=1794497563",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Protective Pre-Shave - Riserva Fresco 100ml",
+        "category": "Pre-Shave > Pre-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "description": "Begin with beard preparation rather than going straight to the blade. Cella EPIC Riserva Fresco Protective Pre-Shave Gel helps soften facial hair and supports razor glide before you apply your shaving cream. Its light hydroalcoholic gel contains pomegranate extract, panthenol and mineral ferments. Riserva Fresco brings lemon, bergamot and aromatic herb notes to this first stage of the shave. Compare textures in our pre-shave collection, or browse the wider Cella Milano selection. Key Features Designed to be used before shaving cream, not as a replacement for lather. Light gel consistency is easy to spread across the shaving area. Includes mineral ferments and pomegranate extract. Citrus-aromatic fragrance offers a fresh alternative to the Sandalo version. Specifications Product type: Protective pre-shave gel Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57302 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic How to Use Apply with a light massage before your shaving cream, then proceed with the shave. Use Riserva Fresco pre-shave to give your regular shaving routine a considered first step.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-protective-pre-shave-riserva-fresco-100ml",
+        "price": "£18.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57302-SHAV-pre-shave-RF-100-rend-insieme-1080x1350.jpg?v=1794497566",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Pre-Shave",
+        "collections": [
+          "Pre-Shave",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57565149954313",
+            "sku": "57302",
+            "gtin": "8001117573021",
+            "mpn": null,
+            "title": "Cella EPIC - Protective Pre-Shave - Riserva Fresco 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-protective-pre-shave-riserva-fresco-100ml",
+            "price": "18.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57302-SHAV-pre-shave-RF-100-rend-insieme-1080x1350.jpg?v=1794497566",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Reinforcing Anti-Hair Loss Serum 100ml",
+        "category": "Hair Lotions, Oils & Tonics > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Treatments > Hair Serums",
+        "description": "Cella EPIC Reinforcing Anti-Hair Loss Serum is a leave-in scalp-care step developed for weak and brittle hair. Unlike a shampoo, it is massaged into a dry scalp and left in place. The daily-use format makes it a distinct treatment step within the EPIC hair-care range. It is a cosmetic scalp serum, not a medicine or a promise of hair regrowth. Compare leave-on formats in hair lotions, oils and tonics and discover the rest of the Cella Milano collection. Key Features Daily leave-in serum for the scalp. Designed for use on dry hair roots rather than during washing. Massage application fits into a focused hair-care routine. 100ml dropper bottle for targeted dispensing. Specifications Product type: Reinforcing leave-in scalp serum Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57390 How to Use Apply daily to a dry scalp. Massage with the fingertips using gentle pressure and do not rinse. Add the serum when you want a separate daily scalp-care step alongside cleansing.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-reinforcing-anti-hair-loss-serum-100ml",
+        "price": "£25.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57390-HAIR-reinforc-anti-loss-serum-100-rend-insieme-1080x1350.jpg?v=1794497622",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Hair Lotions, Oils & Tonics",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Cella Milano",
+          "Hair Lotions, Oils & Tonics"
+        ],
+        "variants": [
+          {
+            "id": "57565151363337",
+            "sku": "CELLA-57390",
+            "gtin": "8001117573908",
+            "mpn": null,
+            "title": "Cella EPIC - Reinforcing Anti-Hair Loss Serum 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-reinforcing-anti-hair-loss-serum-100ml",
+            "price": "25.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57390-HAIR-reinforc-anti-loss-serum-100-rend-insieme-1080x1350.jpg?v=1794497622",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Reinforcing Anti-Hair Loss Shampoo 175ml",
+        "category": "Shampoo & Conditioner > Hair & Body",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo",
+        "description": "Cella EPIC Reinforcing Anti-Hair Loss Shampoo is a cleansing wash developed for weak and brittle hair. It removes sebum and impurities from the scalp as the washing stage of the EPIC reinforcing hair-care routine. The 175ml pump bottle is used on wet hair and rinsed out after massage. This is a cosmetic hair-care shampoo, not a medicine or a guaranteed treatment for hair loss. Browse shampoos and conditioners to suit your washing routine, or view the wider Cella Milano collection. Key Features Reinforcing shampoo intended for weak, brittle hair. Cleanses the scalp of sebum and everyday impurities. Rinse-out format is distinct from the leave-in EPIC scalp serum. Pump dispenser helps you measure out the wash. Specifications Product type: Reinforcing rinse-out shampoo Contents: 175ml Retail quantity: 1 unit Manufacturer reference: 57345 How to Use Apply to wet hair, massage gently and rinse. Use it as the cleansing step of a consistent, considered hair-care routine.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-reinforcing-anti-hair-loss-shampoo-175ml",
+        "price": "£17.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57345-HAIR-reinforc-anti-loss-sham-175-rend-insieme-1080x1350.jpg?v=1794497594",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shampoo & Conditioner",
+        "collections": [
+          "New Additions",
+          "Hair & Body",
+          "Cella Milano",
+          "Shampoo & Conditioner"
+        ],
+        "variants": [
+          {
+            "id": "57565151002889",
+            "sku": "57345",
+            "gtin": "8001117573458",
+            "mpn": null,
+            "title": "Cella EPIC - Reinforcing Anti-Hair Loss Shampoo 175ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-reinforcing-anti-hair-loss-shampoo-175ml",
+            "price": "17.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57345-HAIR-reinforc-anti-loss-sham-175-rend-insieme-1080x1350.jpg?v=1794497594",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Shaving Cream Soap - Buongiorno al Sandalo 300ml",
+        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Soap",
+        "description": "Cella EPIC Buongiorno al Sandalo Shaving Cream Soap brings a warm, woody fragrance to traditional brush shaving. Its soft cream-soap texture loads readily onto a damp brush and builds a dense, consistent lather to help the razor glide. The generous 300ml bowl gives you room to load the brush comfortably. Cella uses steam-boiler saponification and slow maturation, carrying its established soap-making approach into the EPIC range. Compare other shaving creams for brush lathering, or explore the Cella Milano collection. Key Features Soft soap texture for straightforward brush loading. Stable, substantial lather cushions the passage of the blade. Sandalwood and patchouli notes give the shave a warm aromatic character. Large bowl format suits a regular home shaving routine. Specifications Product type: Brush-lather shaving cream soap Contents: 300ml Retail quantity: 1 unit Manufacturer reference: 57266 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic How to Use Wet the shaving brush, load it with soap and work the lather in a bowl before applying to the face. Choose this bowl when you want a traditional brush shave with the woody depth of Buongiorno al Sandalo.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-shaving-cream-soap-buongiorno-al-sandalo-300ml",
+        "price": "£32.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57266-SHAV-cream-soap-300-BAS-rend-insieme-1080x1350.jpg?v=1794497557",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Cream, Gels & Soaps",
+        "collections": [
+          "Men's Shaving Creams",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57565149528329",
+            "sku": "57266",
+            "gtin": "8001117572666",
+            "mpn": null,
+            "title": "Cella EPIC - Shaving Cream Soap - Buongiorno al Sandalo 300ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-shaving-cream-soap-buongiorno-al-sandalo-300ml",
+            "price": "32.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57266-SHAV-cream-soap-300-BAS-rend-insieme-1080x1350.jpg?v=1794497557",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Shaving Cream Soap - Riserva Fresco 300ml",
+        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Soap",
+        "description": "For a brush shave with a fresher fragrance, Cella EPIC Riserva Fresco Shaving Cream Soap combines a soft, workable texture with citrus and aromatic notes. The lather helps the razor move smoothly while giving you a substantial layer to shave through. This 300ml bowl is designed for easy brush loading rather than dispensing a cream from a tube. Steam-boiler saponification and controlled slow maturation form part of Cella's traditional production method. Browse our shaving cream selection for other lathering formats and the Cella Milano range for more grooming options. Key Features Cream-soft consistency works easily with a wet shaving brush. Rich lather supports controlled razor strokes. Lemon, bergamot, mint and basil give the scent its fresh opening. Wide bowl offers convenient access for repeated brush loading. Specifications Product type: Brush-lather shaving cream soap Contents: 300ml Retail quantity: 1 unit Manufacturer reference: 57267 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic How to Use Dampen the brush, pick up the soap and whip it in a bowl to a soft, consistent lather. Lather the face before shaving. Make Riserva Fresco your choice for a substantial brush lather with a bright citrus-aromatic finish.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-shaving-cream-soap-riserva-fresco-300ml",
+        "price": "£32.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57267-SHAV-cream-soap-300-RF-rend-insieme-1080x1350.jpg?v=1794497561",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Cream, Gels & Soaps",
+        "collections": [
+          "Men's Shaving Creams",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57565149495561",
+            "sku": "57267",
+            "gtin": "8001117572673",
+            "mpn": null,
+            "title": "Cella EPIC - Shaving Cream Soap - Riserva Fresco 300ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-shaving-cream-soap-riserva-fresco-300ml",
+            "price": "32.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57267-SHAV-cream-soap-300-RF-rend-insieme-1080x1350.jpg?v=1794497561",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Soft Shaving Cream - Buongiorno al Sandalo 100ml",
+        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
+        "description": "Cella EPIC Buongiorno al Sandalo Soft Shaving Cream gives brush shavers a creamy lather in a convenient tube. It works with a wet brush to produce a rich foam that helps the razor slide over the skin. Olive oil, panthenol and pomegranate extract feature in the formula, while the sandalwood-led fragrance adds warmth to the shave. The 100ml tube is a practical alternative to the larger EPIC soap bowl. Find other brush-lathering options among our shaving creams and discover more from Cella Milano. Key Features Soft cream for lathering with a shaving brush. Rich foam provides a comfortable surface for the blade. Tube packaging makes the cream easy to dispense. Woody Sandalo scent combines sandalwood with patchouli and aromatic notes. Specifications Product type: Lathering shaving cream Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57313 Fragrance: Buongiorno al Sandalo Fragrance family: Woody aromatic How to Use Wet the brush with warm water, pick up the cream and work into a soft, consistent lather on the face. Choose the tube for a brush-lather shave with less space taken up on the washstand.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-soft-shaving-cream-buongiorno-al-sandalo-100ml",
+        "price": "£17.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57313-SHAVING-soft-cream-BAS-100-rend-insieme-1080x1350.jpg?v=1794497568",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Cream, Gels & Soaps",
+        "collections": [
+          "Men's Shaving Creams",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57565150413065",
+            "sku": "57313",
+            "gtin": "8001117573137",
+            "mpn": null,
+            "title": "Cella EPIC - Soft Shaving Cream - Buongiorno al Sandalo 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-soft-shaving-cream-buongiorno-al-sandalo-100ml",
+            "price": "17.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57313-SHAVING-soft-cream-BAS-100-rend-insieme-1080x1350.jpg?v=1794497568",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "Cella EPIC - Soft Shaving Cream - Riserva Fresco 100ml",
+        "category": "Shaving Cream, Gels & Soaps > Men's Shaving Creams",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
+        "description": "A tube cream need not mean a brushless shave. Cella EPIC Riserva Fresco Soft Shaving Cream is designed to be worked with a wet shaving brush, creating a soft, rich lather for smooth razor movement. The formula includes olive oil, panthenol and pomegranate extract. Riserva Fresco supplies a lively citrus-aromatic fragrance, with mint and basil among its opening notes. For different lathering formats, browse shaving creams; our Cella Milano collection brings together the rest of the brand. Key Features Brush-lather formula for a traditional wet shave. Creamy texture whips into a consistent foam. 100ml tube is a smaller-format alternative to the cream-soap bowl. Fresh citrus and herbal fragrance distinguishes it from Buongiorno al Sandalo. Specifications Product type: Soft shaving cream for brush use Contents: 100ml Retail quantity: 1 unit Manufacturer reference: 57314 Fragrance: Riserva Fresco Fragrance family: Citrus aromatic How to Use Dampen the shaving brush with warm water, take up the cream and lather the face before shaving. Reach for Riserva Fresco when you prefer a fresh-scented lather in a straightforward tube format.",
+        "url": "https://www.malegroomingsupplies.com/products/cella-epic-soft-shaving-cream-riserva-fresco-100ml",
+        "price": "£17.95",
+        "brand": "Cella",
+        "vendor": "Cella",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57314-SHAVING-soft-cream-RF-100-rend-insieme-1080x1350.jpg?v=1794497571",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shaving Cream, Gels & Soaps",
+        "collections": [
+          "Men's Shaving Creams",
+          "New Additions",
+          "Cella Milano",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "57565150478601",
+            "sku": "57314",
+            "gtin": "8001117573144",
+            "mpn": null,
+            "title": "Cella EPIC - Soft Shaving Cream - Riserva Fresco 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/cella-epic-soft-shaving-cream-riserva-fresco-100ml",
+            "price": "17.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/57314-SHAVING-soft-cream-RF-100-rend-insieme-1080x1350.jpg?v=1794497571",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "Cella Hygienic Beard Gel & Protective Balm Set",
         "category": "Gift Sets > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
@@ -4509,7 +5553,7 @@
         "brand": "Cella",
         "vendor": "Cella",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/balsamo-dopobarba-bio-prodotto-scatola.jpg?v=1758377818",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -4530,7 +5574,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cella-organic-after-shave-balm-100ml",
             "price": "9.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/balsamo-dopobarba-bio-prodotto-scatola.jpg?v=1758377818",
             "options": {}
           }
@@ -4583,7 +5627,7 @@
         "brand": "Cella",
         "vendor": "Cella",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lozione-dopobarba-bio-prodotto-scatola.jpg?v=1758374760",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -4604,7 +5648,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cella-organic-aftershave-lotion-100ml",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lozione-dopobarba-bio-prodotto-scatola.jpg?v=1758374760",
             "options": {}
           }
@@ -4620,7 +5664,7 @@
         "brand": "Cella",
         "vendor": "Cella",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gel-prebarba-bio-prodotto-scatola.jpg?v=1758362835",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -4641,7 +5685,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cella-organic-pre-shave-gel-75ml",
             "price": "12.00 GBP",
             "sale_price": "9.30 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gel-prebarba-bio-prodotto-scatola.jpg?v=1758362835",
             "options": {}
           }
@@ -4731,7 +5775,7 @@
         "brand": "Cella",
         "vendor": "Cella",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9586.970_clipped_rev_1.jpg?v=1758362834",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -4751,7 +5795,7 @@
             "url": "https://www.malegroomingsupplies.com/products/cella-organic-shaving-cream-tube-balm-gift-set",
             "price": "17.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9586.970_clipped_rev_1.jpg?v=1758362834",
             "options": {}
           }
@@ -13039,7 +14083,7 @@
         "name": "DOVO 6/8\" CARRE Straight Razor – Grenadille Wood & Mother of Pearl",
         "category": "Straight Razors > DOVO Solingen Straight Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The DOVO CARRE is a 6/8-inch straight razor with a Grenadille wood handle and mother-of-pearl inlay. Its full hollow carbon steel blade has a round point for traditional fixed-edge shaving.The broad blade and patterned handle give this model its distinctive appearance. Allow for stropping and careful drying as part of a straight-razor routine. Key Features 6/8\" full hollow ground carbon steel blade for a sharp and precise shave Round point blade for safe and versatile use Grenadille African Blackwood handle for durability and elegance Mother of Pearl inlay adds a refined, luxurious touch Handcrafted in Solingen, Germany, by Dovo’s expert artisans Specifications Blade Width: 6/8\" Steel Type: Carbon Steel Grind Type: Full Hollow Ground Point: Round Handle Material: Grenadille African Blackwood with Mother of Pearl inlay Packaging: Branded Dovo packaging Origin: Solingen, Germany For related Dovo options, compare Dovo EDO Spruce Wood Straight Razor 5/8\" with Dovo Facharbeit Blue Straight Razor 6/8\", or browse the DOVO Solingen collection. For storage, this straight razor can be paired with a Giesen & Forsthoff straight razor case when available.",
+        "description": "The DOVO CARRE is a 6/8-inch straight razor with a Grenadille wood handle and mother-of-pearl inlay. Its full hollow carbon steel blade has a round point for traditional fixed-edge shaving.The broad blade and patterned handle give this model its distinctive appearance. Allow for stropping and careful drying as part of a straight-razor routine. Key Features 6/8\" full hollow ground carbon steel blade for a sharp and precise shave Round-point profile for traditional straight-razor handling Grenadille African Blackwood handle for durability and elegance Mother-of-pearl inlay contrasts with the dark wooden scales Made in Solingen, Germany Specifications Blade Width: 6/8\" Steel Type: Carbon Steel Grind Type: Full Hollow Ground Point: Round Handle Material: Grenadille African Blackwood with Mother of Pearl inlay Packaging: Branded Dovo packaging Origin: Solingen, Germany For related Dovo options, compare Dovo EDO Spruce Wood Straight Razor 5/8\" with Dovo Facharbeit Blue Straight Razor 6/8\", or browse the DOVO Solingen collection. For storage, this straight razor can be paired with a Giesen & Forsthoff straight razor case when available.",
         "url": "https://www.malegroomingsupplies.com/products/dovo-carre-grenadille-razor-6-8",
         "price": "£150.00",
         "brand": "Dovo",
@@ -13113,7 +14157,7 @@
         "name": "DOVO 6/8\" FLOWING Straight Razor – Grenadilla Handle",
         "category": "Straight Razors > DOVO Solingen Straight Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The DOVO FLOWING is a 6/8-inch carbon steel straight razor with a Grenadilla wood handle. Wavy engraving along the spine distinguishes its design.The full hollow blade has a round point. Natural wood grain varies between handles, and the carbon steel needs thorough drying after each shave. Key Features 6/8\" wide carbon steel blade for sharpness and precision Elegant wavy engraving on the spine for a refined aesthetic Full hollow ground blade for a smooth, close shave Grenadilla wood handle, known for its durability and luxurious appearance Handcrafted in Solingen, Germany, by DOVO’s master artisans Specifications Blade Depth: 6/8\" Steel Type: Carbon Steel Grind Type: Full Hollow Ground Point: Round Handle Material: Grenadilla wood (dark purple-brown with black stripes) Packaging: Branded DOVO packaging Origin: Solingen, Germany For related Dovo options, compare Dovo Inox Wedge Straight Razor 4/8\" with Dovo 'Black Star' Pakkawood Straight Razor 5/8\", or browse the DOVO Solingen collection. For storage, this straight razor can be paired with a Giesen & Forsthoff straight razor case when available.",
+        "description": "The DOVO FLOWING is a 6/8-inch carbon steel straight razor with a Grenadilla wood handle. Wavy engraving along the spine distinguishes its design.The full hollow blade has a round point. Natural wood grain varies between handles, and the carbon steel needs thorough drying after each shave. Key Features 6/8\" wide carbon steel blade for sharpness and precision Wavy spine decoration distinguishes the FLOWING design Full hollow ground blade for a smooth, close shave Dark Grenadilla wood scales with visible natural grain Made in Solingen, Germany Specifications Blade Depth: 6/8\" Steel Type: Carbon Steel Grind Type: Full Hollow Ground Point: Round Handle Material: Grenadilla wood (dark purple-brown with black stripes) Packaging: Branded DOVO packaging Origin: Solingen, Germany For related Dovo options, compare Dovo Inox Wedge Straight Razor 4/8\" with Dovo 'Black Star' Pakkawood Straight Razor 5/8\", or browse the DOVO Solingen collection. For storage, this straight razor can be paired with a Giesen & Forsthoff straight razor case when available.",
         "url": "https://www.malegroomingsupplies.com/products/dovo-flowing-grenadilla-razor-6-8",
         "price": "£205.00",
         "brand": "Dovo",
@@ -13155,7 +14199,7 @@
         "price": "£10.00",
         "brand": "Dovo",
         "vendor": "Dovo",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-55756101-1.webp?v=1794344906",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-55756101-1_clipped_rev_1.jpg?v=1794525012",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -13179,7 +14223,7 @@
             "price": "10.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-55756101-1.webp?v=1794344906",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-55756101-1_clipped_rev_1.jpg?v=1794525012",
             "options": {}
           }
         ]
@@ -13786,76 +14830,6 @@
         ]
       },
       {
-        "name": "DOVO Blade Holder for Shavette (3 Colours)",
-        "category": "Shaving Accessories & Cases > DOVO Solingen Straight Razors & Shavettes",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "Upgrade or replace your Dovo Shavette blade holders with these purpose-designed adaptors, now available in three distinct colour-coded options: Clear, Black, and Green. Crafted from durable plastic, each holder is tailored to fit specific blade types for maximum compatibility and precision. The Clear holder is ideal for regular short double-edge blades, Black accommodates longer barber-style blades, and Green is compatible with American blades. Designed for seamless blade changes and a secure fit, these holders ensure superior performance and hygiene during every shave. For related stand options, browse the DOVO Solingen collection. Key Features: Colour-coded for compatibility: Clear for short double-edge blades, Black for long barber-style blades, and Green for American blades. Made from robust plastic for durability and long-lasting performance. Ensures a secure blade placement for precise, professional-grade shaves. Facilitates quick, safe, and hygienic blade exchanges. Tailored to maintain the optimal performance of your Dovo Shavette. Specifications: Material: Durable plastic construction. Compatibility: Clear for short double-edge blades, Black for barber-style blades, Green for American blades. Colours: Clear, Black, Green. Keep your Dovo Shavette performing at its best with the right blade holder for your preferred blade type.",
-        "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette",
-        "price": "£2.95",
-        "brand": "Dovo",
-        "vendor": "Dovo",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-blade-holder-for-shavette-3-colours-415306.jpg?v=1723066525",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Accessories & Cases",
-        "collections": [
-          "DOVO Solingen Straight Razors & Shavettes",
-          "Straight Razors, Cut Throat Razors & Shavettes",
-          "Shaving Accessories & Cases",
-          "Shaving Essentials",
-          "Shaving Sets & Accessories"
-        ],
-        "variants": [
-          {
-            "id": "48236304859401",
-            "sku": "201 003 / 31450411",
-            "gtin": "4045284009307",
-            "mpn": null,
-            "title": "DOVO Blade Holder for Shavette (3 Colours) - Clear",
-            "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304859401",
-            "price": "2.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-blade-holder-for-shavette-3-colours-415306.jpg?v=1723066525",
-            "options": {
-              "Colour": "Clear"
-            }
-          },
-          {
-            "id": "48236304892169",
-            "sku": "201 004",
-            "gtin": "4045284009338",
-            "mpn": null,
-            "title": "DOVO Blade Holder for Shavette (3 Colours) - Black",
-            "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304892169",
-            "price": "2.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-blade-holder-for-shavette-3-colours-235368.jpg?v=1723066525",
-            "options": {
-              "Colour": "Black"
-            }
-          },
-          {
-            "id": "48236304924937",
-            "sku": "201 005",
-            "gtin": "4045284009321",
-            "mpn": null,
-            "title": "DOVO Blade Holder for Shavette (3 Colours) - Green",
-            "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304924937",
-            "price": "2.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-blade-holder-for-shavette-3-colours-218219.jpg?v=1723066525",
-            "options": {
-              "Colour": "Green"
-            }
-          }
-        ]
-      },
-      {
         "name": "DOVO Blue Aluminium Shavette",
         "category": "Straight Razors > DOVO Solingen Straight Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
@@ -14228,7 +15202,7 @@
         "name": "DOVO Inox Stainless Steel Straight Razor 5/8\"",
         "category": "Straight Razors > DOVO Solingen Straight Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Dovo Inox Stainless Steel Straight Razor offers a sleek, contemporary design paired with precision performance. Featuring a 5/8 full hollow stainless steel blade, this razor is perfect for achieving smooth and close shaves. The blade is etched with the Dovo Inox marking and the tang features Dovo branding, adding a touch of craftsmanship to this iconic design. The stainless steel scales, finished with an attractive matte satin appearance, bring a modern aesthetic to traditional shaving tools. The tang includes jimping on the lower side for enhanced grip and control, ensuring a safe and comfortable shaving experience. This model, now discontinued, presents a rare opportunity to own a piece of Dovo's renowned craftsmanship. Key Features Blade Size: 5/8 Steel Type: Stainless steel with etched Dovo Inox blade marking Grind Type: Full hollow for precise, clean cuts Point: Round point for a gentler shaving experience Scale Material: Durable stainless steel with a satin matte finish Tang Design: Jimped lower tang for added grip and control Style: A modern look combined with Dovo’s traditional excellence Specifications Blade Width: 5/8 Steel Type: Stainless steel Scale Material: Satin-finished stainless steel Grind Type: Full hollow Point: Round For related Dovo options, compare Dovo 'Black Star' Pakkawood Straight Razor 5/8\" with Dovo 'Master's' Straight Razor \"6/8, or browse the DOVO Solingen collection. For storage, this straight razor can be paired with a Giesen & Forsthoff straight razor case when available.",
+        "description": "The Dovo Inox Stainless Steel Straight Razor offers a sleek, contemporary design paired with precision performance. Featuring a 5/8 full hollow stainless steel blade, it is designed for traditional fixed-edge shaving. The blade is etched with the Dovo Inox marking and the tang features Dovo branding, identifying the razor and its maker. The stainless steel scales, finished with an attractive matte satin appearance, bring a modern aesthetic to traditional shaving tools. The tang includes jimping on the lower side for enhanced grip and control, providing a textured finger contact. Dry the blade and scales carefully after use, and maintain the shaving edge with regular stropping. Key Features Blade Size: 5/8 Steel Type: Stainless steel with etched Dovo Inox blade marking Grind Type: Full hollow for precise, clean cuts Point: Round point for a gentler shaving experience Scale Material: Durable stainless steel with a satin matte finish Tang Design: Jimped lower tang for added grip and control Style: An all-steel appearance with a satin finish Specifications Blade Width: 5/8 Steel Type: Stainless steel Scale Material: Satin-finished stainless steel Grind Type: Full hollow Point: Round For related Dovo options, compare Dovo 'Black Star' Pakkawood Straight Razor 5/8\" with Dovo 'Master's' Straight Razor \"6/8, or browse the DOVO Solingen collection. For storage, this straight razor can be paired with a Giesen & Forsthoff straight razor case when available.",
         "url": "https://www.malegroomingsupplies.com/products/dovo-inox-5-8-straight-razor-415-5846",
         "price": "£119.95",
         "brand": "Dovo",
@@ -14485,7 +15459,7 @@
         "price": "£140.00",
         "brand": "Dovo",
         "vendor": "Dovo",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6440185_aufsicht_geschlossen_1_1.jpg?v=1794344895",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6440186_aufsicht_offen.jpg?v=1794344895",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -14507,7 +15481,7 @@
             "price": "140.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6440185_aufsicht_geschlossen_1_1.jpg?v=1794344895",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/6440186_aufsicht_offen.jpg?v=1794344895",
             "options": {}
           }
         ]
@@ -14970,7 +15944,7 @@
         "name": "DOVO Primo II Safety Razor",
         "category": "Razors > DOVO Solingen Straight Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "With its wide cross-pattern handle, the DOVO Primo II Safety Razor offers a more pronounced grip pattern than Primo I. The chrome-finished design combines a brass handle with a die-cast zinc closed-comb head. The head separates into three pieces for fitting a standard double edge blade and cleaning the surfaces beneath it. A stabilised screw secures the assembly for your regular wet-shaving routine. Key Features Wide cross-pattern handle distinguishes Primo II within the range. Closed-comb head for conventional double edge shaving. Three-piece construction allows access for blade changes and cleaning. Specifications Reference: 70000002 Razor type: Double edge safety razor Head: Closed comb, straight cut Materials: Brass handle and die-cast zinc head Finish: Chrome Dimensions: 4.1 × 2.5 × 10.6cm Choose compatible DE blades and rinse and dry the razor after use.For related razor options, browse the DOVO Solingen collection.",
+        "description": "With its wide cross-pattern handle, the DOVO Primo II Safety Razor offers a more pronounced grip pattern than Primo I. The chrome-finished design combines a brass handle with a die-cast zinc closed-comb head. The three-piece razor comes apart for fitting a standard double edge blade and cleaning the surfaces beneath the head. A stabilised screw secures the assembly for your regular wet-shaving routine. Key Features Wide cross-pattern handle distinguishes Primo II within the range. Closed-comb head for conventional double edge shaving. The removable handle and head pieces give access to the blade and contact surfaces for cleaning. Specifications Reference: 70000002 Razor type: Double edge safety razor Head: Closed comb, straight cut Materials: Brass handle and die-cast zinc head Finish: Chrome Dimensions: 4.1 × 2.5 × 10.6cm Choose compatible DE blades and rinse and dry the razor after use.For related razor options, browse the DOVO Solingen collection.",
         "url": "https://www.malegroomingsupplies.com/products/safety-razor-primo-ii",
         "price": "£49.00",
         "brand": "Dovo",
@@ -15192,16 +16166,16 @@
         ]
       },
       {
-        "name": "DOVO Shavette Blade Holder - Black for DE Blades (Single)",
+        "name": "DOVO Shavette Blade Holders (Single)",
         "category": "Shaving Accessories & Cases > DOVO Solingen Straight Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "This black DOVO Shavette blade holder is the replacement insert for regular short double-edge blades. It clamps into the Shavette to hold the blade in place during shaving. Supplied as one individual holder, it is the short-DE version. Choose it by blade format rather than colour alone, as other DOVO holders are intended for long blades or Personna blades. Key Features Replacement insert for the DOVO Shavette. Black plastic construction. Sized for regular short double-edge blades. Specifications Reference: 31450412 Material: Plastic Colour: Black Quantity: 1 holder Compatibility: DOVO Shavette with regular short DE blades Follow the razor’s blade-fitting instructions and check that the insert and blade are secure before shaving.",
-        "url": "https://www.malegroomingsupplies.com/products/shavette-blade-holder-black-for-de-blades",
-        "price": "£2.20",
+        "description": "DOVO Shavette blade holders are replacement plastic inserts that secure the blade inside a DOVO Shavette. Each option is supplied as one holder, without a razor or blade. Choose by blade fitting as well as colour. The two black options take different blade formats, while the green holder is for compatible Personna or American-style blades. Check your blade type before selecting a replacement. Blade compatibility: Standard DE blades suit the Clear - Standard DE and Black - Standard DE holders only. Green - Personna requires the matching Personna single-edge blades. Black - Long Blades requires the long-blade format. The blade packs shown in Optional Extras are not interchangeable across all four holders. Key Features Replaceable insert for fitting a compatible blade into a DOVO Shavette. Standard-DE options in clear or black for short double-edge blades. Separate black long-blade fitting and green Personna fitting. Supplied individually, so you can replace one holder at a time. Specifications Product: Replacement blade holder for DOVO Shavette razors. Material: Plastic. Quantity: One holder in the selected fitting and colour. Clear - Standard DE: For regular short double-edge blades. Reference 31450411; formerly 201 003. Black - Standard DE: For regular short double-edge blades. Reference 31450412. Black - Long Blades: For the long-blade DOVO Shavette system. Legacy reference 201 004. This is a different fitting from the black standard-DE holder. Green - Personna: For compatible Personna or American-style blades. Reference 31550452; formerly 201 005. Not included: Razor and blades. Select the fitting that matches your blades, or browse our DOVO shaving range for compatible razors and accessories.",
+        "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette",
+        "price": "£2.95",
         "brand": "Dovo",
         "vendor": "Dovo",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-31450412-3.jpg?v=1794344891",
-        "availability": "in_stock",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-blade-holder-for-shavette-3-colours-415306.jpg?v=1723066525",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -15210,23 +16184,69 @@
           "DOVO Solingen Straight Razors & Shavettes",
           "Straight Razors, Cut Throat Razors & Shavettes",
           "Shaving Accessories & Cases",
-          "New Additions",
           "Shaving Essentials",
           "Shaving Sets & Accessories"
         ],
         "variants": [
           {
-            "id": "57559246110985",
+            "id": "48236304859401",
+            "sku": "201 003 / 31450411",
+            "gtin": "4045284009307",
+            "mpn": null,
+            "title": "DOVO Shavette Blade Holders (Single) - Clear - Standard DE",
+            "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304859401",
+            "price": "2.95 GBP",
+            "sale_price": null,
+            "availability": "out_of_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-blade-holder-for-shavette-3-colours-415306.jpg?v=1723066525",
+            "options": {
+              "Holder Type": "Clear - Standard DE"
+            }
+          },
+          {
+            "id": "48236304892169",
+            "sku": "201 004",
+            "gtin": "4045284009338",
+            "mpn": null,
+            "title": "DOVO Shavette Blade Holders (Single) - Black - Long Blades",
+            "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304892169",
+            "price": "2.95 GBP",
+            "sale_price": null,
+            "availability": "out_of_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-blade-holder-for-shavette-3-colours-235368.jpg?v=1723066525",
+            "options": {
+              "Holder Type": "Black - Long Blades"
+            }
+          },
+          {
+            "id": "48236304924937",
+            "sku": "31550452",
+            "gtin": "4045284009321",
+            "mpn": null,
+            "title": "DOVO Shavette Blade Holders (Single) - Green - Personna",
+            "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=48236304924937",
+            "price": "2.95 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/201005_shavettenklingenhalter_gru_n.png?v=1794493586",
+            "options": {
+              "Holder Type": "Green - Personna"
+            }
+          },
+          {
+            "id": "57564958294281",
             "sku": "31450412",
             "gtin": "4045284010532",
             "mpn": null,
-            "title": "DOVO Shavette Blade Holder - Black for DE Blades (Single)",
-            "url": "https://www.malegroomingsupplies.com/products/shavette-blade-holder-black-for-de-blades",
+            "title": "DOVO Shavette Blade Holders (Single) - Black - Standard DE",
+            "url": "https://www.malegroomingsupplies.com/products/dovo-blade-holder-for-shavette?variant=57564958294281",
             "price": "2.20 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-31450412-3.jpg?v=1794344891",
-            "options": {}
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/dovo-31450412-supplier-view-10.jpg?v=1794349608",
+            "options": {
+              "Holder Type": "Black - Standard DE"
+            }
           }
         ]
       },
@@ -15345,7 +16365,7 @@
         "name": "DOVO Sterling Silver Toothpick",
         "category": "Dental Care > DOVO Solingen Straight Razors & Shavettes",
         "product_category": "Health & Beauty > Personal Care > Oral Care > Toothpicks",
-        "description": "The DOVO Sterling Silver Toothpick is a reusable pocket toothpick with a 925 silver working leaf. A nickel-plated brass handle and matching protective cover make it compact to store between uses. Its slim form is intended for careful removal of food particles, with the cover protecting the point when it is put away. It is a grooming accessory rather than a replacement for regular brushing and dental care. Key Features 925 silver working leaf in a compact reusable design. Protective cover keeps the point enclosed during storage. Nickel-plated brass handle provides a firm holding surface. Specifications Reference: 49600601 Working leaf: 925 sterling silver Handle and cover: Nickel-plated brass Dimensions: 6.2 × 1.4 × 0.3cm Quantity: One toothpick with cover Clean the toothpick after use and return it to its cover before carrying it.For related razor options, browse the DOVO Solingen collection.",
+        "description": "The DOVO Sterling Silver Toothpick is a reusable pocket toothpick with a 925 silver working leaf. A nickel-plated brass handle and matching protective cover make it compact to store between uses. Its slim form is intended for careful removal of food particles, with the cover protecting the point when it is put away. It is a grooming accessory rather than a replacement for regular brushing and dental care. Key Features 925 silver working leaf in a compact reusable design. Protective cover keeps the point enclosed during storage. Nickel-plated brass handle provides a firm holding surface. Specifications Reference: 49600601 Working leaf: 925 sterling silver Handle and cover: Nickel-plated brass Dimensions: 6.2 × 1.4 × 0.3cm Quantity: One toothpick with cover Clean the toothpick after use and return it to its cover before carrying it.Explore more personal grooming accessories in the DOVO Solingen collection.",
         "url": "https://www.malegroomingsupplies.com/products/dovo-stirling-silver-toothpick",
         "price": "£20.00",
         "brand": "Dovo",
@@ -17146,43 +18166,6 @@
             "sale_price": "39.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-elite-shaving-bowl-and-soap-100g-front.jpg?v=1752608107",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Floris No.89 Aftershave 100ml",
-        "category": "Aftershave > Post-Shave",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
-        "description": "Floris No.89 Aftershave 100ml is an alcohol-based post-shave splash with the citrus, floral and woody character of No.89. It contains witch hazel and glycerine and is a liquid aftershave, not the separate No.89 moisturising balm. After shaving, pour a little into your palms and spread it between them, then smooth it down over your face and neck. Choose the splash for this light liquid application. When buying a gift, check whether the recipient wants an aftershave splash, a cream-textured balm or an Eau de Toilette fragrance; these are different products within the No.89 range. No.89 opens with bergamot, orange, lavender, and neroli, warmed with nutmeg and supported by a floral heart of geranium, rose, and ylang ylang. The base blends sandalwood, cedarwood, vetiver, musk, and oakmoss, forming a balanced, masculine scent with enduring appeal. This fragrance was introduced in 1951 and named after the Floris flagship on Jermyn Street. Originally developed in the lower level of the store, known affectionately as \"The Mine\", No.89 remains one of the most iconic scents in British grooming. It has been worn by names such as Cary Grant and Ian Fleming. Key Features: Alcohol-based after shave with witch hazel and glycerine Liquid splash for use on the face and neck after shaving Classic scent with citrus, floral, and woody notes Presented in a 100ml glass bottle Part of the historic No.89 fragrance line Specifications: Volume: 100ml Application: Dab onto hands and apply to face and neck Skin benefits: Astringent and lightly moisturising Fragrance family: Citrus, woody, aromatic Made in the United Kingdom Floris No.89 After Shave is a finishing touch steeped in tradition and crafted for the modern gentleman.",
-        "url": "https://www.malegroomingsupplies.com/products/floris-no89-after-shave-100ml",
-        "price": "£70.00",
-        "brand": "Floris London",
-        "vendor": "Floris London",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-aftershave-100ml-front.jpg?v=1752605985",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Aftershave",
-        "collections": [
-          "Post-Shave",
-          "Floris London",
-          "Fragrances",
-          "Men's Aftershaves"
-        ],
-        "variants": [
-          {
-            "id": "55789124911369",
-            "sku": "F31964",
-            "gtin": "886266319649",
-            "mpn": null,
-            "title": "Floris No.89 Aftershave 100ml",
-            "url": "https://www.malegroomingsupplies.com/products/floris-no89-after-shave-100ml",
-            "price": "70.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-aftershave-100ml-front.jpg?v=1752605985",
             "options": {}
           }
         ]
@@ -24066,7 +25049,8 @@
           "Hair & Body",
           "Morgan's",
           "Face & Skin Care",
-          "Men's Anti-Ageing & Age Defying Skin Care"
+          "Men's Anti-Ageing & Age Defying Skin Care",
+          "Anti-Ageing Routine Offer - Excludes Cella"
         ],
         "variants": [
           {
@@ -25039,7 +26023,8 @@
           "Hair & Body",
           "Morgan's",
           "Face & Skin Care",
-          "Men's Anti-Ageing & Age Defying Skin Care"
+          "Men's Anti-Ageing & Age Defying Skin Care",
+          "Anti-Ageing Routine Offer - Excludes Cella"
         ],
         "variants": [
           {
@@ -25077,7 +26062,8 @@
           "Hair & Body",
           "Morgan's",
           "Face & Skin Care",
-          "Men's Anti-Ageing & Age Defying Skin Care"
+          "Men's Anti-Ageing & Age Defying Skin Care",
+          "Anti-Ageing Routine Offer - Excludes Cella"
         ],
         "variants": [
           {
@@ -25117,7 +26103,8 @@
           "Shaving Essentials",
           "Shaving Preparations",
           "Face & Skin Care",
-          "Men's Anti-Ageing & Age Defying Skin Care"
+          "Men's Anti-Ageing & Age Defying Skin Care",
+          "Anti-Ageing Routine Offer - Excludes Cella"
         ],
         "variants": [
           {
@@ -26263,43 +27250,6 @@
         ]
       },
       {
-        "name": "Muhle Chrome Stainless Steel Shaving Bowl",
-        "category": "Shaving Bowls & Scuttles > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Bowls & Mugs",
-        "description": "The Muhle Shaving Bowl in chrome-plated stainless steel is a clean, practical choice for building lather or holding solid shaving soap. Its smooth, minimalist design pairs naturally with the chrome accents found across the Muhle SOPHIST, STYLO, KOSMO, and RYTMO ranges, making it an easy addition to an existing shaving setup. Made from stainless steel and finished with durable chrome plating, the bowl is corrosion resistant and well suited to regular use. Simple in form and easy to maintain, it offers a dependable solution for wet shavers who value function over unnecessary decoration. For related Muhle options, compare Muhle Black Porcelain Shaving Bowl Platinum Rim with Muhle Porcelain Black Shaving Mug RN46, or browse the Shaving Bowls & Mugs collection. Key Features: Stainless steel shaving bowl with durable chrome-plated finish. Smooth interior suitable for building lather or holding shaving soap. Corrosion-resistant construction for long-term use. Clean, understated design that complements multiple Muhle ranges. Specifications: Material: Chrome-plated stainless steel Colour: Chrome Dimensions: 12 cm diameter x 5.6 cm height",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-chrome-stainless-steel-shaving-bowl",
-        "price": "£18.00",
-        "brand": "Muhle",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-shaving-bowl-340842.jpg?v=1768053949",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Bowls & Scuttles",
-        "collections": [
-          "MUHLE Shaving",
-          "Shaving Bowls & Mugs",
-          "Shaving Essentials",
-          "Shaving Sets & Accessories"
-        ],
-        "variants": [
-          {
-            "id": "45366268002569",
-            "sku": "RN6 CHROM",
-            "gtin": "4028982011490",
-            "mpn": null,
-            "title": "Muhle Chrome Stainless Steel Shaving Bowl",
-            "url": "https://www.malegroomingsupplies.com/products/muhle-chrome-stainless-steel-shaving-bowl",
-            "price": "23.00 GBP",
-            "sale_price": "18.00 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-shaving-bowl-340842.jpg?v=1768053949",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Muhle Classic Silvertip Fibre® Faux Ivory Shaving Brush",
         "category": "Shaving Brushes > MUHLE Shaving",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
@@ -26559,43 +27509,6 @@
         ]
       },
       {
-        "name": "Muhle Porcelain White Shaving Bowl with Platinum Rim",
-        "category": "Shaving Bowls & Scuttles > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Bowls & Mugs",
-        "description": "The Muhle Porcelain White Shaving Bowl RN11 is a traditional shaving bowl made from fine white porcelain and finished with a platinum rim for a clean, understated look. Designed for practical everyday use, it supports easy lathering while keeping solid shaving soap in good condition between shaves. A subtle raised section at the base allows soap to dry properly after use, helping to extend its lifespan. Each bowl is shaped, glazed, and fired by hand, reflecting Muhle’s long-standing approach to functional craftsmanship. Suitable for all solid shaving soaps, it fits neatly into both modern and traditional shaving setups. For related Muhle options, compare Muhle Black Porcelain Shaving Bowl Platinum Rim with Muhle Porcelain Black Shaving Mug RN46, or browse the Shaving Bowls & Mugs collection. Key Features: Porcelain shaving bowl designed for traditional wet shaving. Platinum rim finish for a refined, durable edge. Raised base to help solid shaving soap dry between uses. Hand-finished porcelain with subtle variation between pieces. Suitable for all solid shaving soaps. Specifications: Material: Porcelain with platinum rim Colour: White Dimensions: 12 cm diameter x 5.6 cm height",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-porcelain-white-shaving-bowl-platinum-rim-rn11",
-        "price": "£24.00",
-        "brand": "Muhle",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-porcelain-white-shaving-bowl-with-platinum-rim-rn11-male-grooming-supplies-962486.jpg?v=1722956336",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Bowls & Scuttles",
-        "collections": [
-          "MUHLE Shaving",
-          "Shaving Bowls & Mugs",
-          "Shaving Essentials",
-          "Shaving Sets & Accessories"
-        ],
-        "variants": [
-          {
-            "id": "45366268297481",
-            "sku": "RN11",
-            "gtin": "4028982010479",
-            "mpn": null,
-            "title": "Muhle Porcelain White Shaving Bowl with Platinum Rim",
-            "url": "https://www.malegroomingsupplies.com/products/muhle-porcelain-white-shaving-bowl-platinum-rim-rn11",
-            "price": "29.00 GBP",
-            "sale_price": "24.00 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-porcelain-white-shaving-bowl-with-platinum-rim-rn11-male-grooming-supplies-962486.jpg?v=1722956336",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Muhle Porcelain White Shaving Mug",
         "category": "Shaving Bowls & Scuttles > MUHLE Shaving",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Bowls & Mugs",
@@ -26702,43 +27615,6 @@
             "sale_price": "31.85 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Muhle-R103-Safety-Razor-Open-Comb-Tortoise-Shell-32_0a7b2ce2-9e93-4824-bec4-7dbf072c3a1a.jpg?v=1768059476",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Muhle R108 Tortoiseshell Closed Comb Safety Razor",
-        "category": "Razors > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Muhle R108 Closed Comb Safety Razor combines a classic shaving format with a distinctive tortoiseshell-style handle. Designed for smooth, comfortable daily shaving, the closed comb head offers a forgiving shave that suits a wide range of skin types and experience levels. The handle is made from high-grade resin with a tortoiseshell finish, giving each razor a warm, patterned appearance. Chrome-plated metal accents add strength, balance, and a refined contrast to the handle. Comfortable in the hand and well proportioned, the R108 is a dependable choice for those who want reliable performance with a more characterful look. Please note: tortoiseshell-patterned resin varies in tone and pattern. Each razor is unique and may differ slightly from the images shown. Key Features: Closed comb safety razor designed for smooth, controlled shaving. High-grade resin handle with tortoiseshell-style finish. Chrome-plated metal accents for durability and balance. Comfortable, well-balanced feel suitable for daily use. Specifications: Razor Type: Double edge safety razor Comb Type: Closed comb Handle Material: High-grade resin, tortoiseshell pattern Finish: Chrome-plated metal accents Dimensions: 41 mm x 94 mm Weight: 64 g For related razor options, browse the MUHLE Shaving collection. This Muhle safety razor uses standard double edge razor blades; Merkur Super Platinum Razor Blades are one compatible option when available.",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-r108-tortoiseshell-closed-comb-safety-razor",
-        "price": "£31.95",
-        "brand": "Muhle",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Muhle-R103-Safety-Razor-Open-Comb-Tortoise-Shell-32.jpg?v=1768059018",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Razors",
-        "collections": [
-          "MUHLE Shaving",
-          "Safety Razors, Straight Razors & Shavettes",
-          "Men's Safety Razors & Double Edge Razors",
-          "Shaving Essentials"
-        ],
-        "variants": [
-          {
-            "id": "45366264987913",
-            "sku": "R108",
-            "gtin": "4028982008438",
-            "mpn": null,
-            "title": "Muhle R108 Tortoiseshell Closed Comb Safety Razor",
-            "url": "https://www.malegroomingsupplies.com/products/muhle-r108-tortoiseshell-closed-comb-safety-razor",
-            "price": "36.00 GBP",
-            "sale_price": "31.95 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Muhle-R103-Safety-Razor-Open-Comb-Tortoise-Shell-32.jpg?v=1768059018",
             "options": {}
           }
         ]
@@ -26924,43 +27800,6 @@
             "sale_price": "30.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-r89-safety-razor-male-grooming-supplies-895533.jpg?v=1722956496",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Muhle R89 Twist Closed Comb Safety Razor",
-        "category": "Razors > MUHLE Shaving",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
-        "description": "The Muhle R89 Twist is a two-piece closed comb safety razor with a chrome-plated finish. Its twist mechanism releases the top cap for a blade change while the base plate stays attached to the handle. Choose the Twist if you prefer handling a removable top cap rather than separating three razor parts. Turn the ridged knob at the end of the handle to release the cap, fit a standard double edge blade, then secure the head as directed in the supplied instructions. For a classic three-piece alternative, compare the Muhle R89 Safety Razor; for blades, browse double edge razor blades. Key Features Closed comb safety razor designed for smooth, comfortable daily shaving. Twist-open handle for quick blade changes and secure head locking. Longer, heavier handle offering improved grip and balance. Chrome-plated metal construction for durability and corrosion resistance. Well suited to beginners and regular shavers alike. Specifications Razor Type: Two-piece double edge safety razor Comb Type: Closed comb Material: Chrome-plated metal Weight: 80 g Dimensions: 42 mm x 106 mm For related razor options, browse the MUHLE Shaving collection. This Muhle safety razor uses standard double edge razor blades; Merkur Super Platinum Razor Blades are one compatible option when available.",
-        "url": "https://www.malegroomingsupplies.com/products/muhle-r89-twist-safety-razor",
-        "price": "£44.95",
-        "brand": "Muhle",
-        "vendor": "Muhle",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-r89-twist-safety-razor-male-grooming-supplies-118129.jpg?v=1722956220",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Razors",
-        "collections": [
-          "MUHLE Shaving",
-          "Safety Razors, Straight Razors & Shavettes",
-          "Men's Safety Razors & Double Edge Razors",
-          "Shaving Essentials"
-        ],
-        "variants": [
-          {
-            "id": "45366264529161",
-            "sku": "R89 TWIST",
-            "gtin": "4028982008506",
-            "mpn": null,
-            "title": "Muhle R89 Twist Closed Comb Safety Razor",
-            "url": "https://www.malegroomingsupplies.com/products/muhle-r89-twist-safety-razor",
-            "price": "44.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-r89-twist-safety-razor-male-grooming-supplies-118129.jpg?v=1722956220",
             "options": {}
           }
         ]
@@ -27544,43 +28383,6 @@
         ]
       },
       {
-        "name": "Omega 'S-BRUSH' Yellow Synthetic Shaving Brush S10018",
-        "category": "Shaving Brushes > Omega Shaving Brushes, Razors & Care",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
-        "description": "The Omega S-BRUSH Yellow Synthetic Shaving Brush uses S-Brush synthetic fibres with a hog bristle effect. The PBT fibres are corrugated and tapered to help build lather while keeping the brush quick to rinse and dry. The yellow plastic handle keeps the brush lightweight and easy to grip. Use it with shaving soap or shaving cream for face or bowl lathering. For related options, browse Omega shaving brushes, compare more synthetic shaving brushes, or see all shaving brushes. Key Features S-Brush synthetic fibres: Synthetic knot with hog bristle effect. PBT fibres: Corrugated and tapered synthetic filament. Yellow handle: Lightweight plastic handle. Brush lathering: Suitable for shaving soap and shaving cream. Made by Omega: Italian shaving brush maker. Specifications Knot Type: S-Brush synthetic fibres Handle Material: Plastic Handle Colour: Yellow Total Height: 105mm Package Includes: 1 shaving brush",
-        "url": "https://www.malegroomingsupplies.com/products/omega-s-brush-yellow-synthetic-shaving-brush-s10018",
-        "price": "£6.95",
-        "brand": "Omega",
-        "vendor": "Omega",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-s-brush-yellow-synthetic-shaving-brush-s10018-791210.jpg?v=1744055197",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Brushes",
-        "collections": [
-          "Omega Shaving Brushes, Razors & Care",
-          "Shaving Brushes",
-          "Synthetic Shaving Brushes",
-          "Shaving Essentials"
-        ],
-        "variants": [
-          {
-            "id": "48255328780553",
-            "sku": "S10018Y",
-            "gtin": "8001673981346",
-            "mpn": null,
-            "title": "Omega 'S-BRUSH' Yellow Synthetic Shaving Brush S10018",
-            "url": "https://www.malegroomingsupplies.com/products/omega-s-brush-yellow-synthetic-shaving-brush-s10018",
-            "price": "6.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-s-brush-yellow-synthetic-shaving-brush-s10018-791210.jpg?v=1744055197",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Omega Badger Imitation Hog Bristle Shaving Brush with Plastic Drip Stand 81020",
         "category": "Shaving Brushes > Omega Shaving Brushes, Razors & Care",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
@@ -27730,43 +28532,6 @@
         ]
       },
       {
-        "name": "Omega Hi-BRUSH Fiber Shaving Brush – CARBON FIBER Effect 46650",
-        "category": "Shaving Brushes > Omega Shaving Brushes, Razors & Care",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
-        "description": "Omega 46650 Hi-BRUSH combines a synthetic shaving knot with a black plastic handle carrying a carbon fibre-effect print. The pattern is a decorative finish, not a solid carbon fibre handle. The complete brush is approximately 108mm tall; this is its overall height, not the handle length. Choose this model for lathering shaving cream or soap if you want synthetic fibres rather than a natural-hair knot. For related options, browse Omega shaving brushes, compare more synthetic shaving brushes, or see all shaving brushes. Key Features Synthetic knot: Hi-BRUSH synthetic fibres for brush lathering. Carbon fibre-effect handle: Black handle with printed carbon fibre-style finish. Fast drying: Synthetic fibres dry quickly after use. Brush lathering: Suitable for shaving soaps and shaving creams. Made in Italy: Omega shaving brush. Specifications Knot Type: Synthetic Hi-BRUSH fibres Handle Material: Plastic Handle Finish: Black carbon fibre effect Total Height: 108mm Made In: Italy",
-        "url": "https://www.malegroomingsupplies.com/products/omega-hi-brush-fiber-shaving-brush-carbon-fiber-effect-46650",
-        "price": "£24.95",
-        "brand": "Omega",
-        "vendor": "Omega",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-hi-brush-fiber-shaving-brush-carbon-fiber-effect-46650-964676.jpg?v=1744055161",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Brushes",
-        "collections": [
-          "Omega Shaving Brushes, Razors & Care",
-          "Shaving Brushes",
-          "Synthetic Shaving Brushes",
-          "Shaving Essentials"
-        ],
-        "variants": [
-          {
-            "id": "48255328321801",
-            "sku": "0146650",
-            "gtin": "8001673970593",
-            "mpn": null,
-            "title": "Omega Hi-BRUSH Fiber Shaving Brush – CARBON FIBER Effect 46650",
-            "url": "https://www.malegroomingsupplies.com/products/omega-hi-brush-fiber-shaving-brush-carbon-fiber-effect-46650",
-            "price": "24.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-hi-brush-fiber-shaving-brush-carbon-fiber-effect-46650-964676.jpg?v=1744055161",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Omega Hi-BRUSH “ERGAL” Fiber Shaving Brush 46652",
         "category": "Shaving Brushes > Omega Shaving Brushes, Razors & Care",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
@@ -27799,43 +28564,6 @@
             "sale_price": "39.95 GBP",
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-hi-brush-ergal-fiber-shaving-brush-46652-890564.jpg?v=1744055190",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Omega Professional Barber Shaving Brush",
-        "category": "Shaving Brushes > Omega Shaving Brushes, Razors & Care",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Brushes",
-        "description": "The Omega 10049 Professional shaving brush has natural boar bristles and a red ABS handle. This is the full-size barber-style brush, approximately 128mm tall, rather than a compact travel model. Choose it for lathering shaving soap or cream when you prefer natural bristles. It is not one of Omega's synthetic S-Brush or Hi-Brush models, so check the fibre type as well as the handle colour when comparing brushes. Key Features Natural boar bristles: For brush-lathered shaving soap or cream. Red ABS handle: The red version of Omega's 10049 model. Full-size format: Approximately 128mm overall height. Specifications Model: Omega 10049 Professional, red Bristles: Natural boar Handle: ABS plastic Overall height: Approximately 128mm; handmade dimensions can vary slightly Made in: Italy How to Use Use the damp brush to build lather from your shaving soap or cream, adding water gradually. Rinse the bristles after shaving and let the brush dry before storing it. For related shaving brush options, browse the Shaving Brushes collection.",
-        "url": "https://www.malegroomingsupplies.com/products/omega-professional-barber-shaving-brush",
-        "price": "£4.99",
-        "brand": "Omega",
-        "vendor": "Omega",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-professional-barber-shaving-brush-392993.jpg?v=1744055202",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Shaving Brushes",
-        "collections": [
-          "Omega Shaving Brushes, Razors & Care",
-          "Shaving Brushes",
-          "Boar, Hog & Horse Hair Shaving Brushes",
-          "Shaving Essentials"
-        ],
-        "variants": [
-          {
-            "id": "48255328846089",
-            "sku": "10049R",
-            "gtin": "8001673100495",
-            "mpn": null,
-            "title": "Omega Professional Barber Shaving Brush",
-            "url": "https://www.malegroomingsupplies.com/products/omega-professional-barber-shaving-brush",
-            "price": "4.99 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-professional-barber-shaving-brush-392993.jpg?v=1744055202",
             "options": {}
           }
         ]
@@ -27916,44 +28644,6 @@
         ]
       },
       {
-        "name": "Omega Via Barberia Fructi Aftershave Serum Gel 50ml",
-        "category": "Post Shave > Omega Shaving Brushes, Razors & Care",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
-        "description": "Omega Via Barberia Fructi Aftershave Serum Gel is a leave-on post-shave gel in a 50ml pump container. Fructi is the citrus-scented option in the Via Barberia range. Choose this VB5002 serum if you prefer a gel texture rather than the Fructi fluid cream, which is a different product. Apply a small amount after shaving and spread gently over the skin; it is not a shaving gel for use under the razor. Key Features: Serum gel: Leave-on care for after shaving, not a lathering preparation. Fructi scent: Fresh citrus fragrance. Pump format: 50ml container for dispensing a small amount at a time. Specifications: Size: 50ml Packaging: Pump-action container Made in: Italy Compare other textures in our post-shave range when choosing your after-shaving routine.",
-        "url": "https://www.malegroomingsupplies.com/products/omega-via-barberia-fructi-aftershave-serum-gel-50ml",
-        "price": "£14.95",
-        "brand": "Omega",
-        "vendor": "Omega",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-via-barberia-fructi-aftershave-serum-gel-50ml-316576.jpg?v=1744055511",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Post Shave",
-        "collections": [
-          "Omega Shaving Brushes, Razors & Care",
-          "Post-Shave",
-          "Men's Aftershaves",
-          "Shaving Essentials",
-          "Shaving Preparations"
-        ],
-        "variants": [
-          {
-            "id": "48563233915145",
-            "sku": "VB5002",
-            "gtin": "8001673985115",
-            "mpn": null,
-            "title": "Omega Via Barberia Fructi Aftershave Serum Gel 50ml",
-            "url": "https://www.malegroomingsupplies.com/products/omega-via-barberia-fructi-aftershave-serum-gel-50ml",
-            "price": "14.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-via-barberia-fructi-aftershave-serum-gel-50ml-316576.jpg?v=1744055511",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Omega Via Barberia Herbae Aftershave Fluid Cream 50ml",
         "category": "Post Shave > Omega Shaving Brushes, Razors & Care",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Aftershave",
@@ -28025,43 +28715,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-via-barberia-herbae-aftershave-serum-gel-50ml-373184.jpg?v=1744055517",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Omega Via Barberia Pre-Shave Balm 50ml",
-        "category": "Pre-Shave > Omega Shaving Brushes, Razors & Care",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Creams",
-        "description": "Omega Via Barberia Pre-Shave Balm is a 50ml balm used before shaving to help soften facial hair and prepare the skin. It has a lightweight, non-greasy feel and is suitable for regular wet shaving preparation. The formula includes argan oil, beeswax and vegetable softening agents. It is dermatologically tested and free from dyes, preservatives, parabens, mineral oils and silicones. For related Omega products, browse Omega, compare more pre-shave products, or follow with aftershave balms and lotions. Key Features Pre-shave balm: Helps prepare skin and beard before shaving. Argan oil and beeswax: Conditioning ingredients for skin comfort.",
-        "url": "https://www.malegroomingsupplies.com/products/omega-via-barberia-pre-shave-balm-50ml",
-        "price": "£9.95",
-        "brand": "Omega",
-        "vendor": "Omega",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-via-barberia-pre-shave-balm-50ml-864043.jpg?v=1744055523",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Pre-Shave",
-        "collections": [
-          "Omega Shaving Brushes, Razors & Care",
-          "Pre-Shave",
-          "Shaving Essentials",
-          "Shaving Preparations"
-        ],
-        "variants": [
-          {
-            "id": "48563234078985",
-            "sku": "VB1000",
-            "gtin": "8001673985009",
-            "mpn": null,
-            "title": "Omega Via Barberia Pre-Shave Balm 50ml",
-            "url": "https://www.malegroomingsupplies.com/products/omega-via-barberia-pre-shave-balm-50ml",
-            "price": "9.95 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/omega-via-barberia-pre-shave-balm-50ml-864043.jpg?v=1744055523",
             "options": {}
           }
         ]
@@ -35949,7 +36602,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/620_clipped_rev_1.jpg?v=1788527365",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -35970,7 +36623,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-620-extra-ib-boar-black-acrylic",
             "price": "19.15 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/620_clipped_rev_1.jpg?v=1788527365",
             "options": {}
           }
@@ -41218,7 +41871,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257922825",
             "price": "20.65 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "150ml"
@@ -41312,7 +41965,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/415_403_TO_DG_400_ml_clipped_rev_1.jpg?v=1734440091",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41332,7 +41985,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shower-gel-400ml",
             "price": "10.99 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/415_403_TO_DG_400_ml_clipped_rev_1.jpg?v=1734440091",
             "options": {}
           }
@@ -41348,7 +42001,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW410903TabacDeodorantSpray200ml_preview_rev_1.jpg?v=1734440090",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41368,7 +42021,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-deodorant-spray-200ml",
             "price": "8.39 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW410903TabacDeodorantSpray200ml_preview_rev_1.jpg?v=1734440090",
             "options": {}
           }
@@ -41420,7 +42073,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41441,7 +42094,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-cologne?variant=48849258348809",
             "price": "14.99 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
             "options": {
               "Size": "100ml"
@@ -41528,7 +42181,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41550,7 +42203,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-125g",
             "price": "12.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
             "options": {}
           }
@@ -41628,43 +42281,6 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_101_TO_Rasierseife_Refill_FS_clipped_rev_1.jpg?v=1734519611",
-            "options": {}
-          }
-        ]
-      },
-      {
-        "name": "Taylor of Old Bond Sandalwood Hand Wash & Moisturiser Gift Set",
-        "category": "Hand & Body Lotions > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body Gift Sets",
-        "description": "Taylor of Old Bond Street Sandalwood Hand Wash & Moisturiser Gift Set contains a matching hand wash and moisturiser in 300ml bottles. The set is presented with a ceramic tray for bathroom or sink-side use. The Sandalwood fragrance has a warm fougere character with herbal, floral and woody notes. It is a practical Taylor of Old Bond Street gift for daily hand care. For related products, browse Taylor of Old Bond Street, compare more men's grooming gift sets, or see bath, body and hand care. Key Features Hand care gift set: Hand wash and moisturiser pairing. Sandalwood fragrance: Warm fougere scent profile. Ceramic tray: Reusable presentation tray included. Daily use: Suitable for regular hand washing and moisturising. Specifications Set Includes: Sandalwood Hand Wash 300ml, Sandalwood Moisturiser 300ml and ceramic tray Fragrance: Sandalwood Made In: England",
-        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-sandalwood-hand-wash-moisturiser-gift-set",
-        "price": "£28.95",
-        "brand": "Taylor of Old Bond Street",
-        "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07137-handwash-and-moisturiser-set-sandalwood-1200x1200px_2048x_4af195c1-2db5-441e-bd47-2c3b72dd42ba.jpg?v=1743371894",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Hand & Body Lotions",
-        "collections": [
-          "Hair & Body",
-          "Taylor of Old Bond Street",
-          "Gift Sets",
-          "Bath, Body & Hand Care"
-        ],
-        "variants": [
-          {
-            "id": "55091150881033",
-            "sku": "07137",
-            "gtin": "696770071373",
-            "mpn": null,
-            "title": "Taylor of Old Bond Sandalwood Hand Wash & Moisturiser Gift Set",
-            "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-sandalwood-hand-wash-moisturiser-gift-set",
-            "price": "39.95 GBP",
-            "sale_price": "28.95 GBP",
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J07137-handwash-and-moisturiser-set-sandalwood-1200x1200px_2048x_4af195c1-2db5-441e-bd47-2c3b72dd42ba.jpg?v=1743371894",
             "options": {}
           }
         ]
@@ -42338,41 +42954,6 @@
         ]
       },
       {
-        "name": "Taylor of Old Bond Street Tan Leather Small Manicure Set",
-        "category": "Manicure Sets > Hair & Body",
-        "product_category": "Health & Beauty > Personal Care > Cosmetics > Cosmetic Tools > Nail Tools > Manicure Tool Sets",
-        "description": "Taylor of Old Bond Street Tan Leather Small Manicure Set is a compact nail care set in a soft tan leather zip case. It is sized for home use, travel or a wash bag. The set contains five nickel-finish tools made in Solingen, Germany. It includes nail and cuticle scissors, slanted tweezers, a sapphire dust nail file, a nail clipper and a nail cleaner. For related grooming items, browse Taylor of Old Bond Street or see more hair and body products. Key Features Manicure set: Five-piece nail care kit. Leather case: Soft tan zip case for storage and travel. Solingen tools: Nickel-finish grooming tools made in Germany. Compact size: Suitable for travel bags and bathroom drawers. Specifications Set Includes: Nail/cuticle scissors, slanted tweezers, sapphire dust nail file, nail clipper and nail cleaner Case Material: Leather Tool Finish: Nickel finish Colour: Tan Made In: Germany",
-        "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-tan-leather-small-manicure-set",
-        "price": "£85.00",
-        "brand": "Taylor of Old Bond Street",
-        "vendor": "Taylor of Old Bond Street",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J09941-tan-manicure-set-open-1200x1200px_2048x_6684d0a5-83a6-4798-befc-f1495f7a5d25.jpg?v=1743351223",
-        "availability": "out_of_stock",
-        "condition": "new",
-        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
-        "shipping": "Calculated at checkout",
-        "product_type": "Manicure Sets",
-        "collections": [
-          "Hair & Body",
-          "Taylor of Old Bond Street"
-        ],
-        "variants": [
-          {
-            "id": "55089928405257",
-            "sku": "09941",
-            "gtin": null,
-            "mpn": null,
-            "title": "Taylor of Old Bond Street Tan Leather Small Manicure Set",
-            "url": "https://www.malegroomingsupplies.com/products/taylor-of-old-bond-street-tan-leather-small-manicure-set",
-            "price": "85.00 GBP",
-            "sale_price": null,
-            "availability": "out_of_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/J09941-tan-manicure-set-open-1200x1200px_2048x_6684d0a5-83a6-4798-befc-f1495f7a5d25.jpg?v=1743351223",
-            "options": {}
-          }
-        ]
-      },
-      {
         "name": "Taylor of Old Bond Street Traditional Lemon Hand Soap 100g",
         "category": "Hand Soap & Wash > Hair & Body",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bar Soap",
@@ -42671,6 +43252,42 @@
         ]
       },
       {
+        "name": "The Bluebeards Revenge Beard / Moustache Scissors",
+        "category": "Beard and Moustache > The Bluebeards Revenge",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Shears",
+        "description": "The Bluebeards Revenge Beard and Moustache Scissors help you tidy stray facial hairs and refine the shape of your beard between barber visits. Their compact design gives you a practical tool for detailed trimming around the moustache and beard outline.A metallic blue finish gives these grooming scissors the brand’s distinctive appearance. The finger loops provide a controlled grip for careful, small cuts where a larger pair of scissors would be awkward.Key Features Detailed trimming: Tidy individual hairs around the beard and moustache. Compact format: Easy to manoeuvre around smaller areas of facial hair. Finger-loop grip: Allows you to position the blades for controlled trimming. Metallic blue finish: A distinctive addition to a facial-hair grooming kit. Specifications Product type: Beard and moustache scissors Finish: Metallic blue Quantity: One pair of scissors Country of manufacture: Pakistan Trim small amounts at a time, then wipe the scissors clean and store them in a dry place. Browse The Bluebeards Revenge for matching grooming essentials.",
+        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-moustache-beard-scissors",
+        "price": "£12.99",
+        "brand": "The Bluebeards Revenge",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bluebeards-beardandMoscissors-1.jpg?v=1794484652",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Beard and Moustache",
+        "collections": [
+          "New Additions",
+          "The Bluebeards Revenge",
+          "Beard & Moustache Care"
+        ],
+        "variants": [
+          {
+            "id": "57564455698697",
+            "sku": "BRNBDMOSCISS",
+            "gtin": "5060297001550",
+            "mpn": null,
+            "title": "The Bluebeards Revenge Beard / Moustache Scissors",
+            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-moustache-beard-scissors",
+            "price": "12.99 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bluebeards-beardandMoscissors-1.jpg?v=1794484652",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "The Bluebeards Revenge Big Gold Bar of Soap 175g",
         "category": "Bath Soap and Shower Gels > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Bar Soap",
@@ -42783,6 +43400,43 @@
         ]
       },
       {
+        "name": "The Bluebeards Revenge Classic Body Wash 300ml",
+        "category": "Bath Soap and Shower Gels > The Bluebeards Revenge",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Bath & Body > Body Wash",
+        "description": "The Bluebeards Revenge Classic Body Wash is a lathering shower gel for washing away daily dirt, sweat and excess oil. Its 300ml bottle brings the brand’s Classic barbershop fragrance to your shower.Apply a small amount to a wet flannel or your hands, massage over the body and rinse thoroughly. The flip-top bottle keeps the liquid cleanser easy to dispense.Key Features Everyday cleansing: Removes dirt, sweat and excess oil from the body. Lathering format: Spreads over wet skin before rinsing away. Classic fragrance: The barbershop-inspired scent in the Bluebeards body-care range. Flip-top bottle: Dispenses the shower gel without removing the cap. Specifications Product type: Body wash / shower gel Volume: 300ml Fragrance: Classic Quantity: One flip-top bottle Country of manufacture: United Kingdom Rinse well after washing and avoid contact with the eyes. Find more products from the range in The Bluebeards Revenge collection.",
+        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-body-wash-300ml",
+        "price": "£9.99",
+        "brand": "The Bluebeards Revenge",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BluebeardsrevengeClassicBodyWash-1.jpg?v=1794487440",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Bath Soap and Shower Gels",
+        "collections": [
+          "New Additions",
+          "The Bluebeards Revenge",
+          "Hair & Body",
+          "Bath, Body & Hand Care"
+        ],
+        "variants": [
+          {
+            "id": "48936182153481",
+            "sku": "BRNCLBODYW300",
+            "gtin": "5060297003011",
+            "mpn": null,
+            "title": "The Bluebeards Revenge Classic Body Wash 300ml",
+            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-body-wash-300ml",
+            "price": "9.99 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BluebeardsrevengeClassicBodyWash-1.jpg?v=1794487440",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "The Bluebeards Revenge Classic Conditioner 300ml",
         "category": "Shampoo & Conditioner > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners",
@@ -42815,6 +43469,43 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BluebeardsrevengeConditioner-2.jpg?v=1794245891",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "The Bluebeards Revenge Classic Shampoo 300ml",
+        "category": "Shampoo & Conditioner > The Bluebeards Revenge",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo",
+        "description": "The Bluebeards Revenge Classic Shampoo 300ml washes away everyday dirt, excess oil and styling-product residue. This liquid shampoo is a practical choice for keeping hair clean before conditioning or styling.Its fragranced formula works into a lather when massaged through wet hair. The 300ml bottle suits a regular bathroom routine, with a flip-top cap for dispensing the shampoo before rinsing it away.Key Features Everyday cleansing: Removes dirt, excess oil and residue left by styling products. Lathering formula: Distributes through wet hair and rinses away after washing. Barbershop fragrance: Leaves the hair with the brand’s characteristic scent. Flip-top bottle: A straightforward dispensing format for your shower routine. Specifications Volume: 300ml Product type: Liquid shampoo Packaging: Flip-top bottle Quantity: One bottle Massage into wet hair and rinse thoroughly. Follow with Classic Conditioner when your hair needs conditioning before styling.",
+        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-classic-shampoo-300ml",
+        "price": "£9.99",
+        "brand": "The Bluebeards Revenge",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BluebeardsrevengeShampoo-1.jpg?v=1794484653",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Shampoo & Conditioner",
+        "collections": [
+          "New Additions",
+          "The Bluebeards Revenge",
+          "Hair & Body",
+          "Shampoo & Conditioner"
+        ],
+        "variants": [
+          {
+            "id": "57564455665929",
+            "sku": "BRNCLSHAMP300",
+            "gtin": "5060297002663",
+            "mpn": null,
+            "title": "The Bluebeards Revenge Classic Shampoo 300ml",
+            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-classic-shampoo-300ml",
+            "price": "9.99 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/BluebeardsrevengeShampoo-1.jpg?v=1794484653",
             "options": {}
           }
         ]
@@ -43209,6 +43900,43 @@
         ]
       },
       {
+        "name": "The Bluebeards Revenge Face Wash 100ml",
+        "category": "Face > The Bluebeards Revenge",
+        "product_category": "Health & Beauty > Personal Care > Cosmetics > Skin Care > Facial Cleansers",
+        "description": "The Bluebeards Revenge Face Wash 100ml is a liquid facial cleanser for washing away everyday dirt, sweat and excess oil. It gives you a dedicated cleansing step before moisturising or the rest of your grooming routine.The formula lists aloe vera leaf juice and sodium hyaluronate alongside its cleansing ingredients. Its compact flip-top bottle is convenient to keep by the basin or pack with your wash-bag essentials.Key Features Daily cleansing: Use morning and evening as part of your face-care routine. Lather-and-rinse format: Massage onto wet skin, then rinse away with water. Flip-top dispensing: A compact 100ml bottle for use at the basin or in the shower. Specifications Volume: 100ml Product type: Liquid facial cleanser Packaging: Flip-top bottle Quantity: One bottle Make it your regular facial cleansing step. Follow with Cooling Moisturiser if you want to finish with facial hydration.",
+        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-face-wash-100ml",
+        "price": "£9.99",
+        "brand": "The Bluebeards Revenge",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Bluebeardsrevengefacewash-2.jpg?v=1794484655",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Face",
+        "collections": [
+          "New Additions",
+          "The Bluebeards Revenge",
+          "Hair & Body",
+          "Face & Skin Care"
+        ],
+        "variants": [
+          {
+            "id": "57564457402633",
+            "sku": "BRNFWASH100",
+            "gtin": "5060297003196",
+            "mpn": null,
+            "title": "The Bluebeards Revenge Face Wash 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-face-wash-100ml",
+            "price": "9.99 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Bluebeardsrevengefacewash-2.jpg?v=1794484655",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "The Bluebeards Revenge Fade Brush",
         "category": "Hair Brushes & Combs > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes > Hairbrushes & Combs",
@@ -43464,6 +44192,44 @@
         ]
       },
       {
+        "name": "The Bluebeards Revenge Pre-Shave Oil 100ml",
+        "category": "Pre-Shave > Pre-Shave",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
+        "description": "The Bluebeards Revenge Pre-Shave Oil prepares facial hair before a wet shave. Massage a small amount into your beard to soften stubble and help your razor glide across the skin.The 100ml bottle contains a fragranced blend of castor seed and olive fruit oils. Use it as the preparation step before applying your usual shaving cream.Key Features Beard preparation: Softens facial hair before shaving. Razor glide: Helps reduce friction between the blade and skin. Oil blend: Contains castor seed oil and olive fruit oil. Controlled application: Work a small amount between your palms and massage into the beard. Specifications Product type: Pre-shave oil Volume: 100ml Format: Fragranced oil in a flip-top bottle Country of manufacture: United Kingdom Prepare your beard, then follow with your preferred shaving cream. Explore The Bluebeards Revenge for the rest of your shaving routine.",
+        "url": "https://www.malegroomingsupplies.com/products/bluebeards-revenge-pre-shave-oil-100ml",
+        "price": "£9.99",
+        "brand": "The Bluebeards Revenge",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Bluebeardspreshaveoil-1.jpg?v=1794487439",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Pre-Shave",
+        "collections": [
+          "Pre-Shave",
+          "New Additions",
+          "The Bluebeards Revenge",
+          "Shaving Essentials",
+          "Shaving Preparations"
+        ],
+        "variants": [
+          {
+            "id": "48936180023561",
+            "sku": "BRNPRESHOIL100",
+            "gtin": "5060297002465",
+            "mpn": null,
+            "title": "The Bluebeards Revenge Pre-Shave Oil 100ml",
+            "url": "https://www.malegroomingsupplies.com/products/bluebeards-revenge-pre-shave-oil-100ml",
+            "price": "9.99 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Bluebeardspreshaveoil-1.jpg?v=1794487439",
+            "options": {}
+          }
+        ]
+      },
+      {
         "name": "The Bluebeards Revenge Quiff Roller",
         "category": "Hair Brushes & Combs > The Bluebeards Revenge",
         "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes > Round Hairbrushes",
@@ -43496,6 +44262,43 @@
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bluebeards-quiff-roller-6.jpg?v=1794245888",
+            "options": {}
+          }
+        ]
+      },
+      {
+        "name": "The Bluebeards Revenge Sea Salt Spray 200ml",
+        "category": "Hair Styling > The Bluebeards Revenge",
+        "product_category": "Health & Beauty > Personal Care > Hair Care > Hair Styling Products > Hair Sprays",
+        "description": "The Bluebeards Revenge Sea Salt Spray 200ml adds texture, volume and a low-shine finish to your hair. Use it to create a relaxed, tousled look or as a pre-styling spray before blow-drying.The pump bottle lets you distribute the spray through damp or dry hair. Scrunch with your fingers to encourage movement, or work through towel-dried hair before drying it into shape.Key Features Sea-salt texture: Adds grip and definition for loose, naturally styled hair. Volume before styling: Can be used ahead of blow-drying to give your style more body. Low-shine finish: Keeps the final appearance understated rather than glossy. Damp or dry application: Offers different ways to refresh or build your hairstyle. Specifications Volume: 200ml Product type: Sea salt hair styling spray Dispenser: Pump spray Finish: Low shine Quantity: One bottle Shake before use, apply a small amount and style as required. A Quiff Roller can help guide the hair while blow-drying.",
+        "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-sea-salt-spray-200ml-2",
+        "price": "£9.99",
+        "brand": "The Bluebeards Revenge",
+        "vendor": "The Bluebeards Revenge",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bluebeards-revenge-sea-salt-spray-1.jpg?v=1794484654",
+        "availability": "in_stock",
+        "condition": "new",
+        "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
+        "shipping": "Calculated at checkout",
+        "product_type": "Hair Styling",
+        "collections": [
+          "New Additions",
+          "The Bluebeards Revenge",
+          "Hair & Body",
+          "Hair Styling Products"
+        ],
+        "variants": [
+          {
+            "id": "57564455960841",
+            "sku": "BRNSEA200",
+            "gtin": "5060297002502",
+            "mpn": null,
+            "title": "The Bluebeards Revenge Sea Salt Spray 200ml",
+            "url": "https://www.malegroomingsupplies.com/products/the-bluebeards-revenge-sea-salt-spray-200ml-2",
+            "price": "9.99 GBP",
+            "sale_price": null,
+            "availability": "in_stock",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/bluebeards-revenge-sea-salt-spray-1.jpg?v=1794484654",
             "options": {}
           }
         ]
