@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-15",
-    "generated_at": "2026-11-15T08:54:09+00:00",
+    "last_updated": "2026-11-16",
+    "generated_at": "2026-11-16T09:07:07+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -12288,7 +12288,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/toothpaste-75ml-JPEG-scaled.jpg?v=1756554693",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -12309,7 +12309,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-spearmint-toothpaste-75ml",
             "price": "8.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/toothpaste-75ml-JPEG-scaled.jpg?v=1756554693",
             "options": {}
           }
@@ -18325,7 +18325,7 @@
         "brand": "Floris London",
         "vendor": "Floris London",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-shaving-soap-and-bowl-refill-100g-front.jpg?v=1752608577",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18346,7 +18346,7 @@
             "url": "https://www.malegroomingsupplies.com/products/floris-no89-shaving-bowl-refill-100g",
             "price": "31.45 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-shaving-soap-and-bowl-refill-100g-front.jpg?v=1752608577",
             "options": {}
           }
@@ -23881,7 +23881,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-plastic-case-3000-474461.jpg?v=1722957301",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -23902,7 +23902,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-plastic-case-3000",
             "price": "8.75 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-plastic-case-3000-474461.jpg?v=1722957301",
             "options": {}
           }
@@ -42257,7 +42257,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_101_TO_Rasierseife_Refill_FS_clipped_rev_1.jpg?v=1734519611",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42279,7 +42279,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-soap-stick-refill-100g",
             "price": "9.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_101_TO_Rasierseife_Refill_FS_clipped_rev_1.jpg?v=1734519611",
             "options": {}
           }
@@ -44660,7 +44660,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S80002Leather_CedarBody_HandWash300ml.jpg?v=1791574844",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -44681,7 +44681,7 @@
             "url": "https://www.malegroomingsupplies.com/products/leather-cedar-body-hand-wash-300ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S80002Leather_CedarBody_HandWash300ml.jpg?v=1791574844",
             "options": {}
           }
@@ -44918,7 +44918,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S41015_Oakmoss_Body_Wash_300ml_clipped_rev_1.jpg?v=1791574840",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -44939,7 +44939,7 @@
             "url": "https://www.malegroomingsupplies.com/products/oakmoss-body-wash-300ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S41015_Oakmoss_Body_Wash_300ml_clipped_rev_1.jpg?v=1791574840",
             "options": {}
           }
@@ -44992,7 +44992,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S41002_Oakmoss_Hand_and_Body_Lotion_300ml_clipped_rev_1.jpg?v=1791574835",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -45013,7 +45013,7 @@
             "url": "https://www.malegroomingsupplies.com/products/oakmoss-hand-body-lotion-300ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S41002_Oakmoss_Hand_and_Body_Lotion_300ml_clipped_rev_1.jpg?v=1791574835",
             "options": {}
           }
@@ -45688,7 +45688,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30013_MGThistle_Aftershave_Balm_Tube_75ml_clipped_rev_1.jpg?v=1791574824",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -45710,7 +45710,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-aftershave-balm-75ml",
             "price": "12.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30013_MGThistle_Aftershave_Balm_Tube_75ml_clipped_rev_1.jpg?v=1791574824",
             "options": {}
           }
@@ -45726,7 +45726,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30004_MGThistle_All_in_One_Wash_500ml_clipped_rev_1.jpg?v=1791574819",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -45747,7 +45747,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-all-in-one-wash-500ml",
             "price": "16.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30004_MGThistle_All_in_One_Wash_500ml_clipped_rev_1.jpg?v=1791574819",
             "options": {}
           }
@@ -45837,7 +45837,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30014_MGThistle_Beard_Oil_30ml_clipped_rev_1.jpg?v=1791574826",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -45858,7 +45858,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-beard-oil-30ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30014_MGThistle_Beard_Oil_30ml_clipped_rev_1.jpg?v=1791574826",
             "options": {}
           }
@@ -45984,7 +45984,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30007_MGThistle_Conditioning_Shampoo_300ml_clipped_rev_1.jpg?v=1791574821",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46005,7 +46005,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-conditioning-shampoo-300ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30007_MGThistle_Conditioning_Shampoo_300ml_clipped_rev_1.jpg?v=1791574821",
             "options": {}
           }
@@ -46214,7 +46214,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30006_MGThistle_Hair_and_Body_Wash_Tube_200ml_clipped_rev_1.jpg?v=1791574820",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46235,7 +46235,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-hair-body-wash-200ml",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30006_MGThistle_Hair_and_Body_Wash_Tube_200ml_clipped_rev_1.jpg?v=1791574820",
             "options": {}
           }
@@ -46400,7 +46400,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30018_MGThistle_Moisturiser_Pump_100ml_clipped_rev_1.jpg?v=1791574827",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46419,7 +46419,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-moisturiser-100ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30018_MGThistle_Moisturiser_Pump_100ml_clipped_rev_1.jpg?v=1791574827",
             "options": {}
           }
@@ -46546,7 +46546,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30011_MGThistle_Shave_Gel_Tube_150ml_clipped_rev_1.jpg?v=1791574823",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46567,7 +46567,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-shave-gel-150ml",
             "price": "12.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30011_MGThistle_Shave_Gel_Tube_150ml_clipped_rev_1.jpg?v=1791574823",
             "options": {}
           }
