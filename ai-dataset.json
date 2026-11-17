@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-16",
-    "generated_at": "2026-11-16T09:07:07+00:00",
+    "last_updated": "2026-11-17",
+    "generated_at": "2026-11-17T10:19:24+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -23993,7 +23993,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-progress-long-handle-razor-510001-338006.jpg?v=1722957557",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -24015,7 +24015,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-progress-long-handle-razor-510001",
             "price": "55.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-progress-long-handle-razor-510001-338006.jpg?v=1722957557",
             "options": {}
           }
@@ -28839,7 +28839,7 @@
         "brand": "Osma",
         "vendor": "Osma",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/osma-haemostatic-pencil-12g-hs-male-grooming-supplies-725451.jpg?v=1731918797",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28860,7 +28860,7 @@
             "url": "https://www.malegroomingsupplies.com/products/osma-shaving-hemostatic-pencil?variant=48630311354633",
             "price": "3.75 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/osma-haemostatic-pencil-12g-hs-male-grooming-supplies-725451.jpg?v=1731918797",
             "options": {
               "Type": "Without Hanging Card"
@@ -46509,7 +46509,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/A01831MGTShaveGel100ml_2000x_clipped_rev_1.jpg?v=1736889970",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46530,7 +46530,7 @@
             "url": "https://www.malegroomingsupplies.com/products/scottish-fine-soaps-thistle-black-pepper-shave-gel-100ml",
             "price": "11.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/A01831MGTShaveGel100ml_2000x_clipped_rev_1.jpg?v=1736889970",
             "options": {}
           }
