@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-19",
-    "generated_at": "2026-11-19T09:58:15+00:00",
+    "last_updated": "2026-11-20",
+    "generated_at": "2026-11-20T09:46:36+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -40641,7 +40641,7 @@
         "brand": "Simpsons",
         "vendor": "Simpsons",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1788539196",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -40663,7 +40663,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-major-best-or-super-silvertip-badger-travel-shaving-brush?variant=56363187962121",
             "price": "109.95 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MajorBest-Open.png?v=1788539196",
             "options": {
               "Brush Type": "Best Badger"
