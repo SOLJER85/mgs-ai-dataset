@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-21",
-    "generated_at": "2026-11-21T09:18:55+00:00",
+    "last_updated": "2026-11-22",
+    "generated_at": "2026-11-22T09:27:52+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -215,7 +215,7 @@
           },
           {
             "id": "57362523619593",
-            "sku": "740062",
+            "sku": "746712",
             "gtin": "4011700740062",
             "mpn": null,
             "title": "4711 Original Eau de Cologne - 200ml",
@@ -1375,6 +1375,7 @@
         "product_type": "Fragrances",
         "collections": [
           "Hair & Body",
+          "Gift Sets",
           "Captain Fawcett",
           "Fragrances",
           "Men's Eau de Parfum"
@@ -1747,6 +1748,7 @@
         "product_type": "Scissors & Tools",
         "collections": [
           "Hair & Body",
+          "Gift Sets",
           "Captain Fawcett"
         ],
         "variants": [
@@ -4005,6 +4007,7 @@
         "collections": [
           "Hair & Body",
           "Castle Forbes",
+          "Gift Sets",
           "Fragrances",
           "Men's Eau de Parfum"
         ],
@@ -4042,6 +4045,7 @@
         "collections": [
           "Hair & Body",
           "Castle Forbes",
+          "Gift Sets",
           "Fragrances"
         ],
         "variants": [
@@ -7625,7 +7629,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-bath-and-shower-gel?variant=55897924763913",
             "price": "31.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shower-gel-250ml-JPEG_clipped_rev_1.jpg?v=1757188779",
             "options": {
               "Volume": "250ml"
@@ -14024,6 +14028,7 @@
           "DOVO Solingen Straight Razors & Shavettes",
           "Safety Razors, Straight Razors & Shavettes",
           "Straight Razors, Cut Throat Razors & Shavettes",
+          "Gift Sets",
           "Shaving Essentials"
         ],
         "variants": [
@@ -16573,7 +16578,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16582,6 +16587,7 @@
           "Feather Safety Razor Co.",
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
+          "Gift Sets",
           "Shaving Essentials"
         ],
         "variants": [
@@ -16594,7 +16600,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-all-stainless-safety-razor-as-d2",
             "price": "142.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-AS-D2_clipped_rev_1.jpg?v=1737207172",
             "options": {}
           }
@@ -16610,7 +16616,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-with-Stand-AS-D2S_clipped_rev_1.jpg?v=1737212246",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16633,7 +16639,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-as-d2s-razor-and-stand",
             "price": "180.00 GBP",
             "sale_price": "169.95 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Stainless-Steel-Double-Edge-Razor-with-Stand-AS-D2S_clipped_rev_1.jpg?v=1737212246",
             "options": {}
           }
@@ -16687,7 +16693,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Black-Straight-Razor.jpg?v=1777798779",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16708,7 +16714,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-black-sr-straight-razor-acsr-nb",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Black-Straight-Razor.jpg?v=1777798779",
             "options": {}
           }
@@ -16724,7 +16730,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Blue-Folding-Razor.jpg?v=1777798841",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16745,7 +16751,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-sr-folding-razor-acsr-rbl",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SR-Blue-Folding-Razor.jpg?v=1777798841",
             "options": {}
           }
@@ -16835,7 +16841,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-DX-Japanese-Straight-Razor_clipped_rev_1.jpg?v=1737216267",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16856,7 +16862,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-dx-japanese-razor-acd-n",
             "price": "180.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-DX-Japanese-Straight-Razor_clipped_rev_1.jpg?v=1737216267",
             "options": {}
           }
@@ -16872,7 +16878,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-DX-Wood-Razor-handle_clipped_rev_1.jpg?v=1737670589",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -16893,7 +16899,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-dx-wood-razor-acd-rw",
             "price": "240.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-DX-Wood-Razor-handle_clipped_rev_1.jpg?v=1737670589",
             "options": {}
           }
@@ -17089,7 +17095,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Folding-Razor_clipped_rev_1.jpg?v=1737224659",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17110,7 +17116,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-artist-club-ss-folding-razor-acs-rb",
             "price": "110.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Artist-Club-SS-Black-Folding-Razor_clipped_rev_1.jpg?v=1737224659",
             "options": {}
           }
@@ -17398,7 +17404,7 @@
         "brand": "Feather",
         "vendor": "Feather",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Wood-Handle-Stainless-Double-Edge-Razor-with-Stand_clipped_rev_1.jpg?v=1737234541",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -17421,7 +17427,7 @@
             "url": "https://www.malegroomingsupplies.com/products/feather-wood-handle-stainless-double-edge-razor-stand-ws-d2s",
             "price": "265.00 GBP",
             "sale_price": "240.00 GBP",
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Feather-Wood-Handle-Stainless-Double-Edge-Razor-with-Stand_clipped_rev_1.jpg?v=1737234541",
             "options": {}
           }
@@ -18252,7 +18258,7 @@
         "brand": "Floris London",
         "vendor": "Floris London",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-fragrance-powder-100g-front.jpg?v=1752606492",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -18272,7 +18278,7 @@
             "url": "https://www.malegroomingsupplies.com/products/floris-no89-fragrance-powder-100g",
             "price": "30.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/floris-no-89-fragrance-powder-100g-front.jpg?v=1752606492",
             "options": {}
           }
@@ -19222,7 +19228,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors",
         "description": "The Henson AL13 V2 in Aircraft Aluminium is a 37g aluminium double edge safety razor with a natural aluminium finish. Choose Mild or Medium from the option selector.Choose Mild or MediumMild: the gentler of the two configurations, a starting point for lighter growth or a gentler shave feel. Medium: a wider blade gap and more blade exposure for a stronger shave feel.Read our Henson Mild, Medium and Aggressive buying guide for a fuller comparison. These are separate head configurations, not settings on an adjustable razor. Check the selected option and its availability before adding to cart.This Henson razor is manufactured in Canada from aircraft-grade aluminium, CNC-machined to tolerances of +/- 0.00025 inches. This ensures consistent blade alignment, allowing the razor to guide itself to the correct shaving angle without constant adjustment.The head design supports the blade close to the cutting edge, reducing flex and chatter. The result is a controlled, predictable shave.At just 37g, the Henson AL13 is lighter than most traditional double edge safety razors. This encourages a lighter touch and lets the blade do the work rather than relying on pressure.The anodised coating provides corrosion resistance while maintaining the natural aluminium tone. Built for long-term ownership and regular use.For related Henson Shaving options, compare Henson AL13 Safety Razor V2.0 - Grey - Aggressive +++ with Henson AL13 Safety Razor V2.0 - Jet Black, or browse the Henson Shaving collection.For compatible blades, see Henson RK Shaving Stainless DE Razor Blades - 100 Pack or Henson RK Blades Pack of 5.Key Features Precision-machined double edge safety razor Aircraft-grade aluminium construction CNC-machined to aerospace tolerances Head design reduces blade flex for controlled shaving Lightweight 37g construction Anti-clog channels for easy rinsing Available in Mild and Medium configurations Includes 5 double edge razor blades Manufactured in Canada Specifications Razor Type: Double edge safety razor Material: Aircraft-grade aluminium Finish: Anodised natural aluminium Weight: 37g (1.3 oz) Handle Diameter: 9.53 mm Blade Gap: Mild 0.68 mm / Medium 0.85 mm Blade Included: Yes, 5 double edge razor blades Country Of Manufacture: Canada Available in the UK and worldwide.Care after shavingAfter each shave, rinse away lather and hair, then leave the razor somewhere dry rather than in the shower. When changing the blade, take the razor apart and clean it gently with soapy water and a soft-bristled brush. Keep fingers clear of the cutting edges and dry the parts before fitting a new blade. Do not use harsh cleaners or put the razor in a dishwasher.",
         "url": "https://www.malegroomingsupplies.com/products/henson-al13-double-edge-safety-razor-aircraft-aluminium",
-        "price": "£78.95",
+        "price": "£72.00",
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
@@ -19245,7 +19251,7 @@
             "mpn": null,
             "title": "Henson AL13 Safety Razor V2.0 - Aircraft Aluminium - Mild Aggression",
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-double-edge-safety-razor-aircraft-aluminium?variant=45376842924297",
-            "price": "78.95 GBP",
+            "price": "72.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-aircraft-aluminium-male-grooming-supplies-202577.jpg?v=1722956603",
@@ -19276,7 +19282,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Henson AL13 V2 in Copper is an aluminium double edge safety razor with a copper-coloured anodised finish, not a solid copper razor. Choose the Mild or Medium option for the head configuration you want; the colour does not change the razor's material. This Henson razor is manufactured in Canada from aircraft-grade aluminium, CNC-machined to tolerances of +/- 0.00025 inches. This ensures consistent blade alignment, allowing the razor to guide itself to the correct shaving angle without constant adjustment. The head design supports the blade close to the cutting edge, reducing flex and chatter. The result is a controlled, predictable shave. At just 37g, the Henson AL13 is lighter than most traditional double edge safety razors. This encourages a lighter touch and lets the blade do the work rather than relying on pressure. The copper-coloured anodised finish provides corrosion resistance while maintaining its warm metallic appearance over time. Mild Or Medium: Which To Choose Mild (0.68 mm): Best for those new to safety razors, daily shavers with lighter growth, or anyone with sensitive skin. Offers a gentler introduction with minimal blade exposure. Medium (0.85 mm): The recommended choice for most users. Suited to regular to coarse beard growth and provides efficient, comfortable shaving. If unsure, start here. Both deliver a close shave. The difference lies in blade exposure and efficiency. For related Henson Shaving options, compare Henson AL13 Safety Razor V2.0 - Steel Blue with Henson AL13 Safety Razor V2.0 - Tan, or browse the Henson Shaving collection. For compatible blades, see Henson RK Shaving Stainless DE Razor Blades - 100 Pack or Henson RK Blades Pack of 5. Key Features Precision-machined Henson AL13 safety razor Aircraft-grade aluminium with anodised Copper finish CNC-machined to aerospace tolerances Head design reduces blade flex for controlled shaving Lightweight 37g double edge razor Anti-clog channels for easy rinsing Available in Mild and Medium configurations Includes 5 double edge razor blades Manufactured in Canada Specifications Razor Type: Double edge safety razor Material: Aircraft-grade aluminium Finish: Anodised Copper Weight: 37g (1.3 oz) Handle Diameter: 9.53 mm Blade Gap: Mild 0.68 mm / Medium 0.85 mm Blade Included: Yes, 5 double edge razor blades Country Of Manufacture: Canada Available in the UK and worldwide.",
         "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-copper",
-        "price": "£78.95",
+        "price": "£72.00",
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-copper-male-grooming-supplies-931421.jpg?v=1722956580",
@@ -19299,7 +19305,7 @@
             "mpn": null,
             "title": "Henson AL13 Safety Razor V2.0 - Copper - Mild Aggression",
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-copper?variant=45376842563849",
-            "price": "78.95 GBP",
+            "price": "72.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-copper-male-grooming-supplies-931421.jpg?v=1722956580",
@@ -19330,7 +19336,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors",
         "description": "The Henson AL13 Safety Razor V2.0 in Jet Black brings together considered design and aerospace-level precision. The anodised black finish offers a clean, modern look suited to those who prefer understated grooming tools. This Henson razor is manufactured in Canada from aircraft-grade aluminium, CNC-machined to tolerances of +/- 0.00025 inches. This ensures consistent blade alignment, allowing the razor to guide itself to the correct shaving angle without constant adjustment. The head design supports the blade close to the cutting edge, reducing flex and chatter. The result is a controlled, predictable shave. At just 37g, the Henson AL13 is lighter than most traditional double edge safety razors. This encourages a lighter touch and lets the blade do the work rather than relying on pressure. Mild Or Medium: Which To Choose Mild (0.68 mm): Best for those new to safety razors, daily shavers with lighter growth, or anyone with sensitive skin. Offers a gentler introduction with minimal blade exposure. Medium (0.85 mm): The recommended choice for most users. Suited to regular to coarse beard growth and provides efficient, comfortable shaving. If unsure, start here. Both deliver a close shave. The difference lies in blade exposure and efficiency. For related Henson Shaving options, compare Henson AL13 Safety Razor V2.0 - Grey - Aggressive +++ with Henson AL13 Safety Razor V2.0 - Aircraft Aluminium, or browse the Henson Shaving collection. For compatible blades, see Henson RK Shaving Stainless DE Razor Blades - 100 Pack or Henson RK Blades Pack of 5. Key Features Precision-machined double edge safety razor Aircraft-grade aluminium with anodised Jet Black finish CNC-machined to aerospace tolerances Head design reduces blade flex for controlled shaving Lightweight 37g construction Anti-clog channels for easy rinsing Available in Mild and Medium configurations Includes 5 double edge razor blades Manufactured in Canada Specifications Razor Type: Double edge safety razor Material: Aircraft-grade aluminium Finish: Anodised Jet Black Weight: 37g (1.3 oz) Handle Diameter: 9.53 mm Blade Gap: Mild 0.68 mm / Medium 0.85 mm Blade Included: Yes, 5 double edge razor blades Country Of Manufacture: Canada Available in the UK and worldwide.",
         "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-jet-black",
-        "price": "£78.95",
+        "price": "£72.00",
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-jet-black-male-grooming-supplies-255999.jpg?v=1722956619",
@@ -19353,7 +19359,7 @@
             "mpn": null,
             "title": "Henson AL13 Safety Razor V2.0 - Jet Black - Mild Aggression",
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-jet-black?variant=45376842989833",
-            "price": "78.95 GBP",
+            "price": "72.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-jet-black-male-grooming-supplies-255999.jpg?v=1722956619",
@@ -19384,7 +19390,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Henson AL13 Safety Razor V2.0 in Steel Blue brings together considered design and aerospace-level precision. The anodised blue finish offers a refined alternative to traditional chrome or black razors, suited to those who appreciate understated detail in their grooming tools. This Henson razor is manufactured in Canada from aircraft-grade aluminium, CNC-machined to tolerances of +/- 0.00025 inches. This ensures consistent blade alignment, allowing the razor to guide itself to the correct shaving angle without constant adjustment. The head design supports the blade close to the cutting edge, reducing flex and chatter. The result is a controlled, predictable shave. At just 37g, the Henson AL13 is lighter than most traditional double edge safety razors. This encourages a lighter touch and lets the blade do the work rather than relying on pressure. Now available in the UK with worldwide shipping. Five RK blades are included. Blade feel varies by person, so you can also compare standard double-edge blades in smaller packs. Mild Or Medium: Which To Choose Mild (0.68 mm): The less aggressive of these two head options. Consider Mild first if you are new to safety razors or have not decided that you want a more aggressive feel. Comfort still depends on preparation, blade choice and technique. Medium (0.85 mm): A more aggressive fixed head for an experienced safety-razor user who specifically wants that change. Henson recommends Medium for users who do not struggle with shaving irritation; it is not the default simply because you are unsure. Select Mild or Medium before ordering: the razor has no dial to switch between them. Both deliver a close shave. The difference lies in blade exposure and efficiency. For related Henson Shaving options, compare Henson Ti22 Titanium Safety Razor with Henson AL13 Safety Razor V2.0 - Grey - Aggressive +++, or browse the Henson Shaving collection. For compatible blades, see Henson RK Shaving Stainless DE Razor Blades - 100 Pack or Henson RK Blades Pack of 5. Key Features Precision-machined Henson AL13 safety razor Aircraft-grade aluminium with anodised Steel Blue finish CNC-machined to aerospace tolerances Head design reduces blade flex for controlled shaving Lightweight 37g double edge razor Anti-clog channels for easy rinsing Available in Mild and Medium configurations Includes 5 double edge razor blades Manufactured in Canada Specifications Razor Type: Double edge safety razor Material: Aircraft-grade aluminium Finish: Anodised Steel Blue Weight: 37g (1.3 oz) Handle Diameter: 9.53 mm Blade Gap: Mild 0.68 mm / Medium 0.85 mm Blade Included: Yes, 5 double edge razor blades Country Of Manufacture: Canada Available in the UK and worldwide.",
         "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-steel-blue",
-        "price": "£78.95",
+        "price": "£72.00",
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-steel-blue-male-grooming-supplies-288775.jpg?v=1722956580",
@@ -19407,7 +19413,7 @@
             "mpn": null,
             "title": "Henson AL13 Safety Razor V2.0 - Steel Blue - Mild Aggression",
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-steel-blue?variant=45376842629385",
-            "price": "78.95 GBP",
+            "price": "72.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-steel-blue-male-grooming-supplies-288775.jpg?v=1722956580",
@@ -19438,7 +19444,7 @@
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
         "description": "The Henson AL13 Tan brings together considered design and aerospace-level precision. The warm, earthy tone of the anodised finish offers a distinctive alternative to traditional silver or black razors, suited to those who appreciate subtle colour in their grooming tools. This Henson safety razor is manufactured in Canada from aircraft-grade aluminium, CNC-machined to tolerances of +/- 0.00025 inches. This ensures consistent blade alignment, allowing the razor to guide itself to the correct shaving angle without constant adjustment. The head design supports the blade close to the cutting edge, reducing flex and chatter. The result is a controlled, predictable shave. At just 37g, the Henson AL13 is lighter than most traditional double edge safety razors. This encourages a lighter touch and lets the blade do the work rather than relying on pressure. Mild Or Medium: Which To Choose Mild (0.68 mm): The less aggressive of these two configurations, with a smaller blade gap. Consider Mild first if you are unsure whether you want a more aggressive shave. Medium (0.85 mm): For shavers who already have safety razor experience and want a more aggressive feel. Henson recommends Medium for experienced users who do not struggle with shaving irritation; it is not the default choice simply because you are unsure. Both deliver a close shave. The difference lies in blade exposure and efficiency. For related Henson Shaving options, compare Henson AL13 Safety Razor V2.0 - Grey - Aggressive +++ with Henson AL13 Safety Razor V2.0 - Aircraft Aluminium, or browse the Henson Shaving collection. For compatible blades, see Henson RK Shaving Stainless DE Razor Blades - 100 Pack or Henson RK Blades Pack of 5. Key Features Precision-machined Henson AL13 safety razor Aircraft-grade aluminium with anodised Tan finish CNC-machined to aerospace tolerances Head design reduces blade flex for controlled shaving Lightweight 37g double edge razor Anti-clog channels for easy rinsing Available in Mild and Medium configurations Includes 5 double edge razor blades Manufactured in Canada Specifications Razor Type: Double edge safety razor Material: Aircraft-grade aluminium Finish: Anodised Tan Weight: 37g (1.3 oz) Handle Diameter: 9.53 mm Blade Gap: Mild 0.68 mm / Medium 0.85 mm Blade Included: Yes, 5 double edge razor blades Country Of Manufacture: Canada Available in the UK and worldwide. Henson AL13 Tan FAQs Should I choose Henson AL13 Mild or Medium? Mild is the less aggressive option. Medium has more blade exposure and is intended for experienced safety razor users seeking a more aggressive shave. Choose by your experience and preferred feel rather than assuming Medium suits everyone. What blades does the Henson AL13 Tan use? The Henson AL13 Tan uses standard double edge safety razor blades. It is supplied with five blades, and you can also pair it with Henson RK blades or other double edge blades. How heavy is the Henson AL13? The AL13 weighs around 37g, so it is lighter than many traditional metal safety razors. Let the razor angle and blade do the work rather than adding pressure. Is the Henson AL13 Tan suitable for sensitive skin? Many shavers choose the AL13 because its fixed geometry helps keep the shaving angle controlled. Use a light touch, fresh blade and good shaving cream or soap if your skin is easily irritated.",
         "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-tan",
-        "price": "£78.95",
+        "price": "£72.00",
         "brand": "Henson Shaving",
         "vendor": "Henson Shaving",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-tan-male-grooming-supplies-794014.jpg?v=1722956599",
@@ -19461,7 +19467,7 @@
             "mpn": null,
             "title": "Henson AL13 Safety Razor V2.0 - Tan - Mild Aggression",
             "url": "https://www.malegroomingsupplies.com/products/henson-al13-safety-razor-v2-tan?variant=45376842825993",
-            "price": "78.95 GBP",
+            "price": "72.00 GBP",
             "sale_price": null,
             "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/henson-al13-safety-razor-tan-male-grooming-supplies-794014.jpg?v=1722956599",
@@ -22120,7 +22126,7 @@
         "price": "£128.95",
         "brand": "Merkur",
         "vendor": "Merkur",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34106_top_x_clipped_rev_1.jpg?v=1766005587",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34106_set_front_x_clipped_rev_1.jpg?v=1766005587",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -22130,6 +22136,7 @@
           "Merkur Safety Razors",
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
+          "Gift Sets",
           "Shaving Essentials",
           "Merkur INOX Stainless Steel Safety Razors"
         ],
@@ -22144,7 +22151,7 @@
             "price": "128.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34106_top_x_clipped_rev_1.jpg?v=1766005587",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_34106_set_front_x_clipped_rev_1.jpg?v=1766005587",
             "options": {}
           }
         ]
@@ -23265,6 +23272,7 @@
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
           "Travel Razors",
+          "Gift Sets",
           "Shaving Essentials"
         ],
         "variants": [
@@ -28286,6 +28294,7 @@
           "MUHLE Shaving",
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
+          "Gift Sets",
           "Shaving Essentials"
         ],
         "variants": [
@@ -28438,6 +28447,7 @@
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
           "Omega Shaving Brushes, Razors & Care",
+          "Gift Sets",
           "Shaving Essentials"
         ],
         "variants": [
@@ -29416,6 +29426,7 @@
           "Parker Shaving",
           "Safety Razors, Straight Razors & Shavettes",
           "Men's Safety Razors & Double Edge Razors",
+          "Gift Sets",
           "Shaving Essentials"
         ],
         "variants": [
@@ -29811,6 +29822,7 @@
           "Parker Shaving",
           "Safety Razors, Straight Razors & Shavettes",
           "Mach 3 Razors",
+          "Gift Sets",
           "Shaving Essentials"
         ],
         "variants": [
@@ -31402,6 +31414,7 @@
         "collections": [
           "Parker Shaving",
           "Safety Razors, Straight Razors & Shavettes",
+          "Gift Sets",
           "Shaving Essentials"
         ],
         "variants": [
@@ -32381,6 +32394,7 @@
           "Parker Shaving",
           "Beard & Moustache Care",
           "Hair & Body",
+          "Gift Sets",
           "Hair Brushes & Combs",
           "Beard Brushes & Combs"
         ],
@@ -40089,7 +40103,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpsons-duke-best-or-pure-badger-shaving-brush?variant=56363188158729",
             "price": "121.90 GBP",
             "sale_price": "81.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/D2Best-Front.png?v=1788539162",
             "options": {
               "Size & Brush Type": "Duke 2 Best - 90mm"
@@ -41796,7 +41810,7 @@
         "variants": [
           {
             "id": "48849257857289",
-            "sku": "435005",
+            "sku": "430116",
             "gtin": "4011700435005",
             "mpn": null,
             "title": "Tabac Original Aftershave Balm 75ml",
@@ -41819,7 +41833,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41833,14 +41847,14 @@
         "variants": [
           {
             "id": "48849257758985",
-            "sku": "431007",
+            "sku": "430031",
             "gtin": "4011700431007",
             "mpn": null,
             "title": "Tabac Original Aftershave Lotion - 50ml",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257758985",
             "price": "9.55 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "50ml"
@@ -41855,7 +41869,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257824521",
             "price": "14.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "100ml"
@@ -41870,7 +41884,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-aftershave-lotion?variant=48849257922825",
             "price": "20.65 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/aftershave-lotion_clipped_rev_1.jpg?v=1734440090",
             "options": {
               "Size": "150ml"
@@ -41964,7 +41978,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/415_403_TO_DG_400_ml_clipped_rev_1.jpg?v=1734440091",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -41977,14 +41991,14 @@
         "variants": [
           {
             "id": "48849257988361",
-            "sku": "415403",
+            "sku": "410118",
             "gtin": "4011700415403",
             "mpn": null,
             "title": "Tabac Original Bath & Shower Gel 400ml",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shower-gel-400ml",
             "price": "10.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/415_403_TO_DG_400_ml_clipped_rev_1.jpg?v=1734440091",
             "options": {}
           }
@@ -42000,7 +42014,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW410903TabacDeodorantSpray200ml_preview_rev_1.jpg?v=1734440090",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42020,7 +42034,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-deodorant-spray-200ml",
             "price": "8.39 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/MW410903TabacDeodorantSpray200ml_preview_rev_1.jpg?v=1734440090",
             "options": {}
           }
@@ -42036,7 +42050,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/411_801_TO_Deo_Stick_75_ml_clipped_rev_1.jpg?v=1734440091",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42056,7 +42070,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-deodorant-stick-75g",
             "price": "5.65 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/411_801_TO_Deo_Stick_75_ml_clipped_rev_1.jpg?v=1734440091",
             "options": {}
           }
@@ -42072,7 +42086,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42093,7 +42107,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-cologne?variant=48849258348809",
             "price": "14.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
             "options": {
               "Size": "100ml"
@@ -42101,14 +42115,14 @@
           },
           {
             "id": "48849258381577",
-            "sku": "426300",
+            "sku": "420070",
             "gtin": "4011700426300",
             "mpn": null,
             "title": "Tabac Original Eau de Cologne - 150ml",
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-cologne?variant=48849258381577",
             "price": "21.45 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudecologne_clipped_rev_1.jpg?v=1734440093",
             "options": {
               "Size": "150ml"
@@ -42126,7 +42140,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42147,7 +42161,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-toilette?variant=48849258610953",
             "price": "11.25 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
             "options": {
               "Size": "50ml"
@@ -42162,7 +42176,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-eau-de-toilette?variant=48849258578185",
             "price": "18.99 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eaudetoilette_clipped_rev_1.jpg?v=1734440092",
             "options": {
               "Size": "100ml"
@@ -42180,7 +42194,7 @@
         "brand": "Tabac Original",
         "vendor": "Tabac Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -42202,7 +42216,7 @@
             "url": "https://www.malegroomingsupplies.com/products/tabac-original-shaving-bowl-soap-125g",
             "price": "12.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/436_200_TO_Rasierseife_Tiegel_clipped_rev_1.jpg?v=1734440092",
             "options": {}
           }
@@ -45074,6 +45088,7 @@
           "New Additions",
           "The Scottish Fine Soaps Company",
           "Hair & Body",
+          "Gift Sets",
           "Bath, Body & Hand Care"
         ],
         "variants": [
@@ -45367,6 +45382,7 @@
         "collections": [
           "The Scottish Fine Soaps Company",
           "Hair & Body",
+          "Gift Sets",
           "Bath, Body & Hand Care"
         ],
         "variants": [
@@ -45771,6 +45787,7 @@
           "New Additions",
           "The Scottish Fine Soaps Company",
           "Hair & Body",
+          "Gift Sets",
           "Bath, Body & Hand Care"
         ],
         "variants": [
@@ -45955,7 +45972,8 @@
         "collections": [
           "New Additions",
           "The Scottish Fine Soaps Company",
-          "Beard & Moustache Care"
+          "Beard & Moustache Care",
+          "Gift Sets"
         ],
         "variants": [
           {
@@ -46067,6 +46085,7 @@
           "New Additions",
           "The Scottish Fine Soaps Company",
           "Hair & Body",
+          "Gift Sets",
           "Fragrances",
           "Men's Eau de Toilette"
         ],
@@ -46591,6 +46610,7 @@
           "Shaving Soap",
           "New Additions",
           "The Scottish Fine Soaps Company",
+          "Gift Sets",
           "Shaving Essentials",
           "Shaving Preparations"
         ],
