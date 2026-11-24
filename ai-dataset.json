@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-23",
-    "generated_at": "2026-11-23T10:25:21+00:00",
+    "last_updated": "2026-11-24",
+    "generated_at": "2026-11-24T12:05:51+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -44677,7 +44677,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S80002Leather_CedarBody_HandWash300ml.jpg?v=1791574844",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -44698,7 +44698,7 @@
             "url": "https://www.malegroomingsupplies.com/products/leather-cedar-body-hand-wash-300ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S80002Leather_CedarBody_HandWash300ml.jpg?v=1791574844",
             "options": {}
           }
@@ -44935,7 +44935,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S41015_Oakmoss_Body_Wash_300ml_clipped_rev_1.jpg?v=1791574840",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -44956,7 +44956,7 @@
             "url": "https://www.malegroomingsupplies.com/products/oakmoss-body-wash-300ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S41015_Oakmoss_Body_Wash_300ml_clipped_rev_1.jpg?v=1791574840",
             "options": {}
           }
@@ -45009,7 +45009,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S41002_Oakmoss_Hand_and_Body_Lotion_300ml_clipped_rev_1.jpg?v=1791574835",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -45030,7 +45030,7 @@
             "url": "https://www.malegroomingsupplies.com/products/oakmoss-hand-body-lotion-300ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S41002_Oakmoss_Hand_and_Body_Lotion_300ml_clipped_rev_1.jpg?v=1791574835",
             "options": {}
           }
@@ -45707,7 +45707,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30013_MGThistle_Aftershave_Balm_Tube_75ml_clipped_rev_1.jpg?v=1791574824",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -45729,7 +45729,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-aftershave-balm-75ml",
             "price": "12.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30013_MGThistle_Aftershave_Balm_Tube_75ml_clipped_rev_1.jpg?v=1791574824",
             "options": {}
           }
@@ -45745,7 +45745,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30004_MGThistle_All_in_One_Wash_500ml_clipped_rev_1.jpg?v=1791574819",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -45766,7 +45766,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-all-in-one-wash-500ml",
             "price": "16.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30004_MGThistle_All_in_One_Wash_500ml_clipped_rev_1.jpg?v=1791574819",
             "options": {}
           }
@@ -45820,7 +45820,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30015_MGThistle_Beard_Balm_Tin_95ml_clipped_rev_1.jpg?v=1791574826",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -45841,7 +45841,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-beard-balm-95ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30015_MGThistle_Beard_Balm_Tin_95ml_clipped_rev_1.jpg?v=1791574826",
             "options": {}
           }
@@ -45857,7 +45857,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30014_MGThistle_Beard_Oil_30ml_clipped_rev_1.jpg?v=1791574826",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -45878,7 +45878,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-beard-oil-30ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30014_MGThistle_Beard_Oil_30ml_clipped_rev_1.jpg?v=1791574826",
             "options": {}
           }
@@ -46005,7 +46005,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30007_MGThistle_Conditioning_Shampoo_300ml_clipped_rev_1.jpg?v=1791574821",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46026,7 +46026,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-conditioning-shampoo-300ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30007_MGThistle_Conditioning_Shampoo_300ml_clipped_rev_1.jpg?v=1791574821",
             "options": {}
           }
@@ -46042,7 +46042,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30003_MGThistle_EDT_100ml_clipped_rev_1.jpg?v=1791574818",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46064,7 +46064,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-eau-de-toilette-100ml",
             "price": "33.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30003_MGThistle_EDT_100ml_clipped_rev_1.jpg?v=1791574818",
             "options": {}
           }
@@ -46119,7 +46119,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30012_MGThistle_Face_and_Beard_Soap_100g_clipped_rev_1.jpg?v=1791574824",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46142,7 +46142,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-face-beard-soap-100g",
             "price": "7.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30012_MGThistle_Face_and_Beard_Soap_100g_clipped_rev_1.jpg?v=1791574824",
             "options": {}
           }
@@ -46158,7 +46158,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30005_MGThistle_Face_and_Beard_Wash_150ml_clipped_rev_1.jpg?v=1791574820",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46181,7 +46181,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-face-beard-wash-150ml",
             "price": "6.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30005_MGThistle_Face_and_Beard_Wash_150ml_clipped_rev_1.jpg?v=1791574820",
             "options": {}
           }
@@ -46310,7 +46310,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30017_MGThistle_Hand_Cream_Tube_100ml_clipped_rev_1.jpg?v=1791574827",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46331,7 +46331,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-hand-cream-100ml",
             "price": "7.50 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30017_MGThistle_Hand_Cream_Tube_100ml_clipped_rev_1.jpg?v=1791574827",
             "options": {}
           }
@@ -46422,7 +46422,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30018_MGThistle_Moisturiser_Pump_100ml_clipped_rev_1.jpg?v=1791574827",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46441,7 +46441,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-moisturiser-100ml",
             "price": "13.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30018_MGThistle_Moisturiser_Pump_100ml_clipped_rev_1.jpg?v=1791574827",
             "options": {}
           }
@@ -46568,7 +46568,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30011_MGThistle_Shave_Gel_Tube_150ml_clipped_rev_1.jpg?v=1791574823",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46589,7 +46589,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-shave-gel-150ml",
             "price": "12.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30011_MGThistle_Shave_Gel_Tube_150ml_clipped_rev_1.jpg?v=1791574823",
             "options": {}
           }
@@ -46644,7 +46644,7 @@
         "brand": "The Scottish Fine Soaps Company",
         "vendor": "The Scottish Fine Soaps Company",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30010_MGThistle_Shave_Soap_Refill_100g_clipped_rev_1_31f9385f-8d24-485e-b51a-3abc7ed49c7e.jpg?v=1791574823",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -46666,7 +46666,7 @@
             "url": "https://www.malegroomingsupplies.com/products/thistle-black-pepper-shave-soap-refill-100g",
             "price": "10.95 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/S30010_MGThistle_Shave_Soap_Refill_100g_clipped_rev_1_31f9385f-8d24-485e-b51a-3abc7ed49c7e.jpg?v=1791574823",
             "options": {}
           }
