@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-24",
-    "generated_at": "2026-11-24T12:05:51+00:00",
+    "last_updated": "2026-11-25",
+    "generated_at": "2026-11-25T10:57:09+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -38991,7 +38991,7 @@
             "url": "https://www.malegroomingsupplies.com/products/simpson-shaving-brush-travel-tube?variant=56676755931401",
             "price": "12.95 GBP",
             "sale_price": "7.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/Simpson_Travel_Tube.png?v=1765403372",
             "options": {
               "Size": "Large"
