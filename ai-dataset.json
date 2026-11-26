@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-25",
-    "generated_at": "2026-11-25T10:57:09+00:00",
+    "last_updated": "2026-11-26",
+    "generated_at": "2026-11-26T10:32:45+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -1768,7 +1768,7 @@
         ]
       },
       {
-        "name": "Captain Fawcett's Jimmy Niggles Esq. The Million Dollar Beard Oil",
+        "name": "Captain Fawcett's Jimmy Niggles Esq. The Million Dollar Beard Oil 50ml",
         "category": "Beard and Moustache > Beard & Moustache Care",
         "product_category": "Health & Beauty > Personal Care > Shaving & Grooming",
         "description": "Experience luxury like no other with Captain Fawcett’s Million Dollar Beard Oil, created in collaboration with Jimmy Niggles Esq, founder of Beard Season and cultivator of the world’s first Million Dollar Beard. This unique formula blends fresh oceanic scents and earthy resinous notes, topped with floral citrus and infused with flakes of 23-carat gold for a truly opulent finish. Designed to nourish, soften, and add a healthy sheen, this beard oil transforms your grooming ritual into a statement of sophistication. Proceeds from every bottle support Beard Season, a global movement raising awareness about melanoma and encouraging regular skin checks. All Hail the Hirsute. For related Captain Fawcett options, compare Captain Fawcett's The Million Dollar Beard Oil 10ml with Captain Fawcett Nebula Beard Oil 50ml, or browse the Beard & Moustache Care collection. Key Features: Contains 23-carat gold flakes for a luxurious touch Enriched with nourishing oils including Sweet Almond, Argan, and Sunflower Fresh oceanic and floral citrus scent with earthy resin undertones Handmade in small batches in England Supports Beard Season’s fight against melanoma Specifications: Quantity: 50ml ℮ 1.7 fl.oz Bottle: Glass with rubber-topped glass pipette Made in England How to Apply:Shake well to disperse gold flakes. Dispense a few drops into your palm, rub hands together, and smooth into your beard. Comb through gently for a Million Dollar finish.",
@@ -1793,7 +1793,7 @@
             "sku": "1116",
             "gtin": "5060338440461",
             "mpn": null,
-            "title": "Captain Fawcett's Jimmy Niggles Esq. The Million Dollar Beard Oil",
+            "title": "Captain Fawcett's Jimmy Niggles Esq. The Million Dollar Beard Oil 50ml",
             "url": "https://www.malegroomingsupplies.com/products/captain-fawcett-million-dollar-beard-oil-50ml",
             "price": "43.00 GBP",
             "sale_price": null,
@@ -28052,7 +28052,7 @@
         "brand": "Muhle",
         "vendor": "Muhle",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-travel-shaving-brush-688979.jpg?v=1722956526",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -28074,7 +28074,7 @@
             "url": "https://www.malegroomingsupplies.com/products/muhle-travel-shaving-brush-chrome",
             "price": "47.00 GBP",
             "sale_price": "44.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/muhle-travel-shaving-brush-688979.jpg?v=1722956526",
             "options": {}
           }
@@ -33397,7 +33397,7 @@
         "brand": "Parker",
         "vendor": "Parker",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srx-male-grooming-supplies-427765.jpg?v=1722956975",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -33418,7 +33418,7 @@
             "url": "https://www.malegroomingsupplies.com/products/parker-srx-stainless-steel-shavette-razor",
             "price": "20.50 GBP",
             "sale_price": "17.95 GBP",
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/parker-model-no-srx-male-grooming-supplies-427765.jpg?v=1722956975",
             "options": {}
           }
@@ -35698,7 +35698,7 @@
         "brand": "Proraso",
         "vendor": "Proraso",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176721-pr400956-2-3-1000_clipped_rev_1.jpg?v=1777883933",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -35718,7 +35718,7 @@
             "url": "https://www.malegroomingsupplies.com/products/proraso-white-sensitive-shaving-foam-50ml",
             "price": "3.50 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/9176721-pr400956-2-3-1000_clipped_rev_1.jpg?v=1777883933",
             "options": {}
           }
