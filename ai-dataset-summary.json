@@ -70,10 +70,10 @@
     "Health & Beauty > Personal Care > Shaving & Grooming > Hair Clippers & Trimmers": 1,
     "Health & Beauty > Personal Care > Shaving & Grooming > Moustache Wax": 2,
     "Health & Beauty > Personal Care > Shaving & Grooming > Pre-Shave Oil": 6,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 282,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades": 281,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Cartridge Razors": 1,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Razor Blades & Refills": 15,
-    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors": 30,
+    "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors": 31,
     "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Straight Razors": 5,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Bowls & Mugs": 15,
     "Health & Beauty > Personal Care > Shaving & Grooming > Shaving Bowls & Mugs > Shaving Bowls": 1,
@@ -94,7 +94,7 @@
     "Toys & Games > Games > Card Games": 1
   },
   "currency": "GBP",
-  "generated_at": "2026-11-27T10:37:05+00:00",
+  "generated_at": "2026-11-28T09:53:57+00:00",
   "google_compatible_feed": "shopping-feed-google-compatible.tsv",
   "included_products": 1172,
   "openai_feed": "openai-products-feed.csv.gz",
@@ -226,8 +226,8 @@
   "source_products": 1505,
   "validation": {
     "availability_counts": {
-      "in_stock": 1129,
-      "out_of_stock": 302
+      "in_stock": 1122,
+      "out_of_stock": 309
     },
     "checkout_eligibility_counts": {
       "false": 1431

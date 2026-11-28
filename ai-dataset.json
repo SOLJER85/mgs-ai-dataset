@@ -2,8 +2,8 @@
   {
     "site": "https://www.malegroomingsupplies.com",
     "brand": "Male Grooming Supplies",
-    "last_updated": "2026-11-27",
-    "generated_at": "2026-11-27T10:37:05+00:00",
+    "last_updated": "2026-11-28",
+    "generated_at": "2026-11-28T09:53:57+00:00",
     "schema_version": "2.0",
     "description": "UK based retailer specialising in premium shaving and grooming products.",
     "store_country": "GB",
@@ -133,7 +133,7 @@
         "brand": "4711 Original",
         "vendor": "4711 Original",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-deodorant-spray-pure-white.png?v=1790537526",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -154,7 +154,7 @@
             "url": "https://www.malegroomingsupplies.com/products/4711-original-deodorant-spray-150ml",
             "price": "6.59 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/4711-deodorant-spray-pure-white.png?v=1790537526",
             "options": {}
           }
@@ -3554,7 +3554,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-1445-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389622",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3575,7 +3575,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-1445-shaving-cream-200ml",
             "price": "26.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-1445-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389622",
             "options": {}
           }
@@ -3851,7 +3851,7 @@
         "brand": "Castle Forbes",
         "vendor": "Castle Forbes",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389737",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -3872,7 +3872,7 @@
             "url": "https://www.malegroomingsupplies.com/products/castle-forbes-lavender-shaving-cream-200ml",
             "price": "26.75 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/castle-forbes-lavender-shaving-cream-200ml-01-pure-white-male-grooming-supplies.png?v=1788389737",
             "options": {}
           }
@@ -7181,7 +7181,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-beech-bowl-JPEG.jpg?v=1778104208",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7202,7 +7202,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-almond-shaving-soap-beech-bowl",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-beech-bowl-JPEG.jpg?v=1778104208",
             "options": {}
           }
@@ -7255,7 +7255,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shaving-cream-tub-JPEG.jpg?v=1757162192",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -7276,7 +7276,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-almond-shaving-cream-bowl-150g",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/almond-shaving-cream-tub-JPEG.jpg?v=1757162192",
             "options": {}
           }
@@ -7808,7 +7808,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-cologne?variant=55897925386505",
             "price": "47.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-cologne-spray-800x_clipped_rev_1.jpg?v=1757188281",
             "options": {
               "Volume": "50ml spray"
@@ -8343,7 +8343,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shave-stick-JPEG.jpg?v=1757163245",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8364,7 +8364,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-shaving-stick",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-shave-stick-JPEG.jpg?v=1757163245",
             "options": {}
           }
@@ -8416,7 +8416,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-stick-deodorantJPEG-600x600_jpg.webp?v=1769440276",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8436,7 +8436,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-stick-deodorant-75g",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-stick-deodorantJPEG-600x600_jpg.webp?v=1769440276",
             "options": {}
           }
@@ -8452,7 +8452,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-talcum-powder-usb-JPEG-1.jpg?v=1752743462",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -8472,7 +8472,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-arlington-talcum-powder",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/arlington-talcum-powder-usb-JPEG-1.jpg?v=1752743462",
             "options": {}
           }
@@ -9087,7 +9087,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_fc718ef3-c807-4132-b103-02baf3ecb65e_clipped_rev_1.jpg?v=1757160094",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9108,7 +9108,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-eau-de-portugal-hair-lotion-with-oil?variant=55897942229257",
             "price": "24.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/eau-de-portugal-100ml-usb-JPEG_fc718ef3-c807-4132-b103-02baf3ecb65e_clipped_rev_1.jpg?v=1757160094",
             "options": {
               "Volume": "100ml"
@@ -9748,7 +9748,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shaving-cream-tub-JPEG.jpg?v=1757169701",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9769,7 +9769,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-cream-bowl-150g",
             "price": "25.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-shaving-cream-tub-JPEG.jpg?v=1757169701",
             "options": {}
           }
@@ -9822,7 +9822,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-mahogany-bowlJPEG.jpg?v=1757170933",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -9843,7 +9843,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-shaving-mahogany-bowl-100g",
             "price": "32.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-mahogany-bowlJPEG.jpg?v=1757170933",
             "options": {}
           }
@@ -9984,7 +9984,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-lavender-water?variant=55897927057673",
             "price": "63.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lavender-water-100ml-USB-800_clipped_rev_1.jpg?v=1757181616",
             "options": {
               "Volume": "100ml"
@@ -10168,7 +10168,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lerinia-hair-oil-100ml-usb-JPEG_clipped_rev_1.jpg?v=1778108408",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10189,7 +10189,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-lerinia-hair-lotion-no-oil?variant=57040551641353",
             "price": "24.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/lerinia-hair-oil-100ml-usb-JPEG_clipped_rev_1.jpg?v=1778108408",
             "options": {
               "Volume": "100ml"
@@ -10664,7 +10664,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-bowl-refill-JPEG.jpg?v=1757170904",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10685,7 +10685,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-soap-refill-100g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-bowl-refill-JPEG.jpg?v=1757170904",
             "options": {}
           }
@@ -10701,7 +10701,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shave-stick-JPEG.jpg?v=1757188390",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -10722,7 +10722,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-marlborough-shaving-stick",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/marlborough-shave-stick-JPEG.jpg?v=1757188390",
             "options": {}
           }
@@ -12293,7 +12293,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/toothpaste-75ml-JPEG-scaled.jpg?v=1756554693",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -12314,7 +12314,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-spearmint-toothpaste-75ml",
             "price": "8.50 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/toothpaste-75ml-JPEG-scaled.jpg?v=1756554693",
             "options": {}
           }
@@ -12724,7 +12724,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-deodorant-stick-new-usb-JPEG.jpg?v=1756551378",
-        "availability": "out_of_stock",
+        "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -12744,7 +12744,7 @@
             "url": "https://www.malegroomingsupplies.com/products/d-r-harris-windsor-stick-deodorant",
             "price": "19.00 GBP",
             "sale_price": null,
-            "availability": "out_of_stock",
+            "availability": "in_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-deodorant-stick-new-usb-JPEG.jpg?v=1756551378",
             "options": {}
           }
@@ -13262,7 +13262,7 @@
         "brand": "D.R. Harris",
         "vendor": "D.R. Harris",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-bowl-refill-JPEG.jpg?v=1778106329",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -13283,7 +13283,7 @@
             "url": "https://www.malegroomingsupplies.com/products/dr-harris-windsor-shaving-soap-refill-100g",
             "price": "15.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/windsor-bowl-refill-JPEG.jpg?v=1778106329",
             "options": {}
           }
@@ -18368,7 +18368,7 @@
         "price": "£170.95",
         "brand": "Giesen & Forsthoff",
         "vendor": "Giesen & Forsthoff",
-        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/giesen-forsthoff-barbers-choice-black-aluminium-and-carbon-handle-straight-razor-629823.jpg?v=1723969754",
+        "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-barbers-choice-402-clean.jpg?v=1795858942",
         "availability": "in_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
@@ -18391,7 +18391,7 @@
             "price": "170.95 GBP",
             "sale_price": null,
             "availability": "in_stock",
-            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/giesen-forsthoff-barbers-choice-black-aluminium-and-carbon-handle-straight-razor-629823.jpg?v=1723969754",
+            "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/gf-barbers-choice-402-clean.jpg?v=1795858942",
             "options": {}
           }
         ]
@@ -22877,14 +22877,14 @@
       {
         "name": "Merkur 500 Progress Bright Chrome Adjustable Safety Razor",
         "category": "Razors > Merkur Safety Razors",
-        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades",
+        "product_category": "Health & Beauty > Personal Care > Shaving & Grooming > Razors & Razor Blades > Safety Razors",
         "description": "The Merkur 500 Progress Bright Chrome Adjustable Safety Razor is a classic design dating back to the 1950s, combining period styling with precise shaving adjustability. The profiled handle and bright chrome-plated adjustment knob, engraved with the Merkur name, reflect the clean, functional design language of the era. The adjustable shaving head allows you to control both the blade gap and angle of attack, making it easy to tailor the shave to your preferences. Adjustment is made via the numbered scale at the base of the handle, offering smooth and reliable control from a mild, comfortable shave to a closer, more efficient result. With a blade gap adjustable from 0.6 mm to 1.6 mm, the Progress adapts easily to different beard lengths and skin sensitivities. Lower settings are ideal for everyday shaving, while higher settings handle coarser growth with confidence. The two-piece construction ensures secure blade alignment while keeping blade changes straightforward. Finished entirely in bright chrome and designed and made in Germany, the Merkur 500 Progress remains one of the most versatile adjustable double edge safety razors for traditional wet shaving. Key Features Classic double edge safety razor design from the 1950s. Adjustable blade gap for personalised shaving control. Blade gap range from 0.6 mm to 1.6 mm. Straight cut razor head for consistent, predictable results. Two-piece construction for secure blade alignment. Bright chrome finish with engraved Merkur adjustment knob. Designed and made in Germany. Specifications Razor Type: Two-piece adjustable safety razor Cut: Straight cut Blade Gap: Adjustable, 0.6 mm to 1.6 mm Handle Material: Brass Razor Head: Die-cast zinc Finish: Bright chrome-plated, galvanised surfaces Product Dimensions: 88 × 41 × 25 mm Product Weight: 105 g Weight With Packaging: 116 g Packaging: Branded Merkur folding box Packaging Size: 120 × 47 × 27 mm Country of Manufacture: Germany For related Merkur options, compare Merkur 500 Progress Antique Brass Adjustable Safety Razor with Merkur Progress 500 Adjustable Double Edge Safety Razor, or browse the Merkur Solingen collection. This Merkur safety razor uses standard double edge razor blades, including Merkur Super Platinum Razor Blades when available. Comparing this razor with other Merkur models? Read our Merkur razor comparison guide, covering the 34C, 34 ADJ, 37C, Progress, FUTUR and INOX range.",
         "url": "https://www.malegroomingsupplies.com/products/merkur-500-progress-bright-chrome-safety-razor",
         "price": "£54.00",
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_500101_top_x_clipped_rev_1.jpg?v=1765566942",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -22906,7 +22906,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-500-progress-bright-chrome-safety-razor",
             "price": "54.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_500101_top_x_clipped_rev_1.jpg?v=1765566942",
             "options": {}
           }
@@ -23115,7 +23115,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_5008010_top_x_clipped_rev_1.jpg?v=1765543632",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -23136,7 +23136,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-black-leather-razor-holder",
             "price": "12.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur_5008010_top_x_clipped_rev_1.jpg?v=1765543632",
             "options": {}
           }
@@ -23575,7 +23575,7 @@
         "brand": "Merkur",
         "vendor": "Merkur",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-futur-satinmatt-chrome-razor-700002-180359.jpg?v=1722957641",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -23597,7 +23597,7 @@
             "url": "https://www.malegroomingsupplies.com/products/merkur-futur-satin-razor-700-002",
             "price": "55.00 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/merkur-futur-satinmatt-chrome-razor-700002-180359.jpg?v=1722957641",
             "options": {}
           }
@@ -38098,7 +38098,7 @@
         "brand": "Semogue",
         "vendor": "Semogue",
         "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFJB_clipped_rev_1.jpg?v=1788527330",
-        "availability": "in_stock",
+        "availability": "out_of_stock",
         "condition": "new",
         "return_policy": "https://www.malegroomingsupplies.com/policies/refund-policy",
         "shipping": "Calculated at checkout",
@@ -38119,7 +38119,7 @@
             "url": "https://www.malegroomingsupplies.com/products/semogue-soc-c5-finest-badger-jet-black",
             "price": "73.35 GBP",
             "sale_price": null,
-            "availability": "in_stock",
+            "availability": "out_of_stock",
             "image": "https://cdn.shopify.com/s/files/1/0732/3136/8457/files/SOCC5TFJB_clipped_rev_1.jpg?v=1788527330",
             "options": {}
           }
